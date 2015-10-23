@@ -1,11 +1,15 @@
 # relink
 
 #### external modules:
-- adel:   https://github.com/MultimediaSemantics/adel
+- Hybrid Annotator:   https://github.com/MultimediaSemantics/adel
 - ReCon : https://github.com/filipdbrsk/NWRDomainModel
 
 #### workflow:
-Plain text -> adel -> conll2naf.py -> recon
+    txt: plain text , token: tokenized text -> adel -> conlle: annotations in conll extended format
+    
+    conlle -> conll2naf.py -> naf
+    
+    naf -> recon -> out:reranked links
 
 #### datasets
 ...
