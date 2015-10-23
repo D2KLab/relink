@@ -1,10 +1,10 @@
 # relink
 
-##### external modules:
+#### external modules:
 - adel:   https://github.com/MultimediaSemantics/adel
 - ReCon : https://github.com/filipdbrsk/NWRDomainModel
 
-##### workflow:
+#### workflow:
 Plain text -> adel -> conll2naf.py -> recon
 
 #### datasets
