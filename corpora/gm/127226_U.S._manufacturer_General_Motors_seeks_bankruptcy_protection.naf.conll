@@ -1,0 +1,114 @@
+U.S.	B-ORG	B-LOC
+manufacturer	I-ORG
+General	I-ORG
+Motors	I-ORG
+seeks	O
+bankruptcy	O
+protection	O
+
+June	O
+01	O
+,	O
+2009	O
+
+United	B-ORG	B-LOC
+States	I-ORG	I-LOC
+automobile	I-ORG
+manufacturing	I-ORG
+firm	I-ORG
+General	I-ORG
+Motors	I-ORG
+filed	O
+for	O
+bankruptcy	O
+and	O
+Chapter	O
+11	O
+protection	O
+from	O
+its	O
+creditors	O
+at	O
+12:00	O
+UTC	O
+Monday	O
+,	O
+in	O
+a	O
+Manhattan	B-LOC	B-LOC
+,	I-LOC
+New	I-LOC	B-LOC
+York	I-LOC	I-LOC
+federal	O
+bankruptcy	O
+court	O
+.	O
+
+This	O
+was	O
+the	O
+largest	O
+bankruptcy	O
+filing	O
+for	O
+a	O
+U.S.	O
+manufacturing	O
+company	O
+,	O
+and	O
+with	O
+declared	O
+assets	O
+of	O
+$	O
+82.29	O
+billion	O
+and	O
+a	O
+debt	O
+of	O
+$	O
+172.81	O
+billion	O
+,	O
+and	O
+the	O
+fourth	O
+largest	O
+bankruptcy	O
+filing	O
+in	O
+recent	O
+U.S.	O
+history	O
+--	O
+after	O
+the	O
+bankruptcies	O
+of	O
+Lehman	O
+Brothers	O
+(	O
+$	O
+691.06	O
+billion	O
+)	O
+,	O
+Washington	O
+Mutual	O
+(	O
+$	O
+327.91	O
+billion	O
+)	O
+,	O
+and	O
+WorldCom	O
+(	O
+$	O
+103.91	O
+billion	O
+)	O
+.	O
+
