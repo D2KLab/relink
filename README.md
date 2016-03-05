@@ -19,6 +19,11 @@ The dataset consists of 120 English Wikinews articles annotated with entities, e
 scripts/generateannotations.sh -> generates annotations in conll extended format
 scripts/conll2naf.py -> naf
 
+### Dependencies for the ReCon module
+Install dbpediaEnquirerPy from https://github.com/rubenIzquierdo/dbpediaEnquirerPy
+Install KafNafParserPy from https://github.com/cltl/KafNafParserPy
+Dictionary file for lemma-to-entity information from https://www.dropbox.com/s/rl6ypazj2a9wnt5/lemma.json?dl=0
+
 #### licence
 http://www.apache.org/licenses/LICENSE-2.0
 
