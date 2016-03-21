@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+from __future__ import print_function
+
 """
 Domain model for NED. Works with Python v3.x.
 
@@ -20,7 +22,7 @@ import os
 import sys
 import json
 import time
-sys.path.append('../')
+sys.path.append('/Users/filipilievski/phd/cars/relink')
 from dbpediaEnquirerPy import *
 
 ##########################################################################################
