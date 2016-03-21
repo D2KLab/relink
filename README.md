@@ -7,11 +7,6 @@ ReLink consists of two consecutive modules:
 
 For consistency in terms of evaluation we reuse and adapt NewsReader's evaluation scripts found at: https://github.com/newsreader/evaluation/tree/master/ned-evaluation.
 
-#### Datasets
-
-- MEANTIME corpus: http://www.newsreader-project.eu/results/data/wikinews/
-- AIDA-YAGO2 dataset: https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/aida/downloads/
-
 #### Run ReLink
 
 1. Run the hybrid annotator (ReLink step 1 out of 2) to annotate entities in .txt files. Please contact [@giusepperizzo](https://github.com/giusepperizzo) for the latest version of this annotator.
@@ -26,7 +21,20 @@ Note: Along these steps, ensure you supply the correct parameters to the scripts
 - Install KafNafParserPy from https://github.com/cltl/KafNafParserPy
 - Download the dictionary file for lemma-to-entity information from https://www.dropbox.com/s/rl6ypazj2a9wnt5/lemma.json?dl=0
 
-#### LREC 2016 experiments
+#### Summary of the format workflow
+    txt: plain text , token: tokenized text -> adel -> conlle: annotations in conll extended format
+    
+    conlle -> conll2naf.py -> naf
+    
+    naf -> recon -> out:reranked links
+
+### LREC 2016 experiments
+
+#### Datasets
+
+- MEANTIME corpus: http://www.newsreader-project.eu/results/data/wikinews/
+- AIDA-YAGO2 dataset: https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/aida/downloads/
+
 The sequence of four instructions to run ReLink noted above can be found on github, with default settings set to evaluate ReLink on the datasets AIDA-YAGO2 and MEANTIME. For convenience of potential replicators, we provide the .naf versions of the gold standard versions of these datasets in the GOLD/ folder. 
 
 If desired, our replicators are also welcome to download the TSV version of AIDA-YAGO2 and convert it to NAF themselves using scripts/aida2naf_encoding.py.
@@ -37,20 +45,11 @@ The adapted version of NewsReader's scorers can be found in the ned-evaluation/ 
 - Analyze system annotations (ned-evaluation/systemFiveSentencesFilip.pl or ned-evaluation/systemAllSentences.pl) and transform the .naf files in a folder to a single output file
 - Analyze gold standard data (ned-evaluation/goldFiveSentences.pl or ned-evaluation/goldAllSentences.pl) and transform the .naf files in a folder to a single output file
 - Compare the outputs of the previous two files, using the script ned-evaluation/evaluate.pl. For correct evaluation, you should ensure the filenames of the previous two steps coincide.
-
-#### Summary of the format workflow
-    txt: plain text , token: tokenized text -> adel -> conlle: annotations in conll extended format
     
-    conlle -> conll2naf.py -> naf
-    
-    naf -> recon -> out:reranked links
-    
-
-
-#### Licence
+### Licence
 http://www.apache.org/licenses/LICENSE-2.0
 
-#### Team
+### Team
 * Giuseppe Rizzo 
 * Filip Ilievski
 * Marieke van Erp
