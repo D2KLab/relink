@@ -1,0 +1,543 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[U.N. evacuates staff from Central African Republic . ABIDJAN 1996-12-06 The United Nations evacuated its staff in the Central African Republic on Friday because of mounting violence in a two-week-old army mutiny in the capital , a U.N. official said . The official from the U.N. refugee agency UNHCR said a chartered plane had picked up the staff from Bangui and was heading for Abidjan , Ivory Coast . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1243testb" filename="1243testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="4"><![CDATA[U.N.]]></wf>
+    <wf id="2" sent="1" para="1" offset="4" length="9"><![CDATA[evacuates]]></wf>
+    <wf id="3" sent="1" para="1" offset="13" length="5"><![CDATA[staff]]></wf>
+    <wf id="4" sent="1" para="1" offset="18" length="4"><![CDATA[from]]></wf>
+    <wf id="5" sent="1" para="1" offset="22" length="7"><![CDATA[Central]]></wf>
+    <wf id="6" sent="1" para="1" offset="29" length="7"><![CDATA[African]]></wf>
+    <wf id="7" sent="1" para="1" offset="36" length="8"><![CDATA[Republic]]></wf>
+    <wf id="8" sent="1" para="1" offset="44" length="1"><![CDATA[.]]></wf>
+    <wf id="9" sent="1" para="1" offset="45" length="7"><![CDATA[ABIDJAN]]></wf>
+    <wf id="10" sent="1" para="1" offset="52" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="11" sent="1" para="1" offset="62" length="3"><![CDATA[The]]></wf>
+    <wf id="12" sent="1" para="1" offset="65" length="6"><![CDATA[United]]></wf>
+    <wf id="13" sent="1" para="1" offset="71" length="7"><![CDATA[Nations]]></wf>
+    <wf id="14" sent="1" para="1" offset="78" length="9"><![CDATA[evacuated]]></wf>
+    <wf id="15" sent="1" para="1" offset="87" length="3"><![CDATA[its]]></wf>
+    <wf id="16" sent="1" para="1" offset="90" length="5"><![CDATA[staff]]></wf>
+    <wf id="17" sent="1" para="1" offset="95" length="2"><![CDATA[in]]></wf>
+    <wf id="18" sent="1" para="1" offset="97" length="3"><![CDATA[the]]></wf>
+    <wf id="19" sent="1" para="1" offset="100" length="7"><![CDATA[Central]]></wf>
+    <wf id="20" sent="1" para="1" offset="107" length="7"><![CDATA[African]]></wf>
+    <wf id="21" sent="1" para="1" offset="114" length="8"><![CDATA[Republic]]></wf>
+    <wf id="22" sent="1" para="1" offset="122" length="2"><![CDATA[on]]></wf>
+    <wf id="23" sent="1" para="1" offset="124" length="6"><![CDATA[Friday]]></wf>
+    <wf id="24" sent="1" para="1" offset="130" length="7"><![CDATA[because]]></wf>
+    <wf id="25" sent="1" para="1" offset="137" length="2"><![CDATA[of]]></wf>
+    <wf id="26" sent="1" para="1" offset="139" length="8"><![CDATA[mounting]]></wf>
+    <wf id="27" sent="1" para="1" offset="147" length="8"><![CDATA[violence]]></wf>
+    <wf id="28" sent="1" para="1" offset="155" length="2"><![CDATA[in]]></wf>
+    <wf id="29" sent="1" para="1" offset="157" length="1"><![CDATA[a]]></wf>
+    <wf id="30" sent="1" para="1" offset="158" length="12"><![CDATA[two-week-old]]></wf>
+    <wf id="31" sent="1" para="1" offset="170" length="4"><![CDATA[army]]></wf>
+    <wf id="32" sent="1" para="1" offset="174" length="6"><![CDATA[mutiny]]></wf>
+    <wf id="33" sent="1" para="1" offset="180" length="2"><![CDATA[in]]></wf>
+    <wf id="34" sent="1" para="1" offset="182" length="3"><![CDATA[the]]></wf>
+    <wf id="35" sent="1" para="1" offset="185" length="7"><![CDATA[capital]]></wf>
+    <wf id="36" sent="1" para="1" offset="192" length="1"><![CDATA[,]]></wf>
+    <wf id="37" sent="1" para="1" offset="193" length="1"><![CDATA[a]]></wf>
+    <wf id="38" sent="1" para="1" offset="194" length="4"><![CDATA[U.N.]]></wf>
+    <wf id="39" sent="1" para="1" offset="198" length="8"><![CDATA[official]]></wf>
+    <wf id="40" sent="1" para="1" offset="206" length="4"><![CDATA[said]]></wf>
+    <wf id="41" sent="1" para="1" offset="210" length="1"><![CDATA[.]]></wf>
+    <wf id="42" sent="1" para="1" offset="211" length="3"><![CDATA[The]]></wf>
+    <wf id="43" sent="1" para="1" offset="214" length="8"><![CDATA[official]]></wf>
+    <wf id="44" sent="1" para="1" offset="222" length="4"><![CDATA[from]]></wf>
+    <wf id="45" sent="1" para="1" offset="226" length="3"><![CDATA[the]]></wf>
+    <wf id="46" sent="1" para="1" offset="229" length="4"><![CDATA[U.N.]]></wf>
+    <wf id="47" sent="1" para="1" offset="233" length="7"><![CDATA[refugee]]></wf>
+    <wf id="48" sent="1" para="1" offset="240" length="6"><![CDATA[agency]]></wf>
+    <wf id="49" sent="1" para="1" offset="246" length="5"><![CDATA[UNHCR]]></wf>
+    <wf id="50" sent="1" para="1" offset="251" length="4"><![CDATA[said]]></wf>
+    <wf id="51" sent="1" para="1" offset="255" length="1"><![CDATA[a]]></wf>
+    <wf id="52" sent="1" para="1" offset="256" length="9"><![CDATA[chartered]]></wf>
+    <wf id="53" sent="1" para="1" offset="265" length="5"><![CDATA[plane]]></wf>
+    <wf id="54" sent="1" para="1" offset="270" length="3"><![CDATA[had]]></wf>
+    <wf id="55" sent="1" para="1" offset="273" length="6"><![CDATA[picked]]></wf>
+    <wf id="56" sent="1" para="1" offset="279" length="2"><![CDATA[up]]></wf>
+    <wf id="57" sent="1" para="1" offset="281" length="3"><![CDATA[the]]></wf>
+    <wf id="58" sent="1" para="1" offset="284" length="5"><![CDATA[staff]]></wf>
+    <wf id="59" sent="1" para="1" offset="289" length="4"><![CDATA[from]]></wf>
+    <wf id="60" sent="1" para="1" offset="293" length="6"><![CDATA[Bangui]]></wf>
+    <wf id="61" sent="1" para="1" offset="299" length="3"><![CDATA[and]]></wf>
+    <wf id="62" sent="1" para="1" offset="302" length="3"><![CDATA[was]]></wf>
+    <wf id="63" sent="1" para="1" offset="305" length="7"><![CDATA[heading]]></wf>
+    <wf id="64" sent="1" para="1" offset="312" length="3"><![CDATA[for]]></wf>
+    <wf id="65" sent="1" para="1" offset="315" length="7"><![CDATA[Abidjan]]></wf>
+    <wf id="66" sent="1" para="1" offset="322" length="1"><![CDATA[,]]></wf>
+    <wf id="67" sent="1" para="1" offset="323" length="5"><![CDATA[Ivory]]></wf>
+    <wf id="68" sent="1" para="1" offset="328" length="5"><![CDATA[Coast]]></wf>
+    <wf id="69" sent="1" para="1" offset="333" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="U.N.">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="evacuates">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="staff">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="from">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="Central">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="African">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="Republic">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma=".">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="ABIDJAN">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="1996-12-06">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="The">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="United">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Nations">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="evacuated">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="its">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="staff">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="in">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="the">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="Central">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="African">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="Republic">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="on">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="Friday">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="because">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="of">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="mounting">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="violence">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="in">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="a">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="two-week-old">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="army">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="mutiny">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="in">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="the">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="capital">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma=",">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="a">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="U.N.">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="official">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="said">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma=".">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="The">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="official">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="from">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="the">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="U.N.">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="refugee">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="agency">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="UNHCR">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="said">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="a">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="chartered">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="plane">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="had">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="picked">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="up">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="the">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="staff">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="from">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="Bangui">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="and">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="was">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="heading">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="for">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="Abidjan">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma=",">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="Ivory">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="Coast">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma=".">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="2159">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_Nations" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2160">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Central_African_Republic" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="5"/>
+          <target id="6"/>
+          <target id="7"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2161">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Abidjan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2162">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_Nations" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+          <target id="13"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2163">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Central_African_Republic" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="19"/>
+          <target id="20"/>
+          <target id="21"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2164">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_Nations" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="38"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2165">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_Nations" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="46"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2166">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_Nations_High_Commissioner_for_Refugees" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="49"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2167">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Bangui" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="60"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2168">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Abidjan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="65"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2169">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Côte_d'Ivoire" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="67"/>
+          <target id="68"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

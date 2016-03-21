@@ -1,0 +1,3223 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[SPEED SKATING-RESULTS OF WORLD CUP SPEED SKATING RACES . CHONJU , South Korea 1996-12-07 Results on the first day of the World Cup speed skating races here on Saturday . Men 's 500 metres first round : 1 . Horii Manabu ( Japan ) 37.23 seconds ; 2 . Jaegal Sung-Yeol ( South Korea ) 37.46 ; 3 . Grunde Njos ( Norway ) 37.49 ; 4 . Shimizu Hiroyasu ( Japan ) 37.68 ; 5 . Sergey Klevchenya ( Russia ) 37.86 ; 6 . Yamakage Hiroaki ( Japan ) 37.93 ; 7 . Casey Fitzrandolph ( US ) 37.97 ; 8 . Sylvain Bouchard ( Canada ) 38.00 ; 9 . Kim Yoon-man ( South Korea ) 38.05 ; 10 . Inoue Junichi ( Japan ) 38.08 . Women 's 500 metres first round : 1 . Xuc Rulhong ( China ) 40.78 ; 2 . Svetlana Jhurova ( Russia ) 41.08 ; 3 . Franziska Schenk ( Germany ) 41.13 ; 4 . Okazaki Tomomi ( Japan ) 41.19 ; 5 . Shimazaki Kyoko ( Japan ) 41.45 ; 6 . Marianne Timmer ( Netherlands ) 41.58 ; 7 . Jin Hua ( China ) 41.59 ; 8 . Alena Koroleva ( Russia ) 41.64 ; 9 . Chris Witty ( US ) 41.75 ; 10 . Anke Baler ( Germany ) 41.76 . Men 's 1,000 metres first round : 1. Sylvain Bouchard ( Canada ) 1 minute 16.24 seconds 2. Sergey Klevchenya ( Russia ) 1:16.31 3. Jan Bos ( Netherlands ) 1:16.38 4. Grunde Njos ( Norway ) 1:16.44 5. Lee Kyou-hyuk ( South Korea ) 1:16.47 6. Inoue Junichi ( Japan ) 1:16.61 7. Gerard Van Velde ( Netherlands ) 1:16.63 8. Kim Yoon-man ( South Korea ) 1:16.75 9. Jeremy Wotherspoon ( Canada ) 1:16.75 10. Miyabe Yasunori ( Japan ) 1:16.86 Women 's 1,000 metres first round : 1. Franziska Schenk ( Germany ) 1:23.17 2. Kusunose Shiho ( Japan ) 1:24.77 3. Marianne Timmer ( Netherlands ) 1:24.86 4. Anka Baier ( Germany ) 1:25.16 5. Becky Sundstrom ( U.S. ) 1:25.39 6. Shimazaki Kyoko ( Japan ) 1:25.51 7. Oksana Ravllova ( Russia ) 1:25.55 8. Sammiya Eriko ( Japan ) 1:25.79 9. Chris Witty ( U.S. ) 1:25.85 10. Xue Rulhong ( China ) 1:25.89 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1360testb" filename="1360testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="5"><![CDATA[SPEED]]></wf>
+    <wf id="2" sent="1" para="1" offset="5" length="15"><![CDATA[SKATING-RESULTS]]></wf>
+    <wf id="3" sent="1" para="1" offset="20" length="2"><![CDATA[OF]]></wf>
+    <wf id="4" sent="1" para="1" offset="22" length="5"><![CDATA[WORLD]]></wf>
+    <wf id="5" sent="1" para="1" offset="27" length="3"><![CDATA[CUP]]></wf>
+    <wf id="6" sent="1" para="1" offset="30" length="5"><![CDATA[SPEED]]></wf>
+    <wf id="7" sent="1" para="1" offset="35" length="7"><![CDATA[SKATING]]></wf>
+    <wf id="8" sent="1" para="1" offset="42" length="5"><![CDATA[RACES]]></wf>
+    <wf id="9" sent="1" para="1" offset="47" length="1"><![CDATA[.]]></wf>
+    <wf id="10" sent="1" para="1" offset="48" length="6"><![CDATA[CHONJU]]></wf>
+    <wf id="11" sent="1" para="1" offset="54" length="1"><![CDATA[,]]></wf>
+    <wf id="12" sent="1" para="1" offset="55" length="5"><![CDATA[South]]></wf>
+    <wf id="13" sent="1" para="1" offset="60" length="5"><![CDATA[Korea]]></wf>
+    <wf id="14" sent="1" para="1" offset="65" length="10"><![CDATA[1996-12-07]]></wf>
+    <wf id="15" sent="1" para="1" offset="75" length="7"><![CDATA[Results]]></wf>
+    <wf id="16" sent="1" para="1" offset="82" length="2"><![CDATA[on]]></wf>
+    <wf id="17" sent="1" para="1" offset="84" length="3"><![CDATA[the]]></wf>
+    <wf id="18" sent="1" para="1" offset="87" length="5"><![CDATA[first]]></wf>
+    <wf id="19" sent="1" para="1" offset="92" length="3"><![CDATA[day]]></wf>
+    <wf id="20" sent="1" para="1" offset="95" length="2"><![CDATA[of]]></wf>
+    <wf id="21" sent="1" para="1" offset="97" length="3"><![CDATA[the]]></wf>
+    <wf id="22" sent="1" para="1" offset="100" length="5"><![CDATA[World]]></wf>
+    <wf id="23" sent="1" para="1" offset="105" length="3"><![CDATA[Cup]]></wf>
+    <wf id="24" sent="1" para="1" offset="108" length="5"><![CDATA[speed]]></wf>
+    <wf id="25" sent="1" para="1" offset="113" length="7"><![CDATA[skating]]></wf>
+    <wf id="26" sent="1" para="1" offset="120" length="5"><![CDATA[races]]></wf>
+    <wf id="27" sent="1" para="1" offset="125" length="4"><![CDATA[here]]></wf>
+    <wf id="28" sent="1" para="1" offset="129" length="2"><![CDATA[on]]></wf>
+    <wf id="29" sent="1" para="1" offset="131" length="8"><![CDATA[Saturday]]></wf>
+    <wf id="30" sent="1" para="1" offset="139" length="1"><![CDATA[.]]></wf>
+    <wf id="31" sent="1" para="1" offset="140" length="3"><![CDATA[Men]]></wf>
+    <wf id="32" sent="1" para="1" offset="143" length="2"><![CDATA['s]]></wf>
+    <wf id="33" sent="1" para="1" offset="145" length="3"><![CDATA[500]]></wf>
+    <wf id="34" sent="1" para="1" offset="148" length="6"><![CDATA[metres]]></wf>
+    <wf id="35" sent="1" para="1" offset="154" length="5"><![CDATA[first]]></wf>
+    <wf id="36" sent="1" para="1" offset="159" length="5"><![CDATA[round]]></wf>
+    <wf id="37" sent="1" para="1" offset="164" length="1"><![CDATA[:]]></wf>
+    <wf id="38" sent="1" para="1" offset="165" length="1"><![CDATA[1]]></wf>
+    <wf id="39" sent="1" para="1" offset="166" length="1"><![CDATA[.]]></wf>
+    <wf id="40" sent="1" para="1" offset="167" length="5"><![CDATA[Horii]]></wf>
+    <wf id="41" sent="1" para="1" offset="172" length="6"><![CDATA[Manabu]]></wf>
+    <wf id="42" sent="1" para="1" offset="178" length="1"><![CDATA[(]]></wf>
+    <wf id="43" sent="1" para="1" offset="179" length="5"><![CDATA[Japan]]></wf>
+    <wf id="44" sent="1" para="1" offset="184" length="1"><![CDATA[)]]></wf>
+    <wf id="45" sent="1" para="1" offset="185" length="5"><![CDATA[37.23]]></wf>
+    <wf id="46" sent="1" para="1" offset="190" length="7"><![CDATA[seconds]]></wf>
+    <wf id="47" sent="1" para="1" offset="197" length="1"><![CDATA[;]]></wf>
+    <wf id="48" sent="1" para="1" offset="198" length="1"><![CDATA[2]]></wf>
+    <wf id="49" sent="1" para="1" offset="199" length="1"><![CDATA[.]]></wf>
+    <wf id="50" sent="1" para="1" offset="200" length="6"><![CDATA[Jaegal]]></wf>
+    <wf id="51" sent="1" para="1" offset="206" length="9"><![CDATA[Sung-Yeol]]></wf>
+    <wf id="52" sent="1" para="1" offset="215" length="1"><![CDATA[(]]></wf>
+    <wf id="53" sent="1" para="1" offset="216" length="5"><![CDATA[South]]></wf>
+    <wf id="54" sent="1" para="1" offset="221" length="5"><![CDATA[Korea]]></wf>
+    <wf id="55" sent="1" para="1" offset="226" length="1"><![CDATA[)]]></wf>
+    <wf id="56" sent="1" para="1" offset="227" length="5"><![CDATA[37.46]]></wf>
+    <wf id="57" sent="1" para="1" offset="232" length="1"><![CDATA[;]]></wf>
+    <wf id="58" sent="1" para="1" offset="233" length="1"><![CDATA[3]]></wf>
+    <wf id="59" sent="1" para="1" offset="234" length="1"><![CDATA[.]]></wf>
+    <wf id="60" sent="1" para="1" offset="235" length="6"><![CDATA[Grunde]]></wf>
+    <wf id="61" sent="1" para="1" offset="241" length="4"><![CDATA[Njos]]></wf>
+    <wf id="62" sent="1" para="1" offset="245" length="1"><![CDATA[(]]></wf>
+    <wf id="63" sent="1" para="1" offset="246" length="6"><![CDATA[Norway]]></wf>
+    <wf id="64" sent="1" para="1" offset="252" length="1"><![CDATA[)]]></wf>
+    <wf id="65" sent="1" para="1" offset="253" length="5"><![CDATA[37.49]]></wf>
+    <wf id="66" sent="1" para="1" offset="258" length="1"><![CDATA[;]]></wf>
+    <wf id="67" sent="1" para="1" offset="259" length="1"><![CDATA[4]]></wf>
+    <wf id="68" sent="1" para="1" offset="260" length="1"><![CDATA[.]]></wf>
+    <wf id="69" sent="1" para="1" offset="261" length="7"><![CDATA[Shimizu]]></wf>
+    <wf id="70" sent="1" para="1" offset="268" length="8"><![CDATA[Hiroyasu]]></wf>
+    <wf id="71" sent="1" para="1" offset="276" length="1"><![CDATA[(]]></wf>
+    <wf id="72" sent="1" para="1" offset="277" length="5"><![CDATA[Japan]]></wf>
+    <wf id="73" sent="1" para="1" offset="282" length="1"><![CDATA[)]]></wf>
+    <wf id="74" sent="1" para="1" offset="283" length="5"><![CDATA[37.68]]></wf>
+    <wf id="75" sent="1" para="1" offset="288" length="1"><![CDATA[;]]></wf>
+    <wf id="76" sent="1" para="1" offset="289" length="1"><![CDATA[5]]></wf>
+    <wf id="77" sent="1" para="1" offset="290" length="1"><![CDATA[.]]></wf>
+    <wf id="78" sent="1" para="1" offset="291" length="6"><![CDATA[Sergey]]></wf>
+    <wf id="79" sent="1" para="1" offset="297" length="10"><![CDATA[Klevchenya]]></wf>
+    <wf id="80" sent="1" para="1" offset="307" length="1"><![CDATA[(]]></wf>
+    <wf id="81" sent="1" para="1" offset="308" length="6"><![CDATA[Russia]]></wf>
+    <wf id="82" sent="1" para="1" offset="314" length="1"><![CDATA[)]]></wf>
+    <wf id="83" sent="1" para="1" offset="315" length="5"><![CDATA[37.86]]></wf>
+    <wf id="84" sent="1" para="1" offset="320" length="1"><![CDATA[;]]></wf>
+    <wf id="85" sent="1" para="1" offset="321" length="1"><![CDATA[6]]></wf>
+    <wf id="86" sent="1" para="1" offset="322" length="1"><![CDATA[.]]></wf>
+    <wf id="87" sent="1" para="1" offset="323" length="8"><![CDATA[Yamakage]]></wf>
+    <wf id="88" sent="1" para="1" offset="331" length="7"><![CDATA[Hiroaki]]></wf>
+    <wf id="89" sent="1" para="1" offset="338" length="1"><![CDATA[(]]></wf>
+    <wf id="90" sent="1" para="1" offset="339" length="5"><![CDATA[Japan]]></wf>
+    <wf id="91" sent="1" para="1" offset="344" length="1"><![CDATA[)]]></wf>
+    <wf id="92" sent="1" para="1" offset="345" length="5"><![CDATA[37.93]]></wf>
+    <wf id="93" sent="1" para="1" offset="350" length="1"><![CDATA[;]]></wf>
+    <wf id="94" sent="1" para="1" offset="351" length="1"><![CDATA[7]]></wf>
+    <wf id="95" sent="1" para="1" offset="352" length="1"><![CDATA[.]]></wf>
+    <wf id="96" sent="1" para="1" offset="353" length="5"><![CDATA[Casey]]></wf>
+    <wf id="97" sent="1" para="1" offset="358" length="12"><![CDATA[Fitzrandolph]]></wf>
+    <wf id="98" sent="1" para="1" offset="370" length="1"><![CDATA[(]]></wf>
+    <wf id="99" sent="1" para="1" offset="371" length="2"><![CDATA[US]]></wf>
+    <wf id="100" sent="1" para="1" offset="373" length="1"><![CDATA[)]]></wf>
+    <wf id="101" sent="1" para="1" offset="374" length="5"><![CDATA[37.97]]></wf>
+    <wf id="102" sent="1" para="1" offset="379" length="1"><![CDATA[;]]></wf>
+    <wf id="103" sent="1" para="1" offset="380" length="1"><![CDATA[8]]></wf>
+    <wf id="104" sent="1" para="1" offset="381" length="1"><![CDATA[.]]></wf>
+    <wf id="105" sent="1" para="1" offset="382" length="7"><![CDATA[Sylvain]]></wf>
+    <wf id="106" sent="1" para="1" offset="389" length="8"><![CDATA[Bouchard]]></wf>
+    <wf id="107" sent="1" para="1" offset="397" length="1"><![CDATA[(]]></wf>
+    <wf id="108" sent="1" para="1" offset="398" length="6"><![CDATA[Canada]]></wf>
+    <wf id="109" sent="1" para="1" offset="404" length="1"><![CDATA[)]]></wf>
+    <wf id="110" sent="1" para="1" offset="405" length="5"><![CDATA[38.00]]></wf>
+    <wf id="111" sent="1" para="1" offset="410" length="1"><![CDATA[;]]></wf>
+    <wf id="112" sent="1" para="1" offset="411" length="1"><![CDATA[9]]></wf>
+    <wf id="113" sent="1" para="1" offset="412" length="1"><![CDATA[.]]></wf>
+    <wf id="114" sent="1" para="1" offset="413" length="3"><![CDATA[Kim]]></wf>
+    <wf id="115" sent="1" para="1" offset="416" length="8"><![CDATA[Yoon-man]]></wf>
+    <wf id="116" sent="1" para="1" offset="424" length="1"><![CDATA[(]]></wf>
+    <wf id="117" sent="1" para="1" offset="425" length="5"><![CDATA[South]]></wf>
+    <wf id="118" sent="1" para="1" offset="430" length="5"><![CDATA[Korea]]></wf>
+    <wf id="119" sent="1" para="1" offset="435" length="1"><![CDATA[)]]></wf>
+    <wf id="120" sent="1" para="1" offset="436" length="5"><![CDATA[38.05]]></wf>
+    <wf id="121" sent="1" para="1" offset="441" length="1"><![CDATA[;]]></wf>
+    <wf id="122" sent="1" para="1" offset="442" length="2"><![CDATA[10]]></wf>
+    <wf id="123" sent="1" para="1" offset="444" length="1"><![CDATA[.]]></wf>
+    <wf id="124" sent="1" para="1" offset="445" length="5"><![CDATA[Inoue]]></wf>
+    <wf id="125" sent="1" para="1" offset="450" length="7"><![CDATA[Junichi]]></wf>
+    <wf id="126" sent="1" para="1" offset="457" length="1"><![CDATA[(]]></wf>
+    <wf id="127" sent="1" para="1" offset="458" length="5"><![CDATA[Japan]]></wf>
+    <wf id="128" sent="1" para="1" offset="463" length="1"><![CDATA[)]]></wf>
+    <wf id="129" sent="1" para="1" offset="464" length="5"><![CDATA[38.08]]></wf>
+    <wf id="130" sent="1" para="1" offset="469" length="1"><![CDATA[.]]></wf>
+    <wf id="131" sent="1" para="1" offset="470" length="5"><![CDATA[Women]]></wf>
+    <wf id="132" sent="1" para="1" offset="475" length="2"><![CDATA['s]]></wf>
+    <wf id="133" sent="1" para="1" offset="477" length="3"><![CDATA[500]]></wf>
+    <wf id="134" sent="1" para="1" offset="480" length="6"><![CDATA[metres]]></wf>
+    <wf id="135" sent="1" para="1" offset="486" length="5"><![CDATA[first]]></wf>
+    <wf id="136" sent="1" para="1" offset="491" length="5"><![CDATA[round]]></wf>
+    <wf id="137" sent="1" para="1" offset="496" length="1"><![CDATA[:]]></wf>
+    <wf id="138" sent="1" para="1" offset="497" length="1"><![CDATA[1]]></wf>
+    <wf id="139" sent="1" para="1" offset="498" length="1"><![CDATA[.]]></wf>
+    <wf id="140" sent="1" para="1" offset="499" length="3"><![CDATA[Xuc]]></wf>
+    <wf id="141" sent="1" para="1" offset="502" length="7"><![CDATA[Rulhong]]></wf>
+    <wf id="142" sent="1" para="1" offset="509" length="1"><![CDATA[(]]></wf>
+    <wf id="143" sent="1" para="1" offset="510" length="5"><![CDATA[China]]></wf>
+    <wf id="144" sent="1" para="1" offset="515" length="1"><![CDATA[)]]></wf>
+    <wf id="145" sent="1" para="1" offset="516" length="5"><![CDATA[40.78]]></wf>
+    <wf id="146" sent="1" para="1" offset="521" length="1"><![CDATA[;]]></wf>
+    <wf id="147" sent="1" para="1" offset="522" length="1"><![CDATA[2]]></wf>
+    <wf id="148" sent="1" para="1" offset="523" length="1"><![CDATA[.]]></wf>
+    <wf id="149" sent="1" para="1" offset="524" length="8"><![CDATA[Svetlana]]></wf>
+    <wf id="150" sent="1" para="1" offset="532" length="7"><![CDATA[Jhurova]]></wf>
+    <wf id="151" sent="1" para="1" offset="539" length="1"><![CDATA[(]]></wf>
+    <wf id="152" sent="1" para="1" offset="540" length="6"><![CDATA[Russia]]></wf>
+    <wf id="153" sent="1" para="1" offset="546" length="1"><![CDATA[)]]></wf>
+    <wf id="154" sent="1" para="1" offset="547" length="5"><![CDATA[41.08]]></wf>
+    <wf id="155" sent="1" para="1" offset="552" length="1"><![CDATA[;]]></wf>
+    <wf id="156" sent="1" para="1" offset="553" length="1"><![CDATA[3]]></wf>
+    <wf id="157" sent="1" para="1" offset="554" length="1"><![CDATA[.]]></wf>
+    <wf id="158" sent="1" para="1" offset="555" length="9"><![CDATA[Franziska]]></wf>
+    <wf id="159" sent="1" para="1" offset="564" length="6"><![CDATA[Schenk]]></wf>
+    <wf id="160" sent="1" para="1" offset="570" length="1"><![CDATA[(]]></wf>
+    <wf id="161" sent="1" para="1" offset="571" length="7"><![CDATA[Germany]]></wf>
+    <wf id="162" sent="1" para="1" offset="578" length="1"><![CDATA[)]]></wf>
+    <wf id="163" sent="1" para="1" offset="579" length="5"><![CDATA[41.13]]></wf>
+    <wf id="164" sent="1" para="1" offset="584" length="1"><![CDATA[;]]></wf>
+    <wf id="165" sent="1" para="1" offset="585" length="1"><![CDATA[4]]></wf>
+    <wf id="166" sent="1" para="1" offset="586" length="1"><![CDATA[.]]></wf>
+    <wf id="167" sent="1" para="1" offset="587" length="7"><![CDATA[Okazaki]]></wf>
+    <wf id="168" sent="1" para="1" offset="594" length="6"><![CDATA[Tomomi]]></wf>
+    <wf id="169" sent="1" para="1" offset="600" length="1"><![CDATA[(]]></wf>
+    <wf id="170" sent="1" para="1" offset="601" length="5"><![CDATA[Japan]]></wf>
+    <wf id="171" sent="1" para="1" offset="606" length="1"><![CDATA[)]]></wf>
+    <wf id="172" sent="1" para="1" offset="607" length="5"><![CDATA[41.19]]></wf>
+    <wf id="173" sent="1" para="1" offset="612" length="1"><![CDATA[;]]></wf>
+    <wf id="174" sent="1" para="1" offset="613" length="1"><![CDATA[5]]></wf>
+    <wf id="175" sent="1" para="1" offset="614" length="1"><![CDATA[.]]></wf>
+    <wf id="176" sent="1" para="1" offset="615" length="9"><![CDATA[Shimazaki]]></wf>
+    <wf id="177" sent="1" para="1" offset="624" length="5"><![CDATA[Kyoko]]></wf>
+    <wf id="178" sent="1" para="1" offset="629" length="1"><![CDATA[(]]></wf>
+    <wf id="179" sent="1" para="1" offset="630" length="5"><![CDATA[Japan]]></wf>
+    <wf id="180" sent="1" para="1" offset="635" length="1"><![CDATA[)]]></wf>
+    <wf id="181" sent="1" para="1" offset="636" length="5"><![CDATA[41.45]]></wf>
+    <wf id="182" sent="1" para="1" offset="641" length="1"><![CDATA[;]]></wf>
+    <wf id="183" sent="1" para="1" offset="642" length="1"><![CDATA[6]]></wf>
+    <wf id="184" sent="1" para="1" offset="643" length="1"><![CDATA[.]]></wf>
+    <wf id="185" sent="1" para="1" offset="644" length="8"><![CDATA[Marianne]]></wf>
+    <wf id="186" sent="1" para="1" offset="652" length="6"><![CDATA[Timmer]]></wf>
+    <wf id="187" sent="1" para="1" offset="658" length="1"><![CDATA[(]]></wf>
+    <wf id="188" sent="1" para="1" offset="659" length="11"><![CDATA[Netherlands]]></wf>
+    <wf id="189" sent="1" para="1" offset="670" length="1"><![CDATA[)]]></wf>
+    <wf id="190" sent="1" para="1" offset="671" length="5"><![CDATA[41.58]]></wf>
+    <wf id="191" sent="1" para="1" offset="676" length="1"><![CDATA[;]]></wf>
+    <wf id="192" sent="1" para="1" offset="677" length="1"><![CDATA[7]]></wf>
+    <wf id="193" sent="1" para="1" offset="678" length="1"><![CDATA[.]]></wf>
+    <wf id="194" sent="1" para="1" offset="679" length="3"><![CDATA[Jin]]></wf>
+    <wf id="195" sent="1" para="1" offset="682" length="3"><![CDATA[Hua]]></wf>
+    <wf id="196" sent="1" para="1" offset="685" length="1"><![CDATA[(]]></wf>
+    <wf id="197" sent="1" para="1" offset="686" length="5"><![CDATA[China]]></wf>
+    <wf id="198" sent="1" para="1" offset="691" length="1"><![CDATA[)]]></wf>
+    <wf id="199" sent="1" para="1" offset="692" length="5"><![CDATA[41.59]]></wf>
+    <wf id="200" sent="1" para="1" offset="697" length="1"><![CDATA[;]]></wf>
+    <wf id="201" sent="1" para="1" offset="698" length="1"><![CDATA[8]]></wf>
+    <wf id="202" sent="1" para="1" offset="699" length="1"><![CDATA[.]]></wf>
+    <wf id="203" sent="1" para="1" offset="700" length="5"><![CDATA[Alena]]></wf>
+    <wf id="204" sent="1" para="1" offset="705" length="8"><![CDATA[Koroleva]]></wf>
+    <wf id="205" sent="1" para="1" offset="713" length="1"><![CDATA[(]]></wf>
+    <wf id="206" sent="1" para="1" offset="714" length="6"><![CDATA[Russia]]></wf>
+    <wf id="207" sent="1" para="1" offset="720" length="1"><![CDATA[)]]></wf>
+    <wf id="208" sent="1" para="1" offset="721" length="5"><![CDATA[41.64]]></wf>
+    <wf id="209" sent="1" para="1" offset="726" length="1"><![CDATA[;]]></wf>
+    <wf id="210" sent="1" para="1" offset="727" length="1"><![CDATA[9]]></wf>
+    <wf id="211" sent="1" para="1" offset="728" length="1"><![CDATA[.]]></wf>
+    <wf id="212" sent="1" para="1" offset="729" length="5"><![CDATA[Chris]]></wf>
+    <wf id="213" sent="1" para="1" offset="734" length="5"><![CDATA[Witty]]></wf>
+    <wf id="214" sent="1" para="1" offset="739" length="1"><![CDATA[(]]></wf>
+    <wf id="215" sent="1" para="1" offset="740" length="2"><![CDATA[US]]></wf>
+    <wf id="216" sent="1" para="1" offset="742" length="1"><![CDATA[)]]></wf>
+    <wf id="217" sent="1" para="1" offset="743" length="5"><![CDATA[41.75]]></wf>
+    <wf id="218" sent="1" para="1" offset="748" length="1"><![CDATA[;]]></wf>
+    <wf id="219" sent="1" para="1" offset="749" length="2"><![CDATA[10]]></wf>
+    <wf id="220" sent="1" para="1" offset="751" length="1"><![CDATA[.]]></wf>
+    <wf id="221" sent="1" para="1" offset="752" length="4"><![CDATA[Anke]]></wf>
+    <wf id="222" sent="1" para="1" offset="756" length="5"><![CDATA[Baler]]></wf>
+    <wf id="223" sent="1" para="1" offset="761" length="1"><![CDATA[(]]></wf>
+    <wf id="224" sent="1" para="1" offset="762" length="7"><![CDATA[Germany]]></wf>
+    <wf id="225" sent="1" para="1" offset="769" length="1"><![CDATA[)]]></wf>
+    <wf id="226" sent="1" para="1" offset="770" length="5"><![CDATA[41.76]]></wf>
+    <wf id="227" sent="1" para="1" offset="775" length="1"><![CDATA[.]]></wf>
+    <wf id="228" sent="1" para="1" offset="776" length="3"><![CDATA[Men]]></wf>
+    <wf id="229" sent="1" para="1" offset="779" length="2"><![CDATA['s]]></wf>
+    <wf id="230" sent="1" para="1" offset="781" length="5"><![CDATA[1,000]]></wf>
+    <wf id="231" sent="1" para="1" offset="786" length="6"><![CDATA[metres]]></wf>
+    <wf id="232" sent="1" para="1" offset="792" length="5"><![CDATA[first]]></wf>
+    <wf id="233" sent="1" para="1" offset="797" length="5"><![CDATA[round]]></wf>
+    <wf id="234" sent="1" para="1" offset="802" length="1"><![CDATA[:]]></wf>
+    <wf id="235" sent="1" para="1" offset="803" length="2"><![CDATA[1.]]></wf>
+    <wf id="236" sent="1" para="1" offset="805" length="7"><![CDATA[Sylvain]]></wf>
+    <wf id="237" sent="1" para="1" offset="812" length="8"><![CDATA[Bouchard]]></wf>
+    <wf id="238" sent="1" para="1" offset="820" length="1"><![CDATA[(]]></wf>
+    <wf id="239" sent="1" para="1" offset="821" length="6"><![CDATA[Canada]]></wf>
+    <wf id="240" sent="1" para="1" offset="827" length="1"><![CDATA[)]]></wf>
+    <wf id="241" sent="1" para="1" offset="828" length="1"><![CDATA[1]]></wf>
+    <wf id="242" sent="1" para="1" offset="829" length="6"><![CDATA[minute]]></wf>
+    <wf id="243" sent="1" para="1" offset="835" length="5"><![CDATA[16.24]]></wf>
+    <wf id="244" sent="1" para="1" offset="840" length="7"><![CDATA[seconds]]></wf>
+    <wf id="245" sent="1" para="1" offset="847" length="2"><![CDATA[2.]]></wf>
+    <wf id="246" sent="1" para="1" offset="849" length="6"><![CDATA[Sergey]]></wf>
+    <wf id="247" sent="1" para="1" offset="855" length="10"><![CDATA[Klevchenya]]></wf>
+    <wf id="248" sent="1" para="1" offset="865" length="1"><![CDATA[(]]></wf>
+    <wf id="249" sent="1" para="1" offset="866" length="6"><![CDATA[Russia]]></wf>
+    <wf id="250" sent="1" para="1" offset="872" length="1"><![CDATA[)]]></wf>
+    <wf id="251" sent="1" para="1" offset="873" length="7"><![CDATA[1:16.31]]></wf>
+    <wf id="252" sent="1" para="1" offset="880" length="2"><![CDATA[3.]]></wf>
+    <wf id="253" sent="1" para="1" offset="882" length="3"><![CDATA[Jan]]></wf>
+    <wf id="254" sent="1" para="1" offset="885" length="3"><![CDATA[Bos]]></wf>
+    <wf id="255" sent="1" para="1" offset="888" length="1"><![CDATA[(]]></wf>
+    <wf id="256" sent="1" para="1" offset="889" length="11"><![CDATA[Netherlands]]></wf>
+    <wf id="257" sent="1" para="1" offset="900" length="1"><![CDATA[)]]></wf>
+    <wf id="258" sent="1" para="1" offset="901" length="7"><![CDATA[1:16.38]]></wf>
+    <wf id="259" sent="1" para="1" offset="908" length="2"><![CDATA[4.]]></wf>
+    <wf id="260" sent="1" para="1" offset="910" length="6"><![CDATA[Grunde]]></wf>
+    <wf id="261" sent="1" para="1" offset="916" length="4"><![CDATA[Njos]]></wf>
+    <wf id="262" sent="1" para="1" offset="920" length="1"><![CDATA[(]]></wf>
+    <wf id="263" sent="1" para="1" offset="921" length="6"><![CDATA[Norway]]></wf>
+    <wf id="264" sent="1" para="1" offset="927" length="1"><![CDATA[)]]></wf>
+    <wf id="265" sent="1" para="1" offset="928" length="7"><![CDATA[1:16.44]]></wf>
+    <wf id="266" sent="1" para="1" offset="935" length="2"><![CDATA[5.]]></wf>
+    <wf id="267" sent="1" para="1" offset="937" length="3"><![CDATA[Lee]]></wf>
+    <wf id="268" sent="1" para="1" offset="940" length="9"><![CDATA[Kyou-hyuk]]></wf>
+    <wf id="269" sent="1" para="1" offset="949" length="1"><![CDATA[(]]></wf>
+    <wf id="270" sent="1" para="1" offset="950" length="5"><![CDATA[South]]></wf>
+    <wf id="271" sent="1" para="1" offset="955" length="5"><![CDATA[Korea]]></wf>
+    <wf id="272" sent="1" para="1" offset="960" length="1"><![CDATA[)]]></wf>
+    <wf id="273" sent="1" para="1" offset="961" length="7"><![CDATA[1:16.47]]></wf>
+    <wf id="274" sent="1" para="1" offset="968" length="2"><![CDATA[6.]]></wf>
+    <wf id="275" sent="1" para="1" offset="970" length="5"><![CDATA[Inoue]]></wf>
+    <wf id="276" sent="1" para="1" offset="975" length="7"><![CDATA[Junichi]]></wf>
+    <wf id="277" sent="1" para="1" offset="982" length="1"><![CDATA[(]]></wf>
+    <wf id="278" sent="1" para="1" offset="983" length="5"><![CDATA[Japan]]></wf>
+    <wf id="279" sent="1" para="1" offset="988" length="1"><![CDATA[)]]></wf>
+    <wf id="280" sent="1" para="1" offset="989" length="7"><![CDATA[1:16.61]]></wf>
+    <wf id="281" sent="1" para="1" offset="996" length="2"><![CDATA[7.]]></wf>
+    <wf id="282" sent="1" para="1" offset="998" length="6"><![CDATA[Gerard]]></wf>
+    <wf id="283" sent="1" para="1" offset="1004" length="3"><![CDATA[Van]]></wf>
+    <wf id="284" sent="1" para="1" offset="1007" length="5"><![CDATA[Velde]]></wf>
+    <wf id="285" sent="1" para="1" offset="1012" length="1"><![CDATA[(]]></wf>
+    <wf id="286" sent="1" para="1" offset="1013" length="11"><![CDATA[Netherlands]]></wf>
+    <wf id="287" sent="1" para="1" offset="1024" length="1"><![CDATA[)]]></wf>
+    <wf id="288" sent="1" para="1" offset="1025" length="7"><![CDATA[1:16.63]]></wf>
+    <wf id="289" sent="1" para="1" offset="1032" length="2"><![CDATA[8.]]></wf>
+    <wf id="290" sent="1" para="1" offset="1034" length="3"><![CDATA[Kim]]></wf>
+    <wf id="291" sent="1" para="1" offset="1037" length="8"><![CDATA[Yoon-man]]></wf>
+    <wf id="292" sent="1" para="1" offset="1045" length="1"><![CDATA[(]]></wf>
+    <wf id="293" sent="1" para="1" offset="1046" length="5"><![CDATA[South]]></wf>
+    <wf id="294" sent="1" para="1" offset="1051" length="5"><![CDATA[Korea]]></wf>
+    <wf id="295" sent="1" para="1" offset="1056" length="1"><![CDATA[)]]></wf>
+    <wf id="296" sent="1" para="1" offset="1057" length="7"><![CDATA[1:16.75]]></wf>
+    <wf id="297" sent="1" para="1" offset="1064" length="2"><![CDATA[9.]]></wf>
+    <wf id="298" sent="1" para="1" offset="1066" length="6"><![CDATA[Jeremy]]></wf>
+    <wf id="299" sent="1" para="1" offset="1072" length="11"><![CDATA[Wotherspoon]]></wf>
+    <wf id="300" sent="1" para="1" offset="1083" length="1"><![CDATA[(]]></wf>
+    <wf id="301" sent="1" para="1" offset="1084" length="6"><![CDATA[Canada]]></wf>
+    <wf id="302" sent="1" para="1" offset="1090" length="1"><![CDATA[)]]></wf>
+    <wf id="303" sent="1" para="1" offset="1091" length="7"><![CDATA[1:16.75]]></wf>
+    <wf id="304" sent="1" para="1" offset="1098" length="3"><![CDATA[10.]]></wf>
+    <wf id="305" sent="1" para="1" offset="1101" length="6"><![CDATA[Miyabe]]></wf>
+    <wf id="306" sent="1" para="1" offset="1107" length="8"><![CDATA[Yasunori]]></wf>
+    <wf id="307" sent="1" para="1" offset="1115" length="1"><![CDATA[(]]></wf>
+    <wf id="308" sent="1" para="1" offset="1116" length="5"><![CDATA[Japan]]></wf>
+    <wf id="309" sent="1" para="1" offset="1121" length="1"><![CDATA[)]]></wf>
+    <wf id="310" sent="1" para="1" offset="1122" length="7"><![CDATA[1:16.86]]></wf>
+    <wf id="311" sent="1" para="1" offset="1129" length="5"><![CDATA[Women]]></wf>
+    <wf id="312" sent="1" para="1" offset="1134" length="2"><![CDATA['s]]></wf>
+    <wf id="313" sent="1" para="1" offset="1136" length="5"><![CDATA[1,000]]></wf>
+    <wf id="314" sent="1" para="1" offset="1141" length="6"><![CDATA[metres]]></wf>
+    <wf id="315" sent="1" para="1" offset="1147" length="5"><![CDATA[first]]></wf>
+    <wf id="316" sent="1" para="1" offset="1152" length="5"><![CDATA[round]]></wf>
+    <wf id="317" sent="1" para="1" offset="1157" length="1"><![CDATA[:]]></wf>
+    <wf id="318" sent="1" para="1" offset="1158" length="2"><![CDATA[1.]]></wf>
+    <wf id="319" sent="1" para="1" offset="1160" length="9"><![CDATA[Franziska]]></wf>
+    <wf id="320" sent="1" para="1" offset="1169" length="6"><![CDATA[Schenk]]></wf>
+    <wf id="321" sent="1" para="1" offset="1175" length="1"><![CDATA[(]]></wf>
+    <wf id="322" sent="1" para="1" offset="1176" length="7"><![CDATA[Germany]]></wf>
+    <wf id="323" sent="1" para="1" offset="1183" length="1"><![CDATA[)]]></wf>
+    <wf id="324" sent="1" para="1" offset="1184" length="7"><![CDATA[1:23.17]]></wf>
+    <wf id="325" sent="1" para="1" offset="1191" length="2"><![CDATA[2.]]></wf>
+    <wf id="326" sent="1" para="1" offset="1193" length="8"><![CDATA[Kusunose]]></wf>
+    <wf id="327" sent="1" para="1" offset="1201" length="5"><![CDATA[Shiho]]></wf>
+    <wf id="328" sent="1" para="1" offset="1206" length="1"><![CDATA[(]]></wf>
+    <wf id="329" sent="1" para="1" offset="1207" length="5"><![CDATA[Japan]]></wf>
+    <wf id="330" sent="1" para="1" offset="1212" length="1"><![CDATA[)]]></wf>
+    <wf id="331" sent="1" para="1" offset="1213" length="7"><![CDATA[1:24.77]]></wf>
+    <wf id="332" sent="1" para="1" offset="1220" length="2"><![CDATA[3.]]></wf>
+    <wf id="333" sent="1" para="1" offset="1222" length="8"><![CDATA[Marianne]]></wf>
+    <wf id="334" sent="1" para="1" offset="1230" length="6"><![CDATA[Timmer]]></wf>
+    <wf id="335" sent="1" para="1" offset="1236" length="1"><![CDATA[(]]></wf>
+    <wf id="336" sent="1" para="1" offset="1237" length="11"><![CDATA[Netherlands]]></wf>
+    <wf id="337" sent="1" para="1" offset="1248" length="1"><![CDATA[)]]></wf>
+    <wf id="338" sent="1" para="1" offset="1249" length="7"><![CDATA[1:24.86]]></wf>
+    <wf id="339" sent="1" para="1" offset="1256" length="2"><![CDATA[4.]]></wf>
+    <wf id="340" sent="1" para="1" offset="1258" length="4"><![CDATA[Anka]]></wf>
+    <wf id="341" sent="1" para="1" offset="1262" length="5"><![CDATA[Baier]]></wf>
+    <wf id="342" sent="1" para="1" offset="1267" length="1"><![CDATA[(]]></wf>
+    <wf id="343" sent="1" para="1" offset="1268" length="7"><![CDATA[Germany]]></wf>
+    <wf id="344" sent="1" para="1" offset="1275" length="1"><![CDATA[)]]></wf>
+    <wf id="345" sent="1" para="1" offset="1276" length="7"><![CDATA[1:25.16]]></wf>
+    <wf id="346" sent="1" para="1" offset="1283" length="2"><![CDATA[5.]]></wf>
+    <wf id="347" sent="1" para="1" offset="1285" length="5"><![CDATA[Becky]]></wf>
+    <wf id="348" sent="1" para="1" offset="1290" length="9"><![CDATA[Sundstrom]]></wf>
+    <wf id="349" sent="1" para="1" offset="1299" length="1"><![CDATA[(]]></wf>
+    <wf id="350" sent="1" para="1" offset="1300" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="351" sent="1" para="1" offset="1304" length="1"><![CDATA[)]]></wf>
+    <wf id="352" sent="1" para="1" offset="1305" length="7"><![CDATA[1:25.39]]></wf>
+    <wf id="353" sent="1" para="1" offset="1312" length="2"><![CDATA[6.]]></wf>
+    <wf id="354" sent="1" para="1" offset="1314" length="9"><![CDATA[Shimazaki]]></wf>
+    <wf id="355" sent="1" para="1" offset="1323" length="5"><![CDATA[Kyoko]]></wf>
+    <wf id="356" sent="1" para="1" offset="1328" length="1"><![CDATA[(]]></wf>
+    <wf id="357" sent="1" para="1" offset="1329" length="5"><![CDATA[Japan]]></wf>
+    <wf id="358" sent="1" para="1" offset="1334" length="1"><![CDATA[)]]></wf>
+    <wf id="359" sent="1" para="1" offset="1335" length="7"><![CDATA[1:25.51]]></wf>
+    <wf id="360" sent="1" para="1" offset="1342" length="2"><![CDATA[7.]]></wf>
+    <wf id="361" sent="1" para="1" offset="1344" length="6"><![CDATA[Oksana]]></wf>
+    <wf id="362" sent="1" para="1" offset="1350" length="8"><![CDATA[Ravllova]]></wf>
+    <wf id="363" sent="1" para="1" offset="1358" length="1"><![CDATA[(]]></wf>
+    <wf id="364" sent="1" para="1" offset="1359" length="6"><![CDATA[Russia]]></wf>
+    <wf id="365" sent="1" para="1" offset="1365" length="1"><![CDATA[)]]></wf>
+    <wf id="366" sent="1" para="1" offset="1366" length="7"><![CDATA[1:25.55]]></wf>
+    <wf id="367" sent="1" para="1" offset="1373" length="2"><![CDATA[8.]]></wf>
+    <wf id="368" sent="1" para="1" offset="1375" length="7"><![CDATA[Sammiya]]></wf>
+    <wf id="369" sent="1" para="1" offset="1382" length="5"><![CDATA[Eriko]]></wf>
+    <wf id="370" sent="1" para="1" offset="1387" length="1"><![CDATA[(]]></wf>
+    <wf id="371" sent="1" para="1" offset="1388" length="5"><![CDATA[Japan]]></wf>
+    <wf id="372" sent="1" para="1" offset="1393" length="1"><![CDATA[)]]></wf>
+    <wf id="373" sent="1" para="1" offset="1394" length="7"><![CDATA[1:25.79]]></wf>
+    <wf id="374" sent="1" para="1" offset="1401" length="2"><![CDATA[9.]]></wf>
+    <wf id="375" sent="1" para="1" offset="1403" length="5"><![CDATA[Chris]]></wf>
+    <wf id="376" sent="1" para="1" offset="1408" length="5"><![CDATA[Witty]]></wf>
+    <wf id="377" sent="1" para="1" offset="1413" length="1"><![CDATA[(]]></wf>
+    <wf id="378" sent="1" para="1" offset="1414" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="379" sent="1" para="1" offset="1418" length="1"><![CDATA[)]]></wf>
+    <wf id="380" sent="1" para="1" offset="1419" length="7"><![CDATA[1:25.85]]></wf>
+    <wf id="381" sent="1" para="1" offset="1426" length="3"><![CDATA[10.]]></wf>
+    <wf id="382" sent="1" para="1" offset="1429" length="3"><![CDATA[Xue]]></wf>
+    <wf id="383" sent="1" para="1" offset="1432" length="7"><![CDATA[Rulhong]]></wf>
+    <wf id="384" sent="1" para="1" offset="1439" length="1"><![CDATA[(]]></wf>
+    <wf id="385" sent="1" para="1" offset="1440" length="5"><![CDATA[China]]></wf>
+    <wf id="386" sent="1" para="1" offset="1445" length="1"><![CDATA[)]]></wf>
+    <wf id="387" sent="1" para="1" offset="1446" length="7"><![CDATA[1:25.89]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="SPEED">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="SKATING-RESULTS">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="OF">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="WORLD">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="CUP">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="SPEED">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="SKATING">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="RACES">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma=".">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="CHONJU">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma=",">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="South">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Korea">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="1996-12-07">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="Results">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="on">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="the">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="first">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="day">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="of">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="the">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="World">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="Cup">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="speed">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="skating">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="races">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="here">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="on">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="Saturday">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma=".">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="Men">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="'s">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="500">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="metres">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="first">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="round">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma=":">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="1">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma=".">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="Horii">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="Manabu">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="(">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="Japan">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma=")">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="37.23">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="seconds">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma=";">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="2">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma=".">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="Jaegal">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="Sung-Yeol">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="(">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="South">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="Korea">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma=")">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="37.46">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma=";">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="3">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma=".">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="Grunde">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="Njos">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="(">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="Norway">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma=")">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="37.49">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma=";">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="4">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma=".">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="Shimizu">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="Hiroyasu">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="(">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="Japan">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma=")">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="37.68">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma=";">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="5">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma=".">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="Sergey">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="Klevchenya">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="(">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="Russia">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma=")">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="37.86">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma=";">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="6">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma=".">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="Yamakage">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="Hiroaki">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="(">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="Japan">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma=")">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="37.93">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma=";">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="7">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma=".">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="Casey">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="Fitzrandolph">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="(">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="US">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma=")">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="37.97">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma=";">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="8">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma=".">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="Sylvain">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="Bouchard">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="(">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="Canada">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma=")">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="38.00">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma=";">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="9">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma=".">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="Kim">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="Yoon-man">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="(">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="South">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="Korea">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma=")">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="38.05">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma=";">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="10">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma=".">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="Inoue">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="Junichi">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="(">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="Japan">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma=")">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="38.08">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma=".">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="Women">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="'s">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="500">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="metres">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="first">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="round">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma=":">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="1">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma=".">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="Xuc">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="Rulhong">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="(">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="China">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma=")">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="40.78">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma=";">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="2">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma=".">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="Svetlana">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="Jhurova">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="(">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="Russia">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma=")">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="41.08">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma=";">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="3">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma=".">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="Franziska">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="Schenk">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="(">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="Germany">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma=")">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="41.13">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma=";">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="4">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma=".">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="Okazaki">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="Tomomi">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="(">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="Japan">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma=")">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma="41.19">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma=";">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="5">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma=".">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="Shimazaki">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma="Kyoko">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="(">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="Japan">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma=")">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="41.45">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma=";">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="6">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma=".">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="Marianne">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma="Timmer">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="(">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma="Netherlands">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma=")">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma="41.58">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma=";">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="7">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma=".">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma="Jin">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma="Hua">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma="(">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="China">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma=")">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma="41.59">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma=";">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+    <term id="201" lemma="8">
+      <span>
+        <target id="201"/>
+      </span>
+    </term>
+    <term id="202" lemma=".">
+      <span>
+        <target id="202"/>
+      </span>
+    </term>
+    <term id="203" lemma="Alena">
+      <span>
+        <target id="203"/>
+      </span>
+    </term>
+    <term id="204" lemma="Koroleva">
+      <span>
+        <target id="204"/>
+      </span>
+    </term>
+    <term id="205" lemma="(">
+      <span>
+        <target id="205"/>
+      </span>
+    </term>
+    <term id="206" lemma="Russia">
+      <span>
+        <target id="206"/>
+      </span>
+    </term>
+    <term id="207" lemma=")">
+      <span>
+        <target id="207"/>
+      </span>
+    </term>
+    <term id="208" lemma="41.64">
+      <span>
+        <target id="208"/>
+      </span>
+    </term>
+    <term id="209" lemma=";">
+      <span>
+        <target id="209"/>
+      </span>
+    </term>
+    <term id="210" lemma="9">
+      <span>
+        <target id="210"/>
+      </span>
+    </term>
+    <term id="211" lemma=".">
+      <span>
+        <target id="211"/>
+      </span>
+    </term>
+    <term id="212" lemma="Chris">
+      <span>
+        <target id="212"/>
+      </span>
+    </term>
+    <term id="213" lemma="Witty">
+      <span>
+        <target id="213"/>
+      </span>
+    </term>
+    <term id="214" lemma="(">
+      <span>
+        <target id="214"/>
+      </span>
+    </term>
+    <term id="215" lemma="US">
+      <span>
+        <target id="215"/>
+      </span>
+    </term>
+    <term id="216" lemma=")">
+      <span>
+        <target id="216"/>
+      </span>
+    </term>
+    <term id="217" lemma="41.75">
+      <span>
+        <target id="217"/>
+      </span>
+    </term>
+    <term id="218" lemma=";">
+      <span>
+        <target id="218"/>
+      </span>
+    </term>
+    <term id="219" lemma="10">
+      <span>
+        <target id="219"/>
+      </span>
+    </term>
+    <term id="220" lemma=".">
+      <span>
+        <target id="220"/>
+      </span>
+    </term>
+    <term id="221" lemma="Anke">
+      <span>
+        <target id="221"/>
+      </span>
+    </term>
+    <term id="222" lemma="Baler">
+      <span>
+        <target id="222"/>
+      </span>
+    </term>
+    <term id="223" lemma="(">
+      <span>
+        <target id="223"/>
+      </span>
+    </term>
+    <term id="224" lemma="Germany">
+      <span>
+        <target id="224"/>
+      </span>
+    </term>
+    <term id="225" lemma=")">
+      <span>
+        <target id="225"/>
+      </span>
+    </term>
+    <term id="226" lemma="41.76">
+      <span>
+        <target id="226"/>
+      </span>
+    </term>
+    <term id="227" lemma=".">
+      <span>
+        <target id="227"/>
+      </span>
+    </term>
+    <term id="228" lemma="Men">
+      <span>
+        <target id="228"/>
+      </span>
+    </term>
+    <term id="229" lemma="'s">
+      <span>
+        <target id="229"/>
+      </span>
+    </term>
+    <term id="230" lemma="1,000">
+      <span>
+        <target id="230"/>
+      </span>
+    </term>
+    <term id="231" lemma="metres">
+      <span>
+        <target id="231"/>
+      </span>
+    </term>
+    <term id="232" lemma="first">
+      <span>
+        <target id="232"/>
+      </span>
+    </term>
+    <term id="233" lemma="round">
+      <span>
+        <target id="233"/>
+      </span>
+    </term>
+    <term id="234" lemma=":">
+      <span>
+        <target id="234"/>
+      </span>
+    </term>
+    <term id="235" lemma="1.">
+      <span>
+        <target id="235"/>
+      </span>
+    </term>
+    <term id="236" lemma="Sylvain">
+      <span>
+        <target id="236"/>
+      </span>
+    </term>
+    <term id="237" lemma="Bouchard">
+      <span>
+        <target id="237"/>
+      </span>
+    </term>
+    <term id="238" lemma="(">
+      <span>
+        <target id="238"/>
+      </span>
+    </term>
+    <term id="239" lemma="Canada">
+      <span>
+        <target id="239"/>
+      </span>
+    </term>
+    <term id="240" lemma=")">
+      <span>
+        <target id="240"/>
+      </span>
+    </term>
+    <term id="241" lemma="1">
+      <span>
+        <target id="241"/>
+      </span>
+    </term>
+    <term id="242" lemma="minute">
+      <span>
+        <target id="242"/>
+      </span>
+    </term>
+    <term id="243" lemma="16.24">
+      <span>
+        <target id="243"/>
+      </span>
+    </term>
+    <term id="244" lemma="seconds">
+      <span>
+        <target id="244"/>
+      </span>
+    </term>
+    <term id="245" lemma="2.">
+      <span>
+        <target id="245"/>
+      </span>
+    </term>
+    <term id="246" lemma="Sergey">
+      <span>
+        <target id="246"/>
+      </span>
+    </term>
+    <term id="247" lemma="Klevchenya">
+      <span>
+        <target id="247"/>
+      </span>
+    </term>
+    <term id="248" lemma="(">
+      <span>
+        <target id="248"/>
+      </span>
+    </term>
+    <term id="249" lemma="Russia">
+      <span>
+        <target id="249"/>
+      </span>
+    </term>
+    <term id="250" lemma=")">
+      <span>
+        <target id="250"/>
+      </span>
+    </term>
+    <term id="251" lemma="1:16.31">
+      <span>
+        <target id="251"/>
+      </span>
+    </term>
+    <term id="252" lemma="3.">
+      <span>
+        <target id="252"/>
+      </span>
+    </term>
+    <term id="253" lemma="Jan">
+      <span>
+        <target id="253"/>
+      </span>
+    </term>
+    <term id="254" lemma="Bos">
+      <span>
+        <target id="254"/>
+      </span>
+    </term>
+    <term id="255" lemma="(">
+      <span>
+        <target id="255"/>
+      </span>
+    </term>
+    <term id="256" lemma="Netherlands">
+      <span>
+        <target id="256"/>
+      </span>
+    </term>
+    <term id="257" lemma=")">
+      <span>
+        <target id="257"/>
+      </span>
+    </term>
+    <term id="258" lemma="1:16.38">
+      <span>
+        <target id="258"/>
+      </span>
+    </term>
+    <term id="259" lemma="4.">
+      <span>
+        <target id="259"/>
+      </span>
+    </term>
+    <term id="260" lemma="Grunde">
+      <span>
+        <target id="260"/>
+      </span>
+    </term>
+    <term id="261" lemma="Njos">
+      <span>
+        <target id="261"/>
+      </span>
+    </term>
+    <term id="262" lemma="(">
+      <span>
+        <target id="262"/>
+      </span>
+    </term>
+    <term id="263" lemma="Norway">
+      <span>
+        <target id="263"/>
+      </span>
+    </term>
+    <term id="264" lemma=")">
+      <span>
+        <target id="264"/>
+      </span>
+    </term>
+    <term id="265" lemma="1:16.44">
+      <span>
+        <target id="265"/>
+      </span>
+    </term>
+    <term id="266" lemma="5.">
+      <span>
+        <target id="266"/>
+      </span>
+    </term>
+    <term id="267" lemma="Lee">
+      <span>
+        <target id="267"/>
+      </span>
+    </term>
+    <term id="268" lemma="Kyou-hyuk">
+      <span>
+        <target id="268"/>
+      </span>
+    </term>
+    <term id="269" lemma="(">
+      <span>
+        <target id="269"/>
+      </span>
+    </term>
+    <term id="270" lemma="South">
+      <span>
+        <target id="270"/>
+      </span>
+    </term>
+    <term id="271" lemma="Korea">
+      <span>
+        <target id="271"/>
+      </span>
+    </term>
+    <term id="272" lemma=")">
+      <span>
+        <target id="272"/>
+      </span>
+    </term>
+    <term id="273" lemma="1:16.47">
+      <span>
+        <target id="273"/>
+      </span>
+    </term>
+    <term id="274" lemma="6.">
+      <span>
+        <target id="274"/>
+      </span>
+    </term>
+    <term id="275" lemma="Inoue">
+      <span>
+        <target id="275"/>
+      </span>
+    </term>
+    <term id="276" lemma="Junichi">
+      <span>
+        <target id="276"/>
+      </span>
+    </term>
+    <term id="277" lemma="(">
+      <span>
+        <target id="277"/>
+      </span>
+    </term>
+    <term id="278" lemma="Japan">
+      <span>
+        <target id="278"/>
+      </span>
+    </term>
+    <term id="279" lemma=")">
+      <span>
+        <target id="279"/>
+      </span>
+    </term>
+    <term id="280" lemma="1:16.61">
+      <span>
+        <target id="280"/>
+      </span>
+    </term>
+    <term id="281" lemma="7.">
+      <span>
+        <target id="281"/>
+      </span>
+    </term>
+    <term id="282" lemma="Gerard">
+      <span>
+        <target id="282"/>
+      </span>
+    </term>
+    <term id="283" lemma="Van">
+      <span>
+        <target id="283"/>
+      </span>
+    </term>
+    <term id="284" lemma="Velde">
+      <span>
+        <target id="284"/>
+      </span>
+    </term>
+    <term id="285" lemma="(">
+      <span>
+        <target id="285"/>
+      </span>
+    </term>
+    <term id="286" lemma="Netherlands">
+      <span>
+        <target id="286"/>
+      </span>
+    </term>
+    <term id="287" lemma=")">
+      <span>
+        <target id="287"/>
+      </span>
+    </term>
+    <term id="288" lemma="1:16.63">
+      <span>
+        <target id="288"/>
+      </span>
+    </term>
+    <term id="289" lemma="8.">
+      <span>
+        <target id="289"/>
+      </span>
+    </term>
+    <term id="290" lemma="Kim">
+      <span>
+        <target id="290"/>
+      </span>
+    </term>
+    <term id="291" lemma="Yoon-man">
+      <span>
+        <target id="291"/>
+      </span>
+    </term>
+    <term id="292" lemma="(">
+      <span>
+        <target id="292"/>
+      </span>
+    </term>
+    <term id="293" lemma="South">
+      <span>
+        <target id="293"/>
+      </span>
+    </term>
+    <term id="294" lemma="Korea">
+      <span>
+        <target id="294"/>
+      </span>
+    </term>
+    <term id="295" lemma=")">
+      <span>
+        <target id="295"/>
+      </span>
+    </term>
+    <term id="296" lemma="1:16.75">
+      <span>
+        <target id="296"/>
+      </span>
+    </term>
+    <term id="297" lemma="9.">
+      <span>
+        <target id="297"/>
+      </span>
+    </term>
+    <term id="298" lemma="Jeremy">
+      <span>
+        <target id="298"/>
+      </span>
+    </term>
+    <term id="299" lemma="Wotherspoon">
+      <span>
+        <target id="299"/>
+      </span>
+    </term>
+    <term id="300" lemma="(">
+      <span>
+        <target id="300"/>
+      </span>
+    </term>
+    <term id="301" lemma="Canada">
+      <span>
+        <target id="301"/>
+      </span>
+    </term>
+    <term id="302" lemma=")">
+      <span>
+        <target id="302"/>
+      </span>
+    </term>
+    <term id="303" lemma="1:16.75">
+      <span>
+        <target id="303"/>
+      </span>
+    </term>
+    <term id="304" lemma="10.">
+      <span>
+        <target id="304"/>
+      </span>
+    </term>
+    <term id="305" lemma="Miyabe">
+      <span>
+        <target id="305"/>
+      </span>
+    </term>
+    <term id="306" lemma="Yasunori">
+      <span>
+        <target id="306"/>
+      </span>
+    </term>
+    <term id="307" lemma="(">
+      <span>
+        <target id="307"/>
+      </span>
+    </term>
+    <term id="308" lemma="Japan">
+      <span>
+        <target id="308"/>
+      </span>
+    </term>
+    <term id="309" lemma=")">
+      <span>
+        <target id="309"/>
+      </span>
+    </term>
+    <term id="310" lemma="1:16.86">
+      <span>
+        <target id="310"/>
+      </span>
+    </term>
+    <term id="311" lemma="Women">
+      <span>
+        <target id="311"/>
+      </span>
+    </term>
+    <term id="312" lemma="'s">
+      <span>
+        <target id="312"/>
+      </span>
+    </term>
+    <term id="313" lemma="1,000">
+      <span>
+        <target id="313"/>
+      </span>
+    </term>
+    <term id="314" lemma="metres">
+      <span>
+        <target id="314"/>
+      </span>
+    </term>
+    <term id="315" lemma="first">
+      <span>
+        <target id="315"/>
+      </span>
+    </term>
+    <term id="316" lemma="round">
+      <span>
+        <target id="316"/>
+      </span>
+    </term>
+    <term id="317" lemma=":">
+      <span>
+        <target id="317"/>
+      </span>
+    </term>
+    <term id="318" lemma="1.">
+      <span>
+        <target id="318"/>
+      </span>
+    </term>
+    <term id="319" lemma="Franziska">
+      <span>
+        <target id="319"/>
+      </span>
+    </term>
+    <term id="320" lemma="Schenk">
+      <span>
+        <target id="320"/>
+      </span>
+    </term>
+    <term id="321" lemma="(">
+      <span>
+        <target id="321"/>
+      </span>
+    </term>
+    <term id="322" lemma="Germany">
+      <span>
+        <target id="322"/>
+      </span>
+    </term>
+    <term id="323" lemma=")">
+      <span>
+        <target id="323"/>
+      </span>
+    </term>
+    <term id="324" lemma="1:23.17">
+      <span>
+        <target id="324"/>
+      </span>
+    </term>
+    <term id="325" lemma="2.">
+      <span>
+        <target id="325"/>
+      </span>
+    </term>
+    <term id="326" lemma="Kusunose">
+      <span>
+        <target id="326"/>
+      </span>
+    </term>
+    <term id="327" lemma="Shiho">
+      <span>
+        <target id="327"/>
+      </span>
+    </term>
+    <term id="328" lemma="(">
+      <span>
+        <target id="328"/>
+      </span>
+    </term>
+    <term id="329" lemma="Japan">
+      <span>
+        <target id="329"/>
+      </span>
+    </term>
+    <term id="330" lemma=")">
+      <span>
+        <target id="330"/>
+      </span>
+    </term>
+    <term id="331" lemma="1:24.77">
+      <span>
+        <target id="331"/>
+      </span>
+    </term>
+    <term id="332" lemma="3.">
+      <span>
+        <target id="332"/>
+      </span>
+    </term>
+    <term id="333" lemma="Marianne">
+      <span>
+        <target id="333"/>
+      </span>
+    </term>
+    <term id="334" lemma="Timmer">
+      <span>
+        <target id="334"/>
+      </span>
+    </term>
+    <term id="335" lemma="(">
+      <span>
+        <target id="335"/>
+      </span>
+    </term>
+    <term id="336" lemma="Netherlands">
+      <span>
+        <target id="336"/>
+      </span>
+    </term>
+    <term id="337" lemma=")">
+      <span>
+        <target id="337"/>
+      </span>
+    </term>
+    <term id="338" lemma="1:24.86">
+      <span>
+        <target id="338"/>
+      </span>
+    </term>
+    <term id="339" lemma="4.">
+      <span>
+        <target id="339"/>
+      </span>
+    </term>
+    <term id="340" lemma="Anka">
+      <span>
+        <target id="340"/>
+      </span>
+    </term>
+    <term id="341" lemma="Baier">
+      <span>
+        <target id="341"/>
+      </span>
+    </term>
+    <term id="342" lemma="(">
+      <span>
+        <target id="342"/>
+      </span>
+    </term>
+    <term id="343" lemma="Germany">
+      <span>
+        <target id="343"/>
+      </span>
+    </term>
+    <term id="344" lemma=")">
+      <span>
+        <target id="344"/>
+      </span>
+    </term>
+    <term id="345" lemma="1:25.16">
+      <span>
+        <target id="345"/>
+      </span>
+    </term>
+    <term id="346" lemma="5.">
+      <span>
+        <target id="346"/>
+      </span>
+    </term>
+    <term id="347" lemma="Becky">
+      <span>
+        <target id="347"/>
+      </span>
+    </term>
+    <term id="348" lemma="Sundstrom">
+      <span>
+        <target id="348"/>
+      </span>
+    </term>
+    <term id="349" lemma="(">
+      <span>
+        <target id="349"/>
+      </span>
+    </term>
+    <term id="350" lemma="U.S.">
+      <span>
+        <target id="350"/>
+      </span>
+    </term>
+    <term id="351" lemma=")">
+      <span>
+        <target id="351"/>
+      </span>
+    </term>
+    <term id="352" lemma="1:25.39">
+      <span>
+        <target id="352"/>
+      </span>
+    </term>
+    <term id="353" lemma="6.">
+      <span>
+        <target id="353"/>
+      </span>
+    </term>
+    <term id="354" lemma="Shimazaki">
+      <span>
+        <target id="354"/>
+      </span>
+    </term>
+    <term id="355" lemma="Kyoko">
+      <span>
+        <target id="355"/>
+      </span>
+    </term>
+    <term id="356" lemma="(">
+      <span>
+        <target id="356"/>
+      </span>
+    </term>
+    <term id="357" lemma="Japan">
+      <span>
+        <target id="357"/>
+      </span>
+    </term>
+    <term id="358" lemma=")">
+      <span>
+        <target id="358"/>
+      </span>
+    </term>
+    <term id="359" lemma="1:25.51">
+      <span>
+        <target id="359"/>
+      </span>
+    </term>
+    <term id="360" lemma="7.">
+      <span>
+        <target id="360"/>
+      </span>
+    </term>
+    <term id="361" lemma="Oksana">
+      <span>
+        <target id="361"/>
+      </span>
+    </term>
+    <term id="362" lemma="Ravllova">
+      <span>
+        <target id="362"/>
+      </span>
+    </term>
+    <term id="363" lemma="(">
+      <span>
+        <target id="363"/>
+      </span>
+    </term>
+    <term id="364" lemma="Russia">
+      <span>
+        <target id="364"/>
+      </span>
+    </term>
+    <term id="365" lemma=")">
+      <span>
+        <target id="365"/>
+      </span>
+    </term>
+    <term id="366" lemma="1:25.55">
+      <span>
+        <target id="366"/>
+      </span>
+    </term>
+    <term id="367" lemma="8.">
+      <span>
+        <target id="367"/>
+      </span>
+    </term>
+    <term id="368" lemma="Sammiya">
+      <span>
+        <target id="368"/>
+      </span>
+    </term>
+    <term id="369" lemma="Eriko">
+      <span>
+        <target id="369"/>
+      </span>
+    </term>
+    <term id="370" lemma="(">
+      <span>
+        <target id="370"/>
+      </span>
+    </term>
+    <term id="371" lemma="Japan">
+      <span>
+        <target id="371"/>
+      </span>
+    </term>
+    <term id="372" lemma=")">
+      <span>
+        <target id="372"/>
+      </span>
+    </term>
+    <term id="373" lemma="1:25.79">
+      <span>
+        <target id="373"/>
+      </span>
+    </term>
+    <term id="374" lemma="9.">
+      <span>
+        <target id="374"/>
+      </span>
+    </term>
+    <term id="375" lemma="Chris">
+      <span>
+        <target id="375"/>
+      </span>
+    </term>
+    <term id="376" lemma="Witty">
+      <span>
+        <target id="376"/>
+      </span>
+    </term>
+    <term id="377" lemma="(">
+      <span>
+        <target id="377"/>
+      </span>
+    </term>
+    <term id="378" lemma="U.S.">
+      <span>
+        <target id="378"/>
+      </span>
+    </term>
+    <term id="379" lemma=")">
+      <span>
+        <target id="379"/>
+      </span>
+    </term>
+    <term id="380" lemma="1:25.85">
+      <span>
+        <target id="380"/>
+      </span>
+    </term>
+    <term id="381" lemma="10.">
+      <span>
+        <target id="381"/>
+      </span>
+    </term>
+    <term id="382" lemma="Xue">
+      <span>
+        <target id="382"/>
+      </span>
+    </term>
+    <term id="383" lemma="Rulhong">
+      <span>
+        <target id="383"/>
+      </span>
+    </term>
+    <term id="384" lemma="(">
+      <span>
+        <target id="384"/>
+      </span>
+    </term>
+    <term id="385" lemma="China">
+      <span>
+        <target id="385"/>
+      </span>
+    </term>
+    <term id="386" lemma=")">
+      <span>
+        <target id="386"/>
+      </span>
+    </term>
+    <term id="387" lemma="1:25.89">
+      <span>
+        <target id="387"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="4498">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="4"/>
+          <target id="5"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4499">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="10"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4500">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/South_Korea" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+          <target id="13"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4501">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Speed_Skating_World_Cup" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="22"/>
+          <target id="23"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4502">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="40"/>
+          <target id="41"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4503">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="43"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4504">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="50"/>
+          <target id="51"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4505">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/South_Korea" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="53"/>
+          <target id="54"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4506">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="60"/>
+          <target id="61"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4507">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Norway" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="63"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4508">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="69"/>
+          <target id="70"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4509">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="72"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4510">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Sergey_Klevchenya" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="78"/>
+          <target id="79"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4511">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Russia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="81"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4512">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="87"/>
+          <target id="88"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4513">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="90"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4514">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Casey_FitzRandolph" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="96"/>
+          <target id="97"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4515">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="99"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4516">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Sylvain_Bouchard" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="105"/>
+          <target id="106"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4517">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Canada" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="108"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4518">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Kim_Yoon-man" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="114"/>
+          <target id="115"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4519">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/South_Korea" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="117"/>
+          <target id="118"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4520">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="124"/>
+          <target id="125"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4521">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="127"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4522">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="140"/>
+          <target id="141"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4523">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/People's_Republic_of_China" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="143"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4524">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="149"/>
+          <target id="150"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4525">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Russia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="152"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4526">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Franziska_Schenk" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="158"/>
+          <target id="159"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4527">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="161"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4528">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="167"/>
+          <target id="168"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4529">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="170"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4530">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="176"/>
+          <target id="177"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4531">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="179"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4532">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Marianne_Timmer" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="185"/>
+          <target id="186"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4533">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Netherlands" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="188"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4534">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="194"/>
+          <target id="195"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4535">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/People's_Republic_of_China" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="197"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4536">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="203"/>
+          <target id="204"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4537">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Russia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="206"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4538">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chris_Witty" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="212"/>
+          <target id="213"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4539">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="215"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4540">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="221"/>
+          <target id="222"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4541">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="224"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4542">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Sylvain_Bouchard" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="236"/>
+          <target id="237"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4543">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Canada" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="239"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4544">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Sergey_Klevchenya" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="246"/>
+          <target id="247"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4545">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Russia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="249"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4546">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Jan_Bos" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="253"/>
+          <target id="254"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4547">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Netherlands" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="256"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4548">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="260"/>
+          <target id="261"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4549">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Norway" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="263"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4550">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="267"/>
+          <target id="268"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4551">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/South_Korea" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="270"/>
+          <target id="271"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4552">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="275"/>
+          <target id="276"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4553">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="278"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4554">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Gerard_van_Velde" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="282"/>
+          <target id="283"/>
+          <target id="284"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4555">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Netherlands" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="286"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4556">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Kim_Yoon-man" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="290"/>
+          <target id="291"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4557">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/South_Korea" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="293"/>
+          <target id="294"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4558">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Jeremy_Wotherspoon" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="298"/>
+          <target id="299"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4559">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Canada" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="301"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4560">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="305"/>
+          <target id="306"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4561">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="308"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4562">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Franziska_Schenk" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="319"/>
+          <target id="320"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4563">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="322"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4564">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="326"/>
+          <target id="327"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4565">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="329"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4566">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Marianne_Timmer" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="333"/>
+          <target id="334"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4567">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Netherlands" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="336"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4568">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="340"/>
+          <target id="341"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4569">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="343"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4570">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="347"/>
+          <target id="348"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4571">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="350"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4572">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="354"/>
+          <target id="355"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4573">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="357"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4574">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="361"/>
+          <target id="362"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4575">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Russia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="364"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4576">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="368"/>
+          <target id="369"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4577">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="371"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4578">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chris_Witty" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="375"/>
+          <target id="376"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4579">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="378"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4580">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="382"/>
+          <target id="383"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4581">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/People's_Republic_of_China" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="385"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

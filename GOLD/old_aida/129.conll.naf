@@ -1,0 +1,567 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[German Santa in bank nearly gets arrested . HANOVER , Germany 1996-12-06 A Santa Claus distributing presents to workers in a German bank on Friday nearly ended up behind bars when a passing police patrol thought he was a robber in disguise . The man , doing his rounds in the northern city of Hanover on the day when German children traditionally receive small presents from Saint Nicholas , convinced police eventually that he was genuine . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1291testb" filename="1291testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="6"><![CDATA[German]]></wf>
+    <wf id="1" sent="1" para="1" offset="6" length="5"><![CDATA[Santa]]></wf>
+    <wf id="2" sent="1" para="1" offset="11" length="2"><![CDATA[in]]></wf>
+    <wf id="3" sent="1" para="1" offset="13" length="4"><![CDATA[bank]]></wf>
+    <wf id="4" sent="1" para="1" offset="17" length="6"><![CDATA[nearly]]></wf>
+    <wf id="5" sent="1" para="1" offset="23" length="4"><![CDATA[gets]]></wf>
+    <wf id="6" sent="1" para="1" offset="27" length="8"><![CDATA[arrested]]></wf>
+    <wf id="7" sent="1" para="1" offset="35" length="1"><![CDATA[.]]></wf>
+    <wf id="8" sent="1" para="1" offset="36" length="7"><![CDATA[HANOVER]]></wf>
+    <wf id="9" sent="1" para="1" offset="43" length="1"><![CDATA[,]]></wf>
+    <wf id="10" sent="1" para="1" offset="44" length="7"><![CDATA[Germany]]></wf>
+    <wf id="11" sent="1" para="1" offset="51" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="12" sent="1" para="1" offset="61" length="1"><![CDATA[A]]></wf>
+    <wf id="13" sent="1" para="1" offset="62" length="5"><![CDATA[Santa]]></wf>
+    <wf id="14" sent="1" para="1" offset="67" length="5"><![CDATA[Claus]]></wf>
+    <wf id="15" sent="1" para="1" offset="72" length="12"><![CDATA[distributing]]></wf>
+    <wf id="16" sent="1" para="1" offset="84" length="8"><![CDATA[presents]]></wf>
+    <wf id="17" sent="1" para="1" offset="92" length="2"><![CDATA[to]]></wf>
+    <wf id="18" sent="1" para="1" offset="94" length="7"><![CDATA[workers]]></wf>
+    <wf id="19" sent="1" para="1" offset="101" length="2"><![CDATA[in]]></wf>
+    <wf id="20" sent="1" para="1" offset="103" length="1"><![CDATA[a]]></wf>
+    <wf id="21" sent="1" para="1" offset="104" length="6"><![CDATA[German]]></wf>
+    <wf id="22" sent="1" para="1" offset="110" length="4"><![CDATA[bank]]></wf>
+    <wf id="23" sent="1" para="1" offset="114" length="2"><![CDATA[on]]></wf>
+    <wf id="24" sent="1" para="1" offset="116" length="6"><![CDATA[Friday]]></wf>
+    <wf id="25" sent="1" para="1" offset="122" length="6"><![CDATA[nearly]]></wf>
+    <wf id="26" sent="1" para="1" offset="128" length="5"><![CDATA[ended]]></wf>
+    <wf id="27" sent="1" para="1" offset="133" length="2"><![CDATA[up]]></wf>
+    <wf id="28" sent="1" para="1" offset="135" length="6"><![CDATA[behind]]></wf>
+    <wf id="29" sent="1" para="1" offset="141" length="4"><![CDATA[bars]]></wf>
+    <wf id="30" sent="1" para="1" offset="145" length="4"><![CDATA[when]]></wf>
+    <wf id="31" sent="1" para="1" offset="149" length="1"><![CDATA[a]]></wf>
+    <wf id="32" sent="1" para="1" offset="150" length="7"><![CDATA[passing]]></wf>
+    <wf id="33" sent="1" para="1" offset="157" length="6"><![CDATA[police]]></wf>
+    <wf id="34" sent="1" para="1" offset="163" length="6"><![CDATA[patrol]]></wf>
+    <wf id="35" sent="1" para="1" offset="169" length="7"><![CDATA[thought]]></wf>
+    <wf id="36" sent="1" para="1" offset="176" length="2"><![CDATA[he]]></wf>
+    <wf id="37" sent="1" para="1" offset="178" length="3"><![CDATA[was]]></wf>
+    <wf id="38" sent="1" para="1" offset="181" length="1"><![CDATA[a]]></wf>
+    <wf id="39" sent="1" para="1" offset="182" length="6"><![CDATA[robber]]></wf>
+    <wf id="40" sent="1" para="1" offset="188" length="2"><![CDATA[in]]></wf>
+    <wf id="41" sent="1" para="1" offset="190" length="8"><![CDATA[disguise]]></wf>
+    <wf id="42" sent="1" para="1" offset="198" length="1"><![CDATA[.]]></wf>
+    <wf id="43" sent="1" para="1" offset="199" length="3"><![CDATA[The]]></wf>
+    <wf id="44" sent="1" para="1" offset="202" length="3"><![CDATA[man]]></wf>
+    <wf id="45" sent="1" para="1" offset="205" length="1"><![CDATA[,]]></wf>
+    <wf id="46" sent="1" para="1" offset="206" length="5"><![CDATA[doing]]></wf>
+    <wf id="47" sent="1" para="1" offset="211" length="3"><![CDATA[his]]></wf>
+    <wf id="48" sent="1" para="1" offset="214" length="6"><![CDATA[rounds]]></wf>
+    <wf id="49" sent="1" para="1" offset="220" length="2"><![CDATA[in]]></wf>
+    <wf id="50" sent="1" para="1" offset="222" length="3"><![CDATA[the]]></wf>
+    <wf id="51" sent="1" para="1" offset="225" length="8"><![CDATA[northern]]></wf>
+    <wf id="52" sent="1" para="1" offset="233" length="4"><![CDATA[city]]></wf>
+    <wf id="53" sent="1" para="1" offset="237" length="2"><![CDATA[of]]></wf>
+    <wf id="54" sent="1" para="1" offset="239" length="7"><![CDATA[Hanover]]></wf>
+    <wf id="55" sent="1" para="1" offset="246" length="2"><![CDATA[on]]></wf>
+    <wf id="56" sent="1" para="1" offset="248" length="3"><![CDATA[the]]></wf>
+    <wf id="57" sent="1" para="1" offset="251" length="3"><![CDATA[day]]></wf>
+    <wf id="58" sent="1" para="1" offset="254" length="4"><![CDATA[when]]></wf>
+    <wf id="59" sent="1" para="1" offset="258" length="6"><![CDATA[German]]></wf>
+    <wf id="60" sent="1" para="1" offset="264" length="8"><![CDATA[children]]></wf>
+    <wf id="61" sent="1" para="1" offset="272" length="13"><![CDATA[traditionally]]></wf>
+    <wf id="62" sent="1" para="1" offset="285" length="7"><![CDATA[receive]]></wf>
+    <wf id="63" sent="1" para="1" offset="292" length="5"><![CDATA[small]]></wf>
+    <wf id="64" sent="1" para="1" offset="297" length="8"><![CDATA[presents]]></wf>
+    <wf id="65" sent="1" para="1" offset="305" length="4"><![CDATA[from]]></wf>
+    <wf id="66" sent="1" para="1" offset="309" length="5"><![CDATA[Saint]]></wf>
+    <wf id="67" sent="1" para="1" offset="314" length="8"><![CDATA[Nicholas]]></wf>
+    <wf id="68" sent="1" para="1" offset="322" length="1"><![CDATA[,]]></wf>
+    <wf id="69" sent="1" para="1" offset="323" length="9"><![CDATA[convinced]]></wf>
+    <wf id="70" sent="1" para="1" offset="332" length="6"><![CDATA[police]]></wf>
+    <wf id="71" sent="1" para="1" offset="338" length="10"><![CDATA[eventually]]></wf>
+    <wf id="72" sent="1" para="1" offset="348" length="4"><![CDATA[that]]></wf>
+    <wf id="73" sent="1" para="1" offset="352" length="2"><![CDATA[he]]></wf>
+    <wf id="74" sent="1" para="1" offset="354" length="3"><![CDATA[was]]></wf>
+    <wf id="75" sent="1" para="1" offset="357" length="7"><![CDATA[genuine]]></wf>
+    <wf id="76" sent="1" para="1" offset="364" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="German">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="Santa">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="in">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="bank">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="nearly">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="gets">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="arrested">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma=".">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="HANOVER">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma=",">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="Germany">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="1996-12-06">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="A">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Santa">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="Claus">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="distributing">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="presents">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="to">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="workers">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="in">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="a">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="German">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="bank">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="on">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="Friday">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="nearly">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="ended">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="up">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="behind">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="bars">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="when">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="a">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="passing">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="police">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="patrol">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="thought">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="he">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="was">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="a">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="robber">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="in">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="disguise">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma=".">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="The">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="man">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma=",">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="doing">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="his">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="rounds">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="in">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="the">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="northern">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="city">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="of">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="Hanover">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="on">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="the">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="day">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="when">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="German">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="children">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="traditionally">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="receive">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="small">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="presents">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="from">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="Saint">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="Nicholas">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma=",">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="convinced">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="police">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="eventually">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="that">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="he">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="was">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="genuine">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma=".">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="3061">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="0"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3062">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Santa_Claus" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3063">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Hanover" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="8"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3064">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="10"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3065">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Santa_Claus" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="13"/>
+          <target id="14"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3066">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="21"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3067">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Hanover" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="54"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3068">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="59"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3069">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Saint_Nicholas" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="66"/>
+          <target id="67"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

@@ -1,0 +1,2916 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[CRICKET - PAKISTAN V NEW ZEALAND ONE-DAY SCOREBOARD . [ CORRECTED 14:06 GMT ] SIALKOT , Pakistan 1996-12-06 Scoreboard in the second one-day cricket international between Pakistan and New Zealand on Friday : Pakistan Saeed Anwar run out 91 ( corrects from 90 ) Zahoor Elahi b Cairns 86 ( corrects from 87 ) Ijaz Ahmad c Spearman b Vaughan 59 Inzamamul Haq st Germon b Astle 2 Wasim Akram b Harris 4 Shahid Afridi b Harris 2 Moin Khan c Astle b Harris 1 Waqar Younis st Germon b Harris 0 Saqlain Mushtaq b Harris 2 Mushtaq Ahmad not out 5 Salim Malik not out 1 Extras ( lb-8 nb-2 w-14 ) 24 Total ( for 9 wickets in 47 overs ) 277 Fall of wicket : 1-177 ( corrects from 1-178 ) 2-225 3-240 4-247 5-252 6-260 7-261 8-269 9-276 Bowling : Doull 8-1-60-0 ( w-3 ) , Kennedy 3-0-24-0 ( w-7 nb-1 ) , Cairns 8-1-35-1 ( w-2 ) , Vaughan 9-1-55-1 , Harris 10-0-42-5 ( w-1 ) , Astle 9-0-53-1 ( w-1 nb-1 ) New Zealand innings B. Young c Moin Khan b Waqar 5 C. Spearman c Moin Khan b Wasim 0 A. Parore c Ijaz Ahmad b Saqlain 37 S. Fleming c and b Afridi 88 C. Cairns b Saqlain 10 N. Astle c Ijaz Ahmad b Salim Malik 20 C. Harris lbw b Wasim 22 L. Germon lbw b Afridi 2 J. Vaughan c Moin Khan b Wasim 13 S. Doull c subs ( M. Wasim ) b Waqar 1 R. Kennedy not out 7 Extras ( b-9 lb-3 w-12 nb-2 ) 26 Total ( all out in 42.1 overs ) 231 Fall of wickets : 1-3 2-7 3-125 4-146 5-170 6-190 7-195 8-213 9-216 . Bowling : Wasim Akram 8.1-0-43-3 ( 9w , 1nb ) , Waqar Younis 6-0-32-2 ( 2w , 1nb ) , Saqlain Mushtaq 8-0-54-2 , Mushtaq Ahmad 10-0-42-0 ( 1w ) , Shahid Afridi 7-0-40-2 , Salim Malik 2.5-0-8-1 , Ijaz Ahmad 0.1-0-0-0 . Result : Pakistan won by 46 runs . Third one-day match : December 8 , in Karachi . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1168testb" filename="1168testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="7"><![CDATA[CRICKET]]></wf>
+    <wf id="2" sent="1" para="1" offset="7" length="1"><![CDATA[-]]></wf>
+    <wf id="3" sent="1" para="1" offset="8" length="8"><![CDATA[PAKISTAN]]></wf>
+    <wf id="4" sent="1" para="1" offset="16" length="1"><![CDATA[V]]></wf>
+    <wf id="5" sent="1" para="1" offset="17" length="3"><![CDATA[NEW]]></wf>
+    <wf id="6" sent="1" para="1" offset="20" length="7"><![CDATA[ZEALAND]]></wf>
+    <wf id="7" sent="1" para="1" offset="27" length="7"><![CDATA[ONE-DAY]]></wf>
+    <wf id="8" sent="1" para="1" offset="34" length="10"><![CDATA[SCOREBOARD]]></wf>
+    <wf id="9" sent="1" para="1" offset="44" length="1"><![CDATA[.]]></wf>
+    <wf id="10" sent="1" para="1" offset="45" length="1"><![CDATA[[]]></wf>
+    <wf id="11" sent="1" para="1" offset="46" length="9"><![CDATA[CORRECTED]]></wf>
+    <wf id="12" sent="1" para="1" offset="55" length="5"><![CDATA[14:06]]></wf>
+    <wf id="13" sent="1" para="1" offset="60" length="3"><![CDATA[GMT]]></wf>
+    <wf id="14" sent="1" para="1" offset="63" length="1"><![CDATA[]]]></wf>
+    <wf id="15" sent="1" para="1" offset="64" length="7"><![CDATA[SIALKOT]]></wf>
+    <wf id="16" sent="1" para="1" offset="71" length="1"><![CDATA[,]]></wf>
+    <wf id="17" sent="1" para="1" offset="72" length="8"><![CDATA[Pakistan]]></wf>
+    <wf id="18" sent="1" para="1" offset="80" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="19" sent="1" para="1" offset="90" length="10"><![CDATA[Scoreboard]]></wf>
+    <wf id="20" sent="1" para="1" offset="100" length="2"><![CDATA[in]]></wf>
+    <wf id="21" sent="1" para="1" offset="102" length="3"><![CDATA[the]]></wf>
+    <wf id="22" sent="1" para="1" offset="105" length="6"><![CDATA[second]]></wf>
+    <wf id="23" sent="1" para="1" offset="111" length="7"><![CDATA[one-day]]></wf>
+    <wf id="24" sent="1" para="1" offset="118" length="7"><![CDATA[cricket]]></wf>
+    <wf id="25" sent="1" para="1" offset="125" length="13"><![CDATA[international]]></wf>
+    <wf id="26" sent="1" para="1" offset="138" length="7"><![CDATA[between]]></wf>
+    <wf id="27" sent="1" para="1" offset="145" length="8"><![CDATA[Pakistan]]></wf>
+    <wf id="28" sent="1" para="1" offset="153" length="3"><![CDATA[and]]></wf>
+    <wf id="29" sent="1" para="1" offset="156" length="3"><![CDATA[New]]></wf>
+    <wf id="30" sent="1" para="1" offset="159" length="7"><![CDATA[Zealand]]></wf>
+    <wf id="31" sent="1" para="1" offset="166" length="2"><![CDATA[on]]></wf>
+    <wf id="32" sent="1" para="1" offset="168" length="6"><![CDATA[Friday]]></wf>
+    <wf id="33" sent="1" para="1" offset="174" length="1"><![CDATA[:]]></wf>
+    <wf id="34" sent="1" para="1" offset="175" length="8"><![CDATA[Pakistan]]></wf>
+    <wf id="35" sent="1" para="1" offset="183" length="5"><![CDATA[Saeed]]></wf>
+    <wf id="36" sent="1" para="1" offset="188" length="5"><![CDATA[Anwar]]></wf>
+    <wf id="37" sent="1" para="1" offset="193" length="3"><![CDATA[run]]></wf>
+    <wf id="38" sent="1" para="1" offset="196" length="3"><![CDATA[out]]></wf>
+    <wf id="39" sent="1" para="1" offset="199" length="2"><![CDATA[91]]></wf>
+    <wf id="40" sent="1" para="1" offset="201" length="1"><![CDATA[(]]></wf>
+    <wf id="41" sent="1" para="1" offset="202" length="8"><![CDATA[corrects]]></wf>
+    <wf id="42" sent="1" para="1" offset="210" length="4"><![CDATA[from]]></wf>
+    <wf id="43" sent="1" para="1" offset="214" length="2"><![CDATA[90]]></wf>
+    <wf id="44" sent="1" para="1" offset="216" length="1"><![CDATA[)]]></wf>
+    <wf id="45" sent="1" para="1" offset="217" length="6"><![CDATA[Zahoor]]></wf>
+    <wf id="46" sent="1" para="1" offset="223" length="5"><![CDATA[Elahi]]></wf>
+    <wf id="47" sent="1" para="1" offset="228" length="1"><![CDATA[b]]></wf>
+    <wf id="48" sent="1" para="1" offset="229" length="6"><![CDATA[Cairns]]></wf>
+    <wf id="49" sent="1" para="1" offset="235" length="2"><![CDATA[86]]></wf>
+    <wf id="50" sent="1" para="1" offset="237" length="1"><![CDATA[(]]></wf>
+    <wf id="51" sent="1" para="1" offset="238" length="8"><![CDATA[corrects]]></wf>
+    <wf id="52" sent="1" para="1" offset="246" length="4"><![CDATA[from]]></wf>
+    <wf id="53" sent="1" para="1" offset="250" length="2"><![CDATA[87]]></wf>
+    <wf id="54" sent="1" para="1" offset="252" length="1"><![CDATA[)]]></wf>
+    <wf id="55" sent="1" para="1" offset="253" length="4"><![CDATA[Ijaz]]></wf>
+    <wf id="56" sent="1" para="1" offset="257" length="5"><![CDATA[Ahmad]]></wf>
+    <wf id="57" sent="1" para="1" offset="262" length="1"><![CDATA[c]]></wf>
+    <wf id="58" sent="1" para="1" offset="263" length="8"><![CDATA[Spearman]]></wf>
+    <wf id="59" sent="1" para="1" offset="271" length="1"><![CDATA[b]]></wf>
+    <wf id="60" sent="1" para="1" offset="272" length="7"><![CDATA[Vaughan]]></wf>
+    <wf id="61" sent="1" para="1" offset="279" length="2"><![CDATA[59]]></wf>
+    <wf id="62" sent="1" para="1" offset="281" length="9"><![CDATA[Inzamamul]]></wf>
+    <wf id="63" sent="1" para="1" offset="290" length="3"><![CDATA[Haq]]></wf>
+    <wf id="64" sent="1" para="1" offset="293" length="2"><![CDATA[st]]></wf>
+    <wf id="65" sent="1" para="1" offset="295" length="6"><![CDATA[Germon]]></wf>
+    <wf id="66" sent="1" para="1" offset="301" length="1"><![CDATA[b]]></wf>
+    <wf id="67" sent="1" para="1" offset="302" length="5"><![CDATA[Astle]]></wf>
+    <wf id="68" sent="1" para="1" offset="307" length="1"><![CDATA[2]]></wf>
+    <wf id="69" sent="1" para="1" offset="308" length="5"><![CDATA[Wasim]]></wf>
+    <wf id="70" sent="1" para="1" offset="313" length="5"><![CDATA[Akram]]></wf>
+    <wf id="71" sent="1" para="1" offset="318" length="1"><![CDATA[b]]></wf>
+    <wf id="72" sent="1" para="1" offset="319" length="6"><![CDATA[Harris]]></wf>
+    <wf id="73" sent="1" para="1" offset="325" length="1"><![CDATA[4]]></wf>
+    <wf id="74" sent="1" para="1" offset="326" length="6"><![CDATA[Shahid]]></wf>
+    <wf id="75" sent="1" para="1" offset="332" length="6"><![CDATA[Afridi]]></wf>
+    <wf id="76" sent="1" para="1" offset="338" length="1"><![CDATA[b]]></wf>
+    <wf id="77" sent="1" para="1" offset="339" length="6"><![CDATA[Harris]]></wf>
+    <wf id="78" sent="1" para="1" offset="345" length="1"><![CDATA[2]]></wf>
+    <wf id="79" sent="1" para="1" offset="346" length="4"><![CDATA[Moin]]></wf>
+    <wf id="80" sent="1" para="1" offset="350" length="4"><![CDATA[Khan]]></wf>
+    <wf id="81" sent="1" para="1" offset="354" length="1"><![CDATA[c]]></wf>
+    <wf id="82" sent="1" para="1" offset="355" length="5"><![CDATA[Astle]]></wf>
+    <wf id="83" sent="1" para="1" offset="360" length="1"><![CDATA[b]]></wf>
+    <wf id="84" sent="1" para="1" offset="361" length="6"><![CDATA[Harris]]></wf>
+    <wf id="85" sent="1" para="1" offset="367" length="1"><![CDATA[1]]></wf>
+    <wf id="86" sent="1" para="1" offset="368" length="5"><![CDATA[Waqar]]></wf>
+    <wf id="87" sent="1" para="1" offset="373" length="6"><![CDATA[Younis]]></wf>
+    <wf id="88" sent="1" para="1" offset="379" length="2"><![CDATA[st]]></wf>
+    <wf id="89" sent="1" para="1" offset="381" length="6"><![CDATA[Germon]]></wf>
+    <wf id="90" sent="1" para="1" offset="387" length="1"><![CDATA[b]]></wf>
+    <wf id="91" sent="1" para="1" offset="388" length="6"><![CDATA[Harris]]></wf>
+    <wf id="92" sent="1" para="1" offset="394" length="1"><![CDATA[0]]></wf>
+    <wf id="93" sent="1" para="1" offset="395" length="7"><![CDATA[Saqlain]]></wf>
+    <wf id="94" sent="1" para="1" offset="402" length="7"><![CDATA[Mushtaq]]></wf>
+    <wf id="95" sent="1" para="1" offset="409" length="1"><![CDATA[b]]></wf>
+    <wf id="96" sent="1" para="1" offset="410" length="6"><![CDATA[Harris]]></wf>
+    <wf id="97" sent="1" para="1" offset="416" length="1"><![CDATA[2]]></wf>
+    <wf id="98" sent="1" para="1" offset="417" length="7"><![CDATA[Mushtaq]]></wf>
+    <wf id="99" sent="1" para="1" offset="424" length="5"><![CDATA[Ahmad]]></wf>
+    <wf id="100" sent="1" para="1" offset="429" length="3"><![CDATA[not]]></wf>
+    <wf id="101" sent="1" para="1" offset="432" length="3"><![CDATA[out]]></wf>
+    <wf id="102" sent="1" para="1" offset="435" length="1"><![CDATA[5]]></wf>
+    <wf id="103" sent="1" para="1" offset="436" length="5"><![CDATA[Salim]]></wf>
+    <wf id="104" sent="1" para="1" offset="441" length="5"><![CDATA[Malik]]></wf>
+    <wf id="105" sent="1" para="1" offset="446" length="3"><![CDATA[not]]></wf>
+    <wf id="106" sent="1" para="1" offset="449" length="3"><![CDATA[out]]></wf>
+    <wf id="107" sent="1" para="1" offset="452" length="1"><![CDATA[1]]></wf>
+    <wf id="108" sent="1" para="1" offset="453" length="6"><![CDATA[Extras]]></wf>
+    <wf id="109" sent="1" para="1" offset="459" length="1"><![CDATA[(]]></wf>
+    <wf id="110" sent="1" para="1" offset="460" length="4"><![CDATA[lb-8]]></wf>
+    <wf id="111" sent="1" para="1" offset="464" length="4"><![CDATA[nb-2]]></wf>
+    <wf id="112" sent="1" para="1" offset="468" length="4"><![CDATA[w-14]]></wf>
+    <wf id="113" sent="1" para="1" offset="472" length="1"><![CDATA[)]]></wf>
+    <wf id="114" sent="1" para="1" offset="473" length="2"><![CDATA[24]]></wf>
+    <wf id="115" sent="1" para="1" offset="475" length="5"><![CDATA[Total]]></wf>
+    <wf id="116" sent="1" para="1" offset="480" length="1"><![CDATA[(]]></wf>
+    <wf id="117" sent="1" para="1" offset="481" length="3"><![CDATA[for]]></wf>
+    <wf id="118" sent="1" para="1" offset="484" length="1"><![CDATA[9]]></wf>
+    <wf id="119" sent="1" para="1" offset="485" length="7"><![CDATA[wickets]]></wf>
+    <wf id="120" sent="1" para="1" offset="492" length="2"><![CDATA[in]]></wf>
+    <wf id="121" sent="1" para="1" offset="494" length="2"><![CDATA[47]]></wf>
+    <wf id="122" sent="1" para="1" offset="496" length="5"><![CDATA[overs]]></wf>
+    <wf id="123" sent="1" para="1" offset="501" length="1"><![CDATA[)]]></wf>
+    <wf id="124" sent="1" para="1" offset="502" length="3"><![CDATA[277]]></wf>
+    <wf id="125" sent="1" para="1" offset="505" length="4"><![CDATA[Fall]]></wf>
+    <wf id="126" sent="1" para="1" offset="509" length="2"><![CDATA[of]]></wf>
+    <wf id="127" sent="1" para="1" offset="511" length="6"><![CDATA[wicket]]></wf>
+    <wf id="128" sent="1" para="1" offset="517" length="1"><![CDATA[:]]></wf>
+    <wf id="129" sent="1" para="1" offset="518" length="5"><![CDATA[1-177]]></wf>
+    <wf id="130" sent="1" para="1" offset="523" length="1"><![CDATA[(]]></wf>
+    <wf id="131" sent="1" para="1" offset="524" length="8"><![CDATA[corrects]]></wf>
+    <wf id="132" sent="1" para="1" offset="532" length="4"><![CDATA[from]]></wf>
+    <wf id="133" sent="1" para="1" offset="536" length="5"><![CDATA[1-178]]></wf>
+    <wf id="134" sent="1" para="1" offset="541" length="1"><![CDATA[)]]></wf>
+    <wf id="135" sent="1" para="1" offset="542" length="5"><![CDATA[2-225]]></wf>
+    <wf id="136" sent="1" para="1" offset="547" length="5"><![CDATA[3-240]]></wf>
+    <wf id="137" sent="1" para="1" offset="552" length="5"><![CDATA[4-247]]></wf>
+    <wf id="138" sent="1" para="1" offset="557" length="5"><![CDATA[5-252]]></wf>
+    <wf id="139" sent="1" para="1" offset="562" length="5"><![CDATA[6-260]]></wf>
+    <wf id="140" sent="1" para="1" offset="567" length="5"><![CDATA[7-261]]></wf>
+    <wf id="141" sent="1" para="1" offset="572" length="5"><![CDATA[8-269]]></wf>
+    <wf id="142" sent="1" para="1" offset="577" length="5"><![CDATA[9-276]]></wf>
+    <wf id="143" sent="1" para="1" offset="582" length="7"><![CDATA[Bowling]]></wf>
+    <wf id="144" sent="1" para="1" offset="589" length="1"><![CDATA[:]]></wf>
+    <wf id="145" sent="1" para="1" offset="590" length="5"><![CDATA[Doull]]></wf>
+    <wf id="146" sent="1" para="1" offset="595" length="8"><![CDATA[8-1-60-0]]></wf>
+    <wf id="147" sent="1" para="1" offset="603" length="1"><![CDATA[(]]></wf>
+    <wf id="148" sent="1" para="1" offset="604" length="3"><![CDATA[w-3]]></wf>
+    <wf id="149" sent="1" para="1" offset="607" length="1"><![CDATA[)]]></wf>
+    <wf id="150" sent="1" para="1" offset="608" length="1"><![CDATA[,]]></wf>
+    <wf id="151" sent="1" para="1" offset="609" length="7"><![CDATA[Kennedy]]></wf>
+    <wf id="152" sent="1" para="1" offset="616" length="8"><![CDATA[3-0-24-0]]></wf>
+    <wf id="153" sent="1" para="1" offset="624" length="1"><![CDATA[(]]></wf>
+    <wf id="154" sent="1" para="1" offset="625" length="3"><![CDATA[w-7]]></wf>
+    <wf id="155" sent="1" para="1" offset="628" length="4"><![CDATA[nb-1]]></wf>
+    <wf id="156" sent="1" para="1" offset="632" length="1"><![CDATA[)]]></wf>
+    <wf id="157" sent="1" para="1" offset="633" length="1"><![CDATA[,]]></wf>
+    <wf id="158" sent="1" para="1" offset="634" length="6"><![CDATA[Cairns]]></wf>
+    <wf id="159" sent="1" para="1" offset="640" length="8"><![CDATA[8-1-35-1]]></wf>
+    <wf id="160" sent="1" para="1" offset="648" length="1"><![CDATA[(]]></wf>
+    <wf id="161" sent="1" para="1" offset="649" length="3"><![CDATA[w-2]]></wf>
+    <wf id="162" sent="1" para="1" offset="652" length="1"><![CDATA[)]]></wf>
+    <wf id="163" sent="1" para="1" offset="653" length="1"><![CDATA[,]]></wf>
+    <wf id="164" sent="1" para="1" offset="654" length="7"><![CDATA[Vaughan]]></wf>
+    <wf id="165" sent="1" para="1" offset="661" length="8"><![CDATA[9-1-55-1]]></wf>
+    <wf id="166" sent="1" para="1" offset="669" length="1"><![CDATA[,]]></wf>
+    <wf id="167" sent="1" para="1" offset="670" length="6"><![CDATA[Harris]]></wf>
+    <wf id="168" sent="1" para="1" offset="676" length="9"><![CDATA[10-0-42-5]]></wf>
+    <wf id="169" sent="1" para="1" offset="685" length="1"><![CDATA[(]]></wf>
+    <wf id="170" sent="1" para="1" offset="686" length="3"><![CDATA[w-1]]></wf>
+    <wf id="171" sent="1" para="1" offset="689" length="1"><![CDATA[)]]></wf>
+    <wf id="172" sent="1" para="1" offset="690" length="1"><![CDATA[,]]></wf>
+    <wf id="173" sent="1" para="1" offset="691" length="5"><![CDATA[Astle]]></wf>
+    <wf id="174" sent="1" para="1" offset="696" length="8"><![CDATA[9-0-53-1]]></wf>
+    <wf id="175" sent="1" para="1" offset="704" length="1"><![CDATA[(]]></wf>
+    <wf id="176" sent="1" para="1" offset="705" length="3"><![CDATA[w-1]]></wf>
+    <wf id="177" sent="1" para="1" offset="708" length="4"><![CDATA[nb-1]]></wf>
+    <wf id="178" sent="1" para="1" offset="712" length="1"><![CDATA[)]]></wf>
+    <wf id="179" sent="1" para="1" offset="713" length="3"><![CDATA[New]]></wf>
+    <wf id="180" sent="1" para="1" offset="716" length="7"><![CDATA[Zealand]]></wf>
+    <wf id="181" sent="1" para="1" offset="723" length="7"><![CDATA[innings]]></wf>
+    <wf id="182" sent="1" para="1" offset="730" length="2"><![CDATA[B.]]></wf>
+    <wf id="183" sent="1" para="1" offset="732" length="5"><![CDATA[Young]]></wf>
+    <wf id="184" sent="1" para="1" offset="737" length="1"><![CDATA[c]]></wf>
+    <wf id="185" sent="1" para="1" offset="738" length="4"><![CDATA[Moin]]></wf>
+    <wf id="186" sent="1" para="1" offset="742" length="4"><![CDATA[Khan]]></wf>
+    <wf id="187" sent="1" para="1" offset="746" length="1"><![CDATA[b]]></wf>
+    <wf id="188" sent="1" para="1" offset="747" length="5"><![CDATA[Waqar]]></wf>
+    <wf id="189" sent="1" para="1" offset="752" length="1"><![CDATA[5]]></wf>
+    <wf id="190" sent="1" para="1" offset="753" length="2"><![CDATA[C.]]></wf>
+    <wf id="191" sent="1" para="1" offset="755" length="8"><![CDATA[Spearman]]></wf>
+    <wf id="192" sent="1" para="1" offset="763" length="1"><![CDATA[c]]></wf>
+    <wf id="193" sent="1" para="1" offset="764" length="4"><![CDATA[Moin]]></wf>
+    <wf id="194" sent="1" para="1" offset="768" length="4"><![CDATA[Khan]]></wf>
+    <wf id="195" sent="1" para="1" offset="772" length="1"><![CDATA[b]]></wf>
+    <wf id="196" sent="1" para="1" offset="773" length="5"><![CDATA[Wasim]]></wf>
+    <wf id="197" sent="1" para="1" offset="778" length="1"><![CDATA[0]]></wf>
+    <wf id="198" sent="1" para="1" offset="779" length="2"><![CDATA[A.]]></wf>
+    <wf id="199" sent="1" para="1" offset="781" length="6"><![CDATA[Parore]]></wf>
+    <wf id="200" sent="1" para="1" offset="787" length="1"><![CDATA[c]]></wf>
+    <wf id="201" sent="1" para="1" offset="788" length="4"><![CDATA[Ijaz]]></wf>
+    <wf id="202" sent="1" para="1" offset="792" length="5"><![CDATA[Ahmad]]></wf>
+    <wf id="203" sent="1" para="1" offset="797" length="1"><![CDATA[b]]></wf>
+    <wf id="204" sent="1" para="1" offset="798" length="7"><![CDATA[Saqlain]]></wf>
+    <wf id="205" sent="1" para="1" offset="805" length="2"><![CDATA[37]]></wf>
+    <wf id="206" sent="1" para="1" offset="807" length="2"><![CDATA[S.]]></wf>
+    <wf id="207" sent="1" para="1" offset="809" length="7"><![CDATA[Fleming]]></wf>
+    <wf id="208" sent="1" para="1" offset="816" length="1"><![CDATA[c]]></wf>
+    <wf id="209" sent="1" para="1" offset="817" length="3"><![CDATA[and]]></wf>
+    <wf id="210" sent="1" para="1" offset="820" length="1"><![CDATA[b]]></wf>
+    <wf id="211" sent="1" para="1" offset="821" length="6"><![CDATA[Afridi]]></wf>
+    <wf id="212" sent="1" para="1" offset="827" length="2"><![CDATA[88]]></wf>
+    <wf id="213" sent="1" para="1" offset="829" length="2"><![CDATA[C.]]></wf>
+    <wf id="214" sent="1" para="1" offset="831" length="6"><![CDATA[Cairns]]></wf>
+    <wf id="215" sent="1" para="1" offset="837" length="1"><![CDATA[b]]></wf>
+    <wf id="216" sent="1" para="1" offset="838" length="7"><![CDATA[Saqlain]]></wf>
+    <wf id="217" sent="1" para="1" offset="845" length="2"><![CDATA[10]]></wf>
+    <wf id="218" sent="1" para="1" offset="847" length="2"><![CDATA[N.]]></wf>
+    <wf id="219" sent="1" para="1" offset="849" length="5"><![CDATA[Astle]]></wf>
+    <wf id="220" sent="1" para="1" offset="854" length="1"><![CDATA[c]]></wf>
+    <wf id="221" sent="1" para="1" offset="855" length="4"><![CDATA[Ijaz]]></wf>
+    <wf id="222" sent="1" para="1" offset="859" length="5"><![CDATA[Ahmad]]></wf>
+    <wf id="223" sent="1" para="1" offset="864" length="1"><![CDATA[b]]></wf>
+    <wf id="224" sent="1" para="1" offset="865" length="5"><![CDATA[Salim]]></wf>
+    <wf id="225" sent="1" para="1" offset="870" length="5"><![CDATA[Malik]]></wf>
+    <wf id="226" sent="1" para="1" offset="875" length="2"><![CDATA[20]]></wf>
+    <wf id="227" sent="1" para="1" offset="877" length="2"><![CDATA[C.]]></wf>
+    <wf id="228" sent="1" para="1" offset="879" length="6"><![CDATA[Harris]]></wf>
+    <wf id="229" sent="1" para="1" offset="885" length="3"><![CDATA[lbw]]></wf>
+    <wf id="230" sent="1" para="1" offset="888" length="1"><![CDATA[b]]></wf>
+    <wf id="231" sent="1" para="1" offset="889" length="5"><![CDATA[Wasim]]></wf>
+    <wf id="232" sent="1" para="1" offset="894" length="2"><![CDATA[22]]></wf>
+    <wf id="233" sent="1" para="1" offset="896" length="2"><![CDATA[L.]]></wf>
+    <wf id="234" sent="1" para="1" offset="898" length="6"><![CDATA[Germon]]></wf>
+    <wf id="235" sent="1" para="1" offset="904" length="3"><![CDATA[lbw]]></wf>
+    <wf id="236" sent="1" para="1" offset="907" length="1"><![CDATA[b]]></wf>
+    <wf id="237" sent="1" para="1" offset="908" length="6"><![CDATA[Afridi]]></wf>
+    <wf id="238" sent="1" para="1" offset="914" length="1"><![CDATA[2]]></wf>
+    <wf id="239" sent="1" para="1" offset="915" length="2"><![CDATA[J.]]></wf>
+    <wf id="240" sent="1" para="1" offset="917" length="7"><![CDATA[Vaughan]]></wf>
+    <wf id="241" sent="1" para="1" offset="924" length="1"><![CDATA[c]]></wf>
+    <wf id="242" sent="1" para="1" offset="925" length="4"><![CDATA[Moin]]></wf>
+    <wf id="243" sent="1" para="1" offset="929" length="4"><![CDATA[Khan]]></wf>
+    <wf id="244" sent="1" para="1" offset="933" length="1"><![CDATA[b]]></wf>
+    <wf id="245" sent="1" para="1" offset="934" length="5"><![CDATA[Wasim]]></wf>
+    <wf id="246" sent="1" para="1" offset="939" length="2"><![CDATA[13]]></wf>
+    <wf id="247" sent="1" para="1" offset="941" length="2"><![CDATA[S.]]></wf>
+    <wf id="248" sent="1" para="1" offset="943" length="5"><![CDATA[Doull]]></wf>
+    <wf id="249" sent="1" para="1" offset="948" length="1"><![CDATA[c]]></wf>
+    <wf id="250" sent="1" para="1" offset="949" length="4"><![CDATA[subs]]></wf>
+    <wf id="251" sent="1" para="1" offset="953" length="1"><![CDATA[(]]></wf>
+    <wf id="252" sent="1" para="1" offset="954" length="2"><![CDATA[M.]]></wf>
+    <wf id="253" sent="1" para="1" offset="956" length="5"><![CDATA[Wasim]]></wf>
+    <wf id="254" sent="1" para="1" offset="961" length="1"><![CDATA[)]]></wf>
+    <wf id="255" sent="1" para="1" offset="962" length="1"><![CDATA[b]]></wf>
+    <wf id="256" sent="1" para="1" offset="963" length="5"><![CDATA[Waqar]]></wf>
+    <wf id="257" sent="1" para="1" offset="968" length="1"><![CDATA[1]]></wf>
+    <wf id="258" sent="1" para="1" offset="969" length="2"><![CDATA[R.]]></wf>
+    <wf id="259" sent="1" para="1" offset="971" length="7"><![CDATA[Kennedy]]></wf>
+    <wf id="260" sent="1" para="1" offset="978" length="3"><![CDATA[not]]></wf>
+    <wf id="261" sent="1" para="1" offset="981" length="3"><![CDATA[out]]></wf>
+    <wf id="262" sent="1" para="1" offset="984" length="1"><![CDATA[7]]></wf>
+    <wf id="263" sent="1" para="1" offset="985" length="6"><![CDATA[Extras]]></wf>
+    <wf id="264" sent="1" para="1" offset="991" length="1"><![CDATA[(]]></wf>
+    <wf id="265" sent="1" para="1" offset="992" length="3"><![CDATA[b-9]]></wf>
+    <wf id="266" sent="1" para="1" offset="995" length="4"><![CDATA[lb-3]]></wf>
+    <wf id="267" sent="1" para="1" offset="999" length="4"><![CDATA[w-12]]></wf>
+    <wf id="268" sent="1" para="1" offset="1003" length="4"><![CDATA[nb-2]]></wf>
+    <wf id="269" sent="1" para="1" offset="1007" length="1"><![CDATA[)]]></wf>
+    <wf id="270" sent="1" para="1" offset="1008" length="2"><![CDATA[26]]></wf>
+    <wf id="271" sent="1" para="1" offset="1010" length="5"><![CDATA[Total]]></wf>
+    <wf id="272" sent="1" para="1" offset="1015" length="1"><![CDATA[(]]></wf>
+    <wf id="273" sent="1" para="1" offset="1016" length="3"><![CDATA[all]]></wf>
+    <wf id="274" sent="1" para="1" offset="1019" length="3"><![CDATA[out]]></wf>
+    <wf id="275" sent="1" para="1" offset="1022" length="2"><![CDATA[in]]></wf>
+    <wf id="276" sent="1" para="1" offset="1024" length="4"><![CDATA[42.1]]></wf>
+    <wf id="277" sent="1" para="1" offset="1028" length="5"><![CDATA[overs]]></wf>
+    <wf id="278" sent="1" para="1" offset="1033" length="1"><![CDATA[)]]></wf>
+    <wf id="279" sent="1" para="1" offset="1034" length="3"><![CDATA[231]]></wf>
+    <wf id="280" sent="1" para="1" offset="1037" length="4"><![CDATA[Fall]]></wf>
+    <wf id="281" sent="1" para="1" offset="1041" length="2"><![CDATA[of]]></wf>
+    <wf id="282" sent="1" para="1" offset="1043" length="7"><![CDATA[wickets]]></wf>
+    <wf id="283" sent="1" para="1" offset="1050" length="1"><![CDATA[:]]></wf>
+    <wf id="284" sent="1" para="1" offset="1051" length="3"><![CDATA[1-3]]></wf>
+    <wf id="285" sent="1" para="1" offset="1054" length="3"><![CDATA[2-7]]></wf>
+    <wf id="286" sent="1" para="1" offset="1057" length="5"><![CDATA[3-125]]></wf>
+    <wf id="287" sent="1" para="1" offset="1062" length="5"><![CDATA[4-146]]></wf>
+    <wf id="288" sent="1" para="1" offset="1067" length="5"><![CDATA[5-170]]></wf>
+    <wf id="289" sent="1" para="1" offset="1072" length="5"><![CDATA[6-190]]></wf>
+    <wf id="290" sent="1" para="1" offset="1077" length="5"><![CDATA[7-195]]></wf>
+    <wf id="291" sent="1" para="1" offset="1082" length="5"><![CDATA[8-213]]></wf>
+    <wf id="292" sent="1" para="1" offset="1087" length="5"><![CDATA[9-216]]></wf>
+    <wf id="293" sent="1" para="1" offset="1092" length="1"><![CDATA[.]]></wf>
+    <wf id="294" sent="1" para="1" offset="1093" length="7"><![CDATA[Bowling]]></wf>
+    <wf id="295" sent="1" para="1" offset="1100" length="1"><![CDATA[:]]></wf>
+    <wf id="296" sent="1" para="1" offset="1101" length="5"><![CDATA[Wasim]]></wf>
+    <wf id="297" sent="1" para="1" offset="1106" length="5"><![CDATA[Akram]]></wf>
+    <wf id="298" sent="1" para="1" offset="1111" length="10"><![CDATA[8.1-0-43-3]]></wf>
+    <wf id="299" sent="1" para="1" offset="1121" length="1"><![CDATA[(]]></wf>
+    <wf id="300" sent="1" para="1" offset="1122" length="2"><![CDATA[9w]]></wf>
+    <wf id="301" sent="1" para="1" offset="1124" length="1"><![CDATA[,]]></wf>
+    <wf id="302" sent="1" para="1" offset="1125" length="3"><![CDATA[1nb]]></wf>
+    <wf id="303" sent="1" para="1" offset="1128" length="1"><![CDATA[)]]></wf>
+    <wf id="304" sent="1" para="1" offset="1129" length="1"><![CDATA[,]]></wf>
+    <wf id="305" sent="1" para="1" offset="1130" length="5"><![CDATA[Waqar]]></wf>
+    <wf id="306" sent="1" para="1" offset="1135" length="6"><![CDATA[Younis]]></wf>
+    <wf id="307" sent="1" para="1" offset="1141" length="8"><![CDATA[6-0-32-2]]></wf>
+    <wf id="308" sent="1" para="1" offset="1149" length="1"><![CDATA[(]]></wf>
+    <wf id="309" sent="1" para="1" offset="1150" length="2"><![CDATA[2w]]></wf>
+    <wf id="310" sent="1" para="1" offset="1152" length="1"><![CDATA[,]]></wf>
+    <wf id="311" sent="1" para="1" offset="1153" length="3"><![CDATA[1nb]]></wf>
+    <wf id="312" sent="1" para="1" offset="1156" length="1"><![CDATA[)]]></wf>
+    <wf id="313" sent="1" para="1" offset="1157" length="1"><![CDATA[,]]></wf>
+    <wf id="314" sent="1" para="1" offset="1158" length="7"><![CDATA[Saqlain]]></wf>
+    <wf id="315" sent="1" para="1" offset="1165" length="7"><![CDATA[Mushtaq]]></wf>
+    <wf id="316" sent="1" para="1" offset="1172" length="8"><![CDATA[8-0-54-2]]></wf>
+    <wf id="317" sent="1" para="1" offset="1180" length="1"><![CDATA[,]]></wf>
+    <wf id="318" sent="1" para="1" offset="1181" length="7"><![CDATA[Mushtaq]]></wf>
+    <wf id="319" sent="1" para="1" offset="1188" length="5"><![CDATA[Ahmad]]></wf>
+    <wf id="320" sent="1" para="1" offset="1193" length="9"><![CDATA[10-0-42-0]]></wf>
+    <wf id="321" sent="1" para="1" offset="1202" length="1"><![CDATA[(]]></wf>
+    <wf id="322" sent="1" para="1" offset="1203" length="2"><![CDATA[1w]]></wf>
+    <wf id="323" sent="1" para="1" offset="1205" length="1"><![CDATA[)]]></wf>
+    <wf id="324" sent="1" para="1" offset="1206" length="1"><![CDATA[,]]></wf>
+    <wf id="325" sent="1" para="1" offset="1207" length="6"><![CDATA[Shahid]]></wf>
+    <wf id="326" sent="1" para="1" offset="1213" length="6"><![CDATA[Afridi]]></wf>
+    <wf id="327" sent="1" para="1" offset="1219" length="8"><![CDATA[7-0-40-2]]></wf>
+    <wf id="328" sent="1" para="1" offset="1227" length="1"><![CDATA[,]]></wf>
+    <wf id="329" sent="1" para="1" offset="1228" length="5"><![CDATA[Salim]]></wf>
+    <wf id="330" sent="1" para="1" offset="1233" length="5"><![CDATA[Malik]]></wf>
+    <wf id="331" sent="1" para="1" offset="1238" length="9"><![CDATA[2.5-0-8-1]]></wf>
+    <wf id="332" sent="1" para="1" offset="1247" length="1"><![CDATA[,]]></wf>
+    <wf id="333" sent="1" para="1" offset="1248" length="4"><![CDATA[Ijaz]]></wf>
+    <wf id="334" sent="1" para="1" offset="1252" length="5"><![CDATA[Ahmad]]></wf>
+    <wf id="335" sent="1" para="1" offset="1257" length="9"><![CDATA[0.1-0-0-0]]></wf>
+    <wf id="336" sent="1" para="1" offset="1266" length="1"><![CDATA[.]]></wf>
+    <wf id="337" sent="1" para="1" offset="1267" length="6"><![CDATA[Result]]></wf>
+    <wf id="338" sent="1" para="1" offset="1273" length="1"><![CDATA[:]]></wf>
+    <wf id="339" sent="1" para="1" offset="1274" length="8"><![CDATA[Pakistan]]></wf>
+    <wf id="340" sent="1" para="1" offset="1282" length="3"><![CDATA[won]]></wf>
+    <wf id="341" sent="1" para="1" offset="1285" length="2"><![CDATA[by]]></wf>
+    <wf id="342" sent="1" para="1" offset="1287" length="2"><![CDATA[46]]></wf>
+    <wf id="343" sent="1" para="1" offset="1289" length="4"><![CDATA[runs]]></wf>
+    <wf id="344" sent="1" para="1" offset="1293" length="1"><![CDATA[.]]></wf>
+    <wf id="345" sent="1" para="1" offset="1294" length="5"><![CDATA[Third]]></wf>
+    <wf id="346" sent="1" para="1" offset="1299" length="7"><![CDATA[one-day]]></wf>
+    <wf id="347" sent="1" para="1" offset="1306" length="5"><![CDATA[match]]></wf>
+    <wf id="348" sent="1" para="1" offset="1311" length="1"><![CDATA[:]]></wf>
+    <wf id="349" sent="1" para="1" offset="1312" length="8"><![CDATA[December]]></wf>
+    <wf id="350" sent="1" para="1" offset="1320" length="1"><![CDATA[8]]></wf>
+    <wf id="351" sent="1" para="1" offset="1321" length="1"><![CDATA[,]]></wf>
+    <wf id="352" sent="1" para="1" offset="1322" length="2"><![CDATA[in]]></wf>
+    <wf id="353" sent="1" para="1" offset="1324" length="7"><![CDATA[Karachi]]></wf>
+    <wf id="354" sent="1" para="1" offset="1331" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="CRICKET">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="-">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="PAKISTAN">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="V">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="NEW">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="ZEALAND">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="ONE-DAY">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="SCOREBOARD">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma=".">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="[">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="CORRECTED">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="14:06">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="GMT">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="]">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="SIALKOT">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma=",">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="Pakistan">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="1996-12-06">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="Scoreboard">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="in">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="the">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="second">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="one-day">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="cricket">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="international">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="between">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="Pakistan">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="and">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="New">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="Zealand">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="on">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="Friday">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma=":">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="Pakistan">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="Saeed">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="Anwar">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="run">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="out">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="91">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="(">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="corrects">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="from">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="90">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma=")">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="Zahoor">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="Elahi">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="b">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="Cairns">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="86">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="(">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="corrects">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="from">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="87">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma=")">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="Ijaz">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="Ahmad">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="c">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="Spearman">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="b">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="Vaughan">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="59">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="Inzamamul">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="Haq">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="st">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="Germon">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="b">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="Astle">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="2">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="Wasim">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="Akram">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="b">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="Harris">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="4">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="Shahid">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="Afridi">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="b">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="Harris">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="2">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="Moin">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="Khan">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="c">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="Astle">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="b">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="Harris">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="1">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="Waqar">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="Younis">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="st">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="Germon">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="b">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="Harris">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="0">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="Saqlain">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="Mushtaq">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="b">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="Harris">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="2">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="Mushtaq">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="Ahmad">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="not">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="out">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="5">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="Salim">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="Malik">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="not">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="out">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="1">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="Extras">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="(">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="lb-8">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="nb-2">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="w-14">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma=")">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="24">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="Total">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="(">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="for">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="9">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="wickets">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="in">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="47">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="overs">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma=")">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="277">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="Fall">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="of">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="wicket">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma=":">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="1-177">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="(">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="corrects">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="from">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="1-178">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma=")">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="2-225">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="3-240">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="4-247">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="5-252">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="6-260">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="7-261">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="8-269">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="9-276">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="Bowling">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma=":">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="Doull">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="8-1-60-0">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="(">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="w-3">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma=")">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma=",">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="Kennedy">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="3-0-24-0">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma="(">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="w-7">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="nb-1">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma=")">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma=",">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="Cairns">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="8-1-35-1">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="(">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="w-2">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma=")">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma=",">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="Vaughan">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="9-1-55-1">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma=",">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="Harris">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="10-0-42-5">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="(">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="w-1">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma=")">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma=",">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="Astle">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="9-0-53-1">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma="(">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="w-1">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma="nb-1">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma=")">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="New">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="Zealand">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="innings">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="B.">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="Young">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma="c">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="Moin">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma="Khan">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="b">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma="Waqar">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="5">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma="C.">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma="Spearman">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="c">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma="Moin">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma="Khan">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma="b">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma="Wasim">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="0">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma="A.">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma="Parore">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma="c">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+    <term id="201" lemma="Ijaz">
+      <span>
+        <target id="201"/>
+      </span>
+    </term>
+    <term id="202" lemma="Ahmad">
+      <span>
+        <target id="202"/>
+      </span>
+    </term>
+    <term id="203" lemma="b">
+      <span>
+        <target id="203"/>
+      </span>
+    </term>
+    <term id="204" lemma="Saqlain">
+      <span>
+        <target id="204"/>
+      </span>
+    </term>
+    <term id="205" lemma="37">
+      <span>
+        <target id="205"/>
+      </span>
+    </term>
+    <term id="206" lemma="S.">
+      <span>
+        <target id="206"/>
+      </span>
+    </term>
+    <term id="207" lemma="Fleming">
+      <span>
+        <target id="207"/>
+      </span>
+    </term>
+    <term id="208" lemma="c">
+      <span>
+        <target id="208"/>
+      </span>
+    </term>
+    <term id="209" lemma="and">
+      <span>
+        <target id="209"/>
+      </span>
+    </term>
+    <term id="210" lemma="b">
+      <span>
+        <target id="210"/>
+      </span>
+    </term>
+    <term id="211" lemma="Afridi">
+      <span>
+        <target id="211"/>
+      </span>
+    </term>
+    <term id="212" lemma="88">
+      <span>
+        <target id="212"/>
+      </span>
+    </term>
+    <term id="213" lemma="C.">
+      <span>
+        <target id="213"/>
+      </span>
+    </term>
+    <term id="214" lemma="Cairns">
+      <span>
+        <target id="214"/>
+      </span>
+    </term>
+    <term id="215" lemma="b">
+      <span>
+        <target id="215"/>
+      </span>
+    </term>
+    <term id="216" lemma="Saqlain">
+      <span>
+        <target id="216"/>
+      </span>
+    </term>
+    <term id="217" lemma="10">
+      <span>
+        <target id="217"/>
+      </span>
+    </term>
+    <term id="218" lemma="N.">
+      <span>
+        <target id="218"/>
+      </span>
+    </term>
+    <term id="219" lemma="Astle">
+      <span>
+        <target id="219"/>
+      </span>
+    </term>
+    <term id="220" lemma="c">
+      <span>
+        <target id="220"/>
+      </span>
+    </term>
+    <term id="221" lemma="Ijaz">
+      <span>
+        <target id="221"/>
+      </span>
+    </term>
+    <term id="222" lemma="Ahmad">
+      <span>
+        <target id="222"/>
+      </span>
+    </term>
+    <term id="223" lemma="b">
+      <span>
+        <target id="223"/>
+      </span>
+    </term>
+    <term id="224" lemma="Salim">
+      <span>
+        <target id="224"/>
+      </span>
+    </term>
+    <term id="225" lemma="Malik">
+      <span>
+        <target id="225"/>
+      </span>
+    </term>
+    <term id="226" lemma="20">
+      <span>
+        <target id="226"/>
+      </span>
+    </term>
+    <term id="227" lemma="C.">
+      <span>
+        <target id="227"/>
+      </span>
+    </term>
+    <term id="228" lemma="Harris">
+      <span>
+        <target id="228"/>
+      </span>
+    </term>
+    <term id="229" lemma="lbw">
+      <span>
+        <target id="229"/>
+      </span>
+    </term>
+    <term id="230" lemma="b">
+      <span>
+        <target id="230"/>
+      </span>
+    </term>
+    <term id="231" lemma="Wasim">
+      <span>
+        <target id="231"/>
+      </span>
+    </term>
+    <term id="232" lemma="22">
+      <span>
+        <target id="232"/>
+      </span>
+    </term>
+    <term id="233" lemma="L.">
+      <span>
+        <target id="233"/>
+      </span>
+    </term>
+    <term id="234" lemma="Germon">
+      <span>
+        <target id="234"/>
+      </span>
+    </term>
+    <term id="235" lemma="lbw">
+      <span>
+        <target id="235"/>
+      </span>
+    </term>
+    <term id="236" lemma="b">
+      <span>
+        <target id="236"/>
+      </span>
+    </term>
+    <term id="237" lemma="Afridi">
+      <span>
+        <target id="237"/>
+      </span>
+    </term>
+    <term id="238" lemma="2">
+      <span>
+        <target id="238"/>
+      </span>
+    </term>
+    <term id="239" lemma="J.">
+      <span>
+        <target id="239"/>
+      </span>
+    </term>
+    <term id="240" lemma="Vaughan">
+      <span>
+        <target id="240"/>
+      </span>
+    </term>
+    <term id="241" lemma="c">
+      <span>
+        <target id="241"/>
+      </span>
+    </term>
+    <term id="242" lemma="Moin">
+      <span>
+        <target id="242"/>
+      </span>
+    </term>
+    <term id="243" lemma="Khan">
+      <span>
+        <target id="243"/>
+      </span>
+    </term>
+    <term id="244" lemma="b">
+      <span>
+        <target id="244"/>
+      </span>
+    </term>
+    <term id="245" lemma="Wasim">
+      <span>
+        <target id="245"/>
+      </span>
+    </term>
+    <term id="246" lemma="13">
+      <span>
+        <target id="246"/>
+      </span>
+    </term>
+    <term id="247" lemma="S.">
+      <span>
+        <target id="247"/>
+      </span>
+    </term>
+    <term id="248" lemma="Doull">
+      <span>
+        <target id="248"/>
+      </span>
+    </term>
+    <term id="249" lemma="c">
+      <span>
+        <target id="249"/>
+      </span>
+    </term>
+    <term id="250" lemma="subs">
+      <span>
+        <target id="250"/>
+      </span>
+    </term>
+    <term id="251" lemma="(">
+      <span>
+        <target id="251"/>
+      </span>
+    </term>
+    <term id="252" lemma="M.">
+      <span>
+        <target id="252"/>
+      </span>
+    </term>
+    <term id="253" lemma="Wasim">
+      <span>
+        <target id="253"/>
+      </span>
+    </term>
+    <term id="254" lemma=")">
+      <span>
+        <target id="254"/>
+      </span>
+    </term>
+    <term id="255" lemma="b">
+      <span>
+        <target id="255"/>
+      </span>
+    </term>
+    <term id="256" lemma="Waqar">
+      <span>
+        <target id="256"/>
+      </span>
+    </term>
+    <term id="257" lemma="1">
+      <span>
+        <target id="257"/>
+      </span>
+    </term>
+    <term id="258" lemma="R.">
+      <span>
+        <target id="258"/>
+      </span>
+    </term>
+    <term id="259" lemma="Kennedy">
+      <span>
+        <target id="259"/>
+      </span>
+    </term>
+    <term id="260" lemma="not">
+      <span>
+        <target id="260"/>
+      </span>
+    </term>
+    <term id="261" lemma="out">
+      <span>
+        <target id="261"/>
+      </span>
+    </term>
+    <term id="262" lemma="7">
+      <span>
+        <target id="262"/>
+      </span>
+    </term>
+    <term id="263" lemma="Extras">
+      <span>
+        <target id="263"/>
+      </span>
+    </term>
+    <term id="264" lemma="(">
+      <span>
+        <target id="264"/>
+      </span>
+    </term>
+    <term id="265" lemma="b-9">
+      <span>
+        <target id="265"/>
+      </span>
+    </term>
+    <term id="266" lemma="lb-3">
+      <span>
+        <target id="266"/>
+      </span>
+    </term>
+    <term id="267" lemma="w-12">
+      <span>
+        <target id="267"/>
+      </span>
+    </term>
+    <term id="268" lemma="nb-2">
+      <span>
+        <target id="268"/>
+      </span>
+    </term>
+    <term id="269" lemma=")">
+      <span>
+        <target id="269"/>
+      </span>
+    </term>
+    <term id="270" lemma="26">
+      <span>
+        <target id="270"/>
+      </span>
+    </term>
+    <term id="271" lemma="Total">
+      <span>
+        <target id="271"/>
+      </span>
+    </term>
+    <term id="272" lemma="(">
+      <span>
+        <target id="272"/>
+      </span>
+    </term>
+    <term id="273" lemma="all">
+      <span>
+        <target id="273"/>
+      </span>
+    </term>
+    <term id="274" lemma="out">
+      <span>
+        <target id="274"/>
+      </span>
+    </term>
+    <term id="275" lemma="in">
+      <span>
+        <target id="275"/>
+      </span>
+    </term>
+    <term id="276" lemma="42.1">
+      <span>
+        <target id="276"/>
+      </span>
+    </term>
+    <term id="277" lemma="overs">
+      <span>
+        <target id="277"/>
+      </span>
+    </term>
+    <term id="278" lemma=")">
+      <span>
+        <target id="278"/>
+      </span>
+    </term>
+    <term id="279" lemma="231">
+      <span>
+        <target id="279"/>
+      </span>
+    </term>
+    <term id="280" lemma="Fall">
+      <span>
+        <target id="280"/>
+      </span>
+    </term>
+    <term id="281" lemma="of">
+      <span>
+        <target id="281"/>
+      </span>
+    </term>
+    <term id="282" lemma="wickets">
+      <span>
+        <target id="282"/>
+      </span>
+    </term>
+    <term id="283" lemma=":">
+      <span>
+        <target id="283"/>
+      </span>
+    </term>
+    <term id="284" lemma="1-3">
+      <span>
+        <target id="284"/>
+      </span>
+    </term>
+    <term id="285" lemma="2-7">
+      <span>
+        <target id="285"/>
+      </span>
+    </term>
+    <term id="286" lemma="3-125">
+      <span>
+        <target id="286"/>
+      </span>
+    </term>
+    <term id="287" lemma="4-146">
+      <span>
+        <target id="287"/>
+      </span>
+    </term>
+    <term id="288" lemma="5-170">
+      <span>
+        <target id="288"/>
+      </span>
+    </term>
+    <term id="289" lemma="6-190">
+      <span>
+        <target id="289"/>
+      </span>
+    </term>
+    <term id="290" lemma="7-195">
+      <span>
+        <target id="290"/>
+      </span>
+    </term>
+    <term id="291" lemma="8-213">
+      <span>
+        <target id="291"/>
+      </span>
+    </term>
+    <term id="292" lemma="9-216">
+      <span>
+        <target id="292"/>
+      </span>
+    </term>
+    <term id="293" lemma=".">
+      <span>
+        <target id="293"/>
+      </span>
+    </term>
+    <term id="294" lemma="Bowling">
+      <span>
+        <target id="294"/>
+      </span>
+    </term>
+    <term id="295" lemma=":">
+      <span>
+        <target id="295"/>
+      </span>
+    </term>
+    <term id="296" lemma="Wasim">
+      <span>
+        <target id="296"/>
+      </span>
+    </term>
+    <term id="297" lemma="Akram">
+      <span>
+        <target id="297"/>
+      </span>
+    </term>
+    <term id="298" lemma="8.1-0-43-3">
+      <span>
+        <target id="298"/>
+      </span>
+    </term>
+    <term id="299" lemma="(">
+      <span>
+        <target id="299"/>
+      </span>
+    </term>
+    <term id="300" lemma="9w">
+      <span>
+        <target id="300"/>
+      </span>
+    </term>
+    <term id="301" lemma=",">
+      <span>
+        <target id="301"/>
+      </span>
+    </term>
+    <term id="302" lemma="1nb">
+      <span>
+        <target id="302"/>
+      </span>
+    </term>
+    <term id="303" lemma=")">
+      <span>
+        <target id="303"/>
+      </span>
+    </term>
+    <term id="304" lemma=",">
+      <span>
+        <target id="304"/>
+      </span>
+    </term>
+    <term id="305" lemma="Waqar">
+      <span>
+        <target id="305"/>
+      </span>
+    </term>
+    <term id="306" lemma="Younis">
+      <span>
+        <target id="306"/>
+      </span>
+    </term>
+    <term id="307" lemma="6-0-32-2">
+      <span>
+        <target id="307"/>
+      </span>
+    </term>
+    <term id="308" lemma="(">
+      <span>
+        <target id="308"/>
+      </span>
+    </term>
+    <term id="309" lemma="2w">
+      <span>
+        <target id="309"/>
+      </span>
+    </term>
+    <term id="310" lemma=",">
+      <span>
+        <target id="310"/>
+      </span>
+    </term>
+    <term id="311" lemma="1nb">
+      <span>
+        <target id="311"/>
+      </span>
+    </term>
+    <term id="312" lemma=")">
+      <span>
+        <target id="312"/>
+      </span>
+    </term>
+    <term id="313" lemma=",">
+      <span>
+        <target id="313"/>
+      </span>
+    </term>
+    <term id="314" lemma="Saqlain">
+      <span>
+        <target id="314"/>
+      </span>
+    </term>
+    <term id="315" lemma="Mushtaq">
+      <span>
+        <target id="315"/>
+      </span>
+    </term>
+    <term id="316" lemma="8-0-54-2">
+      <span>
+        <target id="316"/>
+      </span>
+    </term>
+    <term id="317" lemma=",">
+      <span>
+        <target id="317"/>
+      </span>
+    </term>
+    <term id="318" lemma="Mushtaq">
+      <span>
+        <target id="318"/>
+      </span>
+    </term>
+    <term id="319" lemma="Ahmad">
+      <span>
+        <target id="319"/>
+      </span>
+    </term>
+    <term id="320" lemma="10-0-42-0">
+      <span>
+        <target id="320"/>
+      </span>
+    </term>
+    <term id="321" lemma="(">
+      <span>
+        <target id="321"/>
+      </span>
+    </term>
+    <term id="322" lemma="1w">
+      <span>
+        <target id="322"/>
+      </span>
+    </term>
+    <term id="323" lemma=")">
+      <span>
+        <target id="323"/>
+      </span>
+    </term>
+    <term id="324" lemma=",">
+      <span>
+        <target id="324"/>
+      </span>
+    </term>
+    <term id="325" lemma="Shahid">
+      <span>
+        <target id="325"/>
+      </span>
+    </term>
+    <term id="326" lemma="Afridi">
+      <span>
+        <target id="326"/>
+      </span>
+    </term>
+    <term id="327" lemma="7-0-40-2">
+      <span>
+        <target id="327"/>
+      </span>
+    </term>
+    <term id="328" lemma=",">
+      <span>
+        <target id="328"/>
+      </span>
+    </term>
+    <term id="329" lemma="Salim">
+      <span>
+        <target id="329"/>
+      </span>
+    </term>
+    <term id="330" lemma="Malik">
+      <span>
+        <target id="330"/>
+      </span>
+    </term>
+    <term id="331" lemma="2.5-0-8-1">
+      <span>
+        <target id="331"/>
+      </span>
+    </term>
+    <term id="332" lemma=",">
+      <span>
+        <target id="332"/>
+      </span>
+    </term>
+    <term id="333" lemma="Ijaz">
+      <span>
+        <target id="333"/>
+      </span>
+    </term>
+    <term id="334" lemma="Ahmad">
+      <span>
+        <target id="334"/>
+      </span>
+    </term>
+    <term id="335" lemma="0.1-0-0-0">
+      <span>
+        <target id="335"/>
+      </span>
+    </term>
+    <term id="336" lemma=".">
+      <span>
+        <target id="336"/>
+      </span>
+    </term>
+    <term id="337" lemma="Result">
+      <span>
+        <target id="337"/>
+      </span>
+    </term>
+    <term id="338" lemma=":">
+      <span>
+        <target id="338"/>
+      </span>
+    </term>
+    <term id="339" lemma="Pakistan">
+      <span>
+        <target id="339"/>
+      </span>
+    </term>
+    <term id="340" lemma="won">
+      <span>
+        <target id="340"/>
+      </span>
+    </term>
+    <term id="341" lemma="by">
+      <span>
+        <target id="341"/>
+      </span>
+    </term>
+    <term id="342" lemma="46">
+      <span>
+        <target id="342"/>
+      </span>
+    </term>
+    <term id="343" lemma="runs">
+      <span>
+        <target id="343"/>
+      </span>
+    </term>
+    <term id="344" lemma=".">
+      <span>
+        <target id="344"/>
+      </span>
+    </term>
+    <term id="345" lemma="Third">
+      <span>
+        <target id="345"/>
+      </span>
+    </term>
+    <term id="346" lemma="one-day">
+      <span>
+        <target id="346"/>
+      </span>
+    </term>
+    <term id="347" lemma="match">
+      <span>
+        <target id="347"/>
+      </span>
+    </term>
+    <term id="348" lemma=":">
+      <span>
+        <target id="348"/>
+      </span>
+    </term>
+    <term id="349" lemma="December">
+      <span>
+        <target id="349"/>
+      </span>
+    </term>
+    <term id="350" lemma="8">
+      <span>
+        <target id="350"/>
+      </span>
+    </term>
+    <term id="351" lemma=",">
+      <span>
+        <target id="351"/>
+      </span>
+    </term>
+    <term id="352" lemma="in">
+      <span>
+        <target id="352"/>
+      </span>
+    </term>
+    <term id="353" lemma="Karachi">
+      <span>
+        <target id="353"/>
+      </span>
+    </term>
+    <term id="354" lemma=".">
+      <span>
+        <target id="354"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="206">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pakistan_national_cricket_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="3"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="207">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_Zealand_national_cricket_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="5"/>
+          <target id="6"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="208">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Greenwich_Mean_Time" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="13"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="209">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Sialkot" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="15"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="210">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pakistan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="17"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="211">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pakistan_national_cricket_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="27"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="212">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_Zealand_national_cricket_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="29"/>
+          <target id="30"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="213">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pakistan_national_cricket_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="34"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="214">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Saeed_Anwar" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="35"/>
+          <target id="36"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="215">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Zahoor_Elahi" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="45"/>
+          <target id="46"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="216">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chris_Cairns" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="48"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="217">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="55"/>
+          <target id="56"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="218">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Craig_Spearman" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="58"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="219">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Justin_Vaughan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="60"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="220">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="62"/>
+          <target id="63"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="221">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Lee_Germon" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="65"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="222">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Nathan_Astle" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="67"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="223">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Wasim_Akram" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="69"/>
+          <target id="70"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="224">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chris_Harris_(cricketer)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="72"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="225">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Shahid_Afridi" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="74"/>
+          <target id="75"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="226">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chris_Harris_(cricketer)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="77"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="227">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Moin_Khan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="79"/>
+          <target id="80"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="228">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Nathan_Astle" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="82"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="229">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chris_Harris_(cricketer)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="84"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="230">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Waqar_Younis" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="86"/>
+          <target id="87"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="231">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Lee_Germon" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="89"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="232">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chris_Harris_(cricketer)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="91"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="233">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Saqlain_Mushtaq" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="93"/>
+          <target id="94"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="234">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chris_Harris_(cricketer)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="96"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="235">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="98"/>
+          <target id="99"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="236">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Saleem_Malik" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="103"/>
+          <target id="104"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="237">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Simon_Doull" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="145"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="238">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="151"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="239">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chris_Cairns" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="158"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="240">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Justin_Vaughan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="164"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="241">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chris_Harris_(cricketer)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="167"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="242">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Nathan_Astle" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="173"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="243">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_Zealand_national_cricket_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="179"/>
+          <target id="180"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="244">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="182"/>
+          <target id="183"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="245">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Moin_Khan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="185"/>
+          <target id="186"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="246">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Waqar_Younis" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="188"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="247">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="190"/>
+          <target id="191"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="248">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Moin_Khan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="193"/>
+          <target id="194"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="249">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Wasim_Akram" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="196"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="250">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="198"/>
+          <target id="199"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="251">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="201"/>
+          <target id="202"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="252">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Saqlain_Mushtaq" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="204"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="253">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="206"/>
+          <target id="207"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="254">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Shahid_Afridi" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="211"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="255">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="213"/>
+          <target id="214"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="256">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Saqlain_Mushtaq" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="216"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="257">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="218"/>
+          <target id="219"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="258">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="221"/>
+          <target id="222"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="259">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Saleem_Malik" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="224"/>
+          <target id="225"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="260">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="227"/>
+          <target id="228"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="261">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Wasim_Akram" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="231"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="262">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="233"/>
+          <target id="234"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="263">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Shahid_Afridi" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="237"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="264">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="239"/>
+          <target id="240"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="265">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Moin_Khan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="242"/>
+          <target id="243"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="266">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Wasim_Akram" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="245"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="267">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="247"/>
+          <target id="248"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="268">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="252"/>
+          <target id="253"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="269">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Waqar_Younis" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="256"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="270">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="258"/>
+          <target id="259"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="271">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Wasim_Akram" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="296"/>
+          <target id="297"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="272">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Waqar_Younis" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="305"/>
+          <target id="306"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="273">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Saqlain_Mushtaq" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="314"/>
+          <target id="315"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="274">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="318"/>
+          <target id="319"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="275">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Shahid_Afridi" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="325"/>
+          <target id="326"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="276">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Saleem_Malik" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="329"/>
+          <target id="330"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="277">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="333"/>
+          <target id="334"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="278">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pakistan_national_cricket_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="339"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="279">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Karachi" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="353"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

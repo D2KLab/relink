@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[New York grain freight fixtures - Dec 5 . NEW YORK 1996-12-06 Mana 50,000 tonnes soybeans USG / China 10-15/12 $ 23.50 10,000 / 4,000 GeePee . -- New York Commodities Desk +1 212 859 1640 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1276testb" filename="1276testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="3"><![CDATA[New]]></wf>
+    <wf id="1" sent="1" para="1" offset="3" length="4"><![CDATA[York]]></wf>
+    <wf id="2" sent="1" para="1" offset="7" length="5"><![CDATA[grain]]></wf>
+    <wf id="3" sent="1" para="1" offset="12" length="7"><![CDATA[freight]]></wf>
+    <wf id="4" sent="1" para="1" offset="19" length="8"><![CDATA[fixtures]]></wf>
+    <wf id="5" sent="1" para="1" offset="27" length="1"><![CDATA[-]]></wf>
+    <wf id="6" sent="1" para="1" offset="28" length="3"><![CDATA[Dec]]></wf>
+    <wf id="7" sent="1" para="1" offset="31" length="1"><![CDATA[5]]></wf>
+    <wf id="8" sent="1" para="1" offset="32" length="1"><![CDATA[.]]></wf>
+    <wf id="9" sent="1" para="1" offset="33" length="3"><![CDATA[NEW]]></wf>
+    <wf id="10" sent="1" para="1" offset="36" length="4"><![CDATA[YORK]]></wf>
+    <wf id="11" sent="1" para="1" offset="40" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="12" sent="1" para="1" offset="50" length="4"><![CDATA[Mana]]></wf>
+    <wf id="13" sent="1" para="1" offset="54" length="6"><![CDATA[50,000]]></wf>
+    <wf id="14" sent="1" para="1" offset="60" length="6"><![CDATA[tonnes]]></wf>
+    <wf id="15" sent="1" para="1" offset="66" length="8"><![CDATA[soybeans]]></wf>
+    <wf id="16" sent="1" para="1" offset="74" length="3"><![CDATA[USG]]></wf>
+    <wf id="17" sent="1" para="1" offset="77" length="1"><![CDATA[/]]></wf>
+    <wf id="18" sent="1" para="1" offset="78" length="5"><![CDATA[China]]></wf>
+    <wf id="19" sent="1" para="1" offset="83" length="8"><![CDATA[10-15/12]]></wf>
+    <wf id="20" sent="1" para="1" offset="91" length="1"><![CDATA[$]]></wf>
+    <wf id="21" sent="1" para="1" offset="92" length="5"><![CDATA[23.50]]></wf>
+    <wf id="22" sent="1" para="1" offset="97" length="6"><![CDATA[10,000]]></wf>
+    <wf id="23" sent="1" para="1" offset="103" length="1"><![CDATA[/]]></wf>
+    <wf id="24" sent="1" para="1" offset="104" length="5"><![CDATA[4,000]]></wf>
+    <wf id="25" sent="1" para="1" offset="109" length="6"><![CDATA[GeePee]]></wf>
+    <wf id="26" sent="1" para="1" offset="115" length="1"><![CDATA[.]]></wf>
+    <wf id="27" sent="1" para="1" offset="116" length="2"><![CDATA[--]]></wf>
+    <wf id="28" sent="1" para="1" offset="118" length="3"><![CDATA[New]]></wf>
+    <wf id="29" sent="1" para="1" offset="121" length="4"><![CDATA[York]]></wf>
+    <wf id="30" sent="1" para="1" offset="125" length="11"><![CDATA[Commodities]]></wf>
+    <wf id="31" sent="1" para="1" offset="136" length="4"><![CDATA[Desk]]></wf>
+    <wf id="32" sent="1" para="1" offset="140" length="2"><![CDATA[+1]]></wf>
+    <wf id="33" sent="1" para="1" offset="142" length="3"><![CDATA[212]]></wf>
+    <wf id="34" sent="1" para="1" offset="145" length="3"><![CDATA[859]]></wf>
+    <wf id="35" sent="1" para="1" offset="148" length="4"><![CDATA[1640]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="New">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="York">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="grain">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="freight">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="fixtures">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="-">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="Dec">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="5">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma=".">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="NEW">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="YORK">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="1996-12-06">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="Mana">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="50,000">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="tonnes">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="soybeans">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="USG">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="/">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="China">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="10-15/12">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="$">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="23.50">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="10,000">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="/">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="4,000">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="GeePee">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma=".">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="--">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="New">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="York">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="Commodities">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="Desk">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="+1">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="212">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="859">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="1640">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="2869">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_York_City" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="0"/>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2870">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_York_City" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+          <target id="10"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2871">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/People's_Republic_of_China" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="18"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2872">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="28"/>
+          <target id="29"/>
+          <target id="30"/>
+          <target id="31"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

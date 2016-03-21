@@ -1,0 +1,538 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[Daily Argentine grain fixings - Camaras Arbitrales . BUENOS AIRES 1996-12-06 Avg December 5 price fix : Buenos Aires Quequen Rosario Bahia Blanca Oats unq unq unq unq Wheat 121 130 121.3 121 Maize ( Flint ) 113 114 113.7 112 Maize ( Dent ) 113 114 113.7 112 Sorghum unq unq unq unq Millet unq unq 90 unq Soybeans 283 unq 283 unq Sunseeds 219 216 220 216 -- Buenos Aires Newsroom +541 318-0655 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1260testb" filename="1260testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="5"><![CDATA[Daily]]></wf>
+    <wf id="1" sent="1" para="1" offset="5" length="9"><![CDATA[Argentine]]></wf>
+    <wf id="2" sent="1" para="1" offset="14" length="5"><![CDATA[grain]]></wf>
+    <wf id="3" sent="1" para="1" offset="19" length="7"><![CDATA[fixings]]></wf>
+    <wf id="4" sent="1" para="1" offset="26" length="1"><![CDATA[-]]></wf>
+    <wf id="5" sent="1" para="1" offset="27" length="7"><![CDATA[Camaras]]></wf>
+    <wf id="6" sent="1" para="1" offset="34" length="10"><![CDATA[Arbitrales]]></wf>
+    <wf id="7" sent="1" para="1" offset="44" length="1"><![CDATA[.]]></wf>
+    <wf id="8" sent="1" para="1" offset="45" length="6"><![CDATA[BUENOS]]></wf>
+    <wf id="9" sent="1" para="1" offset="51" length="5"><![CDATA[AIRES]]></wf>
+    <wf id="10" sent="1" para="1" offset="56" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="11" sent="1" para="1" offset="66" length="3"><![CDATA[Avg]]></wf>
+    <wf id="12" sent="1" para="1" offset="69" length="8"><![CDATA[December]]></wf>
+    <wf id="13" sent="1" para="1" offset="77" length="1"><![CDATA[5]]></wf>
+    <wf id="14" sent="1" para="1" offset="78" length="5"><![CDATA[price]]></wf>
+    <wf id="15" sent="1" para="1" offset="83" length="3"><![CDATA[fix]]></wf>
+    <wf id="16" sent="1" para="1" offset="86" length="1"><![CDATA[:]]></wf>
+    <wf id="17" sent="1" para="1" offset="87" length="6"><![CDATA[Buenos]]></wf>
+    <wf id="18" sent="1" para="1" offset="93" length="5"><![CDATA[Aires]]></wf>
+    <wf id="19" sent="1" para="1" offset="98" length="7"><![CDATA[Quequen]]></wf>
+    <wf id="20" sent="1" para="1" offset="105" length="7"><![CDATA[Rosario]]></wf>
+    <wf id="21" sent="1" para="1" offset="112" length="5"><![CDATA[Bahia]]></wf>
+    <wf id="22" sent="1" para="1" offset="117" length="6"><![CDATA[Blanca]]></wf>
+    <wf id="23" sent="1" para="1" offset="123" length="4"><![CDATA[Oats]]></wf>
+    <wf id="24" sent="1" para="1" offset="127" length="3"><![CDATA[unq]]></wf>
+    <wf id="25" sent="1" para="1" offset="130" length="3"><![CDATA[unq]]></wf>
+    <wf id="26" sent="1" para="1" offset="133" length="3"><![CDATA[unq]]></wf>
+    <wf id="27" sent="1" para="1" offset="136" length="3"><![CDATA[unq]]></wf>
+    <wf id="28" sent="1" para="1" offset="139" length="5"><![CDATA[Wheat]]></wf>
+    <wf id="29" sent="1" para="1" offset="144" length="3"><![CDATA[121]]></wf>
+    <wf id="30" sent="1" para="1" offset="147" length="3"><![CDATA[130]]></wf>
+    <wf id="31" sent="1" para="1" offset="150" length="5"><![CDATA[121.3]]></wf>
+    <wf id="32" sent="1" para="1" offset="155" length="3"><![CDATA[121]]></wf>
+    <wf id="33" sent="1" para="1" offset="158" length="5"><![CDATA[Maize]]></wf>
+    <wf id="34" sent="1" para="1" offset="163" length="1"><![CDATA[(]]></wf>
+    <wf id="35" sent="1" para="1" offset="164" length="5"><![CDATA[Flint]]></wf>
+    <wf id="36" sent="1" para="1" offset="169" length="1"><![CDATA[)]]></wf>
+    <wf id="37" sent="1" para="1" offset="170" length="3"><![CDATA[113]]></wf>
+    <wf id="38" sent="1" para="1" offset="173" length="3"><![CDATA[114]]></wf>
+    <wf id="39" sent="1" para="1" offset="176" length="5"><![CDATA[113.7]]></wf>
+    <wf id="40" sent="1" para="1" offset="181" length="3"><![CDATA[112]]></wf>
+    <wf id="41" sent="1" para="1" offset="184" length="5"><![CDATA[Maize]]></wf>
+    <wf id="42" sent="1" para="1" offset="189" length="1"><![CDATA[(]]></wf>
+    <wf id="43" sent="1" para="1" offset="190" length="4"><![CDATA[Dent]]></wf>
+    <wf id="44" sent="1" para="1" offset="194" length="1"><![CDATA[)]]></wf>
+    <wf id="45" sent="1" para="1" offset="195" length="3"><![CDATA[113]]></wf>
+    <wf id="46" sent="1" para="1" offset="198" length="3"><![CDATA[114]]></wf>
+    <wf id="47" sent="1" para="1" offset="201" length="5"><![CDATA[113.7]]></wf>
+    <wf id="48" sent="1" para="1" offset="206" length="3"><![CDATA[112]]></wf>
+    <wf id="49" sent="1" para="1" offset="209" length="7"><![CDATA[Sorghum]]></wf>
+    <wf id="50" sent="1" para="1" offset="216" length="3"><![CDATA[unq]]></wf>
+    <wf id="51" sent="1" para="1" offset="219" length="3"><![CDATA[unq]]></wf>
+    <wf id="52" sent="1" para="1" offset="222" length="3"><![CDATA[unq]]></wf>
+    <wf id="53" sent="1" para="1" offset="225" length="3"><![CDATA[unq]]></wf>
+    <wf id="54" sent="1" para="1" offset="228" length="6"><![CDATA[Millet]]></wf>
+    <wf id="55" sent="1" para="1" offset="234" length="3"><![CDATA[unq]]></wf>
+    <wf id="56" sent="1" para="1" offset="237" length="3"><![CDATA[unq]]></wf>
+    <wf id="57" sent="1" para="1" offset="240" length="2"><![CDATA[90]]></wf>
+    <wf id="58" sent="1" para="1" offset="242" length="3"><![CDATA[unq]]></wf>
+    <wf id="59" sent="1" para="1" offset="245" length="8"><![CDATA[Soybeans]]></wf>
+    <wf id="60" sent="1" para="1" offset="253" length="3"><![CDATA[283]]></wf>
+    <wf id="61" sent="1" para="1" offset="256" length="3"><![CDATA[unq]]></wf>
+    <wf id="62" sent="1" para="1" offset="259" length="3"><![CDATA[283]]></wf>
+    <wf id="63" sent="1" para="1" offset="262" length="3"><![CDATA[unq]]></wf>
+    <wf id="64" sent="1" para="1" offset="265" length="8"><![CDATA[Sunseeds]]></wf>
+    <wf id="65" sent="1" para="1" offset="273" length="3"><![CDATA[219]]></wf>
+    <wf id="66" sent="1" para="1" offset="276" length="3"><![CDATA[216]]></wf>
+    <wf id="67" sent="1" para="1" offset="279" length="3"><![CDATA[220]]></wf>
+    <wf id="68" sent="1" para="1" offset="282" length="3"><![CDATA[216]]></wf>
+    <wf id="69" sent="1" para="1" offset="285" length="2"><![CDATA[--]]></wf>
+    <wf id="70" sent="1" para="1" offset="287" length="6"><![CDATA[Buenos]]></wf>
+    <wf id="71" sent="1" para="1" offset="293" length="5"><![CDATA[Aires]]></wf>
+    <wf id="72" sent="1" para="1" offset="298" length="8"><![CDATA[Newsroom]]></wf>
+    <wf id="73" sent="1" para="1" offset="306" length="4"><![CDATA[+541]]></wf>
+    <wf id="74" sent="1" para="1" offset="310" length="8"><![CDATA[318-0655]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="Daily">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="Argentine">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="grain">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="fixings">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="-">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="Camaras">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="Arbitrales">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma=".">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="BUENOS">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="AIRES">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="1996-12-06">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="Avg">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="December">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="5">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="price">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="fix">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma=":">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="Buenos">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="Aires">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="Quequen">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="Rosario">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="Bahia">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="Blanca">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="Oats">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="unq">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="unq">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="unq">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="unq">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="Wheat">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="121">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="130">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="121.3">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="121">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="Maize">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="(">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="Flint">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma=")">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="113">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="114">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="113.7">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="112">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="Maize">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="(">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="Dent">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma=")">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="113">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="114">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="113.7">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="112">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="Sorghum">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="unq">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="unq">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="unq">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="unq">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="Millet">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="unq">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="unq">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="90">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="unq">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="Soybeans">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="283">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="unq">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="283">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="unq">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="Sunseeds">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="219">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="216">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="220">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="216">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="--">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="Buenos">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="Aires">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="Newsroom">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="+541">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="318-0655">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="2476">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Argentina" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2477">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Buenos_Aires" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="8"/>
+          <target id="9"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2478">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Buenos_Aires" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="17"/>
+          <target id="18"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2479">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="19"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2480">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Rosario,_Santa_Fe" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="20"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2481">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="21"/>
+          <target id="22"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2482">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="70"/>
+          <target id="71"/>
+          <target id="72"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

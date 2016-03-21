@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[BOXING - SCHULZ DEFEATS RIBALTA IN IBF HEAVYWEIGHT FIGHT . VIENNA 1996-12-07 German Axel Schulz outpointed Cuba 's Jose Ribalta in their International Boxing Federation non-title 10-round heavyweight fight on Saturday . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1388testb" filename="1388testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="6"><![CDATA[BOXING]]></wf>
+    <wf id="2" sent="1" para="1" offset="6" length="1"><![CDATA[-]]></wf>
+    <wf id="3" sent="1" para="1" offset="7" length="6"><![CDATA[SCHULZ]]></wf>
+    <wf id="4" sent="1" para="1" offset="13" length="7"><![CDATA[DEFEATS]]></wf>
+    <wf id="5" sent="1" para="1" offset="20" length="7"><![CDATA[RIBALTA]]></wf>
+    <wf id="6" sent="1" para="1" offset="27" length="2"><![CDATA[IN]]></wf>
+    <wf id="7" sent="1" para="1" offset="29" length="3"><![CDATA[IBF]]></wf>
+    <wf id="8" sent="1" para="1" offset="32" length="11"><![CDATA[HEAVYWEIGHT]]></wf>
+    <wf id="9" sent="1" para="1" offset="43" length="5"><![CDATA[FIGHT]]></wf>
+    <wf id="10" sent="1" para="1" offset="48" length="1"><![CDATA[.]]></wf>
+    <wf id="11" sent="1" para="1" offset="49" length="6"><![CDATA[VIENNA]]></wf>
+    <wf id="12" sent="1" para="1" offset="55" length="10"><![CDATA[1996-12-07]]></wf>
+    <wf id="13" sent="1" para="1" offset="65" length="6"><![CDATA[German]]></wf>
+    <wf id="14" sent="1" para="1" offset="71" length="4"><![CDATA[Axel]]></wf>
+    <wf id="15" sent="1" para="1" offset="75" length="6"><![CDATA[Schulz]]></wf>
+    <wf id="16" sent="1" para="1" offset="81" length="10"><![CDATA[outpointed]]></wf>
+    <wf id="17" sent="1" para="1" offset="91" length="4"><![CDATA[Cuba]]></wf>
+    <wf id="18" sent="1" para="1" offset="95" length="2"><![CDATA['s]]></wf>
+    <wf id="19" sent="1" para="1" offset="97" length="4"><![CDATA[Jose]]></wf>
+    <wf id="20" sent="1" para="1" offset="101" length="7"><![CDATA[Ribalta]]></wf>
+    <wf id="21" sent="1" para="1" offset="108" length="2"><![CDATA[in]]></wf>
+    <wf id="22" sent="1" para="1" offset="110" length="5"><![CDATA[their]]></wf>
+    <wf id="23" sent="1" para="1" offset="115" length="13"><![CDATA[International]]></wf>
+    <wf id="24" sent="1" para="1" offset="128" length="6"><![CDATA[Boxing]]></wf>
+    <wf id="25" sent="1" para="1" offset="134" length="10"><![CDATA[Federation]]></wf>
+    <wf id="26" sent="1" para="1" offset="144" length="9"><![CDATA[non-title]]></wf>
+    <wf id="27" sent="1" para="1" offset="153" length="8"><![CDATA[10-round]]></wf>
+    <wf id="28" sent="1" para="1" offset="161" length="11"><![CDATA[heavyweight]]></wf>
+    <wf id="29" sent="1" para="1" offset="172" length="5"><![CDATA[fight]]></wf>
+    <wf id="30" sent="1" para="1" offset="177" length="2"><![CDATA[on]]></wf>
+    <wf id="31" sent="1" para="1" offset="179" length="8"><![CDATA[Saturday]]></wf>
+    <wf id="32" sent="1" para="1" offset="187" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="BOXING">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="-">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="SCHULZ">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="DEFEATS">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="RIBALTA">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="IN">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="IBF">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="HEAVYWEIGHT">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="FIGHT">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma=".">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="VIENNA">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="1996-12-07">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="German">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="Axel">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="Schulz">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="outpointed">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="Cuba">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="'s">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="Jose">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="Ribalta">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="in">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="their">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="International">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="Boxing">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="Federation">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="non-title">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="10-round">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="heavyweight">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="fight">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="on">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="Saturday">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma=".">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="5497">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Axel_Schulz" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="3"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5498">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="5"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5499">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="7"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5500">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Vienna" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5501">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="13"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5502">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Axel_Schulz" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="14"/>
+          <target id="15"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5503">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Cuba" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="17"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5504">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="19"/>
+          <target id="20"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5505">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="23"/>
+          <target id="24"/>
+          <target id="25"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

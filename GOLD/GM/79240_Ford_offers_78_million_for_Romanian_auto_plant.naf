@@ -1,0 +1,2132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[ Ford offers US$ 78 million for Romanian auto plant September 08 , 2007 Ford Motor Company , the U.S. car maker , will reportedly pay $ 57 million ( US$ 78 million ) for a 72.4 percent stake in the Romanian assembly plant Automobile Craiova , a Romanian official said Friday . `` The offer of Ford Motor Company for a 72.4 percent stake is $ 4.1556 per share or $ 57 million overall , '' said Sebastian Vladescu , head of the State Property Agency ( AVAS ) , after opening Ford 's improved offer . Vladescu added that the contract may be signed on September 12 , during the auto show in Frankfurt . The Romanian government bought back the Craiova-based car maker from Daewoo Motors , in late 2006 for US$ 51 million . As the Korean company was bankrupt , the government had to pay another $ 10 million for debts stemming from past loans . Ford is the only bidder for the purchase of the factory . According to Washington Post , many auto-part makers have set up in the new European Union member country , attracted by cheap labor , favourable tax rates and the rising output of Renault 's Dacia plant . The vice president of Dacia , Constantin Stroe , said that the price Ford offers is not important . `` It 's important to have the factory working as soon as possible '' , he added . `` With this production facility , Romania will become an important auto production center in Europe '' , concluded Stroe , cited by HotNews .]]></raw>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="4"><![CDATA[Ford]]></wf>
+    <wf id="2" sent="1" para="1" offset="4" length="6"><![CDATA[offers]]></wf>
+    <wf id="3" sent="1" para="1" offset="10" length="3"><![CDATA[US$]]></wf>
+    <wf id="4" sent="1" para="1" offset="13" length="2"><![CDATA[78]]></wf>
+    <wf id="5" sent="1" para="1" offset="15" length="7"><![CDATA[million]]></wf>
+    <wf id="6" sent="1" para="1" offset="22" length="3"><![CDATA[for]]></wf>
+    <wf id="7" sent="1" para="1" offset="25" length="8"><![CDATA[Romanian]]></wf>
+    <wf id="8" sent="1" para="1" offset="33" length="4"><![CDATA[auto]]></wf>
+    <wf id="9" sent="1" para="1" offset="37" length="5"><![CDATA[plant]]></wf>
+    <wf id="10" sent="2" para="1" offset="42" length="9"><![CDATA[September]]></wf>
+    <wf id="11" sent="2" para="1" offset="51" length="2"><![CDATA[08]]></wf>
+    <wf id="12" sent="2" para="1" offset="53" length="1"><![CDATA[,]]></wf>
+    <wf id="13" sent="2" para="1" offset="54" length="4"><![CDATA[2007]]></wf>
+    <wf id="14" sent="3" para="1" offset="58" length="4"><![CDATA[Ford]]></wf>
+    <wf id="15" sent="3" para="1" offset="62" length="5"><![CDATA[Motor]]></wf>
+    <wf id="16" sent="3" para="1" offset="67" length="7"><![CDATA[Company]]></wf>
+    <wf id="17" sent="3" para="1" offset="74" length="1"><![CDATA[,]]></wf>
+    <wf id="18" sent="3" para="1" offset="75" length="3"><![CDATA[the]]></wf>
+    <wf id="19" sent="3" para="1" offset="78" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="20" sent="3" para="1" offset="82" length="3"><![CDATA[car]]></wf>
+    <wf id="21" sent="3" para="1" offset="85" length="5"><![CDATA[maker]]></wf>
+    <wf id="22" sent="3" para="1" offset="90" length="1"><![CDATA[,]]></wf>
+    <wf id="23" sent="3" para="1" offset="91" length="4"><![CDATA[will]]></wf>
+    <wf id="24" sent="3" para="1" offset="95" length="10"><![CDATA[reportedly]]></wf>
+    <wf id="25" sent="3" para="1" offset="105" length="3"><![CDATA[pay]]></wf>
+    <wf id="26" sent="3" para="1" offset="108" length="1"><![CDATA[$]]></wf>
+    <wf id="27" sent="3" para="1" offset="109" length="2"><![CDATA[57]]></wf>
+    <wf id="28" sent="3" para="1" offset="111" length="7"><![CDATA[million]]></wf>
+    <wf id="29" sent="3" para="1" offset="118" length="1"><![CDATA[(]]></wf>
+    <wf id="30" sent="3" para="1" offset="119" length="3"><![CDATA[US$]]></wf>
+    <wf id="31" sent="3" para="1" offset="122" length="2"><![CDATA[78]]></wf>
+    <wf id="32" sent="3" para="1" offset="124" length="7"><![CDATA[million]]></wf>
+    <wf id="33" sent="3" para="1" offset="131" length="1"><![CDATA[)]]></wf>
+    <wf id="34" sent="3" para="1" offset="132" length="3"><![CDATA[for]]></wf>
+    <wf id="35" sent="3" para="1" offset="135" length="1"><![CDATA[a]]></wf>
+    <wf id="36" sent="3" para="1" offset="136" length="4"><![CDATA[72.4]]></wf>
+    <wf id="37" sent="3" para="1" offset="140" length="7"><![CDATA[percent]]></wf>
+    <wf id="38" sent="3" para="1" offset="147" length="5"><![CDATA[stake]]></wf>
+    <wf id="39" sent="3" para="1" offset="152" length="2"><![CDATA[in]]></wf>
+    <wf id="40" sent="3" para="1" offset="154" length="3"><![CDATA[the]]></wf>
+    <wf id="41" sent="3" para="1" offset="157" length="8"><![CDATA[Romanian]]></wf>
+    <wf id="42" sent="3" para="1" offset="165" length="8"><![CDATA[assembly]]></wf>
+    <wf id="43" sent="3" para="1" offset="173" length="5"><![CDATA[plant]]></wf>
+    <wf id="44" sent="3" para="1" offset="178" length="10"><![CDATA[Automobile]]></wf>
+    <wf id="45" sent="3" para="1" offset="188" length="7"><![CDATA[Craiova]]></wf>
+    <wf id="46" sent="3" para="1" offset="195" length="1"><![CDATA[,]]></wf>
+    <wf id="47" sent="3" para="1" offset="196" length="1"><![CDATA[a]]></wf>
+    <wf id="48" sent="3" para="1" offset="197" length="8"><![CDATA[Romanian]]></wf>
+    <wf id="49" sent="3" para="1" offset="205" length="8"><![CDATA[official]]></wf>
+    <wf id="50" sent="3" para="1" offset="213" length="4"><![CDATA[said]]></wf>
+    <wf id="51" sent="3" para="1" offset="217" length="6"><![CDATA[Friday]]></wf>
+    <wf id="52" sent="3" para="1" offset="223" length="1"><![CDATA[.]]></wf>
+    <wf id="53" sent="4" para="1" offset="224" length="2"><![CDATA[``]]></wf>
+    <wf id="54" sent="4" para="1" offset="226" length="3"><![CDATA[The]]></wf>
+    <wf id="55" sent="4" para="1" offset="229" length="5"><![CDATA[offer]]></wf>
+    <wf id="56" sent="4" para="1" offset="234" length="2"><![CDATA[of]]></wf>
+    <wf id="57" sent="4" para="1" offset="236" length="4"><![CDATA[Ford]]></wf>
+    <wf id="58" sent="4" para="1" offset="240" length="5"><![CDATA[Motor]]></wf>
+    <wf id="59" sent="4" para="1" offset="245" length="7"><![CDATA[Company]]></wf>
+    <wf id="60" sent="4" para="1" offset="252" length="3"><![CDATA[for]]></wf>
+    <wf id="61" sent="4" para="1" offset="255" length="1"><![CDATA[a]]></wf>
+    <wf id="62" sent="4" para="1" offset="256" length="4"><![CDATA[72.4]]></wf>
+    <wf id="63" sent="4" para="1" offset="260" length="7"><![CDATA[percent]]></wf>
+    <wf id="64" sent="4" para="1" offset="267" length="5"><![CDATA[stake]]></wf>
+    <wf id="65" sent="4" para="1" offset="272" length="2"><![CDATA[is]]></wf>
+    <wf id="66" sent="4" para="1" offset="274" length="1"><![CDATA[$]]></wf>
+    <wf id="67" sent="4" para="1" offset="275" length="6"><![CDATA[4.1556]]></wf>
+    <wf id="68" sent="4" para="1" offset="281" length="3"><![CDATA[per]]></wf>
+    <wf id="69" sent="4" para="1" offset="284" length="5"><![CDATA[share]]></wf>
+    <wf id="70" sent="4" para="1" offset="289" length="2"><![CDATA[or]]></wf>
+    <wf id="71" sent="4" para="1" offset="291" length="1"><![CDATA[$]]></wf>
+    <wf id="72" sent="4" para="1" offset="292" length="2"><![CDATA[57]]></wf>
+    <wf id="73" sent="4" para="1" offset="294" length="7"><![CDATA[million]]></wf>
+    <wf id="74" sent="4" para="1" offset="301" length="7"><![CDATA[overall]]></wf>
+    <wf id="75" sent="4" para="1" offset="308" length="1"><![CDATA[,]]></wf>
+    <wf id="76" sent="4" para="1" offset="309" length="2"><![CDATA['']]></wf>
+    <wf id="77" sent="4" para="1" offset="311" length="4"><![CDATA[said]]></wf>
+    <wf id="78" sent="4" para="1" offset="315" length="9"><![CDATA[Sebastian]]></wf>
+    <wf id="79" sent="4" para="1" offset="324" length="8"><![CDATA[Vladescu]]></wf>
+    <wf id="80" sent="4" para="1" offset="332" length="1"><![CDATA[,]]></wf>
+    <wf id="81" sent="4" para="1" offset="333" length="4"><![CDATA[head]]></wf>
+    <wf id="82" sent="4" para="1" offset="337" length="2"><![CDATA[of]]></wf>
+    <wf id="83" sent="4" para="1" offset="339" length="3"><![CDATA[the]]></wf>
+    <wf id="84" sent="4" para="1" offset="342" length="5"><![CDATA[State]]></wf>
+    <wf id="85" sent="4" para="1" offset="347" length="8"><![CDATA[Property]]></wf>
+    <wf id="86" sent="4" para="1" offset="355" length="6"><![CDATA[Agency]]></wf>
+    <wf id="87" sent="4" para="1" offset="361" length="1"><![CDATA[(]]></wf>
+    <wf id="88" sent="4" para="1" offset="362" length="4"><![CDATA[AVAS]]></wf>
+    <wf id="89" sent="4" para="1" offset="366" length="1"><![CDATA[)]]></wf>
+    <wf id="90" sent="4" para="1" offset="367" length="1"><![CDATA[,]]></wf>
+    <wf id="91" sent="4" para="1" offset="368" length="5"><![CDATA[after]]></wf>
+    <wf id="92" sent="4" para="1" offset="373" length="7"><![CDATA[opening]]></wf>
+    <wf id="93" sent="4" para="1" offset="380" length="4"><![CDATA[Ford]]></wf>
+    <wf id="94" sent="4" para="1" offset="384" length="2"><![CDATA['s]]></wf>
+    <wf id="95" sent="4" para="1" offset="386" length="8"><![CDATA[improved]]></wf>
+    <wf id="96" sent="4" para="1" offset="394" length="5"><![CDATA[offer]]></wf>
+    <wf id="97" sent="4" para="1" offset="399" length="1"><![CDATA[.]]></wf>
+    <wf id="98" sent="5" para="1" offset="400" length="8"><![CDATA[Vladescu]]></wf>
+    <wf id="99" sent="5" para="1" offset="408" length="5"><![CDATA[added]]></wf>
+    <wf id="100" sent="5" para="1" offset="413" length="4"><![CDATA[that]]></wf>
+    <wf id="101" sent="5" para="1" offset="417" length="3"><![CDATA[the]]></wf>
+    <wf id="102" sent="5" para="1" offset="420" length="8"><![CDATA[contract]]></wf>
+    <wf id="103" sent="5" para="1" offset="428" length="3"><![CDATA[may]]></wf>
+    <wf id="104" sent="5" para="1" offset="431" length="2"><![CDATA[be]]></wf>
+    <wf id="105" sent="5" para="1" offset="433" length="6"><![CDATA[signed]]></wf>
+    <wf id="106" sent="5" para="1" offset="439" length="2"><![CDATA[on]]></wf>
+    <wf id="107" sent="5" para="1" offset="441" length="9"><![CDATA[September]]></wf>
+    <wf id="108" sent="5" para="1" offset="450" length="2"><![CDATA[12]]></wf>
+    <wf id="109" sent="5" para="1" offset="452" length="1"><![CDATA[,]]></wf>
+    <wf id="110" sent="5" para="1" offset="453" length="6"><![CDATA[during]]></wf>
+    <wf id="111" sent="5" para="1" offset="459" length="3"><![CDATA[the]]></wf>
+    <wf id="112" sent="5" para="1" offset="462" length="4"><![CDATA[auto]]></wf>
+    <wf id="113" sent="5" para="1" offset="466" length="4"><![CDATA[show]]></wf>
+    <wf id="114" sent="5" para="1" offset="470" length="2"><![CDATA[in]]></wf>
+    <wf id="115" sent="5" para="1" offset="472" length="9"><![CDATA[Frankfurt]]></wf>
+    <wf id="116" sent="5" para="1" offset="481" length="1"><![CDATA[.]]></wf>
+    <wf id="117" sent="6" para="1" offset="482" length="3"><![CDATA[The]]></wf>
+    <wf id="118" sent="6" para="1" offset="485" length="8"><![CDATA[Romanian]]></wf>
+    <wf id="119" sent="6" para="1" offset="493" length="10"><![CDATA[government]]></wf>
+    <wf id="120" sent="6" para="1" offset="503" length="6"><![CDATA[bought]]></wf>
+    <wf id="121" sent="6" para="1" offset="509" length="4"><![CDATA[back]]></wf>
+    <wf id="122" sent="6" para="1" offset="513" length="3"><![CDATA[the]]></wf>
+    <wf id="123" sent="6" para="1" offset="516" length="13"><![CDATA[Craiova-based]]></wf>
+    <wf id="124" sent="6" para="1" offset="529" length="3"><![CDATA[car]]></wf>
+    <wf id="125" sent="6" para="1" offset="532" length="5"><![CDATA[maker]]></wf>
+    <wf id="126" sent="6" para="1" offset="537" length="4"><![CDATA[from]]></wf>
+    <wf id="127" sent="6" para="1" offset="541" length="6"><![CDATA[Daewoo]]></wf>
+    <wf id="128" sent="6" para="1" offset="547" length="6"><![CDATA[Motors]]></wf>
+    <wf id="129" sent="6" para="1" offset="553" length="1"><![CDATA[,]]></wf>
+    <wf id="130" sent="6" para="1" offset="554" length="2"><![CDATA[in]]></wf>
+    <wf id="131" sent="6" para="1" offset="556" length="4"><![CDATA[late]]></wf>
+    <wf id="132" sent="6" para="1" offset="560" length="4"><![CDATA[2006]]></wf>
+    <wf id="133" sent="6" para="1" offset="564" length="3"><![CDATA[for]]></wf>
+    <wf id="134" sent="6" para="1" offset="567" length="3"><![CDATA[US$]]></wf>
+    <wf id="135" sent="6" para="1" offset="570" length="2"><![CDATA[51]]></wf>
+    <wf id="136" sent="6" para="1" offset="572" length="7"><![CDATA[million]]></wf>
+    <wf id="137" sent="6" para="1" offset="579" length="1"><![CDATA[.]]></wf>
+    <wf id="138" sent="7" para="1" offset="580" length="2"><![CDATA[As]]></wf>
+    <wf id="139" sent="7" para="1" offset="582" length="3"><![CDATA[the]]></wf>
+    <wf id="140" sent="7" para="1" offset="585" length="6"><![CDATA[Korean]]></wf>
+    <wf id="141" sent="7" para="1" offset="591" length="7"><![CDATA[company]]></wf>
+    <wf id="142" sent="7" para="1" offset="598" length="3"><![CDATA[was]]></wf>
+    <wf id="143" sent="7" para="1" offset="601" length="8"><![CDATA[bankrupt]]></wf>
+    <wf id="144" sent="7" para="1" offset="609" length="1"><![CDATA[,]]></wf>
+    <wf id="145" sent="7" para="1" offset="610" length="3"><![CDATA[the]]></wf>
+    <wf id="146" sent="7" para="1" offset="613" length="10"><![CDATA[government]]></wf>
+    <wf id="147" sent="7" para="1" offset="623" length="3"><![CDATA[had]]></wf>
+    <wf id="148" sent="7" para="1" offset="626" length="2"><![CDATA[to]]></wf>
+    <wf id="149" sent="7" para="1" offset="628" length="3"><![CDATA[pay]]></wf>
+    <wf id="150" sent="7" para="1" offset="631" length="7"><![CDATA[another]]></wf>
+    <wf id="151" sent="7" para="1" offset="638" length="1"><![CDATA[$]]></wf>
+    <wf id="152" sent="7" para="1" offset="639" length="2"><![CDATA[10]]></wf>
+    <wf id="153" sent="7" para="1" offset="641" length="7"><![CDATA[million]]></wf>
+    <wf id="154" sent="7" para="1" offset="648" length="3"><![CDATA[for]]></wf>
+    <wf id="155" sent="7" para="1" offset="651" length="5"><![CDATA[debts]]></wf>
+    <wf id="156" sent="7" para="1" offset="656" length="8"><![CDATA[stemming]]></wf>
+    <wf id="157" sent="7" para="1" offset="664" length="4"><![CDATA[from]]></wf>
+    <wf id="158" sent="7" para="1" offset="668" length="4"><![CDATA[past]]></wf>
+    <wf id="159" sent="7" para="1" offset="672" length="5"><![CDATA[loans]]></wf>
+    <wf id="160" sent="7" para="1" offset="677" length="1"><![CDATA[.]]></wf>
+    <wf id="161" sent="8" para="1" offset="678" length="4"><![CDATA[Ford]]></wf>
+    <wf id="162" sent="8" para="1" offset="682" length="2"><![CDATA[is]]></wf>
+    <wf id="163" sent="8" para="1" offset="684" length="3"><![CDATA[the]]></wf>
+    <wf id="164" sent="8" para="1" offset="687" length="4"><![CDATA[only]]></wf>
+    <wf id="165" sent="8" para="1" offset="691" length="6"><![CDATA[bidder]]></wf>
+    <wf id="166" sent="8" para="1" offset="697" length="3"><![CDATA[for]]></wf>
+    <wf id="167" sent="8" para="1" offset="700" length="3"><![CDATA[the]]></wf>
+    <wf id="168" sent="8" para="1" offset="703" length="8"><![CDATA[purchase]]></wf>
+    <wf id="169" sent="8" para="1" offset="711" length="2"><![CDATA[of]]></wf>
+    <wf id="170" sent="8" para="1" offset="713" length="3"><![CDATA[the]]></wf>
+    <wf id="171" sent="8" para="1" offset="716" length="7"><![CDATA[factory]]></wf>
+    <wf id="172" sent="8" para="1" offset="723" length="1"><![CDATA[.]]></wf>
+    <wf id="173" sent="9" para="1" offset="724" length="9"><![CDATA[According]]></wf>
+    <wf id="174" sent="9" para="1" offset="733" length="2"><![CDATA[to]]></wf>
+    <wf id="175" sent="9" para="1" offset="735" length="10"><![CDATA[Washington]]></wf>
+    <wf id="176" sent="9" para="1" offset="745" length="4"><![CDATA[Post]]></wf>
+    <wf id="177" sent="9" para="1" offset="749" length="1"><![CDATA[,]]></wf>
+    <wf id="178" sent="9" para="1" offset="750" length="4"><![CDATA[many]]></wf>
+    <wf id="179" sent="9" para="1" offset="754" length="9"><![CDATA[auto-part]]></wf>
+    <wf id="180" sent="9" para="1" offset="763" length="6"><![CDATA[makers]]></wf>
+    <wf id="181" sent="9" para="1" offset="769" length="4"><![CDATA[have]]></wf>
+    <wf id="182" sent="9" para="1" offset="773" length="3"><![CDATA[set]]></wf>
+    <wf id="183" sent="9" para="1" offset="776" length="2"><![CDATA[up]]></wf>
+    <wf id="184" sent="9" para="1" offset="778" length="2"><![CDATA[in]]></wf>
+    <wf id="185" sent="9" para="1" offset="780" length="3"><![CDATA[the]]></wf>
+    <wf id="186" sent="9" para="1" offset="783" length="3"><![CDATA[new]]></wf>
+    <wf id="187" sent="9" para="1" offset="786" length="8"><![CDATA[European]]></wf>
+    <wf id="188" sent="9" para="1" offset="794" length="5"><![CDATA[Union]]></wf>
+    <wf id="189" sent="9" para="1" offset="799" length="6"><![CDATA[member]]></wf>
+    <wf id="190" sent="9" para="1" offset="805" length="7"><![CDATA[country]]></wf>
+    <wf id="191" sent="9" para="1" offset="812" length="1"><![CDATA[,]]></wf>
+    <wf id="192" sent="9" para="1" offset="813" length="9"><![CDATA[attracted]]></wf>
+    <wf id="193" sent="9" para="1" offset="822" length="2"><![CDATA[by]]></wf>
+    <wf id="194" sent="9" para="1" offset="824" length="5"><![CDATA[cheap]]></wf>
+    <wf id="195" sent="9" para="1" offset="829" length="5"><![CDATA[labor]]></wf>
+    <wf id="196" sent="9" para="1" offset="834" length="1"><![CDATA[,]]></wf>
+    <wf id="197" sent="9" para="1" offset="835" length="10"><![CDATA[favourable]]></wf>
+    <wf id="198" sent="9" para="1" offset="845" length="3"><![CDATA[tax]]></wf>
+    <wf id="199" sent="9" para="1" offset="848" length="5"><![CDATA[rates]]></wf>
+    <wf id="200" sent="9" para="1" offset="853" length="3"><![CDATA[and]]></wf>
+    <wf id="201" sent="9" para="1" offset="856" length="3"><![CDATA[the]]></wf>
+    <wf id="202" sent="9" para="1" offset="859" length="6"><![CDATA[rising]]></wf>
+    <wf id="203" sent="9" para="1" offset="865" length="6"><![CDATA[output]]></wf>
+    <wf id="204" sent="9" para="1" offset="871" length="2"><![CDATA[of]]></wf>
+    <wf id="205" sent="9" para="1" offset="873" length="7"><![CDATA[Renault]]></wf>
+    <wf id="206" sent="9" para="1" offset="880" length="2"><![CDATA['s]]></wf>
+    <wf id="207" sent="9" para="1" offset="882" length="5"><![CDATA[Dacia]]></wf>
+    <wf id="208" sent="9" para="1" offset="887" length="5"><![CDATA[plant]]></wf>
+    <wf id="209" sent="9" para="1" offset="892" length="1"><![CDATA[.]]></wf>
+    <wf id="210" sent="10" para="1" offset="893" length="3"><![CDATA[The]]></wf>
+    <wf id="211" sent="10" para="1" offset="896" length="4"><![CDATA[vice]]></wf>
+    <wf id="212" sent="10" para="1" offset="900" length="9"><![CDATA[president]]></wf>
+    <wf id="213" sent="10" para="1" offset="909" length="2"><![CDATA[of]]></wf>
+    <wf id="214" sent="10" para="1" offset="911" length="5"><![CDATA[Dacia]]></wf>
+    <wf id="215" sent="10" para="1" offset="916" length="1"><![CDATA[,]]></wf>
+    <wf id="216" sent="10" para="1" offset="917" length="10"><![CDATA[Constantin]]></wf>
+    <wf id="217" sent="10" para="1" offset="927" length="5"><![CDATA[Stroe]]></wf>
+    <wf id="218" sent="10" para="1" offset="932" length="1"><![CDATA[,]]></wf>
+    <wf id="219" sent="10" para="1" offset="933" length="4"><![CDATA[said]]></wf>
+    <wf id="220" sent="10" para="1" offset="937" length="4"><![CDATA[that]]></wf>
+    <wf id="221" sent="10" para="1" offset="941" length="3"><![CDATA[the]]></wf>
+    <wf id="222" sent="10" para="1" offset="944" length="5"><![CDATA[price]]></wf>
+    <wf id="223" sent="10" para="1" offset="949" length="4"><![CDATA[Ford]]></wf>
+    <wf id="224" sent="10" para="1" offset="953" length="6"><![CDATA[offers]]></wf>
+    <wf id="225" sent="10" para="1" offset="959" length="2"><![CDATA[is]]></wf>
+    <wf id="226" sent="10" para="1" offset="961" length="3"><![CDATA[not]]></wf>
+    <wf id="227" sent="10" para="1" offset="964" length="9"><![CDATA[important]]></wf>
+    <wf id="228" sent="10" para="1" offset="973" length="1"><![CDATA[.]]></wf>
+    <wf id="229" sent="11" para="1" offset="974" length="2"><![CDATA[``]]></wf>
+    <wf id="230" sent="11" para="1" offset="976" length="2"><![CDATA[It]]></wf>
+    <wf id="231" sent="11" para="1" offset="978" length="2"><![CDATA['s]]></wf>
+    <wf id="232" sent="11" para="1" offset="980" length="9"><![CDATA[important]]></wf>
+    <wf id="233" sent="11" para="1" offset="989" length="2"><![CDATA[to]]></wf>
+    <wf id="234" sent="11" para="1" offset="991" length="4"><![CDATA[have]]></wf>
+    <wf id="235" sent="11" para="1" offset="995" length="3"><![CDATA[the]]></wf>
+    <wf id="236" sent="11" para="1" offset="998" length="7"><![CDATA[factory]]></wf>
+    <wf id="237" sent="11" para="1" offset="1005" length="7"><![CDATA[working]]></wf>
+    <wf id="238" sent="11" para="1" offset="1012" length="2"><![CDATA[as]]></wf>
+    <wf id="239" sent="11" para="1" offset="1014" length="4"><![CDATA[soon]]></wf>
+    <wf id="240" sent="11" para="1" offset="1018" length="2"><![CDATA[as]]></wf>
+    <wf id="241" sent="11" para="1" offset="1020" length="8"><![CDATA[possible]]></wf>
+    <wf id="242" sent="11" para="1" offset="1028" length="2"><![CDATA['']]></wf>
+    <wf id="243" sent="11" para="1" offset="1030" length="1"><![CDATA[,]]></wf>
+    <wf id="244" sent="11" para="1" offset="1031" length="2"><![CDATA[he]]></wf>
+    <wf id="245" sent="11" para="1" offset="1033" length="5"><![CDATA[added]]></wf>
+    <wf id="246" sent="11" para="1" offset="1038" length="1"><![CDATA[.]]></wf>
+    <wf id="247" sent="12" para="1" offset="1039" length="2"><![CDATA[``]]></wf>
+    <wf id="248" sent="12" para="1" offset="1041" length="4"><![CDATA[With]]></wf>
+    <wf id="249" sent="12" para="1" offset="1045" length="4"><![CDATA[this]]></wf>
+    <wf id="250" sent="12" para="1" offset="1049" length="10"><![CDATA[production]]></wf>
+    <wf id="251" sent="12" para="1" offset="1059" length="8"><![CDATA[facility]]></wf>
+    <wf id="252" sent="12" para="1" offset="1067" length="1"><![CDATA[,]]></wf>
+    <wf id="253" sent="12" para="1" offset="1068" length="7"><![CDATA[Romania]]></wf>
+    <wf id="254" sent="12" para="1" offset="1075" length="4"><![CDATA[will]]></wf>
+    <wf id="255" sent="12" para="1" offset="1079" length="6"><![CDATA[become]]></wf>
+    <wf id="256" sent="12" para="1" offset="1085" length="2"><![CDATA[an]]></wf>
+    <wf id="257" sent="12" para="1" offset="1087" length="9"><![CDATA[important]]></wf>
+    <wf id="258" sent="12" para="1" offset="1096" length="4"><![CDATA[auto]]></wf>
+    <wf id="259" sent="12" para="1" offset="1100" length="10"><![CDATA[production]]></wf>
+    <wf id="260" sent="12" para="1" offset="1110" length="6"><![CDATA[center]]></wf>
+    <wf id="261" sent="12" para="1" offset="1116" length="2"><![CDATA[in]]></wf>
+    <wf id="262" sent="12" para="1" offset="1118" length="6"><![CDATA[Europe]]></wf>
+    <wf id="263" sent="12" para="1" offset="1124" length="2"><![CDATA['']]></wf>
+    <wf id="264" sent="12" para="1" offset="1126" length="1"><![CDATA[,]]></wf>
+    <wf id="265" sent="12" para="1" offset="1127" length="9"><![CDATA[concluded]]></wf>
+    <wf id="266" sent="12" para="1" offset="1136" length="5"><![CDATA[Stroe]]></wf>
+    <wf id="267" sent="12" para="1" offset="1141" length="1"><![CDATA[,]]></wf>
+    <wf id="268" sent="12" para="1" offset="1142" length="5"><![CDATA[cited]]></wf>
+    <wf id="269" sent="12" para="1" offset="1147" length="2"><![CDATA[by]]></wf>
+    <wf id="270" sent="12" para="1" offset="1149" length="7"><![CDATA[HotNews]]></wf>
+    <wf id="271" sent="12" para="1" offset="1156" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="Ford">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="offers">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="US$">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="78">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="million">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="for">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="Romanian">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="auto">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="plant">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="September">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="08">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma=",">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="2007">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="Ford">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="Motor">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="Company">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma=",">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="the">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="U.S.">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="car">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="maker">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma=",">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="will">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="reportedly">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="pay">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="$">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="57">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="million">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="(">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="US$">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="78">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="million">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma=")">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="for">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="a">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="72.4">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="percent">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="stake">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="in">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="the">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="Romanian">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="assembly">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="plant">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="Automobile">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="Craiova">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma=",">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="a">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="Romanian">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="official">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="said">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="Friday">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma=".">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="``">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="The">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="offer">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="of">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="Ford">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="Motor">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="Company">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="for">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="a">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="72.4">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="percent">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="stake">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="is">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="$">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="4.1556">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="per">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="share">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="or">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="$">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="57">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="million">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="overall">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma=",">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="''">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="said">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="Sebastian">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="Vladescu">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma=",">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="head">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="of">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="the">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="State">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="Property">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="Agency">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="(">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="AVAS">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma=")">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma=",">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="after">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="opening">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="Ford">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="'s">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="improved">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="offer">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma=".">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="Vladescu">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="added">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="that">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="the">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="contract">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="may">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="be">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="signed">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="on">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="September">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="12">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma=",">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="during">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="the">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="auto">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="show">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="in">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="Frankfurt">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma=".">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="The">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="Romanian">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="government">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="bought">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="back">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="the">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="Craiova-based">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="car">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="maker">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="from">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="Daewoo">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="Motors">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma=",">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="in">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="late">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="2006">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="for">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="US$">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="51">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="million">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma=".">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="As">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="the">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="Korean">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="company">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="was">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="bankrupt">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma=",">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="the">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="government">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="had">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="to">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="pay">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="another">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="$">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="10">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma="million">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="for">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="debts">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="stemming">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="from">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="past">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="loans">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma=".">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="Ford">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="is">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="the">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="only">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="bidder">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="for">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="the">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="purchase">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="of">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="the">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="factory">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma=".">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="According">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="to">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma="Washington">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="Post">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma=",">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="many">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="auto-part">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="makers">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="have">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="set">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="up">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma="in">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="the">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma="new">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="European">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma="Union">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="member">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma="country">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma=",">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="attracted">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma="by">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma="cheap">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma="labor">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma=",">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="favourable">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma="tax">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma="rates">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma="and">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+    <term id="201" lemma="the">
+      <span>
+        <target id="201"/>
+      </span>
+    </term>
+    <term id="202" lemma="rising">
+      <span>
+        <target id="202"/>
+      </span>
+    </term>
+    <term id="203" lemma="output">
+      <span>
+        <target id="203"/>
+      </span>
+    </term>
+    <term id="204" lemma="of">
+      <span>
+        <target id="204"/>
+      </span>
+    </term>
+    <term id="205" lemma="Renault">
+      <span>
+        <target id="205"/>
+      </span>
+    </term>
+    <term id="206" lemma="'s">
+      <span>
+        <target id="206"/>
+      </span>
+    </term>
+    <term id="207" lemma="Dacia">
+      <span>
+        <target id="207"/>
+      </span>
+    </term>
+    <term id="208" lemma="plant">
+      <span>
+        <target id="208"/>
+      </span>
+    </term>
+    <term id="209" lemma=".">
+      <span>
+        <target id="209"/>
+      </span>
+    </term>
+    <term id="210" lemma="The">
+      <span>
+        <target id="210"/>
+      </span>
+    </term>
+    <term id="211" lemma="vice">
+      <span>
+        <target id="211"/>
+      </span>
+    </term>
+    <term id="212" lemma="president">
+      <span>
+        <target id="212"/>
+      </span>
+    </term>
+    <term id="213" lemma="of">
+      <span>
+        <target id="213"/>
+      </span>
+    </term>
+    <term id="214" lemma="Dacia">
+      <span>
+        <target id="214"/>
+      </span>
+    </term>
+    <term id="215" lemma=",">
+      <span>
+        <target id="215"/>
+      </span>
+    </term>
+    <term id="216" lemma="Constantin">
+      <span>
+        <target id="216"/>
+      </span>
+    </term>
+    <term id="217" lemma="Stroe">
+      <span>
+        <target id="217"/>
+      </span>
+    </term>
+    <term id="218" lemma=",">
+      <span>
+        <target id="218"/>
+      </span>
+    </term>
+    <term id="219" lemma="said">
+      <span>
+        <target id="219"/>
+      </span>
+    </term>
+    <term id="220" lemma="that">
+      <span>
+        <target id="220"/>
+      </span>
+    </term>
+    <term id="221" lemma="the">
+      <span>
+        <target id="221"/>
+      </span>
+    </term>
+    <term id="222" lemma="price">
+      <span>
+        <target id="222"/>
+      </span>
+    </term>
+    <term id="223" lemma="Ford">
+      <span>
+        <target id="223"/>
+      </span>
+    </term>
+    <term id="224" lemma="offers">
+      <span>
+        <target id="224"/>
+      </span>
+    </term>
+    <term id="225" lemma="is">
+      <span>
+        <target id="225"/>
+      </span>
+    </term>
+    <term id="226" lemma="not">
+      <span>
+        <target id="226"/>
+      </span>
+    </term>
+    <term id="227" lemma="important">
+      <span>
+        <target id="227"/>
+      </span>
+    </term>
+    <term id="228" lemma=".">
+      <span>
+        <target id="228"/>
+      </span>
+    </term>
+    <term id="229" lemma="``">
+      <span>
+        <target id="229"/>
+      </span>
+    </term>
+    <term id="230" lemma="It">
+      <span>
+        <target id="230"/>
+      </span>
+    </term>
+    <term id="231" lemma="'s">
+      <span>
+        <target id="231"/>
+      </span>
+    </term>
+    <term id="232" lemma="important">
+      <span>
+        <target id="232"/>
+      </span>
+    </term>
+    <term id="233" lemma="to">
+      <span>
+        <target id="233"/>
+      </span>
+    </term>
+    <term id="234" lemma="have">
+      <span>
+        <target id="234"/>
+      </span>
+    </term>
+    <term id="235" lemma="the">
+      <span>
+        <target id="235"/>
+      </span>
+    </term>
+    <term id="236" lemma="factory">
+      <span>
+        <target id="236"/>
+      </span>
+    </term>
+    <term id="237" lemma="working">
+      <span>
+        <target id="237"/>
+      </span>
+    </term>
+    <term id="238" lemma="as">
+      <span>
+        <target id="238"/>
+      </span>
+    </term>
+    <term id="239" lemma="soon">
+      <span>
+        <target id="239"/>
+      </span>
+    </term>
+    <term id="240" lemma="as">
+      <span>
+        <target id="240"/>
+      </span>
+    </term>
+    <term id="241" lemma="possible">
+      <span>
+        <target id="241"/>
+      </span>
+    </term>
+    <term id="242" lemma="''">
+      <span>
+        <target id="242"/>
+      </span>
+    </term>
+    <term id="243" lemma=",">
+      <span>
+        <target id="243"/>
+      </span>
+    </term>
+    <term id="244" lemma="he">
+      <span>
+        <target id="244"/>
+      </span>
+    </term>
+    <term id="245" lemma="added">
+      <span>
+        <target id="245"/>
+      </span>
+    </term>
+    <term id="246" lemma=".">
+      <span>
+        <target id="246"/>
+      </span>
+    </term>
+    <term id="247" lemma="``">
+      <span>
+        <target id="247"/>
+      </span>
+    </term>
+    <term id="248" lemma="With">
+      <span>
+        <target id="248"/>
+      </span>
+    </term>
+    <term id="249" lemma="this">
+      <span>
+        <target id="249"/>
+      </span>
+    </term>
+    <term id="250" lemma="production">
+      <span>
+        <target id="250"/>
+      </span>
+    </term>
+    <term id="251" lemma="facility">
+      <span>
+        <target id="251"/>
+      </span>
+    </term>
+    <term id="252" lemma=",">
+      <span>
+        <target id="252"/>
+      </span>
+    </term>
+    <term id="253" lemma="Romania">
+      <span>
+        <target id="253"/>
+      </span>
+    </term>
+    <term id="254" lemma="will">
+      <span>
+        <target id="254"/>
+      </span>
+    </term>
+    <term id="255" lemma="become">
+      <span>
+        <target id="255"/>
+      </span>
+    </term>
+    <term id="256" lemma="an">
+      <span>
+        <target id="256"/>
+      </span>
+    </term>
+    <term id="257" lemma="important">
+      <span>
+        <target id="257"/>
+      </span>
+    </term>
+    <term id="258" lemma="auto">
+      <span>
+        <target id="258"/>
+      </span>
+    </term>
+    <term id="259" lemma="production">
+      <span>
+        <target id="259"/>
+      </span>
+    </term>
+    <term id="260" lemma="center">
+      <span>
+        <target id="260"/>
+      </span>
+    </term>
+    <term id="261" lemma="in">
+      <span>
+        <target id="261"/>
+      </span>
+    </term>
+    <term id="262" lemma="Europe">
+      <span>
+        <target id="262"/>
+      </span>
+    </term>
+    <term id="263" lemma="''">
+      <span>
+        <target id="263"/>
+      </span>
+    </term>
+    <term id="264" lemma=",">
+      <span>
+        <target id="264"/>
+      </span>
+    </term>
+    <term id="265" lemma="concluded">
+      <span>
+        <target id="265"/>
+      </span>
+    </term>
+    <term id="266" lemma="Stroe">
+      <span>
+        <target id="266"/>
+      </span>
+    </term>
+    <term id="267" lemma=",">
+      <span>
+        <target id="267"/>
+      </span>
+    </term>
+    <term id="268" lemma="cited">
+      <span>
+        <target id="268"/>
+      </span>
+    </term>
+    <term id="269" lemma="by">
+      <span>
+        <target id="269"/>
+      </span>
+    </term>
+    <term id="270" lemma="HotNews">
+      <span>
+        <target id="270"/>
+      </span>
+    </term>
+    <term id="271" lemma=".">
+      <span>
+        <target id="271"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="115" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="8"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="91" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ford" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="223"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="88" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Romania" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="48"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="89" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="69"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="111" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Automobile_Craiova" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="44"/>
+          <target id="45"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="110" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="258"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="113" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Automobile_Craiova" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="7"/>
+          <target id="8"/>
+          <target id="9"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="112" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Daewoo" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="127"/>
+          <target id="128"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="82" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Automobile_Craiova" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="40"/>
+          <target id="41"/>
+          <target id="42"/>
+          <target id="43"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="83" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ford" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="57"/>
+          <target id="58"/>
+          <target id="59"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="80" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Frankfurt" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="115"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="81" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="19"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="86" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Romania" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="41"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="93" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ford" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="93"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="84" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Sebastian_Vladescu" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="81"/>
+          <target id="82"/>
+          <target id="83"/>
+          <target id="84"/>
+          <target id="85"/>
+          <target id="86"/>
+          <target id="87"/>
+          <target id="88"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="85" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="20"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="106" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="101"/>
+          <target id="102"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="87" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Sebastian_Vladescu" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="98"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="97" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Romania" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="117"/>
+          <target id="118"/>
+          <target id="119"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="98" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ford" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="18"/>
+          <target id="19"/>
+          <target id="20"/>
+          <target id="21"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="108" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ford" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="14"/>
+          <target id="15"/>
+          <target id="16"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="109" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Romania" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="7"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="102" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="84"/>
+          <target id="85"/>
+          <target id="86"/>
+          <target id="87"/>
+          <target id="88"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="103" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="61"/>
+          <target id="62"/>
+          <target id="63"/>
+          <target id="64"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="100" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Sebastian_Vladescu" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="78"/>
+          <target id="79"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="101" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="35"/>
+          <target id="36"/>
+          <target id="37"/>
+          <target id="38"/>
+          <target id="39"/>
+          <target id="40"/>
+          <target id="41"/>
+          <target id="42"/>
+          <target id="43"/>
+          <target id="44"/>
+          <target id="45"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="95" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="124"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="94" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Craiova" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="123"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="104" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ford" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="161"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="96" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="84"/>
+          <target id="85"/>
+          <target id="86"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="114" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Automobile_Craiova" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="122"/>
+          <target id="123"/>
+          <target id="124"/>
+          <target id="125"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="117" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="88"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="107" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ford" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="116" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="47"/>
+          <target id="48"/>
+          <target id="49"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+  <timeExpressions>
+    <timex3 id="50" type="DATE" value="2006">
+      <span>
+        <target id="131"/>
+        <target id="132"/>
+      </span>
+    </timex3>
+    <timex3 id="44" type="DATE" value="2007-09-12">
+      <span>
+        <target id="107"/>
+        <target id="108"/>
+      </span>
+    </timex3>
+    <timex3 id="13" type="DATE" value="2007-09-08">
+      <span>
+        <target id="10"/>
+        <target id="11"/>
+        <target id="12"/>
+        <target id="13"/>
+      </span>
+    </timex3>
+    <timex3 id="14" type="DATE" value="2007-09-07">
+      <span>
+        <target id="51"/>
+      </span>
+    </timex3>
+  </timeExpressions>
+  <srl>
+    <predicate id="pr162188">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg1"/>
+    </predicate>
+    <predicate id="pr162189">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg2"/>
+    </predicate>
+    <predicate id="pr240505">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg1"/>
+    </predicate>
+    <predicate id="pr162182">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg2"/>
+    </predicate>
+    <predicate id="pr162183">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg0"/>
+    </predicate>
+    <predicate id="pr162184">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg1"/>
+    </predicate>
+    <predicate id="pr162185">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Argm-OTHER"/>
+    </predicate>
+    <predicate id="pr162187">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg0"/>
+    </predicate>
+    <predicate id="pr162179">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg0"/>
+    </predicate>
+    <predicate id="pr162178">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg0"/>
+    </predicate>
+    <predicate id="pr162190">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg3"/>
+    </predicate>
+    <predicate id="pr162175">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg0"/>
+    </predicate>
+    <predicate id="pr162176">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg0"/>
+    </predicate>
+  </srl>
+</NAF>

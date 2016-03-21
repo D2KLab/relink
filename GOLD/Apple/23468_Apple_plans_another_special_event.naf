@@ -1,0 +1,1287 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[ Apple plans another special event October 04 , 2005 Within one month of the iPod nano and iTunes phone special event , Apple Computer announced today another special event to be held on October 12 . It is to be held at the California Theater in downtown San Jose , California . The invitation reads , `` One more thing ... '' , the teasing tagline of Steve Jobs . The words were atop a picture of closed theater curtains . Recently Apple has been gaining rights to sell music videos from record labels . This has increased rumors of a video iPod ( vPod ) along with this event . AppleInsider is claiming that there are sources that have seen the new iPod . Alongside this rumor , AppleInsider claims to have seen a wireless device similar to Apple 's Airport Express that supports video . Other rumors for this event include a major iTunes Music Store update and a Macintosh with a Intel processor .]]></raw>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="5"><![CDATA[Apple]]></wf>
+    <wf id="2" sent="1" para="1" offset="5" length="5"><![CDATA[plans]]></wf>
+    <wf id="3" sent="1" para="1" offset="10" length="7"><![CDATA[another]]></wf>
+    <wf id="4" sent="1" para="1" offset="17" length="7"><![CDATA[special]]></wf>
+    <wf id="5" sent="1" para="1" offset="24" length="5"><![CDATA[event]]></wf>
+    <wf id="6" sent="2" para="1" offset="29" length="7"><![CDATA[October]]></wf>
+    <wf id="7" sent="2" para="1" offset="36" length="2"><![CDATA[04]]></wf>
+    <wf id="8" sent="2" para="1" offset="38" length="1"><![CDATA[,]]></wf>
+    <wf id="9" sent="2" para="1" offset="39" length="4"><![CDATA[2005]]></wf>
+    <wf id="10" sent="3" para="1" offset="43" length="6"><![CDATA[Within]]></wf>
+    <wf id="11" sent="3" para="1" offset="49" length="3"><![CDATA[one]]></wf>
+    <wf id="12" sent="3" para="1" offset="52" length="5"><![CDATA[month]]></wf>
+    <wf id="13" sent="3" para="1" offset="57" length="2"><![CDATA[of]]></wf>
+    <wf id="14" sent="3" para="1" offset="59" length="3"><![CDATA[the]]></wf>
+    <wf id="15" sent="3" para="1" offset="62" length="4"><![CDATA[iPod]]></wf>
+    <wf id="16" sent="3" para="1" offset="66" length="4"><![CDATA[nano]]></wf>
+    <wf id="17" sent="3" para="1" offset="70" length="3"><![CDATA[and]]></wf>
+    <wf id="18" sent="3" para="1" offset="73" length="6"><![CDATA[iTunes]]></wf>
+    <wf id="19" sent="3" para="1" offset="79" length="5"><![CDATA[phone]]></wf>
+    <wf id="20" sent="3" para="1" offset="84" length="7"><![CDATA[special]]></wf>
+    <wf id="21" sent="3" para="1" offset="91" length="5"><![CDATA[event]]></wf>
+    <wf id="22" sent="3" para="1" offset="96" length="1"><![CDATA[,]]></wf>
+    <wf id="23" sent="3" para="1" offset="97" length="5"><![CDATA[Apple]]></wf>
+    <wf id="24" sent="3" para="1" offset="102" length="8"><![CDATA[Computer]]></wf>
+    <wf id="25" sent="3" para="1" offset="110" length="9"><![CDATA[announced]]></wf>
+    <wf id="26" sent="3" para="1" offset="119" length="5"><![CDATA[today]]></wf>
+    <wf id="27" sent="3" para="1" offset="124" length="7"><![CDATA[another]]></wf>
+    <wf id="28" sent="3" para="1" offset="131" length="7"><![CDATA[special]]></wf>
+    <wf id="29" sent="3" para="1" offset="138" length="5"><![CDATA[event]]></wf>
+    <wf id="30" sent="3" para="1" offset="143" length="2"><![CDATA[to]]></wf>
+    <wf id="31" sent="3" para="1" offset="145" length="2"><![CDATA[be]]></wf>
+    <wf id="32" sent="3" para="1" offset="147" length="4"><![CDATA[held]]></wf>
+    <wf id="33" sent="3" para="1" offset="151" length="2"><![CDATA[on]]></wf>
+    <wf id="34" sent="3" para="1" offset="153" length="7"><![CDATA[October]]></wf>
+    <wf id="35" sent="3" para="1" offset="160" length="2"><![CDATA[12]]></wf>
+    <wf id="36" sent="3" para="1" offset="162" length="1"><![CDATA[.]]></wf>
+    <wf id="37" sent="4" para="1" offset="163" length="2"><![CDATA[It]]></wf>
+    <wf id="38" sent="4" para="1" offset="165" length="2"><![CDATA[is]]></wf>
+    <wf id="39" sent="4" para="1" offset="167" length="2"><![CDATA[to]]></wf>
+    <wf id="40" sent="4" para="1" offset="169" length="2"><![CDATA[be]]></wf>
+    <wf id="41" sent="4" para="1" offset="171" length="4"><![CDATA[held]]></wf>
+    <wf id="42" sent="4" para="1" offset="175" length="2"><![CDATA[at]]></wf>
+    <wf id="43" sent="4" para="1" offset="177" length="3"><![CDATA[the]]></wf>
+    <wf id="44" sent="4" para="1" offset="180" length="10"><![CDATA[California]]></wf>
+    <wf id="45" sent="4" para="1" offset="190" length="7"><![CDATA[Theater]]></wf>
+    <wf id="46" sent="4" para="1" offset="197" length="2"><![CDATA[in]]></wf>
+    <wf id="47" sent="4" para="1" offset="199" length="8"><![CDATA[downtown]]></wf>
+    <wf id="48" sent="4" para="1" offset="207" length="3"><![CDATA[San]]></wf>
+    <wf id="49" sent="4" para="1" offset="210" length="4"><![CDATA[Jose]]></wf>
+    <wf id="50" sent="4" para="1" offset="214" length="1"><![CDATA[,]]></wf>
+    <wf id="51" sent="4" para="1" offset="215" length="10"><![CDATA[California]]></wf>
+    <wf id="52" sent="4" para="1" offset="225" length="1"><![CDATA[.]]></wf>
+    <wf id="53" sent="5" para="1" offset="226" length="3"><![CDATA[The]]></wf>
+    <wf id="54" sent="5" para="1" offset="229" length="10"><![CDATA[invitation]]></wf>
+    <wf id="55" sent="5" para="1" offset="239" length="5"><![CDATA[reads]]></wf>
+    <wf id="56" sent="5" para="1" offset="244" length="1"><![CDATA[,]]></wf>
+    <wf id="57" sent="5" para="1" offset="245" length="2"><![CDATA[``]]></wf>
+    <wf id="58" sent="5" para="1" offset="247" length="3"><![CDATA[One]]></wf>
+    <wf id="59" sent="5" para="1" offset="250" length="4"><![CDATA[more]]></wf>
+    <wf id="60" sent="5" para="1" offset="254" length="5"><![CDATA[thing]]></wf>
+    <wf id="61" sent="5" para="1" offset="259" length="3"><![CDATA[...]]></wf>
+    <wf id="62" sent="5" para="1" offset="262" length="2"><![CDATA['']]></wf>
+    <wf id="63" sent="5" para="1" offset="264" length="1"><![CDATA[,]]></wf>
+    <wf id="64" sent="5" para="1" offset="265" length="3"><![CDATA[the]]></wf>
+    <wf id="65" sent="5" para="1" offset="268" length="7"><![CDATA[teasing]]></wf>
+    <wf id="66" sent="5" para="1" offset="275" length="7"><![CDATA[tagline]]></wf>
+    <wf id="67" sent="5" para="1" offset="282" length="2"><![CDATA[of]]></wf>
+    <wf id="68" sent="5" para="1" offset="284" length="5"><![CDATA[Steve]]></wf>
+    <wf id="69" sent="5" para="1" offset="289" length="4"><![CDATA[Jobs]]></wf>
+    <wf id="70" sent="5" para="1" offset="293" length="1"><![CDATA[.]]></wf>
+    <wf id="71" sent="6" para="1" offset="294" length="3"><![CDATA[The]]></wf>
+    <wf id="72" sent="6" para="1" offset="297" length="5"><![CDATA[words]]></wf>
+    <wf id="73" sent="6" para="1" offset="302" length="4"><![CDATA[were]]></wf>
+    <wf id="74" sent="6" para="1" offset="306" length="4"><![CDATA[atop]]></wf>
+    <wf id="75" sent="6" para="1" offset="310" length="1"><![CDATA[a]]></wf>
+    <wf id="76" sent="6" para="1" offset="311" length="7"><![CDATA[picture]]></wf>
+    <wf id="77" sent="6" para="1" offset="318" length="2"><![CDATA[of]]></wf>
+    <wf id="78" sent="6" para="1" offset="320" length="6"><![CDATA[closed]]></wf>
+    <wf id="79" sent="6" para="1" offset="326" length="7"><![CDATA[theater]]></wf>
+    <wf id="80" sent="6" para="1" offset="333" length="8"><![CDATA[curtains]]></wf>
+    <wf id="81" sent="6" para="1" offset="341" length="1"><![CDATA[.]]></wf>
+    <wf id="82" sent="7" para="1" offset="342" length="8"><![CDATA[Recently]]></wf>
+    <wf id="83" sent="7" para="1" offset="350" length="5"><![CDATA[Apple]]></wf>
+    <wf id="84" sent="7" para="1" offset="355" length="3"><![CDATA[has]]></wf>
+    <wf id="85" sent="7" para="1" offset="358" length="4"><![CDATA[been]]></wf>
+    <wf id="86" sent="7" para="1" offset="362" length="7"><![CDATA[gaining]]></wf>
+    <wf id="87" sent="7" para="1" offset="369" length="6"><![CDATA[rights]]></wf>
+    <wf id="88" sent="7" para="1" offset="375" length="2"><![CDATA[to]]></wf>
+    <wf id="89" sent="7" para="1" offset="377" length="4"><![CDATA[sell]]></wf>
+    <wf id="90" sent="7" para="1" offset="381" length="5"><![CDATA[music]]></wf>
+    <wf id="91" sent="7" para="1" offset="386" length="6"><![CDATA[videos]]></wf>
+    <wf id="92" sent="7" para="1" offset="392" length="4"><![CDATA[from]]></wf>
+    <wf id="93" sent="7" para="1" offset="396" length="6"><![CDATA[record]]></wf>
+    <wf id="94" sent="7" para="1" offset="402" length="6"><![CDATA[labels]]></wf>
+    <wf id="95" sent="7" para="1" offset="408" length="1"><![CDATA[.]]></wf>
+    <wf id="96" sent="8" para="1" offset="409" length="4"><![CDATA[This]]></wf>
+    <wf id="97" sent="8" para="1" offset="413" length="3"><![CDATA[has]]></wf>
+    <wf id="98" sent="8" para="1" offset="416" length="9"><![CDATA[increased]]></wf>
+    <wf id="99" sent="8" para="1" offset="425" length="6"><![CDATA[rumors]]></wf>
+    <wf id="100" sent="8" para="1" offset="431" length="2"><![CDATA[of]]></wf>
+    <wf id="101" sent="8" para="1" offset="433" length="1"><![CDATA[a]]></wf>
+    <wf id="102" sent="8" para="1" offset="434" length="5"><![CDATA[video]]></wf>
+    <wf id="103" sent="8" para="1" offset="439" length="4"><![CDATA[iPod]]></wf>
+    <wf id="104" sent="8" para="1" offset="443" length="1"><![CDATA[(]]></wf>
+    <wf id="105" sent="8" para="1" offset="444" length="4"><![CDATA[vPod]]></wf>
+    <wf id="106" sent="8" para="1" offset="448" length="1"><![CDATA[)]]></wf>
+    <wf id="107" sent="8" para="1" offset="449" length="5"><![CDATA[along]]></wf>
+    <wf id="108" sent="8" para="1" offset="454" length="4"><![CDATA[with]]></wf>
+    <wf id="109" sent="8" para="1" offset="458" length="4"><![CDATA[this]]></wf>
+    <wf id="110" sent="8" para="1" offset="462" length="5"><![CDATA[event]]></wf>
+    <wf id="111" sent="8" para="1" offset="467" length="1"><![CDATA[.]]></wf>
+    <wf id="112" sent="9" para="1" offset="468" length="12"><![CDATA[AppleInsider]]></wf>
+    <wf id="113" sent="9" para="1" offset="480" length="2"><![CDATA[is]]></wf>
+    <wf id="114" sent="9" para="1" offset="482" length="8"><![CDATA[claiming]]></wf>
+    <wf id="115" sent="9" para="1" offset="490" length="4"><![CDATA[that]]></wf>
+    <wf id="116" sent="9" para="1" offset="494" length="5"><![CDATA[there]]></wf>
+    <wf id="117" sent="9" para="1" offset="499" length="3"><![CDATA[are]]></wf>
+    <wf id="118" sent="9" para="1" offset="502" length="7"><![CDATA[sources]]></wf>
+    <wf id="119" sent="9" para="1" offset="509" length="4"><![CDATA[that]]></wf>
+    <wf id="120" sent="9" para="1" offset="513" length="4"><![CDATA[have]]></wf>
+    <wf id="121" sent="9" para="1" offset="517" length="4"><![CDATA[seen]]></wf>
+    <wf id="122" sent="9" para="1" offset="521" length="3"><![CDATA[the]]></wf>
+    <wf id="123" sent="9" para="1" offset="524" length="3"><![CDATA[new]]></wf>
+    <wf id="124" sent="9" para="1" offset="527" length="4"><![CDATA[iPod]]></wf>
+    <wf id="125" sent="9" para="1" offset="531" length="1"><![CDATA[.]]></wf>
+    <wf id="126" sent="10" para="1" offset="532" length="9"><![CDATA[Alongside]]></wf>
+    <wf id="127" sent="10" para="1" offset="541" length="4"><![CDATA[this]]></wf>
+    <wf id="128" sent="10" para="1" offset="545" length="5"><![CDATA[rumor]]></wf>
+    <wf id="129" sent="10" para="1" offset="550" length="1"><![CDATA[,]]></wf>
+    <wf id="130" sent="10" para="1" offset="551" length="12"><![CDATA[AppleInsider]]></wf>
+    <wf id="131" sent="10" para="1" offset="563" length="6"><![CDATA[claims]]></wf>
+    <wf id="132" sent="10" para="1" offset="569" length="2"><![CDATA[to]]></wf>
+    <wf id="133" sent="10" para="1" offset="571" length="4"><![CDATA[have]]></wf>
+    <wf id="134" sent="10" para="1" offset="575" length="4"><![CDATA[seen]]></wf>
+    <wf id="135" sent="10" para="1" offset="579" length="1"><![CDATA[a]]></wf>
+    <wf id="136" sent="10" para="1" offset="580" length="8"><![CDATA[wireless]]></wf>
+    <wf id="137" sent="10" para="1" offset="588" length="6"><![CDATA[device]]></wf>
+    <wf id="138" sent="10" para="1" offset="594" length="7"><![CDATA[similar]]></wf>
+    <wf id="139" sent="10" para="1" offset="601" length="2"><![CDATA[to]]></wf>
+    <wf id="140" sent="10" para="1" offset="603" length="5"><![CDATA[Apple]]></wf>
+    <wf id="141" sent="10" para="1" offset="608" length="2"><![CDATA['s]]></wf>
+    <wf id="142" sent="10" para="1" offset="610" length="7"><![CDATA[Airport]]></wf>
+    <wf id="143" sent="10" para="1" offset="617" length="7"><![CDATA[Express]]></wf>
+    <wf id="144" sent="10" para="1" offset="624" length="4"><![CDATA[that]]></wf>
+    <wf id="145" sent="10" para="1" offset="628" length="8"><![CDATA[supports]]></wf>
+    <wf id="146" sent="10" para="1" offset="636" length="5"><![CDATA[video]]></wf>
+    <wf id="147" sent="10" para="1" offset="641" length="1"><![CDATA[.]]></wf>
+    <wf id="148" sent="11" para="1" offset="642" length="5"><![CDATA[Other]]></wf>
+    <wf id="149" sent="11" para="1" offset="647" length="6"><![CDATA[rumors]]></wf>
+    <wf id="150" sent="11" para="1" offset="653" length="3"><![CDATA[for]]></wf>
+    <wf id="151" sent="11" para="1" offset="656" length="4"><![CDATA[this]]></wf>
+    <wf id="152" sent="11" para="1" offset="660" length="5"><![CDATA[event]]></wf>
+    <wf id="153" sent="11" para="1" offset="665" length="7"><![CDATA[include]]></wf>
+    <wf id="154" sent="11" para="1" offset="672" length="1"><![CDATA[a]]></wf>
+    <wf id="155" sent="11" para="1" offset="673" length="5"><![CDATA[major]]></wf>
+    <wf id="156" sent="11" para="1" offset="678" length="6"><![CDATA[iTunes]]></wf>
+    <wf id="157" sent="11" para="1" offset="684" length="5"><![CDATA[Music]]></wf>
+    <wf id="158" sent="11" para="1" offset="689" length="5"><![CDATA[Store]]></wf>
+    <wf id="159" sent="11" para="1" offset="694" length="6"><![CDATA[update]]></wf>
+    <wf id="160" sent="11" para="1" offset="700" length="3"><![CDATA[and]]></wf>
+    <wf id="161" sent="11" para="1" offset="703" length="1"><![CDATA[a]]></wf>
+    <wf id="162" sent="11" para="1" offset="704" length="9"><![CDATA[Macintosh]]></wf>
+    <wf id="163" sent="11" para="1" offset="713" length="4"><![CDATA[with]]></wf>
+    <wf id="164" sent="11" para="1" offset="717" length="1"><![CDATA[a]]></wf>
+    <wf id="165" sent="11" para="1" offset="718" length="5"><![CDATA[Intel]]></wf>
+    <wf id="166" sent="11" para="1" offset="723" length="9"><![CDATA[processor]]></wf>
+    <wf id="167" sent="11" para="1" offset="732" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="Apple">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="plans">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="another">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="special">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="event">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="October">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="04">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma=",">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="2005">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="Within">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="one">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="month">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="of">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="the">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="iPod">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="nano">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="and">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="iTunes">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="phone">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="special">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="event">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma=",">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="Apple">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="Computer">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="announced">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="today">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="another">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="special">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="event">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="to">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="be">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="held">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="on">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="October">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="12">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma=".">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="It">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="is">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="to">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="be">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="held">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="at">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="the">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="California">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="Theater">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="in">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="downtown">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="San">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="Jose">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma=",">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="California">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma=".">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="The">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="invitation">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="reads">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma=",">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="``">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="One">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="more">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="thing">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="...">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="''">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma=",">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="the">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="teasing">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="tagline">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="of">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="Steve">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="Jobs">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma=".">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="The">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="words">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="were">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="atop">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="a">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="picture">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="of">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="closed">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="theater">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="curtains">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma=".">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="Recently">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="Apple">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="has">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="been">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="gaining">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="rights">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="to">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="sell">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="music">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="videos">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="from">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="record">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="labels">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma=".">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="This">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="has">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="increased">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="rumors">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="of">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="a">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="video">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="iPod">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="(">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="vPod">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma=")">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="along">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="with">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="this">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="event">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma=".">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="AppleInsider">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="is">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="claiming">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="that">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="there">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="are">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="sources">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="that">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="have">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="seen">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="the">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="new">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="iPod">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma=".">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="Alongside">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="this">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="rumor">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma=",">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="AppleInsider">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="claims">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="to">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="have">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="seen">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="a">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="wireless">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="device">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="similar">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="to">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="Apple">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="'s">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="Airport">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="Express">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="that">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="supports">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="video">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma=".">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="Other">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="rumors">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="for">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="this">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="event">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma="include">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="a">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="major">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="iTunes">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="Music">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="Store">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="update">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="and">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="a">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="Macintosh">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="with">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="a">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="Intel">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="processor">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma=".">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="11" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="68"/>
+          <target id="69"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="10" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="53"/>
+          <target id="54"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="71" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/IPod" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="122"/>
+          <target id="123"/>
+          <target id="124"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="70" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/IPod" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="101"/>
+          <target id="102"/>
+          <target id="103"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="75"/>
+          <target id="76"/>
+          <target id="77"/>
+          <target id="78"/>
+          <target id="79"/>
+          <target id="80"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="18"/>
+          <target id="19"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/IPod_Nano" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="15"/>
+          <target id="16"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Apple_Inc." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="15"/>
+          <target id="16"/>
+          <target id="17"/>
+          <target id="18"/>
+          <target id="19"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="7" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="43"/>
+          <target id="44"/>
+          <target id="45"/>
+          <target id="46"/>
+          <target id="47"/>
+          <target id="48"/>
+          <target id="49"/>
+          <target id="50"/>
+          <target id="51"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="6" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Apple_Inc." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="23"/>
+          <target id="24"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="9" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/San_Jose,_California" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="47"/>
+          <target id="48"/>
+          <target id="49"/>
+          <target id="50"/>
+          <target id="51"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="8" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/California" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="51"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="72" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/ITunes_Store" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="156"/>
+          <target id="157"/>
+          <target id="158"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+  <timeExpressions>
+    <timex3 id="25" type="DATE" value="2005-10-04">
+      <span>
+        <target id="6"/>
+        <target id="7"/>
+        <target id="8"/>
+        <target id="9"/>
+      </span>
+    </timex3>
+    <timex3 id="26" type="DURATION" value="P1M">
+      <span>
+        <target id="11"/>
+        <target id="12"/>
+      </span>
+    </timex3>
+    <timex3 id="27" type="DATE" value="2005-10-04">
+      <span>
+        <target id="26"/>
+      </span>
+    </timex3>
+    <timex3 id="28" type="DATE" value="2005-10-12">
+      <span>
+        <target id="34"/>
+        <target id="35"/>
+      </span>
+    </timex3>
+  </timeExpressions>
+  <srl>
+    <predicate id="pr19">
+      <span>
+        <target id="55"/>
+      </span>
+      <role id="360795" semRole="Arg3">
+        <span>
+          <target id="53"/>
+          <target id="54"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr18">
+      <span>
+        <target id="41"/>
+      </span>
+      <role id="360793" semRole="Argm-LOC">
+        <span>
+          <target id="43"/>
+          <target id="44"/>
+          <target id="45"/>
+          <target id="46"/>
+          <target id="47"/>
+          <target id="48"/>
+          <target id="49"/>
+          <target id="50"/>
+          <target id="51"/>
+        </span>
+      </role>
+      <role id="360794" semRole="Argm-LOC">
+        <span>
+          <target id="47"/>
+          <target id="48"/>
+          <target id="49"/>
+          <target id="50"/>
+          <target id="51"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr20">
+      <span>
+        <target id="73"/>
+      </span>
+      <role id="360796" semRole="Argm-OTHER">
+        <span>
+          <target id="75"/>
+          <target id="76"/>
+          <target id="77"/>
+          <target id="78"/>
+          <target id="79"/>
+          <target id="80"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr14">
+      <span>
+        <target id="25"/>
+      </span>
+      <role id="360791" semRole="Arg0">
+        <span>
+          <target id="23"/>
+          <target id="24"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr21">
+      <span>
+        <target id="2"/>
+      </span>
+      <role id="360827" semRole="Arg0">
+        <span>
+          <target id="1"/>
+        </span>
+      </role>
+    </predicate>
+  </srl>
+</NAF>

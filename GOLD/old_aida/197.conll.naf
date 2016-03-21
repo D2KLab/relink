@@ -1,0 +1,731 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[BADMINTON - WORLD GRAND PRIX SEMIFINAL RESULTS . TEMBAU DENPASAR , Bali 1996-12-07 Results of semifinals at the World Grand Prix finals on Saturday : Men 's singles Fung Permadi ( Taiwan ) beat Indra Wijaya ( Indonesia ) 15-6 15-8 Sun Jun ( China ) beat Allan Budi Kusuma ( Indonesia ) 15-9 15-10 Women 's singles Susi Susanti ( Indonesia ) beat Camilla Martin ( Denmark ) 11-1 11-3 Ye Zhaoying ( China ) beat Gong Zhichao ( China ) 11-8 11-3 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1359testb" filename="1359testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="9"><![CDATA[BADMINTON]]></wf>
+    <wf id="1" sent="1" para="1" offset="9" length="1"><![CDATA[-]]></wf>
+    <wf id="2" sent="1" para="1" offset="10" length="5"><![CDATA[WORLD]]></wf>
+    <wf id="3" sent="1" para="1" offset="15" length="5"><![CDATA[GRAND]]></wf>
+    <wf id="4" sent="1" para="1" offset="20" length="4"><![CDATA[PRIX]]></wf>
+    <wf id="5" sent="1" para="1" offset="24" length="9"><![CDATA[SEMIFINAL]]></wf>
+    <wf id="6" sent="1" para="1" offset="33" length="7"><![CDATA[RESULTS]]></wf>
+    <wf id="7" sent="1" para="1" offset="40" length="1"><![CDATA[.]]></wf>
+    <wf id="8" sent="1" para="1" offset="41" length="6"><![CDATA[TEMBAU]]></wf>
+    <wf id="9" sent="1" para="1" offset="47" length="8"><![CDATA[DENPASAR]]></wf>
+    <wf id="10" sent="1" para="1" offset="55" length="1"><![CDATA[,]]></wf>
+    <wf id="11" sent="1" para="1" offset="56" length="4"><![CDATA[Bali]]></wf>
+    <wf id="12" sent="1" para="1" offset="60" length="10"><![CDATA[1996-12-07]]></wf>
+    <wf id="13" sent="1" para="1" offset="70" length="7"><![CDATA[Results]]></wf>
+    <wf id="14" sent="1" para="1" offset="77" length="2"><![CDATA[of]]></wf>
+    <wf id="15" sent="1" para="1" offset="79" length="10"><![CDATA[semifinals]]></wf>
+    <wf id="16" sent="1" para="1" offset="89" length="2"><![CDATA[at]]></wf>
+    <wf id="17" sent="1" para="1" offset="91" length="3"><![CDATA[the]]></wf>
+    <wf id="18" sent="1" para="1" offset="94" length="5"><![CDATA[World]]></wf>
+    <wf id="19" sent="1" para="1" offset="99" length="5"><![CDATA[Grand]]></wf>
+    <wf id="20" sent="1" para="1" offset="104" length="4"><![CDATA[Prix]]></wf>
+    <wf id="21" sent="1" para="1" offset="108" length="6"><![CDATA[finals]]></wf>
+    <wf id="22" sent="1" para="1" offset="114" length="2"><![CDATA[on]]></wf>
+    <wf id="23" sent="1" para="1" offset="116" length="8"><![CDATA[Saturday]]></wf>
+    <wf id="24" sent="1" para="1" offset="124" length="1"><![CDATA[:]]></wf>
+    <wf id="25" sent="1" para="1" offset="125" length="3"><![CDATA[Men]]></wf>
+    <wf id="26" sent="1" para="1" offset="128" length="2"><![CDATA['s]]></wf>
+    <wf id="27" sent="1" para="1" offset="130" length="7"><![CDATA[singles]]></wf>
+    <wf id="28" sent="1" para="1" offset="137" length="4"><![CDATA[Fung]]></wf>
+    <wf id="29" sent="1" para="1" offset="141" length="7"><![CDATA[Permadi]]></wf>
+    <wf id="30" sent="1" para="1" offset="148" length="1"><![CDATA[(]]></wf>
+    <wf id="31" sent="1" para="1" offset="149" length="6"><![CDATA[Taiwan]]></wf>
+    <wf id="32" sent="1" para="1" offset="155" length="1"><![CDATA[)]]></wf>
+    <wf id="33" sent="1" para="1" offset="156" length="4"><![CDATA[beat]]></wf>
+    <wf id="34" sent="1" para="1" offset="160" length="5"><![CDATA[Indra]]></wf>
+    <wf id="35" sent="1" para="1" offset="165" length="6"><![CDATA[Wijaya]]></wf>
+    <wf id="36" sent="1" para="1" offset="171" length="1"><![CDATA[(]]></wf>
+    <wf id="37" sent="1" para="1" offset="172" length="9"><![CDATA[Indonesia]]></wf>
+    <wf id="38" sent="1" para="1" offset="181" length="1"><![CDATA[)]]></wf>
+    <wf id="39" sent="1" para="1" offset="182" length="4"><![CDATA[15-6]]></wf>
+    <wf id="40" sent="1" para="1" offset="186" length="4"><![CDATA[15-8]]></wf>
+    <wf id="41" sent="1" para="1" offset="190" length="3"><![CDATA[Sun]]></wf>
+    <wf id="42" sent="1" para="1" offset="193" length="3"><![CDATA[Jun]]></wf>
+    <wf id="43" sent="1" para="1" offset="196" length="1"><![CDATA[(]]></wf>
+    <wf id="44" sent="1" para="1" offset="197" length="5"><![CDATA[China]]></wf>
+    <wf id="45" sent="1" para="1" offset="202" length="1"><![CDATA[)]]></wf>
+    <wf id="46" sent="1" para="1" offset="203" length="4"><![CDATA[beat]]></wf>
+    <wf id="47" sent="1" para="1" offset="207" length="5"><![CDATA[Allan]]></wf>
+    <wf id="48" sent="1" para="1" offset="212" length="4"><![CDATA[Budi]]></wf>
+    <wf id="49" sent="1" para="1" offset="216" length="6"><![CDATA[Kusuma]]></wf>
+    <wf id="50" sent="1" para="1" offset="222" length="1"><![CDATA[(]]></wf>
+    <wf id="51" sent="1" para="1" offset="223" length="9"><![CDATA[Indonesia]]></wf>
+    <wf id="52" sent="1" para="1" offset="232" length="1"><![CDATA[)]]></wf>
+    <wf id="53" sent="1" para="1" offset="233" length="4"><![CDATA[15-9]]></wf>
+    <wf id="54" sent="1" para="1" offset="237" length="5"><![CDATA[15-10]]></wf>
+    <wf id="55" sent="1" para="1" offset="242" length="5"><![CDATA[Women]]></wf>
+    <wf id="56" sent="1" para="1" offset="247" length="2"><![CDATA['s]]></wf>
+    <wf id="57" sent="1" para="1" offset="249" length="7"><![CDATA[singles]]></wf>
+    <wf id="58" sent="1" para="1" offset="256" length="4"><![CDATA[Susi]]></wf>
+    <wf id="59" sent="1" para="1" offset="260" length="7"><![CDATA[Susanti]]></wf>
+    <wf id="60" sent="1" para="1" offset="267" length="1"><![CDATA[(]]></wf>
+    <wf id="61" sent="1" para="1" offset="268" length="9"><![CDATA[Indonesia]]></wf>
+    <wf id="62" sent="1" para="1" offset="277" length="1"><![CDATA[)]]></wf>
+    <wf id="63" sent="1" para="1" offset="278" length="4"><![CDATA[beat]]></wf>
+    <wf id="64" sent="1" para="1" offset="282" length="7"><![CDATA[Camilla]]></wf>
+    <wf id="65" sent="1" para="1" offset="289" length="6"><![CDATA[Martin]]></wf>
+    <wf id="66" sent="1" para="1" offset="295" length="1"><![CDATA[(]]></wf>
+    <wf id="67" sent="1" para="1" offset="296" length="7"><![CDATA[Denmark]]></wf>
+    <wf id="68" sent="1" para="1" offset="303" length="1"><![CDATA[)]]></wf>
+    <wf id="69" sent="1" para="1" offset="304" length="4"><![CDATA[11-1]]></wf>
+    <wf id="70" sent="1" para="1" offset="308" length="4"><![CDATA[11-3]]></wf>
+    <wf id="71" sent="1" para="1" offset="312" length="2"><![CDATA[Ye]]></wf>
+    <wf id="72" sent="1" para="1" offset="314" length="8"><![CDATA[Zhaoying]]></wf>
+    <wf id="73" sent="1" para="1" offset="322" length="1"><![CDATA[(]]></wf>
+    <wf id="74" sent="1" para="1" offset="323" length="5"><![CDATA[China]]></wf>
+    <wf id="75" sent="1" para="1" offset="328" length="1"><![CDATA[)]]></wf>
+    <wf id="76" sent="1" para="1" offset="329" length="4"><![CDATA[beat]]></wf>
+    <wf id="77" sent="1" para="1" offset="333" length="4"><![CDATA[Gong]]></wf>
+    <wf id="78" sent="1" para="1" offset="337" length="7"><![CDATA[Zhichao]]></wf>
+    <wf id="79" sent="1" para="1" offset="344" length="1"><![CDATA[(]]></wf>
+    <wf id="80" sent="1" para="1" offset="345" length="5"><![CDATA[China]]></wf>
+    <wf id="81" sent="1" para="1" offset="350" length="1"><![CDATA[)]]></wf>
+    <wf id="82" sent="1" para="1" offset="351" length="4"><![CDATA[11-8]]></wf>
+    <wf id="83" sent="1" para="1" offset="355" length="4"><![CDATA[11-3]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="BADMINTON">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="-">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="WORLD">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="GRAND">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="PRIX">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="SEMIFINAL">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="RESULTS">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma=".">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="TEMBAU">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="DENPASAR">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma=",">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="Bali">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="1996-12-07">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Results">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="of">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="semifinals">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="at">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="the">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="World">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="Grand">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="Prix">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="finals">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="on">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="Saturday">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma=":">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="Men">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="'s">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="singles">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="Fung">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="Permadi">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="(">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="Taiwan">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma=")">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="beat">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="Indra">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="Wijaya">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="(">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="Indonesia">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma=")">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="15-6">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="15-8">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="Sun">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="Jun">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="(">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="China">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma=")">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="beat">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="Allan">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="Budi">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="Kusuma">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="(">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="Indonesia">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma=")">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="15-9">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="15-10">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="Women">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="'s">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="singles">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="Susi">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="Susanti">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="(">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="Indonesia">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma=")">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="beat">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="Camilla">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="Martin">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="(">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="Denmark">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma=")">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="11-1">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="11-3">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="Ye">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="Zhaoying">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="(">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="China">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma=")">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="beat">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="Gong">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="Zhichao">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="(">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="China">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma=")">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="11-8">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="11-3">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="4478">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/World_Badminton_Grand_Prix" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="2"/>
+          <target id="3"/>
+          <target id="4"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4479">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="8"/>
+          <target id="9"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4480">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Bali" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4481">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/World_Badminton_Grand_Prix" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="18"/>
+          <target id="19"/>
+          <target id="20"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4482">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Fung_Permadi" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="28"/>
+          <target id="29"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4483">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Republic_of_China" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="31"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4484">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="34"/>
+          <target id="35"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4485">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Indonesia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="37"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4486">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Sun_Jun_(badminton)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="41"/>
+          <target id="42"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4487">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/People's_Republic_of_China" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="44"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4488">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Alan_Budikusuma" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="47"/>
+          <target id="48"/>
+          <target id="49"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4489">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Indonesia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="51"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4490">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Susi_Susanti" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="58"/>
+          <target id="59"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4491">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Indonesia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="61"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4492">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Camilla_Martin" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="64"/>
+          <target id="65"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4493">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Denmark" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="67"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4494">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ye_Zhaoying" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="71"/>
+          <target id="72"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4495">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/People's_Republic_of_China" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="74"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4496">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Gong_Zhichao" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="77"/>
+          <target id="78"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4497">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/People's_Republic_of_China" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="80"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

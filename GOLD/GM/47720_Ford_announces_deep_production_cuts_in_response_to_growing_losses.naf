@@ -1,0 +1,2025 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[ Ford announces deep production cuts in response to growing losses August 19 , 2006 Ford has announced sweeping cuts of 21 % ( 168,000 units ) in its US and Canadian production , resulting in the partial closure of ten of its plants during the fourth quarter . The measure comes on top of existing turnaround plans announced in January , in which 25,000 to 30,000 positions should be cut and 14 plants closed by 2012 . Ford is the world 's third-largest automaker and the U.S. 's second-largest . However it has in recent years been struggling with poor profitability and shrinking market shares . In 2005 it lost $ 1.6 billion and recently the company reported a second quarter loss of $ 254 million and a 34 % year-year decline in sales for the month of July . George Pipas , director of sales analysis at Ford , points to rising gas prices having negative impact on the sale of the companies SUV lines as well as its sales leader , the F-series pickup truck as being the direct cause of the latest initiative . So far the following plants are thought to be affected : * St. Thomas Assembly of St. Thomas , Ontario , Canada * Chicago , Illinois * Wixom Assembly Plant of Wixom , Michigan , Michigan * Louisville Assembly of Louisville , Kentucky * Michigan Truck Plant of Wayne , Michigan * St. Paul , Minnesota * Kansas City Assembly of Kansas City , Missouri * Norfolk Assembly of Norfolk , Virginia * River Rouge Plant of Dearborn , Michigan Ford 's stock fell 17 cents ( 2.1 % ) to $ 8 on the New York Stock Exchange .]]></raw>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="4"><![CDATA[Ford]]></wf>
+    <wf id="2" sent="1" para="1" offset="4" length="9"><![CDATA[announces]]></wf>
+    <wf id="3" sent="1" para="1" offset="13" length="4"><![CDATA[deep]]></wf>
+    <wf id="4" sent="1" para="1" offset="17" length="10"><![CDATA[production]]></wf>
+    <wf id="5" sent="1" para="1" offset="27" length="4"><![CDATA[cuts]]></wf>
+    <wf id="6" sent="1" para="1" offset="31" length="2"><![CDATA[in]]></wf>
+    <wf id="7" sent="1" para="1" offset="33" length="8"><![CDATA[response]]></wf>
+    <wf id="8" sent="1" para="1" offset="41" length="2"><![CDATA[to]]></wf>
+    <wf id="9" sent="1" para="1" offset="43" length="7"><![CDATA[growing]]></wf>
+    <wf id="10" sent="1" para="1" offset="50" length="6"><![CDATA[losses]]></wf>
+    <wf id="11" sent="2" para="1" offset="56" length="6"><![CDATA[August]]></wf>
+    <wf id="12" sent="2" para="1" offset="62" length="2"><![CDATA[19]]></wf>
+    <wf id="13" sent="2" para="1" offset="64" length="1"><![CDATA[,]]></wf>
+    <wf id="14" sent="2" para="1" offset="65" length="4"><![CDATA[2006]]></wf>
+    <wf id="15" sent="3" para="1" offset="69" length="4"><![CDATA[Ford]]></wf>
+    <wf id="16" sent="3" para="1" offset="73" length="3"><![CDATA[has]]></wf>
+    <wf id="17" sent="3" para="1" offset="76" length="9"><![CDATA[announced]]></wf>
+    <wf id="18" sent="3" para="1" offset="85" length="8"><![CDATA[sweeping]]></wf>
+    <wf id="19" sent="3" para="1" offset="93" length="4"><![CDATA[cuts]]></wf>
+    <wf id="20" sent="3" para="1" offset="97" length="2"><![CDATA[of]]></wf>
+    <wf id="21" sent="3" para="1" offset="99" length="2"><![CDATA[21]]></wf>
+    <wf id="22" sent="3" para="1" offset="101" length="1"><![CDATA[%]]></wf>
+    <wf id="23" sent="3" para="1" offset="102" length="1"><![CDATA[(]]></wf>
+    <wf id="24" sent="3" para="1" offset="103" length="7"><![CDATA[168,000]]></wf>
+    <wf id="25" sent="3" para="1" offset="110" length="5"><![CDATA[units]]></wf>
+    <wf id="26" sent="3" para="1" offset="115" length="1"><![CDATA[)]]></wf>
+    <wf id="27" sent="3" para="1" offset="116" length="2"><![CDATA[in]]></wf>
+    <wf id="28" sent="3" para="1" offset="118" length="3"><![CDATA[its]]></wf>
+    <wf id="29" sent="3" para="1" offset="121" length="2"><![CDATA[US]]></wf>
+    <wf id="30" sent="3" para="1" offset="123" length="3"><![CDATA[and]]></wf>
+    <wf id="31" sent="3" para="1" offset="126" length="8"><![CDATA[Canadian]]></wf>
+    <wf id="32" sent="3" para="1" offset="134" length="10"><![CDATA[production]]></wf>
+    <wf id="33" sent="3" para="1" offset="144" length="1"><![CDATA[,]]></wf>
+    <wf id="34" sent="3" para="1" offset="145" length="9"><![CDATA[resulting]]></wf>
+    <wf id="35" sent="3" para="1" offset="154" length="2"><![CDATA[in]]></wf>
+    <wf id="36" sent="3" para="1" offset="156" length="3"><![CDATA[the]]></wf>
+    <wf id="37" sent="3" para="1" offset="159" length="7"><![CDATA[partial]]></wf>
+    <wf id="38" sent="3" para="1" offset="166" length="7"><![CDATA[closure]]></wf>
+    <wf id="39" sent="3" para="1" offset="173" length="2"><![CDATA[of]]></wf>
+    <wf id="40" sent="3" para="1" offset="175" length="3"><![CDATA[ten]]></wf>
+    <wf id="41" sent="3" para="1" offset="178" length="2"><![CDATA[of]]></wf>
+    <wf id="42" sent="3" para="1" offset="180" length="3"><![CDATA[its]]></wf>
+    <wf id="43" sent="3" para="1" offset="183" length="6"><![CDATA[plants]]></wf>
+    <wf id="44" sent="3" para="1" offset="189" length="6"><![CDATA[during]]></wf>
+    <wf id="45" sent="3" para="1" offset="195" length="3"><![CDATA[the]]></wf>
+    <wf id="46" sent="3" para="1" offset="198" length="6"><![CDATA[fourth]]></wf>
+    <wf id="47" sent="3" para="1" offset="204" length="7"><![CDATA[quarter]]></wf>
+    <wf id="48" sent="3" para="1" offset="211" length="1"><![CDATA[.]]></wf>
+    <wf id="49" sent="4" para="1" offset="212" length="3"><![CDATA[The]]></wf>
+    <wf id="50" sent="4" para="1" offset="215" length="7"><![CDATA[measure]]></wf>
+    <wf id="51" sent="4" para="1" offset="222" length="5"><![CDATA[comes]]></wf>
+    <wf id="52" sent="4" para="1" offset="227" length="2"><![CDATA[on]]></wf>
+    <wf id="53" sent="4" para="1" offset="229" length="3"><![CDATA[top]]></wf>
+    <wf id="54" sent="4" para="1" offset="232" length="2"><![CDATA[of]]></wf>
+    <wf id="55" sent="4" para="1" offset="234" length="8"><![CDATA[existing]]></wf>
+    <wf id="56" sent="4" para="1" offset="242" length="10"><![CDATA[turnaround]]></wf>
+    <wf id="57" sent="4" para="1" offset="252" length="5"><![CDATA[plans]]></wf>
+    <wf id="58" sent="4" para="1" offset="257" length="9"><![CDATA[announced]]></wf>
+    <wf id="59" sent="4" para="1" offset="266" length="2"><![CDATA[in]]></wf>
+    <wf id="60" sent="4" para="1" offset="268" length="7"><![CDATA[January]]></wf>
+    <wf id="61" sent="4" para="1" offset="275" length="1"><![CDATA[,]]></wf>
+    <wf id="62" sent="4" para="1" offset="276" length="2"><![CDATA[in]]></wf>
+    <wf id="63" sent="4" para="1" offset="278" length="5"><![CDATA[which]]></wf>
+    <wf id="64" sent="4" para="1" offset="283" length="6"><![CDATA[25,000]]></wf>
+    <wf id="65" sent="4" para="1" offset="289" length="2"><![CDATA[to]]></wf>
+    <wf id="66" sent="4" para="1" offset="291" length="6"><![CDATA[30,000]]></wf>
+    <wf id="67" sent="4" para="1" offset="297" length="9"><![CDATA[positions]]></wf>
+    <wf id="68" sent="4" para="1" offset="306" length="6"><![CDATA[should]]></wf>
+    <wf id="69" sent="4" para="1" offset="312" length="2"><![CDATA[be]]></wf>
+    <wf id="70" sent="4" para="1" offset="314" length="3"><![CDATA[cut]]></wf>
+    <wf id="71" sent="4" para="1" offset="317" length="3"><![CDATA[and]]></wf>
+    <wf id="72" sent="4" para="1" offset="320" length="2"><![CDATA[14]]></wf>
+    <wf id="73" sent="4" para="1" offset="322" length="6"><![CDATA[plants]]></wf>
+    <wf id="74" sent="4" para="1" offset="328" length="6"><![CDATA[closed]]></wf>
+    <wf id="75" sent="4" para="1" offset="334" length="2"><![CDATA[by]]></wf>
+    <wf id="76" sent="4" para="1" offset="336" length="4"><![CDATA[2012]]></wf>
+    <wf id="77" sent="4" para="1" offset="340" length="1"><![CDATA[.]]></wf>
+    <wf id="78" sent="5" para="1" offset="341" length="4"><![CDATA[Ford]]></wf>
+    <wf id="79" sent="5" para="1" offset="345" length="2"><![CDATA[is]]></wf>
+    <wf id="80" sent="5" para="1" offset="347" length="3"><![CDATA[the]]></wf>
+    <wf id="81" sent="5" para="1" offset="350" length="5"><![CDATA[world]]></wf>
+    <wf id="82" sent="5" para="1" offset="355" length="2"><![CDATA['s]]></wf>
+    <wf id="83" sent="5" para="1" offset="357" length="13"><![CDATA[third-largest]]></wf>
+    <wf id="84" sent="5" para="1" offset="370" length="9"><![CDATA[automaker]]></wf>
+    <wf id="85" sent="5" para="1" offset="379" length="3"><![CDATA[and]]></wf>
+    <wf id="86" sent="5" para="1" offset="382" length="3"><![CDATA[the]]></wf>
+    <wf id="87" sent="5" para="1" offset="385" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="88" sent="5" para="1" offset="389" length="2"><![CDATA['s]]></wf>
+    <wf id="89" sent="5" para="1" offset="391" length="14"><![CDATA[second-largest]]></wf>
+    <wf id="90" sent="5" para="1" offset="405" length="1"><![CDATA[.]]></wf>
+    <wf id="91" sent="6" para="1" offset="406" length="7"><![CDATA[However]]></wf>
+    <wf id="92" sent="6" para="1" offset="413" length="2"><![CDATA[it]]></wf>
+    <wf id="93" sent="6" para="1" offset="415" length="3"><![CDATA[has]]></wf>
+    <wf id="94" sent="6" para="1" offset="418" length="2"><![CDATA[in]]></wf>
+    <wf id="95" sent="6" para="1" offset="420" length="6"><![CDATA[recent]]></wf>
+    <wf id="96" sent="6" para="1" offset="426" length="5"><![CDATA[years]]></wf>
+    <wf id="97" sent="6" para="1" offset="431" length="4"><![CDATA[been]]></wf>
+    <wf id="98" sent="6" para="1" offset="435" length="10"><![CDATA[struggling]]></wf>
+    <wf id="99" sent="6" para="1" offset="445" length="4"><![CDATA[with]]></wf>
+    <wf id="100" sent="6" para="1" offset="449" length="4"><![CDATA[poor]]></wf>
+    <wf id="101" sent="6" para="1" offset="453" length="13"><![CDATA[profitability]]></wf>
+    <wf id="102" sent="6" para="1" offset="466" length="3"><![CDATA[and]]></wf>
+    <wf id="103" sent="6" para="1" offset="469" length="9"><![CDATA[shrinking]]></wf>
+    <wf id="104" sent="6" para="1" offset="478" length="6"><![CDATA[market]]></wf>
+    <wf id="105" sent="6" para="1" offset="484" length="6"><![CDATA[shares]]></wf>
+    <wf id="106" sent="6" para="1" offset="490" length="1"><![CDATA[.]]></wf>
+    <wf id="107" sent="7" para="1" offset="491" length="2"><![CDATA[In]]></wf>
+    <wf id="108" sent="7" para="1" offset="493" length="4"><![CDATA[2005]]></wf>
+    <wf id="109" sent="7" para="1" offset="497" length="2"><![CDATA[it]]></wf>
+    <wf id="110" sent="7" para="1" offset="499" length="4"><![CDATA[lost]]></wf>
+    <wf id="111" sent="7" para="1" offset="503" length="1"><![CDATA[$]]></wf>
+    <wf id="112" sent="7" para="1" offset="504" length="3"><![CDATA[1.6]]></wf>
+    <wf id="113" sent="7" para="1" offset="507" length="7"><![CDATA[billion]]></wf>
+    <wf id="114" sent="7" para="1" offset="514" length="3"><![CDATA[and]]></wf>
+    <wf id="115" sent="7" para="1" offset="517" length="8"><![CDATA[recently]]></wf>
+    <wf id="116" sent="7" para="1" offset="525" length="3"><![CDATA[the]]></wf>
+    <wf id="117" sent="7" para="1" offset="528" length="7"><![CDATA[company]]></wf>
+    <wf id="118" sent="7" para="1" offset="535" length="8"><![CDATA[reported]]></wf>
+    <wf id="119" sent="7" para="1" offset="543" length="1"><![CDATA[a]]></wf>
+    <wf id="120" sent="7" para="1" offset="544" length="6"><![CDATA[second]]></wf>
+    <wf id="121" sent="7" para="1" offset="550" length="7"><![CDATA[quarter]]></wf>
+    <wf id="122" sent="7" para="1" offset="557" length="4"><![CDATA[loss]]></wf>
+    <wf id="123" sent="7" para="1" offset="561" length="2"><![CDATA[of]]></wf>
+    <wf id="124" sent="7" para="1" offset="563" length="1"><![CDATA[$]]></wf>
+    <wf id="125" sent="7" para="1" offset="564" length="3"><![CDATA[254]]></wf>
+    <wf id="126" sent="7" para="1" offset="567" length="7"><![CDATA[million]]></wf>
+    <wf id="127" sent="7" para="1" offset="574" length="3"><![CDATA[and]]></wf>
+    <wf id="128" sent="7" para="1" offset="577" length="1"><![CDATA[a]]></wf>
+    <wf id="129" sent="7" para="1" offset="578" length="2"><![CDATA[34]]></wf>
+    <wf id="130" sent="7" para="1" offset="580" length="1"><![CDATA[%]]></wf>
+    <wf id="131" sent="7" para="1" offset="581" length="9"><![CDATA[year-year]]></wf>
+    <wf id="132" sent="7" para="1" offset="590" length="7"><![CDATA[decline]]></wf>
+    <wf id="133" sent="7" para="1" offset="597" length="2"><![CDATA[in]]></wf>
+    <wf id="134" sent="7" para="1" offset="599" length="5"><![CDATA[sales]]></wf>
+    <wf id="135" sent="7" para="1" offset="604" length="3"><![CDATA[for]]></wf>
+    <wf id="136" sent="7" para="1" offset="607" length="3"><![CDATA[the]]></wf>
+    <wf id="137" sent="7" para="1" offset="610" length="5"><![CDATA[month]]></wf>
+    <wf id="138" sent="7" para="1" offset="615" length="2"><![CDATA[of]]></wf>
+    <wf id="139" sent="7" para="1" offset="617" length="4"><![CDATA[July]]></wf>
+    <wf id="140" sent="7" para="1" offset="621" length="1"><![CDATA[.]]></wf>
+    <wf id="141" sent="8" para="1" offset="622" length="6"><![CDATA[George]]></wf>
+    <wf id="142" sent="8" para="1" offset="628" length="5"><![CDATA[Pipas]]></wf>
+    <wf id="143" sent="8" para="1" offset="633" length="1"><![CDATA[,]]></wf>
+    <wf id="144" sent="8" para="1" offset="634" length="8"><![CDATA[director]]></wf>
+    <wf id="145" sent="8" para="1" offset="642" length="2"><![CDATA[of]]></wf>
+    <wf id="146" sent="8" para="1" offset="644" length="5"><![CDATA[sales]]></wf>
+    <wf id="147" sent="8" para="1" offset="649" length="8"><![CDATA[analysis]]></wf>
+    <wf id="148" sent="8" para="1" offset="657" length="2"><![CDATA[at]]></wf>
+    <wf id="149" sent="8" para="1" offset="659" length="4"><![CDATA[Ford]]></wf>
+    <wf id="150" sent="8" para="1" offset="663" length="1"><![CDATA[,]]></wf>
+    <wf id="151" sent="8" para="1" offset="664" length="6"><![CDATA[points]]></wf>
+    <wf id="152" sent="8" para="1" offset="670" length="2"><![CDATA[to]]></wf>
+    <wf id="153" sent="8" para="1" offset="672" length="6"><![CDATA[rising]]></wf>
+    <wf id="154" sent="8" para="1" offset="678" length="3"><![CDATA[gas]]></wf>
+    <wf id="155" sent="8" para="1" offset="681" length="6"><![CDATA[prices]]></wf>
+    <wf id="156" sent="8" para="1" offset="687" length="6"><![CDATA[having]]></wf>
+    <wf id="157" sent="8" para="1" offset="693" length="8"><![CDATA[negative]]></wf>
+    <wf id="158" sent="8" para="1" offset="701" length="6"><![CDATA[impact]]></wf>
+    <wf id="159" sent="8" para="1" offset="707" length="2"><![CDATA[on]]></wf>
+    <wf id="160" sent="8" para="1" offset="709" length="3"><![CDATA[the]]></wf>
+    <wf id="161" sent="8" para="1" offset="712" length="4"><![CDATA[sale]]></wf>
+    <wf id="162" sent="8" para="1" offset="716" length="2"><![CDATA[of]]></wf>
+    <wf id="163" sent="8" para="1" offset="718" length="3"><![CDATA[the]]></wf>
+    <wf id="164" sent="8" para="1" offset="721" length="9"><![CDATA[companies]]></wf>
+    <wf id="165" sent="8" para="1" offset="730" length="3"><![CDATA[SUV]]></wf>
+    <wf id="166" sent="8" para="1" offset="733" length="5"><![CDATA[lines]]></wf>
+    <wf id="167" sent="8" para="1" offset="738" length="2"><![CDATA[as]]></wf>
+    <wf id="168" sent="8" para="1" offset="740" length="4"><![CDATA[well]]></wf>
+    <wf id="169" sent="8" para="1" offset="744" length="2"><![CDATA[as]]></wf>
+    <wf id="170" sent="8" para="1" offset="746" length="3"><![CDATA[its]]></wf>
+    <wf id="171" sent="8" para="1" offset="749" length="5"><![CDATA[sales]]></wf>
+    <wf id="172" sent="8" para="1" offset="754" length="6"><![CDATA[leader]]></wf>
+    <wf id="173" sent="8" para="1" offset="760" length="1"><![CDATA[,]]></wf>
+    <wf id="174" sent="8" para="1" offset="761" length="3"><![CDATA[the]]></wf>
+    <wf id="175" sent="8" para="1" offset="764" length="8"><![CDATA[F-series]]></wf>
+    <wf id="176" sent="8" para="1" offset="772" length="6"><![CDATA[pickup]]></wf>
+    <wf id="177" sent="8" para="1" offset="778" length="5"><![CDATA[truck]]></wf>
+    <wf id="178" sent="8" para="1" offset="783" length="2"><![CDATA[as]]></wf>
+    <wf id="179" sent="8" para="1" offset="785" length="5"><![CDATA[being]]></wf>
+    <wf id="180" sent="8" para="1" offset="790" length="3"><![CDATA[the]]></wf>
+    <wf id="181" sent="8" para="1" offset="793" length="6"><![CDATA[direct]]></wf>
+    <wf id="182" sent="8" para="1" offset="799" length="5"><![CDATA[cause]]></wf>
+    <wf id="183" sent="8" para="1" offset="804" length="2"><![CDATA[of]]></wf>
+    <wf id="184" sent="8" para="1" offset="806" length="3"><![CDATA[the]]></wf>
+    <wf id="185" sent="8" para="1" offset="809" length="6"><![CDATA[latest]]></wf>
+    <wf id="186" sent="8" para="1" offset="815" length="10"><![CDATA[initiative]]></wf>
+    <wf id="187" sent="8" para="1" offset="825" length="1"><![CDATA[.]]></wf>
+    <wf id="188" sent="9" para="1" offset="826" length="2"><![CDATA[So]]></wf>
+    <wf id="189" sent="9" para="1" offset="828" length="3"><![CDATA[far]]></wf>
+    <wf id="190" sent="9" para="1" offset="831" length="3"><![CDATA[the]]></wf>
+    <wf id="191" sent="9" para="1" offset="834" length="9"><![CDATA[following]]></wf>
+    <wf id="192" sent="9" para="1" offset="843" length="6"><![CDATA[plants]]></wf>
+    <wf id="193" sent="9" para="1" offset="849" length="3"><![CDATA[are]]></wf>
+    <wf id="194" sent="9" para="1" offset="852" length="7"><![CDATA[thought]]></wf>
+    <wf id="195" sent="9" para="1" offset="859" length="2"><![CDATA[to]]></wf>
+    <wf id="196" sent="9" para="1" offset="861" length="2"><![CDATA[be]]></wf>
+    <wf id="197" sent="9" para="1" offset="863" length="8"><![CDATA[affected]]></wf>
+    <wf id="198" sent="9" para="1" offset="871" length="1"><![CDATA[:]]></wf>
+    <wf id="199" sent="9" para="1" offset="872" length="1"><![CDATA[*]]></wf>
+    <wf id="200" sent="9" para="1" offset="873" length="3"><![CDATA[St.]]></wf>
+    <wf id="201" sent="9" para="1" offset="876" length="6"><![CDATA[Thomas]]></wf>
+    <wf id="202" sent="9" para="1" offset="882" length="8"><![CDATA[Assembly]]></wf>
+    <wf id="203" sent="9" para="1" offset="890" length="2"><![CDATA[of]]></wf>
+    <wf id="204" sent="9" para="1" offset="892" length="3"><![CDATA[St.]]></wf>
+    <wf id="205" sent="9" para="1" offset="895" length="6"><![CDATA[Thomas]]></wf>
+    <wf id="206" sent="9" para="1" offset="901" length="1"><![CDATA[,]]></wf>
+    <wf id="207" sent="9" para="1" offset="902" length="7"><![CDATA[Ontario]]></wf>
+    <wf id="208" sent="9" para="1" offset="909" length="1"><![CDATA[,]]></wf>
+    <wf id="209" sent="9" para="1" offset="910" length="6"><![CDATA[Canada]]></wf>
+    <wf id="210" sent="9" para="1" offset="916" length="1"><![CDATA[*]]></wf>
+    <wf id="211" sent="9" para="1" offset="917" length="7"><![CDATA[Chicago]]></wf>
+    <wf id="212" sent="9" para="1" offset="924" length="1"><![CDATA[,]]></wf>
+    <wf id="213" sent="9" para="1" offset="925" length="8"><![CDATA[Illinois]]></wf>
+    <wf id="214" sent="9" para="1" offset="933" length="1"><![CDATA[*]]></wf>
+    <wf id="215" sent="9" para="1" offset="934" length="5"><![CDATA[Wixom]]></wf>
+    <wf id="216" sent="9" para="1" offset="939" length="8"><![CDATA[Assembly]]></wf>
+    <wf id="217" sent="9" para="1" offset="947" length="5"><![CDATA[Plant]]></wf>
+    <wf id="218" sent="9" para="1" offset="952" length="2"><![CDATA[of]]></wf>
+    <wf id="219" sent="9" para="1" offset="954" length="5"><![CDATA[Wixom]]></wf>
+    <wf id="220" sent="9" para="1" offset="959" length="1"><![CDATA[,]]></wf>
+    <wf id="221" sent="9" para="1" offset="960" length="8"><![CDATA[Michigan]]></wf>
+    <wf id="222" sent="9" para="1" offset="968" length="1"><![CDATA[,]]></wf>
+    <wf id="223" sent="9" para="1" offset="969" length="8"><![CDATA[Michigan]]></wf>
+    <wf id="224" sent="9" para="1" offset="977" length="1"><![CDATA[*]]></wf>
+    <wf id="225" sent="9" para="1" offset="978" length="10"><![CDATA[Louisville]]></wf>
+    <wf id="226" sent="9" para="1" offset="988" length="8"><![CDATA[Assembly]]></wf>
+    <wf id="227" sent="9" para="1" offset="996" length="2"><![CDATA[of]]></wf>
+    <wf id="228" sent="9" para="1" offset="998" length="10"><![CDATA[Louisville]]></wf>
+    <wf id="229" sent="9" para="1" offset="1008" length="1"><![CDATA[,]]></wf>
+    <wf id="230" sent="9" para="1" offset="1009" length="8"><![CDATA[Kentucky]]></wf>
+    <wf id="231" sent="9" para="1" offset="1017" length="1"><![CDATA[*]]></wf>
+    <wf id="232" sent="9" para="1" offset="1018" length="8"><![CDATA[Michigan]]></wf>
+    <wf id="233" sent="9" para="1" offset="1026" length="5"><![CDATA[Truck]]></wf>
+    <wf id="234" sent="9" para="1" offset="1031" length="5"><![CDATA[Plant]]></wf>
+    <wf id="235" sent="9" para="1" offset="1036" length="2"><![CDATA[of]]></wf>
+    <wf id="236" sent="9" para="1" offset="1038" length="5"><![CDATA[Wayne]]></wf>
+    <wf id="237" sent="9" para="1" offset="1043" length="1"><![CDATA[,]]></wf>
+    <wf id="238" sent="9" para="1" offset="1044" length="8"><![CDATA[Michigan]]></wf>
+    <wf id="239" sent="9" para="1" offset="1052" length="1"><![CDATA[*]]></wf>
+    <wf id="240" sent="9" para="1" offset="1053" length="3"><![CDATA[St.]]></wf>
+    <wf id="241" sent="9" para="1" offset="1056" length="4"><![CDATA[Paul]]></wf>
+    <wf id="242" sent="9" para="1" offset="1060" length="1"><![CDATA[,]]></wf>
+    <wf id="243" sent="9" para="1" offset="1061" length="9"><![CDATA[Minnesota]]></wf>
+    <wf id="244" sent="9" para="1" offset="1070" length="1"><![CDATA[*]]></wf>
+    <wf id="245" sent="9" para="1" offset="1071" length="6"><![CDATA[Kansas]]></wf>
+    <wf id="246" sent="9" para="1" offset="1077" length="4"><![CDATA[City]]></wf>
+    <wf id="247" sent="9" para="1" offset="1081" length="8"><![CDATA[Assembly]]></wf>
+    <wf id="248" sent="9" para="1" offset="1089" length="2"><![CDATA[of]]></wf>
+    <wf id="249" sent="9" para="1" offset="1091" length="6"><![CDATA[Kansas]]></wf>
+    <wf id="250" sent="9" para="1" offset="1097" length="4"><![CDATA[City]]></wf>
+    <wf id="251" sent="9" para="1" offset="1101" length="1"><![CDATA[,]]></wf>
+    <wf id="252" sent="9" para="1" offset="1102" length="8"><![CDATA[Missouri]]></wf>
+    <wf id="253" sent="9" para="1" offset="1110" length="1"><![CDATA[*]]></wf>
+    <wf id="254" sent="9" para="1" offset="1111" length="7"><![CDATA[Norfolk]]></wf>
+    <wf id="255" sent="9" para="1" offset="1118" length="8"><![CDATA[Assembly]]></wf>
+    <wf id="256" sent="9" para="1" offset="1126" length="2"><![CDATA[of]]></wf>
+    <wf id="257" sent="9" para="1" offset="1128" length="7"><![CDATA[Norfolk]]></wf>
+    <wf id="258" sent="9" para="1" offset="1135" length="1"><![CDATA[,]]></wf>
+    <wf id="259" sent="9" para="1" offset="1136" length="8"><![CDATA[Virginia]]></wf>
+    <wf id="260" sent="9" para="1" offset="1144" length="1"><![CDATA[*]]></wf>
+    <wf id="261" sent="9" para="1" offset="1145" length="5"><![CDATA[River]]></wf>
+    <wf id="262" sent="9" para="1" offset="1150" length="5"><![CDATA[Rouge]]></wf>
+    <wf id="263" sent="9" para="1" offset="1155" length="5"><![CDATA[Plant]]></wf>
+    <wf id="264" sent="9" para="1" offset="1160" length="2"><![CDATA[of]]></wf>
+    <wf id="265" sent="9" para="1" offset="1162" length="8"><![CDATA[Dearborn]]></wf>
+    <wf id="266" sent="9" para="1" offset="1170" length="1"><![CDATA[,]]></wf>
+    <wf id="267" sent="9" para="1" offset="1171" length="8"><![CDATA[Michigan]]></wf>
+    <wf id="268" sent="9" para="1" offset="1179" length="4"><![CDATA[Ford]]></wf>
+    <wf id="269" sent="9" para="1" offset="1183" length="2"><![CDATA['s]]></wf>
+    <wf id="270" sent="9" para="1" offset="1185" length="5"><![CDATA[stock]]></wf>
+    <wf id="271" sent="9" para="1" offset="1190" length="4"><![CDATA[fell]]></wf>
+    <wf id="272" sent="9" para="1" offset="1194" length="2"><![CDATA[17]]></wf>
+    <wf id="273" sent="9" para="1" offset="1196" length="5"><![CDATA[cents]]></wf>
+    <wf id="274" sent="9" para="1" offset="1201" length="1"><![CDATA[(]]></wf>
+    <wf id="275" sent="9" para="1" offset="1202" length="3"><![CDATA[2.1]]></wf>
+    <wf id="276" sent="9" para="1" offset="1205" length="1"><![CDATA[%]]></wf>
+    <wf id="277" sent="9" para="1" offset="1206" length="1"><![CDATA[)]]></wf>
+    <wf id="278" sent="9" para="1" offset="1207" length="2"><![CDATA[to]]></wf>
+    <wf id="279" sent="9" para="1" offset="1209" length="1"><![CDATA[$]]></wf>
+    <wf id="280" sent="9" para="1" offset="1210" length="1"><![CDATA[8]]></wf>
+    <wf id="281" sent="9" para="1" offset="1211" length="2"><![CDATA[on]]></wf>
+    <wf id="282" sent="9" para="1" offset="1213" length="3"><![CDATA[the]]></wf>
+    <wf id="283" sent="9" para="1" offset="1216" length="3"><![CDATA[New]]></wf>
+    <wf id="284" sent="9" para="1" offset="1219" length="4"><![CDATA[York]]></wf>
+    <wf id="285" sent="9" para="1" offset="1223" length="5"><![CDATA[Stock]]></wf>
+    <wf id="286" sent="9" para="1" offset="1228" length="8"><![CDATA[Exchange]]></wf>
+    <wf id="287" sent="9" para="1" offset="1236" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="Ford">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="announces">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="deep">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="production">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="cuts">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="in">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="response">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="to">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="growing">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="losses">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="August">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="19">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma=",">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="2006">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="Ford">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="has">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="announced">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="sweeping">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="cuts">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="of">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="21">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="%">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="(">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="168,000">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="units">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma=")">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="in">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="its">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="US">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="and">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="Canadian">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="production">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma=",">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="resulting">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="in">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="the">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="partial">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="closure">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="of">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="ten">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="of">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="its">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="plants">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="during">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="the">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="fourth">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="quarter">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma=".">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="The">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="measure">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="comes">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="on">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="top">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="of">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="existing">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="turnaround">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="plans">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="announced">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="in">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="January">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma=",">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="in">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="which">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="25,000">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="to">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="30,000">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="positions">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="should">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="be">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="cut">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="and">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="14">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="plants">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="closed">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="by">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="2012">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma=".">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="Ford">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="is">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="the">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="world">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="'s">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="third-largest">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="automaker">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="and">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="the">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="U.S.">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="'s">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="second-largest">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma=".">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="However">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="it">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="has">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="in">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="recent">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="years">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="been">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="struggling">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="with">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="poor">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="profitability">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="and">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="shrinking">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="market">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="shares">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma=".">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="In">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="2005">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="it">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="lost">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="$">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="1.6">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="billion">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="and">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="recently">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="the">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="company">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="reported">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="a">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="second">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="quarter">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="loss">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="of">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="$">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="254">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="million">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="and">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="a">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="34">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="%">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="year-year">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="decline">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="in">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="sales">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="for">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="the">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="month">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="of">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="July">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma=".">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="George">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="Pipas">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma=",">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="director">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="of">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="sales">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="analysis">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="at">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="Ford">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma=",">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="points">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="to">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma="rising">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="gas">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="prices">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="having">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="negative">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="impact">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="on">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="the">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="sale">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="of">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="the">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="companies">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="SUV">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="lines">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="as">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="well">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="as">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="its">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="sales">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma="leader">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma=",">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="the">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma="F-series">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="pickup">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma="truck">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="as">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="being">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="the">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="direct">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="cause">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="of">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma="the">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="latest">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma="initiative">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma=".">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma="So">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="far">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma="the">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma="following">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="plants">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma="are">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma="thought">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma="to">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma="be">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="affected">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma=":">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma="*">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma="St.">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+    <term id="201" lemma="Thomas">
+      <span>
+        <target id="201"/>
+      </span>
+    </term>
+    <term id="202" lemma="Assembly">
+      <span>
+        <target id="202"/>
+      </span>
+    </term>
+    <term id="203" lemma="of">
+      <span>
+        <target id="203"/>
+      </span>
+    </term>
+    <term id="204" lemma="St.">
+      <span>
+        <target id="204"/>
+      </span>
+    </term>
+    <term id="205" lemma="Thomas">
+      <span>
+        <target id="205"/>
+      </span>
+    </term>
+    <term id="206" lemma=",">
+      <span>
+        <target id="206"/>
+      </span>
+    </term>
+    <term id="207" lemma="Ontario">
+      <span>
+        <target id="207"/>
+      </span>
+    </term>
+    <term id="208" lemma=",">
+      <span>
+        <target id="208"/>
+      </span>
+    </term>
+    <term id="209" lemma="Canada">
+      <span>
+        <target id="209"/>
+      </span>
+    </term>
+    <term id="210" lemma="*">
+      <span>
+        <target id="210"/>
+      </span>
+    </term>
+    <term id="211" lemma="Chicago">
+      <span>
+        <target id="211"/>
+      </span>
+    </term>
+    <term id="212" lemma=",">
+      <span>
+        <target id="212"/>
+      </span>
+    </term>
+    <term id="213" lemma="Illinois">
+      <span>
+        <target id="213"/>
+      </span>
+    </term>
+    <term id="214" lemma="*">
+      <span>
+        <target id="214"/>
+      </span>
+    </term>
+    <term id="215" lemma="Wixom">
+      <span>
+        <target id="215"/>
+      </span>
+    </term>
+    <term id="216" lemma="Assembly">
+      <span>
+        <target id="216"/>
+      </span>
+    </term>
+    <term id="217" lemma="Plant">
+      <span>
+        <target id="217"/>
+      </span>
+    </term>
+    <term id="218" lemma="of">
+      <span>
+        <target id="218"/>
+      </span>
+    </term>
+    <term id="219" lemma="Wixom">
+      <span>
+        <target id="219"/>
+      </span>
+    </term>
+    <term id="220" lemma=",">
+      <span>
+        <target id="220"/>
+      </span>
+    </term>
+    <term id="221" lemma="Michigan">
+      <span>
+        <target id="221"/>
+      </span>
+    </term>
+    <term id="222" lemma=",">
+      <span>
+        <target id="222"/>
+      </span>
+    </term>
+    <term id="223" lemma="Michigan">
+      <span>
+        <target id="223"/>
+      </span>
+    </term>
+    <term id="224" lemma="*">
+      <span>
+        <target id="224"/>
+      </span>
+    </term>
+    <term id="225" lemma="Louisville">
+      <span>
+        <target id="225"/>
+      </span>
+    </term>
+    <term id="226" lemma="Assembly">
+      <span>
+        <target id="226"/>
+      </span>
+    </term>
+    <term id="227" lemma="of">
+      <span>
+        <target id="227"/>
+      </span>
+    </term>
+    <term id="228" lemma="Louisville">
+      <span>
+        <target id="228"/>
+      </span>
+    </term>
+    <term id="229" lemma=",">
+      <span>
+        <target id="229"/>
+      </span>
+    </term>
+    <term id="230" lemma="Kentucky">
+      <span>
+        <target id="230"/>
+      </span>
+    </term>
+    <term id="231" lemma="*">
+      <span>
+        <target id="231"/>
+      </span>
+    </term>
+    <term id="232" lemma="Michigan">
+      <span>
+        <target id="232"/>
+      </span>
+    </term>
+    <term id="233" lemma="Truck">
+      <span>
+        <target id="233"/>
+      </span>
+    </term>
+    <term id="234" lemma="Plant">
+      <span>
+        <target id="234"/>
+      </span>
+    </term>
+    <term id="235" lemma="of">
+      <span>
+        <target id="235"/>
+      </span>
+    </term>
+    <term id="236" lemma="Wayne">
+      <span>
+        <target id="236"/>
+      </span>
+    </term>
+    <term id="237" lemma=",">
+      <span>
+        <target id="237"/>
+      </span>
+    </term>
+    <term id="238" lemma="Michigan">
+      <span>
+        <target id="238"/>
+      </span>
+    </term>
+    <term id="239" lemma="*">
+      <span>
+        <target id="239"/>
+      </span>
+    </term>
+    <term id="240" lemma="St.">
+      <span>
+        <target id="240"/>
+      </span>
+    </term>
+    <term id="241" lemma="Paul">
+      <span>
+        <target id="241"/>
+      </span>
+    </term>
+    <term id="242" lemma=",">
+      <span>
+        <target id="242"/>
+      </span>
+    </term>
+    <term id="243" lemma="Minnesota">
+      <span>
+        <target id="243"/>
+      </span>
+    </term>
+    <term id="244" lemma="*">
+      <span>
+        <target id="244"/>
+      </span>
+    </term>
+    <term id="245" lemma="Kansas">
+      <span>
+        <target id="245"/>
+      </span>
+    </term>
+    <term id="246" lemma="City">
+      <span>
+        <target id="246"/>
+      </span>
+    </term>
+    <term id="247" lemma="Assembly">
+      <span>
+        <target id="247"/>
+      </span>
+    </term>
+    <term id="248" lemma="of">
+      <span>
+        <target id="248"/>
+      </span>
+    </term>
+    <term id="249" lemma="Kansas">
+      <span>
+        <target id="249"/>
+      </span>
+    </term>
+    <term id="250" lemma="City">
+      <span>
+        <target id="250"/>
+      </span>
+    </term>
+    <term id="251" lemma=",">
+      <span>
+        <target id="251"/>
+      </span>
+    </term>
+    <term id="252" lemma="Missouri">
+      <span>
+        <target id="252"/>
+      </span>
+    </term>
+    <term id="253" lemma="*">
+      <span>
+        <target id="253"/>
+      </span>
+    </term>
+    <term id="254" lemma="Norfolk">
+      <span>
+        <target id="254"/>
+      </span>
+    </term>
+    <term id="255" lemma="Assembly">
+      <span>
+        <target id="255"/>
+      </span>
+    </term>
+    <term id="256" lemma="of">
+      <span>
+        <target id="256"/>
+      </span>
+    </term>
+    <term id="257" lemma="Norfolk">
+      <span>
+        <target id="257"/>
+      </span>
+    </term>
+    <term id="258" lemma=",">
+      <span>
+        <target id="258"/>
+      </span>
+    </term>
+    <term id="259" lemma="Virginia">
+      <span>
+        <target id="259"/>
+      </span>
+    </term>
+    <term id="260" lemma="*">
+      <span>
+        <target id="260"/>
+      </span>
+    </term>
+    <term id="261" lemma="River">
+      <span>
+        <target id="261"/>
+      </span>
+    </term>
+    <term id="262" lemma="Rouge">
+      <span>
+        <target id="262"/>
+      </span>
+    </term>
+    <term id="263" lemma="Plant">
+      <span>
+        <target id="263"/>
+      </span>
+    </term>
+    <term id="264" lemma="of">
+      <span>
+        <target id="264"/>
+      </span>
+    </term>
+    <term id="265" lemma="Dearborn">
+      <span>
+        <target id="265"/>
+      </span>
+    </term>
+    <term id="266" lemma=",">
+      <span>
+        <target id="266"/>
+      </span>
+    </term>
+    <term id="267" lemma="Michigan">
+      <span>
+        <target id="267"/>
+      </span>
+    </term>
+    <term id="268" lemma="Ford">
+      <span>
+        <target id="268"/>
+      </span>
+    </term>
+    <term id="269" lemma="'s">
+      <span>
+        <target id="269"/>
+      </span>
+    </term>
+    <term id="270" lemma="stock">
+      <span>
+        <target id="270"/>
+      </span>
+    </term>
+    <term id="271" lemma="fell">
+      <span>
+        <target id="271"/>
+      </span>
+    </term>
+    <term id="272" lemma="17">
+      <span>
+        <target id="272"/>
+      </span>
+    </term>
+    <term id="273" lemma="cents">
+      <span>
+        <target id="273"/>
+      </span>
+    </term>
+    <term id="274" lemma="(">
+      <span>
+        <target id="274"/>
+      </span>
+    </term>
+    <term id="275" lemma="2.1">
+      <span>
+        <target id="275"/>
+      </span>
+    </term>
+    <term id="276" lemma="%">
+      <span>
+        <target id="276"/>
+      </span>
+    </term>
+    <term id="277" lemma=")">
+      <span>
+        <target id="277"/>
+      </span>
+    </term>
+    <term id="278" lemma="to">
+      <span>
+        <target id="278"/>
+      </span>
+    </term>
+    <term id="279" lemma="$">
+      <span>
+        <target id="279"/>
+      </span>
+    </term>
+    <term id="280" lemma="8">
+      <span>
+        <target id="280"/>
+      </span>
+    </term>
+    <term id="281" lemma="on">
+      <span>
+        <target id="281"/>
+      </span>
+    </term>
+    <term id="282" lemma="the">
+      <span>
+        <target id="282"/>
+      </span>
+    </term>
+    <term id="283" lemma="New">
+      <span>
+        <target id="283"/>
+      </span>
+    </term>
+    <term id="284" lemma="York">
+      <span>
+        <target id="284"/>
+      </span>
+    </term>
+    <term id="285" lemma="Stock">
+      <span>
+        <target id="285"/>
+      </span>
+    </term>
+    <term id="286" lemma="Exchange">
+      <span>
+        <target id="286"/>
+      </span>
+    </term>
+    <term id="287" lemma=".">
+      <span>
+        <target id="287"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="126" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Earth" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="81"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="140" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="24"/>
+          <target id="25"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="132" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="29"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="134" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ford" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="127" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="87"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="122" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ford" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="80"/>
+          <target id="81"/>
+          <target id="82"/>
+          <target id="83"/>
+          <target id="84"/>
+          <target id="85"/>
+          <target id="86"/>
+          <target id="87"/>
+          <target id="88"/>
+          <target id="89"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="137" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Canada" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="31"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="130" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ford" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="149"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="120" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ford" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="86"/>
+          <target id="87"/>
+          <target id="88"/>
+          <target id="89"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="121" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="40"/>
+          <target id="41"/>
+          <target id="42"/>
+          <target id="43"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="117" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ford" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="15"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="123" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ford" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="42"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="111" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="72"/>
+          <target id="73"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="125" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ford" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="268"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="113" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ford" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="116"/>
+          <target id="117"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="112" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ford" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="78"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="124" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ford" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="109"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="139" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="29"/>
+          <target id="30"/>
+          <target id="31"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="131" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ford" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="28"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="118" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ford" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="80"/>
+          <target id="81"/>
+          <target id="82"/>
+          <target id="83"/>
+          <target id="84"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="129" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ford" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="92"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+  <timeExpressions>
+    <timex3 id="19" type="DATE" value="2006-Q4">
+      <span>
+        <target id="45"/>
+        <target id="46"/>
+        <target id="47"/>
+      </span>
+    </timex3>
+    <timex3 id="18" type="DATE" value="2006-08-19">
+      <span>
+        <target id="11"/>
+        <target id="12"/>
+        <target id="13"/>
+        <target id="14"/>
+      </span>
+    </timex3>
+    <timex3 id="36" type="DATE" value="2006-01">
+      <span>
+        <target id="60"/>
+      </span>
+    </timex3>
+    <timex3 id="50" type="DURATION" value="PXY">
+      <span>
+        <target id="95"/>
+        <target id="96"/>
+      </span>
+    </timex3>
+    <timex3 id="34" type="DATE" value="2010">
+      <span>
+        <target id="76"/>
+      </span>
+    </timex3>
+  </timeExpressions>
+  <srl>
+    <predicate id="pr162298">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg2"/>
+    </predicate>
+    <predicate id="pr162297">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg1"/>
+    </predicate>
+    <predicate id="pr161879">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg1"/>
+    </predicate>
+    <predicate id="pr161882">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg1"/>
+    </predicate>
+  </srl>
+</NAF>

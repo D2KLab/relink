@@ -1,0 +1,993 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[Foreign planes to land in China 's popular Guilin . BEIJING 1996-12-06 China 's tourist spot of Guilin in the southern region of Guangxi will open its airport to foreign aircraft , the Xinhua news agency said on Friday . An assessment group made up of the State Council 's Port Office , the Civil Aviation Administration of China , the General Administration of Customs and other authorities had granted the airport permission to handle foreign aircraft , Xinhua said . " The move is expected to give a shot in the arm to the economic expansion of Guangxi and southwest China as a whole , " the agency said but gave no further details . Guilin is well known for its mountain and river scenery and is one of China 's most popular tourist destinations . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1336testb" filename="1336testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="7"><![CDATA[Foreign]]></wf>
+    <wf id="1" sent="1" para="1" offset="7" length="6"><![CDATA[planes]]></wf>
+    <wf id="2" sent="1" para="1" offset="13" length="2"><![CDATA[to]]></wf>
+    <wf id="3" sent="1" para="1" offset="15" length="4"><![CDATA[land]]></wf>
+    <wf id="4" sent="1" para="1" offset="19" length="2"><![CDATA[in]]></wf>
+    <wf id="5" sent="1" para="1" offset="21" length="5"><![CDATA[China]]></wf>
+    <wf id="6" sent="1" para="1" offset="26" length="2"><![CDATA['s]]></wf>
+    <wf id="7" sent="1" para="1" offset="28" length="7"><![CDATA[popular]]></wf>
+    <wf id="8" sent="1" para="1" offset="35" length="6"><![CDATA[Guilin]]></wf>
+    <wf id="9" sent="1" para="1" offset="41" length="1"><![CDATA[.]]></wf>
+    <wf id="10" sent="1" para="1" offset="42" length="7"><![CDATA[BEIJING]]></wf>
+    <wf id="11" sent="1" para="1" offset="49" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="12" sent="1" para="1" offset="59" length="5"><![CDATA[China]]></wf>
+    <wf id="13" sent="1" para="1" offset="64" length="2"><![CDATA['s]]></wf>
+    <wf id="14" sent="1" para="1" offset="66" length="7"><![CDATA[tourist]]></wf>
+    <wf id="15" sent="1" para="1" offset="73" length="4"><![CDATA[spot]]></wf>
+    <wf id="16" sent="1" para="1" offset="77" length="2"><![CDATA[of]]></wf>
+    <wf id="17" sent="1" para="1" offset="79" length="6"><![CDATA[Guilin]]></wf>
+    <wf id="18" sent="1" para="1" offset="85" length="2"><![CDATA[in]]></wf>
+    <wf id="19" sent="1" para="1" offset="87" length="3"><![CDATA[the]]></wf>
+    <wf id="20" sent="1" para="1" offset="90" length="8"><![CDATA[southern]]></wf>
+    <wf id="21" sent="1" para="1" offset="98" length="6"><![CDATA[region]]></wf>
+    <wf id="22" sent="1" para="1" offset="104" length="2"><![CDATA[of]]></wf>
+    <wf id="23" sent="1" para="1" offset="106" length="7"><![CDATA[Guangxi]]></wf>
+    <wf id="24" sent="1" para="1" offset="113" length="4"><![CDATA[will]]></wf>
+    <wf id="25" sent="1" para="1" offset="117" length="4"><![CDATA[open]]></wf>
+    <wf id="26" sent="1" para="1" offset="121" length="3"><![CDATA[its]]></wf>
+    <wf id="27" sent="1" para="1" offset="124" length="7"><![CDATA[airport]]></wf>
+    <wf id="28" sent="1" para="1" offset="131" length="2"><![CDATA[to]]></wf>
+    <wf id="29" sent="1" para="1" offset="133" length="7"><![CDATA[foreign]]></wf>
+    <wf id="30" sent="1" para="1" offset="140" length="8"><![CDATA[aircraft]]></wf>
+    <wf id="31" sent="1" para="1" offset="148" length="1"><![CDATA[,]]></wf>
+    <wf id="32" sent="1" para="1" offset="149" length="3"><![CDATA[the]]></wf>
+    <wf id="33" sent="1" para="1" offset="152" length="6"><![CDATA[Xinhua]]></wf>
+    <wf id="34" sent="1" para="1" offset="158" length="4"><![CDATA[news]]></wf>
+    <wf id="35" sent="1" para="1" offset="162" length="6"><![CDATA[agency]]></wf>
+    <wf id="36" sent="1" para="1" offset="168" length="4"><![CDATA[said]]></wf>
+    <wf id="37" sent="1" para="1" offset="172" length="2"><![CDATA[on]]></wf>
+    <wf id="38" sent="1" para="1" offset="174" length="6"><![CDATA[Friday]]></wf>
+    <wf id="39" sent="1" para="1" offset="180" length="1"><![CDATA[.]]></wf>
+    <wf id="40" sent="1" para="1" offset="181" length="2"><![CDATA[An]]></wf>
+    <wf id="41" sent="1" para="1" offset="183" length="10"><![CDATA[assessment]]></wf>
+    <wf id="42" sent="1" para="1" offset="193" length="5"><![CDATA[group]]></wf>
+    <wf id="43" sent="1" para="1" offset="198" length="4"><![CDATA[made]]></wf>
+    <wf id="44" sent="1" para="1" offset="202" length="2"><![CDATA[up]]></wf>
+    <wf id="45" sent="1" para="1" offset="204" length="2"><![CDATA[of]]></wf>
+    <wf id="46" sent="1" para="1" offset="206" length="3"><![CDATA[the]]></wf>
+    <wf id="47" sent="1" para="1" offset="209" length="5"><![CDATA[State]]></wf>
+    <wf id="48" sent="1" para="1" offset="214" length="7"><![CDATA[Council]]></wf>
+    <wf id="49" sent="1" para="1" offset="221" length="2"><![CDATA['s]]></wf>
+    <wf id="50" sent="1" para="1" offset="223" length="4"><![CDATA[Port]]></wf>
+    <wf id="51" sent="1" para="1" offset="227" length="6"><![CDATA[Office]]></wf>
+    <wf id="52" sent="1" para="1" offset="233" length="1"><![CDATA[,]]></wf>
+    <wf id="53" sent="1" para="1" offset="234" length="3"><![CDATA[the]]></wf>
+    <wf id="54" sent="1" para="1" offset="237" length="5"><![CDATA[Civil]]></wf>
+    <wf id="55" sent="1" para="1" offset="242" length="8"><![CDATA[Aviation]]></wf>
+    <wf id="56" sent="1" para="1" offset="250" length="14"><![CDATA[Administration]]></wf>
+    <wf id="57" sent="1" para="1" offset="264" length="2"><![CDATA[of]]></wf>
+    <wf id="58" sent="1" para="1" offset="266" length="5"><![CDATA[China]]></wf>
+    <wf id="59" sent="1" para="1" offset="271" length="1"><![CDATA[,]]></wf>
+    <wf id="60" sent="1" para="1" offset="272" length="3"><![CDATA[the]]></wf>
+    <wf id="61" sent="1" para="1" offset="275" length="7"><![CDATA[General]]></wf>
+    <wf id="62" sent="1" para="1" offset="282" length="14"><![CDATA[Administration]]></wf>
+    <wf id="63" sent="1" para="1" offset="296" length="2"><![CDATA[of]]></wf>
+    <wf id="64" sent="1" para="1" offset="298" length="7"><![CDATA[Customs]]></wf>
+    <wf id="65" sent="1" para="1" offset="305" length="3"><![CDATA[and]]></wf>
+    <wf id="66" sent="1" para="1" offset="308" length="5"><![CDATA[other]]></wf>
+    <wf id="67" sent="1" para="1" offset="313" length="11"><![CDATA[authorities]]></wf>
+    <wf id="68" sent="1" para="1" offset="324" length="3"><![CDATA[had]]></wf>
+    <wf id="69" sent="1" para="1" offset="327" length="7"><![CDATA[granted]]></wf>
+    <wf id="70" sent="1" para="1" offset="334" length="3"><![CDATA[the]]></wf>
+    <wf id="71" sent="1" para="1" offset="337" length="7"><![CDATA[airport]]></wf>
+    <wf id="72" sent="1" para="1" offset="344" length="10"><![CDATA[permission]]></wf>
+    <wf id="73" sent="1" para="1" offset="354" length="2"><![CDATA[to]]></wf>
+    <wf id="74" sent="1" para="1" offset="356" length="6"><![CDATA[handle]]></wf>
+    <wf id="75" sent="1" para="1" offset="362" length="7"><![CDATA[foreign]]></wf>
+    <wf id="76" sent="1" para="1" offset="369" length="8"><![CDATA[aircraft]]></wf>
+    <wf id="77" sent="1" para="1" offset="377" length="1"><![CDATA[,]]></wf>
+    <wf id="78" sent="1" para="1" offset="378" length="6"><![CDATA[Xinhua]]></wf>
+    <wf id="79" sent="1" para="1" offset="384" length="4"><![CDATA[said]]></wf>
+    <wf id="80" sent="1" para="1" offset="388" length="1"><![CDATA[.]]></wf>
+    <wf id="81" sent="1" para="1" offset="389" length="1"><![CDATA["]]></wf>
+    <wf id="82" sent="1" para="1" offset="390" length="3"><![CDATA[The]]></wf>
+    <wf id="83" sent="1" para="1" offset="393" length="4"><![CDATA[move]]></wf>
+    <wf id="84" sent="1" para="1" offset="397" length="2"><![CDATA[is]]></wf>
+    <wf id="85" sent="1" para="1" offset="399" length="8"><![CDATA[expected]]></wf>
+    <wf id="86" sent="1" para="1" offset="407" length="2"><![CDATA[to]]></wf>
+    <wf id="87" sent="1" para="1" offset="409" length="4"><![CDATA[give]]></wf>
+    <wf id="88" sent="1" para="1" offset="413" length="1"><![CDATA[a]]></wf>
+    <wf id="89" sent="1" para="1" offset="414" length="4"><![CDATA[shot]]></wf>
+    <wf id="90" sent="1" para="1" offset="418" length="2"><![CDATA[in]]></wf>
+    <wf id="91" sent="1" para="1" offset="420" length="3"><![CDATA[the]]></wf>
+    <wf id="92" sent="1" para="1" offset="423" length="3"><![CDATA[arm]]></wf>
+    <wf id="93" sent="1" para="1" offset="426" length="2"><![CDATA[to]]></wf>
+    <wf id="94" sent="1" para="1" offset="428" length="3"><![CDATA[the]]></wf>
+    <wf id="95" sent="1" para="1" offset="431" length="8"><![CDATA[economic]]></wf>
+    <wf id="96" sent="1" para="1" offset="439" length="9"><![CDATA[expansion]]></wf>
+    <wf id="97" sent="1" para="1" offset="448" length="2"><![CDATA[of]]></wf>
+    <wf id="98" sent="1" para="1" offset="450" length="7"><![CDATA[Guangxi]]></wf>
+    <wf id="99" sent="1" para="1" offset="457" length="3"><![CDATA[and]]></wf>
+    <wf id="100" sent="1" para="1" offset="460" length="9"><![CDATA[southwest]]></wf>
+    <wf id="101" sent="1" para="1" offset="469" length="5"><![CDATA[China]]></wf>
+    <wf id="102" sent="1" para="1" offset="474" length="2"><![CDATA[as]]></wf>
+    <wf id="103" sent="1" para="1" offset="476" length="1"><![CDATA[a]]></wf>
+    <wf id="104" sent="1" para="1" offset="477" length="5"><![CDATA[whole]]></wf>
+    <wf id="105" sent="1" para="1" offset="482" length="1"><![CDATA[,]]></wf>
+    <wf id="106" sent="1" para="1" offset="483" length="1"><![CDATA["]]></wf>
+    <wf id="107" sent="1" para="1" offset="484" length="3"><![CDATA[the]]></wf>
+    <wf id="108" sent="1" para="1" offset="487" length="6"><![CDATA[agency]]></wf>
+    <wf id="109" sent="1" para="1" offset="493" length="4"><![CDATA[said]]></wf>
+    <wf id="110" sent="1" para="1" offset="497" length="3"><![CDATA[but]]></wf>
+    <wf id="111" sent="1" para="1" offset="500" length="4"><![CDATA[gave]]></wf>
+    <wf id="112" sent="1" para="1" offset="504" length="2"><![CDATA[no]]></wf>
+    <wf id="113" sent="1" para="1" offset="506" length="7"><![CDATA[further]]></wf>
+    <wf id="114" sent="1" para="1" offset="513" length="7"><![CDATA[details]]></wf>
+    <wf id="115" sent="1" para="1" offset="520" length="1"><![CDATA[.]]></wf>
+    <wf id="116" sent="1" para="1" offset="521" length="6"><![CDATA[Guilin]]></wf>
+    <wf id="117" sent="1" para="1" offset="527" length="2"><![CDATA[is]]></wf>
+    <wf id="118" sent="1" para="1" offset="529" length="4"><![CDATA[well]]></wf>
+    <wf id="119" sent="1" para="1" offset="533" length="5"><![CDATA[known]]></wf>
+    <wf id="120" sent="1" para="1" offset="538" length="3"><![CDATA[for]]></wf>
+    <wf id="121" sent="1" para="1" offset="541" length="3"><![CDATA[its]]></wf>
+    <wf id="122" sent="1" para="1" offset="544" length="8"><![CDATA[mountain]]></wf>
+    <wf id="123" sent="1" para="1" offset="552" length="3"><![CDATA[and]]></wf>
+    <wf id="124" sent="1" para="1" offset="555" length="5"><![CDATA[river]]></wf>
+    <wf id="125" sent="1" para="1" offset="560" length="7"><![CDATA[scenery]]></wf>
+    <wf id="126" sent="1" para="1" offset="567" length="3"><![CDATA[and]]></wf>
+    <wf id="127" sent="1" para="1" offset="570" length="2"><![CDATA[is]]></wf>
+    <wf id="128" sent="1" para="1" offset="572" length="3"><![CDATA[one]]></wf>
+    <wf id="129" sent="1" para="1" offset="575" length="2"><![CDATA[of]]></wf>
+    <wf id="130" sent="1" para="1" offset="577" length="5"><![CDATA[China]]></wf>
+    <wf id="131" sent="1" para="1" offset="582" length="2"><![CDATA['s]]></wf>
+    <wf id="132" sent="1" para="1" offset="584" length="4"><![CDATA[most]]></wf>
+    <wf id="133" sent="1" para="1" offset="588" length="7"><![CDATA[popular]]></wf>
+    <wf id="134" sent="1" para="1" offset="595" length="7"><![CDATA[tourist]]></wf>
+    <wf id="135" sent="1" para="1" offset="602" length="12"><![CDATA[destinations]]></wf>
+    <wf id="136" sent="1" para="1" offset="614" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="Foreign">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="planes">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="to">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="land">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="in">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="China">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="'s">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="popular">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="Guilin">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma=".">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="BEIJING">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="1996-12-06">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="China">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="'s">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="tourist">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="spot">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="of">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="Guilin">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="in">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="the">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="southern">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="region">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="of">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="Guangxi">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="will">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="open">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="its">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="airport">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="to">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="foreign">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="aircraft">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma=",">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="the">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="Xinhua">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="news">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="agency">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="said">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="on">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="Friday">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma=".">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="An">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="assessment">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="group">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="made">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="up">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="of">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="the">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="State">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="Council">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="'s">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="Port">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="Office">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma=",">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="the">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="Civil">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="Aviation">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="Administration">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="of">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="China">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma=",">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="the">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="General">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="Administration">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="of">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="Customs">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="and">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="other">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="authorities">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="had">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="granted">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="the">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="airport">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="permission">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="to">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="handle">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="foreign">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="aircraft">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma=",">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="Xinhua">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="said">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma=".">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="&quot;">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="The">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="move">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="is">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="expected">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="to">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="give">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="a">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="shot">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="in">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="the">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="arm">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="to">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="the">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="economic">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="expansion">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="of">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="Guangxi">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="and">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="southwest">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="China">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="as">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="a">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="whole">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma=",">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="&quot;">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="the">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="agency">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="said">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="but">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="gave">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="no">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="further">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="details">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma=".">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="Guilin">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="is">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="well">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="known">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="for">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="its">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="mountain">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="and">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="river">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="scenery">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="and">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="is">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="one">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="of">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="China">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="'s">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="most">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="popular">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="tourist">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="destinations">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma=".">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="3730">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/People's_Republic_of_China" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="5"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3731">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Guilin" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="8"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3732">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Beijing" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="10"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3733">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/People's_Republic_of_China" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3734">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Guilin" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="17"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3735">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Guangxi" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="23"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3736">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Xinhua_News_Agency" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="33"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3737">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/State_Council_of_the_People's_Republic_of_China" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="47"/>
+          <target id="48"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3738">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Civil_Aviation_Administration_of_China" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="54"/>
+          <target id="55"/>
+          <target id="56"/>
+          <target id="57"/>
+          <target id="58"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3739">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/General_Administration_of_Customs" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="61"/>
+          <target id="62"/>
+          <target id="63"/>
+          <target id="64"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3740">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Xinhua_News_Agency" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="78"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3741">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Guangxi" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="98"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3742">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/People's_Republic_of_China" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="101"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3743">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Guilin" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="116"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3744">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/People's_Republic_of_China" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="130"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

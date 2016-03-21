@@ -1,0 +1,943 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[SOCCER - NORTHERN IRELAND PREMIER DIVISION RESULTS / STANDINGS . LONDON 1996-12-07 Results of Northern Ireland premier division matches on Saturday : Ards 0 Crusaders 0 Cliftonville 1 Portadown 1 Glenavon 2 Linfield 1 Glentoran 1 Coleraine 0 Standings ( tabulated - played , won , drawn , lost , goals for , goals against , points ) : Coleraine 10 7 1 2 18 11 22 Linfield 10 4 3 3 13 10 15 Crusaders 10 3 4 3 11 9 13 Glenavon 10 3 4 3 15 14 13 Glentoran 10 3 3 4 18 18 12 Portadown 9 3 3 3 11 12 12 Ards 10 3 2 5 12 17 11 Cliftonville 9 1 4 4 5 12 7 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1364testb" filename="1364testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="6"><![CDATA[SOCCER]]></wf>
+    <wf id="2" sent="1" para="1" offset="6" length="1"><![CDATA[-]]></wf>
+    <wf id="3" sent="1" para="1" offset="7" length="8"><![CDATA[NORTHERN]]></wf>
+    <wf id="4" sent="1" para="1" offset="15" length="7"><![CDATA[IRELAND]]></wf>
+    <wf id="5" sent="1" para="1" offset="22" length="7"><![CDATA[PREMIER]]></wf>
+    <wf id="6" sent="1" para="1" offset="29" length="8"><![CDATA[DIVISION]]></wf>
+    <wf id="7" sent="1" para="1" offset="37" length="7"><![CDATA[RESULTS]]></wf>
+    <wf id="8" sent="1" para="1" offset="44" length="1"><![CDATA[/]]></wf>
+    <wf id="9" sent="1" para="1" offset="45" length="9"><![CDATA[STANDINGS]]></wf>
+    <wf id="10" sent="1" para="1" offset="54" length="1"><![CDATA[.]]></wf>
+    <wf id="11" sent="1" para="1" offset="55" length="6"><![CDATA[LONDON]]></wf>
+    <wf id="12" sent="1" para="1" offset="61" length="10"><![CDATA[1996-12-07]]></wf>
+    <wf id="13" sent="1" para="1" offset="71" length="7"><![CDATA[Results]]></wf>
+    <wf id="14" sent="1" para="1" offset="78" length="2"><![CDATA[of]]></wf>
+    <wf id="15" sent="1" para="1" offset="80" length="8"><![CDATA[Northern]]></wf>
+    <wf id="16" sent="1" para="1" offset="88" length="7"><![CDATA[Ireland]]></wf>
+    <wf id="17" sent="1" para="1" offset="95" length="7"><![CDATA[premier]]></wf>
+    <wf id="18" sent="1" para="1" offset="102" length="8"><![CDATA[division]]></wf>
+    <wf id="19" sent="1" para="1" offset="110" length="7"><![CDATA[matches]]></wf>
+    <wf id="20" sent="1" para="1" offset="117" length="2"><![CDATA[on]]></wf>
+    <wf id="21" sent="1" para="1" offset="119" length="8"><![CDATA[Saturday]]></wf>
+    <wf id="22" sent="1" para="1" offset="127" length="1"><![CDATA[:]]></wf>
+    <wf id="23" sent="1" para="1" offset="128" length="4"><![CDATA[Ards]]></wf>
+    <wf id="24" sent="1" para="1" offset="132" length="1"><![CDATA[0]]></wf>
+    <wf id="25" sent="1" para="1" offset="133" length="9"><![CDATA[Crusaders]]></wf>
+    <wf id="26" sent="1" para="1" offset="142" length="1"><![CDATA[0]]></wf>
+    <wf id="27" sent="1" para="1" offset="143" length="12"><![CDATA[Cliftonville]]></wf>
+    <wf id="28" sent="1" para="1" offset="155" length="1"><![CDATA[1]]></wf>
+    <wf id="29" sent="1" para="1" offset="156" length="9"><![CDATA[Portadown]]></wf>
+    <wf id="30" sent="1" para="1" offset="165" length="1"><![CDATA[1]]></wf>
+    <wf id="31" sent="1" para="1" offset="166" length="8"><![CDATA[Glenavon]]></wf>
+    <wf id="32" sent="1" para="1" offset="174" length="1"><![CDATA[2]]></wf>
+    <wf id="33" sent="1" para="1" offset="175" length="8"><![CDATA[Linfield]]></wf>
+    <wf id="34" sent="1" para="1" offset="183" length="1"><![CDATA[1]]></wf>
+    <wf id="35" sent="1" para="1" offset="184" length="9"><![CDATA[Glentoran]]></wf>
+    <wf id="36" sent="1" para="1" offset="193" length="1"><![CDATA[1]]></wf>
+    <wf id="37" sent="1" para="1" offset="194" length="9"><![CDATA[Coleraine]]></wf>
+    <wf id="38" sent="1" para="1" offset="203" length="1"><![CDATA[0]]></wf>
+    <wf id="39" sent="1" para="1" offset="204" length="9"><![CDATA[Standings]]></wf>
+    <wf id="40" sent="1" para="1" offset="213" length="1"><![CDATA[(]]></wf>
+    <wf id="41" sent="1" para="1" offset="214" length="9"><![CDATA[tabulated]]></wf>
+    <wf id="42" sent="1" para="1" offset="223" length="1"><![CDATA[-]]></wf>
+    <wf id="43" sent="1" para="1" offset="224" length="6"><![CDATA[played]]></wf>
+    <wf id="44" sent="1" para="1" offset="230" length="1"><![CDATA[,]]></wf>
+    <wf id="45" sent="1" para="1" offset="231" length="3"><![CDATA[won]]></wf>
+    <wf id="46" sent="1" para="1" offset="234" length="1"><![CDATA[,]]></wf>
+    <wf id="47" sent="1" para="1" offset="235" length="5"><![CDATA[drawn]]></wf>
+    <wf id="48" sent="1" para="1" offset="240" length="1"><![CDATA[,]]></wf>
+    <wf id="49" sent="1" para="1" offset="241" length="4"><![CDATA[lost]]></wf>
+    <wf id="50" sent="1" para="1" offset="245" length="1"><![CDATA[,]]></wf>
+    <wf id="51" sent="1" para="1" offset="246" length="5"><![CDATA[goals]]></wf>
+    <wf id="52" sent="1" para="1" offset="251" length="3"><![CDATA[for]]></wf>
+    <wf id="53" sent="1" para="1" offset="254" length="1"><![CDATA[,]]></wf>
+    <wf id="54" sent="1" para="1" offset="255" length="5"><![CDATA[goals]]></wf>
+    <wf id="55" sent="1" para="1" offset="260" length="7"><![CDATA[against]]></wf>
+    <wf id="56" sent="1" para="1" offset="267" length="1"><![CDATA[,]]></wf>
+    <wf id="57" sent="1" para="1" offset="268" length="6"><![CDATA[points]]></wf>
+    <wf id="58" sent="1" para="1" offset="274" length="1"><![CDATA[)]]></wf>
+    <wf id="59" sent="1" para="1" offset="275" length="1"><![CDATA[:]]></wf>
+    <wf id="60" sent="1" para="1" offset="276" length="9"><![CDATA[Coleraine]]></wf>
+    <wf id="61" sent="1" para="1" offset="285" length="2"><![CDATA[10]]></wf>
+    <wf id="62" sent="1" para="1" offset="287" length="1"><![CDATA[7]]></wf>
+    <wf id="63" sent="1" para="1" offset="288" length="1"><![CDATA[1]]></wf>
+    <wf id="64" sent="1" para="1" offset="289" length="1"><![CDATA[2]]></wf>
+    <wf id="65" sent="1" para="1" offset="290" length="2"><![CDATA[18]]></wf>
+    <wf id="66" sent="1" para="1" offset="292" length="2"><![CDATA[11]]></wf>
+    <wf id="67" sent="1" para="1" offset="294" length="2"><![CDATA[22]]></wf>
+    <wf id="68" sent="1" para="1" offset="296" length="8"><![CDATA[Linfield]]></wf>
+    <wf id="69" sent="1" para="1" offset="304" length="2"><![CDATA[10]]></wf>
+    <wf id="70" sent="1" para="1" offset="306" length="1"><![CDATA[4]]></wf>
+    <wf id="71" sent="1" para="1" offset="307" length="1"><![CDATA[3]]></wf>
+    <wf id="72" sent="1" para="1" offset="308" length="1"><![CDATA[3]]></wf>
+    <wf id="73" sent="1" para="1" offset="309" length="2"><![CDATA[13]]></wf>
+    <wf id="74" sent="1" para="1" offset="311" length="2"><![CDATA[10]]></wf>
+    <wf id="75" sent="1" para="1" offset="313" length="2"><![CDATA[15]]></wf>
+    <wf id="76" sent="1" para="1" offset="315" length="9"><![CDATA[Crusaders]]></wf>
+    <wf id="77" sent="1" para="1" offset="324" length="2"><![CDATA[10]]></wf>
+    <wf id="78" sent="1" para="1" offset="326" length="1"><![CDATA[3]]></wf>
+    <wf id="79" sent="1" para="1" offset="327" length="1"><![CDATA[4]]></wf>
+    <wf id="80" sent="1" para="1" offset="328" length="1"><![CDATA[3]]></wf>
+    <wf id="81" sent="1" para="1" offset="329" length="2"><![CDATA[11]]></wf>
+    <wf id="82" sent="1" para="1" offset="331" length="1"><![CDATA[9]]></wf>
+    <wf id="83" sent="1" para="1" offset="332" length="2"><![CDATA[13]]></wf>
+    <wf id="84" sent="1" para="1" offset="334" length="8"><![CDATA[Glenavon]]></wf>
+    <wf id="85" sent="1" para="1" offset="342" length="2"><![CDATA[10]]></wf>
+    <wf id="86" sent="1" para="1" offset="344" length="1"><![CDATA[3]]></wf>
+    <wf id="87" sent="1" para="1" offset="345" length="1"><![CDATA[4]]></wf>
+    <wf id="88" sent="1" para="1" offset="346" length="1"><![CDATA[3]]></wf>
+    <wf id="89" sent="1" para="1" offset="347" length="2"><![CDATA[15]]></wf>
+    <wf id="90" sent="1" para="1" offset="349" length="2"><![CDATA[14]]></wf>
+    <wf id="91" sent="1" para="1" offset="351" length="2"><![CDATA[13]]></wf>
+    <wf id="92" sent="1" para="1" offset="353" length="9"><![CDATA[Glentoran]]></wf>
+    <wf id="93" sent="1" para="1" offset="362" length="2"><![CDATA[10]]></wf>
+    <wf id="94" sent="1" para="1" offset="364" length="1"><![CDATA[3]]></wf>
+    <wf id="95" sent="1" para="1" offset="365" length="1"><![CDATA[3]]></wf>
+    <wf id="96" sent="1" para="1" offset="366" length="1"><![CDATA[4]]></wf>
+    <wf id="97" sent="1" para="1" offset="367" length="2"><![CDATA[18]]></wf>
+    <wf id="98" sent="1" para="1" offset="369" length="2"><![CDATA[18]]></wf>
+    <wf id="99" sent="1" para="1" offset="371" length="2"><![CDATA[12]]></wf>
+    <wf id="100" sent="1" para="1" offset="373" length="9"><![CDATA[Portadown]]></wf>
+    <wf id="101" sent="1" para="1" offset="382" length="1"><![CDATA[9]]></wf>
+    <wf id="102" sent="1" para="1" offset="383" length="1"><![CDATA[3]]></wf>
+    <wf id="103" sent="1" para="1" offset="384" length="1"><![CDATA[3]]></wf>
+    <wf id="104" sent="1" para="1" offset="385" length="1"><![CDATA[3]]></wf>
+    <wf id="105" sent="1" para="1" offset="386" length="2"><![CDATA[11]]></wf>
+    <wf id="106" sent="1" para="1" offset="388" length="2"><![CDATA[12]]></wf>
+    <wf id="107" sent="1" para="1" offset="390" length="2"><![CDATA[12]]></wf>
+    <wf id="108" sent="1" para="1" offset="392" length="4"><![CDATA[Ards]]></wf>
+    <wf id="109" sent="1" para="1" offset="396" length="2"><![CDATA[10]]></wf>
+    <wf id="110" sent="1" para="1" offset="398" length="1"><![CDATA[3]]></wf>
+    <wf id="111" sent="1" para="1" offset="399" length="1"><![CDATA[2]]></wf>
+    <wf id="112" sent="1" para="1" offset="400" length="1"><![CDATA[5]]></wf>
+    <wf id="113" sent="1" para="1" offset="401" length="2"><![CDATA[12]]></wf>
+    <wf id="114" sent="1" para="1" offset="403" length="2"><![CDATA[17]]></wf>
+    <wf id="115" sent="1" para="1" offset="405" length="2"><![CDATA[11]]></wf>
+    <wf id="116" sent="1" para="1" offset="407" length="12"><![CDATA[Cliftonville]]></wf>
+    <wf id="117" sent="1" para="1" offset="419" length="1"><![CDATA[9]]></wf>
+    <wf id="118" sent="1" para="1" offset="420" length="1"><![CDATA[1]]></wf>
+    <wf id="119" sent="1" para="1" offset="421" length="1"><![CDATA[4]]></wf>
+    <wf id="120" sent="1" para="1" offset="422" length="1"><![CDATA[4]]></wf>
+    <wf id="121" sent="1" para="1" offset="423" length="1"><![CDATA[5]]></wf>
+    <wf id="122" sent="1" para="1" offset="424" length="2"><![CDATA[12]]></wf>
+    <wf id="123" sent="1" para="1" offset="426" length="1"><![CDATA[7]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="SOCCER">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="-">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="NORTHERN">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="IRELAND">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="PREMIER">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="DIVISION">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="RESULTS">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="/">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="STANDINGS">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma=".">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="LONDON">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="1996-12-07">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Results">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="of">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="Northern">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="Ireland">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="premier">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="division">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="matches">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="on">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="Saturday">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma=":">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="Ards">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="0">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="Crusaders">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="0">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="Cliftonville">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="1">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="Portadown">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="1">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="Glenavon">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="2">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="Linfield">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="1">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="Glentoran">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="1">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="Coleraine">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="0">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="Standings">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="(">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="tabulated">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="-">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="played">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma=",">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="won">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma=",">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="drawn">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma=",">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="lost">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma=",">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="goals">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="for">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma=",">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="goals">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="against">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma=",">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="points">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma=")">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma=":">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="Coleraine">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="10">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="7">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="1">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="2">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="18">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="11">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="22">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="Linfield">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="10">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="4">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="3">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="3">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="13">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="10">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="15">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="Crusaders">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="10">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="3">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="4">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="3">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="11">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="9">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="13">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="Glenavon">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="10">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="3">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="4">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="3">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="15">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="14">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="13">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="Glentoran">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="10">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="3">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="3">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="4">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="18">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="18">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="12">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="Portadown">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="9">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="3">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="3">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="3">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="11">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="12">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="12">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="Ards">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="10">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="3">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="2">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="5">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="12">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="17">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="11">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="Cliftonville">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="9">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="1">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="4">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="4">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="5">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="12">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="7">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="4657">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Northern_Ireland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="3"/>
+          <target id="4"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4658">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/London" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4659">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Northern_Ireland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="15"/>
+          <target id="16"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4660">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ards_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="23"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4661">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Crusaders_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="25"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4662">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Cliftonville_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="27"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4663">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Portadown_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="29"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4664">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Glenavon_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="31"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4665">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Linfield_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="33"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4666">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Glentoran_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="35"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4667">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Coleraine_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="37"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4668">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Coleraine_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="60"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4669">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Linfield_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="68"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4670">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Crusaders_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="76"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4671">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Glenavon_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="84"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4672">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Glentoran_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="92"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4673">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Portadown_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="100"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4674">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ards_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="108"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4675">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Cliftonville_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="116"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

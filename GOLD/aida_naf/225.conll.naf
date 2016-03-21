@@ -1,0 +1,1441 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[NHL ICE HOCKEY - CANUCKS RW BURE SUSPENDED FOR ONE GAME . NEW YORK 1996-12-06 Vancouver Canucks star right wing Pavel Bure was suspended for one game by the National Hockey League and fined $ 1,000 Friday for his hit on Buffalo Sabres defenceman Garry Galley on Wednesday . Bure received a double-minor penalty for high-sticking with 2:22 left in the first period of Wednesday 's 7-6 overtime win by Vancouver after colliding with Galley in Buffalo zone . Galley suffered a concussion and did not return to the game . " Mr Bure left his feet to deliver a forearm blow to Mr Galley as he was about to be checked legally by his opponent , " said NHL discipline chief Brian Burke in handing out the suspension . " Although it is clear from the videotape that Mr Bure 's actions were a reaction to the impending hit and there was no intent to injure his opponent , there can be no excuse for this type of conduct , " Burke said . Bure , who is struggling with only nine goals and 12 assists in 26 games , will miss Saturday 's home game against Ottawa . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1387testb" filename="1387testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="3"><![CDATA[NHL]]></wf>
+    <wf id="2" sent="1" para="1" offset="3" length="3"><![CDATA[ICE]]></wf>
+    <wf id="3" sent="1" para="1" offset="6" length="6"><![CDATA[HOCKEY]]></wf>
+    <wf id="4" sent="1" para="1" offset="12" length="1"><![CDATA[-]]></wf>
+    <wf id="5" sent="1" para="1" offset="13" length="7"><![CDATA[CANUCKS]]></wf>
+    <wf id="6" sent="1" para="1" offset="20" length="2"><![CDATA[RW]]></wf>
+    <wf id="7" sent="1" para="1" offset="22" length="4"><![CDATA[BURE]]></wf>
+    <wf id="8" sent="1" para="1" offset="26" length="9"><![CDATA[SUSPENDED]]></wf>
+    <wf id="9" sent="1" para="1" offset="35" length="3"><![CDATA[FOR]]></wf>
+    <wf id="10" sent="1" para="1" offset="38" length="3"><![CDATA[ONE]]></wf>
+    <wf id="11" sent="1" para="1" offset="41" length="4"><![CDATA[GAME]]></wf>
+    <wf id="12" sent="1" para="1" offset="45" length="1"><![CDATA[.]]></wf>
+    <wf id="13" sent="1" para="1" offset="46" length="3"><![CDATA[NEW]]></wf>
+    <wf id="14" sent="1" para="1" offset="49" length="4"><![CDATA[YORK]]></wf>
+    <wf id="15" sent="1" para="1" offset="53" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="16" sent="1" para="1" offset="63" length="9"><![CDATA[Vancouver]]></wf>
+    <wf id="17" sent="1" para="1" offset="72" length="7"><![CDATA[Canucks]]></wf>
+    <wf id="18" sent="1" para="1" offset="79" length="4"><![CDATA[star]]></wf>
+    <wf id="19" sent="1" para="1" offset="83" length="5"><![CDATA[right]]></wf>
+    <wf id="20" sent="1" para="1" offset="88" length="4"><![CDATA[wing]]></wf>
+    <wf id="21" sent="1" para="1" offset="92" length="5"><![CDATA[Pavel]]></wf>
+    <wf id="22" sent="1" para="1" offset="97" length="4"><![CDATA[Bure]]></wf>
+    <wf id="23" sent="1" para="1" offset="101" length="3"><![CDATA[was]]></wf>
+    <wf id="24" sent="1" para="1" offset="104" length="9"><![CDATA[suspended]]></wf>
+    <wf id="25" sent="1" para="1" offset="113" length="3"><![CDATA[for]]></wf>
+    <wf id="26" sent="1" para="1" offset="116" length="3"><![CDATA[one]]></wf>
+    <wf id="27" sent="1" para="1" offset="119" length="4"><![CDATA[game]]></wf>
+    <wf id="28" sent="1" para="1" offset="123" length="2"><![CDATA[by]]></wf>
+    <wf id="29" sent="1" para="1" offset="125" length="3"><![CDATA[the]]></wf>
+    <wf id="30" sent="1" para="1" offset="128" length="8"><![CDATA[National]]></wf>
+    <wf id="31" sent="1" para="1" offset="136" length="6"><![CDATA[Hockey]]></wf>
+    <wf id="32" sent="1" para="1" offset="142" length="6"><![CDATA[League]]></wf>
+    <wf id="33" sent="1" para="1" offset="148" length="3"><![CDATA[and]]></wf>
+    <wf id="34" sent="1" para="1" offset="151" length="5"><![CDATA[fined]]></wf>
+    <wf id="35" sent="1" para="1" offset="156" length="1"><![CDATA[$]]></wf>
+    <wf id="36" sent="1" para="1" offset="157" length="5"><![CDATA[1,000]]></wf>
+    <wf id="37" sent="1" para="1" offset="162" length="6"><![CDATA[Friday]]></wf>
+    <wf id="38" sent="1" para="1" offset="168" length="3"><![CDATA[for]]></wf>
+    <wf id="39" sent="1" para="1" offset="171" length="3"><![CDATA[his]]></wf>
+    <wf id="40" sent="1" para="1" offset="174" length="3"><![CDATA[hit]]></wf>
+    <wf id="41" sent="1" para="1" offset="177" length="2"><![CDATA[on]]></wf>
+    <wf id="42" sent="1" para="1" offset="179" length="7"><![CDATA[Buffalo]]></wf>
+    <wf id="43" sent="1" para="1" offset="186" length="6"><![CDATA[Sabres]]></wf>
+    <wf id="44" sent="1" para="1" offset="192" length="10"><![CDATA[defenceman]]></wf>
+    <wf id="45" sent="1" para="1" offset="202" length="5"><![CDATA[Garry]]></wf>
+    <wf id="46" sent="1" para="1" offset="207" length="6"><![CDATA[Galley]]></wf>
+    <wf id="47" sent="1" para="1" offset="213" length="2"><![CDATA[on]]></wf>
+    <wf id="48" sent="1" para="1" offset="215" length="9"><![CDATA[Wednesday]]></wf>
+    <wf id="49" sent="1" para="1" offset="224" length="1"><![CDATA[.]]></wf>
+    <wf id="50" sent="1" para="1" offset="225" length="4"><![CDATA[Bure]]></wf>
+    <wf id="51" sent="1" para="1" offset="229" length="8"><![CDATA[received]]></wf>
+    <wf id="52" sent="1" para="1" offset="237" length="1"><![CDATA[a]]></wf>
+    <wf id="53" sent="1" para="1" offset="238" length="12"><![CDATA[double-minor]]></wf>
+    <wf id="54" sent="1" para="1" offset="250" length="7"><![CDATA[penalty]]></wf>
+    <wf id="55" sent="1" para="1" offset="257" length="3"><![CDATA[for]]></wf>
+    <wf id="56" sent="1" para="1" offset="260" length="13"><![CDATA[high-sticking]]></wf>
+    <wf id="57" sent="1" para="1" offset="273" length="4"><![CDATA[with]]></wf>
+    <wf id="58" sent="1" para="1" offset="277" length="4"><![CDATA[2:22]]></wf>
+    <wf id="59" sent="1" para="1" offset="281" length="4"><![CDATA[left]]></wf>
+    <wf id="60" sent="1" para="1" offset="285" length="2"><![CDATA[in]]></wf>
+    <wf id="61" sent="1" para="1" offset="287" length="3"><![CDATA[the]]></wf>
+    <wf id="62" sent="1" para="1" offset="290" length="5"><![CDATA[first]]></wf>
+    <wf id="63" sent="1" para="1" offset="295" length="6"><![CDATA[period]]></wf>
+    <wf id="64" sent="1" para="1" offset="301" length="2"><![CDATA[of]]></wf>
+    <wf id="65" sent="1" para="1" offset="303" length="9"><![CDATA[Wednesday]]></wf>
+    <wf id="66" sent="1" para="1" offset="312" length="2"><![CDATA['s]]></wf>
+    <wf id="67" sent="1" para="1" offset="314" length="3"><![CDATA[7-6]]></wf>
+    <wf id="68" sent="1" para="1" offset="317" length="8"><![CDATA[overtime]]></wf>
+    <wf id="69" sent="1" para="1" offset="325" length="3"><![CDATA[win]]></wf>
+    <wf id="70" sent="1" para="1" offset="328" length="2"><![CDATA[by]]></wf>
+    <wf id="71" sent="1" para="1" offset="330" length="9"><![CDATA[Vancouver]]></wf>
+    <wf id="72" sent="1" para="1" offset="339" length="5"><![CDATA[after]]></wf>
+    <wf id="73" sent="1" para="1" offset="344" length="9"><![CDATA[colliding]]></wf>
+    <wf id="74" sent="1" para="1" offset="353" length="4"><![CDATA[with]]></wf>
+    <wf id="75" sent="1" para="1" offset="357" length="6"><![CDATA[Galley]]></wf>
+    <wf id="76" sent="1" para="1" offset="363" length="2"><![CDATA[in]]></wf>
+    <wf id="77" sent="1" para="1" offset="365" length="7"><![CDATA[Buffalo]]></wf>
+    <wf id="78" sent="1" para="1" offset="372" length="4"><![CDATA[zone]]></wf>
+    <wf id="79" sent="1" para="1" offset="376" length="1"><![CDATA[.]]></wf>
+    <wf id="80" sent="1" para="1" offset="377" length="6"><![CDATA[Galley]]></wf>
+    <wf id="81" sent="1" para="1" offset="383" length="8"><![CDATA[suffered]]></wf>
+    <wf id="82" sent="1" para="1" offset="391" length="1"><![CDATA[a]]></wf>
+    <wf id="83" sent="1" para="1" offset="392" length="10"><![CDATA[concussion]]></wf>
+    <wf id="84" sent="1" para="1" offset="402" length="3"><![CDATA[and]]></wf>
+    <wf id="85" sent="1" para="1" offset="405" length="3"><![CDATA[did]]></wf>
+    <wf id="86" sent="1" para="1" offset="408" length="3"><![CDATA[not]]></wf>
+    <wf id="87" sent="1" para="1" offset="411" length="6"><![CDATA[return]]></wf>
+    <wf id="88" sent="1" para="1" offset="417" length="2"><![CDATA[to]]></wf>
+    <wf id="89" sent="1" para="1" offset="419" length="3"><![CDATA[the]]></wf>
+    <wf id="90" sent="1" para="1" offset="422" length="4"><![CDATA[game]]></wf>
+    <wf id="91" sent="1" para="1" offset="426" length="1"><![CDATA[.]]></wf>
+    <wf id="92" sent="1" para="1" offset="427" length="1"><![CDATA["]]></wf>
+    <wf id="93" sent="1" para="1" offset="428" length="2"><![CDATA[Mr]]></wf>
+    <wf id="94" sent="1" para="1" offset="430" length="4"><![CDATA[Bure]]></wf>
+    <wf id="95" sent="1" para="1" offset="434" length="4"><![CDATA[left]]></wf>
+    <wf id="96" sent="1" para="1" offset="438" length="3"><![CDATA[his]]></wf>
+    <wf id="97" sent="1" para="1" offset="441" length="4"><![CDATA[feet]]></wf>
+    <wf id="98" sent="1" para="1" offset="445" length="2"><![CDATA[to]]></wf>
+    <wf id="99" sent="1" para="1" offset="447" length="7"><![CDATA[deliver]]></wf>
+    <wf id="100" sent="1" para="1" offset="454" length="1"><![CDATA[a]]></wf>
+    <wf id="101" sent="1" para="1" offset="455" length="7"><![CDATA[forearm]]></wf>
+    <wf id="102" sent="1" para="1" offset="462" length="4"><![CDATA[blow]]></wf>
+    <wf id="103" sent="1" para="1" offset="466" length="2"><![CDATA[to]]></wf>
+    <wf id="104" sent="1" para="1" offset="468" length="2"><![CDATA[Mr]]></wf>
+    <wf id="105" sent="1" para="1" offset="470" length="6"><![CDATA[Galley]]></wf>
+    <wf id="106" sent="1" para="1" offset="476" length="2"><![CDATA[as]]></wf>
+    <wf id="107" sent="1" para="1" offset="478" length="2"><![CDATA[he]]></wf>
+    <wf id="108" sent="1" para="1" offset="480" length="3"><![CDATA[was]]></wf>
+    <wf id="109" sent="1" para="1" offset="483" length="5"><![CDATA[about]]></wf>
+    <wf id="110" sent="1" para="1" offset="488" length="2"><![CDATA[to]]></wf>
+    <wf id="111" sent="1" para="1" offset="490" length="2"><![CDATA[be]]></wf>
+    <wf id="112" sent="1" para="1" offset="492" length="7"><![CDATA[checked]]></wf>
+    <wf id="113" sent="1" para="1" offset="499" length="7"><![CDATA[legally]]></wf>
+    <wf id="114" sent="1" para="1" offset="506" length="2"><![CDATA[by]]></wf>
+    <wf id="115" sent="1" para="1" offset="508" length="3"><![CDATA[his]]></wf>
+    <wf id="116" sent="1" para="1" offset="511" length="8"><![CDATA[opponent]]></wf>
+    <wf id="117" sent="1" para="1" offset="519" length="1"><![CDATA[,]]></wf>
+    <wf id="118" sent="1" para="1" offset="520" length="1"><![CDATA["]]></wf>
+    <wf id="119" sent="1" para="1" offset="521" length="4"><![CDATA[said]]></wf>
+    <wf id="120" sent="1" para="1" offset="525" length="3"><![CDATA[NHL]]></wf>
+    <wf id="121" sent="1" para="1" offset="528" length="10"><![CDATA[discipline]]></wf>
+    <wf id="122" sent="1" para="1" offset="538" length="5"><![CDATA[chief]]></wf>
+    <wf id="123" sent="1" para="1" offset="543" length="5"><![CDATA[Brian]]></wf>
+    <wf id="124" sent="1" para="1" offset="548" length="5"><![CDATA[Burke]]></wf>
+    <wf id="125" sent="1" para="1" offset="553" length="2"><![CDATA[in]]></wf>
+    <wf id="126" sent="1" para="1" offset="555" length="7"><![CDATA[handing]]></wf>
+    <wf id="127" sent="1" para="1" offset="562" length="3"><![CDATA[out]]></wf>
+    <wf id="128" sent="1" para="1" offset="565" length="3"><![CDATA[the]]></wf>
+    <wf id="129" sent="1" para="1" offset="568" length="10"><![CDATA[suspension]]></wf>
+    <wf id="130" sent="1" para="1" offset="578" length="1"><![CDATA[.]]></wf>
+    <wf id="131" sent="1" para="1" offset="579" length="1"><![CDATA["]]></wf>
+    <wf id="132" sent="1" para="1" offset="580" length="8"><![CDATA[Although]]></wf>
+    <wf id="133" sent="1" para="1" offset="588" length="2"><![CDATA[it]]></wf>
+    <wf id="134" sent="1" para="1" offset="590" length="2"><![CDATA[is]]></wf>
+    <wf id="135" sent="1" para="1" offset="592" length="5"><![CDATA[clear]]></wf>
+    <wf id="136" sent="1" para="1" offset="597" length="4"><![CDATA[from]]></wf>
+    <wf id="137" sent="1" para="1" offset="601" length="3"><![CDATA[the]]></wf>
+    <wf id="138" sent="1" para="1" offset="604" length="9"><![CDATA[videotape]]></wf>
+    <wf id="139" sent="1" para="1" offset="613" length="4"><![CDATA[that]]></wf>
+    <wf id="140" sent="1" para="1" offset="617" length="2"><![CDATA[Mr]]></wf>
+    <wf id="141" sent="1" para="1" offset="619" length="4"><![CDATA[Bure]]></wf>
+    <wf id="142" sent="1" para="1" offset="623" length="2"><![CDATA['s]]></wf>
+    <wf id="143" sent="1" para="1" offset="625" length="7"><![CDATA[actions]]></wf>
+    <wf id="144" sent="1" para="1" offset="632" length="4"><![CDATA[were]]></wf>
+    <wf id="145" sent="1" para="1" offset="636" length="1"><![CDATA[a]]></wf>
+    <wf id="146" sent="1" para="1" offset="637" length="8"><![CDATA[reaction]]></wf>
+    <wf id="147" sent="1" para="1" offset="645" length="2"><![CDATA[to]]></wf>
+    <wf id="148" sent="1" para="1" offset="647" length="3"><![CDATA[the]]></wf>
+    <wf id="149" sent="1" para="1" offset="650" length="9"><![CDATA[impending]]></wf>
+    <wf id="150" sent="1" para="1" offset="659" length="3"><![CDATA[hit]]></wf>
+    <wf id="151" sent="1" para="1" offset="662" length="3"><![CDATA[and]]></wf>
+    <wf id="152" sent="1" para="1" offset="665" length="5"><![CDATA[there]]></wf>
+    <wf id="153" sent="1" para="1" offset="670" length="3"><![CDATA[was]]></wf>
+    <wf id="154" sent="1" para="1" offset="673" length="2"><![CDATA[no]]></wf>
+    <wf id="155" sent="1" para="1" offset="675" length="6"><![CDATA[intent]]></wf>
+    <wf id="156" sent="1" para="1" offset="681" length="2"><![CDATA[to]]></wf>
+    <wf id="157" sent="1" para="1" offset="683" length="6"><![CDATA[injure]]></wf>
+    <wf id="158" sent="1" para="1" offset="689" length="3"><![CDATA[his]]></wf>
+    <wf id="159" sent="1" para="1" offset="692" length="8"><![CDATA[opponent]]></wf>
+    <wf id="160" sent="1" para="1" offset="700" length="1"><![CDATA[,]]></wf>
+    <wf id="161" sent="1" para="1" offset="701" length="5"><![CDATA[there]]></wf>
+    <wf id="162" sent="1" para="1" offset="706" length="3"><![CDATA[can]]></wf>
+    <wf id="163" sent="1" para="1" offset="709" length="2"><![CDATA[be]]></wf>
+    <wf id="164" sent="1" para="1" offset="711" length="2"><![CDATA[no]]></wf>
+    <wf id="165" sent="1" para="1" offset="713" length="6"><![CDATA[excuse]]></wf>
+    <wf id="166" sent="1" para="1" offset="719" length="3"><![CDATA[for]]></wf>
+    <wf id="167" sent="1" para="1" offset="722" length="4"><![CDATA[this]]></wf>
+    <wf id="168" sent="1" para="1" offset="726" length="4"><![CDATA[type]]></wf>
+    <wf id="169" sent="1" para="1" offset="730" length="2"><![CDATA[of]]></wf>
+    <wf id="170" sent="1" para="1" offset="732" length="7"><![CDATA[conduct]]></wf>
+    <wf id="171" sent="1" para="1" offset="739" length="1"><![CDATA[,]]></wf>
+    <wf id="172" sent="1" para="1" offset="740" length="1"><![CDATA["]]></wf>
+    <wf id="173" sent="1" para="1" offset="741" length="5"><![CDATA[Burke]]></wf>
+    <wf id="174" sent="1" para="1" offset="746" length="4"><![CDATA[said]]></wf>
+    <wf id="175" sent="1" para="1" offset="750" length="1"><![CDATA[.]]></wf>
+    <wf id="176" sent="1" para="1" offset="751" length="4"><![CDATA[Bure]]></wf>
+    <wf id="177" sent="1" para="1" offset="755" length="1"><![CDATA[,]]></wf>
+    <wf id="178" sent="1" para="1" offset="756" length="3"><![CDATA[who]]></wf>
+    <wf id="179" sent="1" para="1" offset="759" length="2"><![CDATA[is]]></wf>
+    <wf id="180" sent="1" para="1" offset="761" length="10"><![CDATA[struggling]]></wf>
+    <wf id="181" sent="1" para="1" offset="771" length="4"><![CDATA[with]]></wf>
+    <wf id="182" sent="1" para="1" offset="775" length="4"><![CDATA[only]]></wf>
+    <wf id="183" sent="1" para="1" offset="779" length="4"><![CDATA[nine]]></wf>
+    <wf id="184" sent="1" para="1" offset="783" length="5"><![CDATA[goals]]></wf>
+    <wf id="185" sent="1" para="1" offset="788" length="3"><![CDATA[and]]></wf>
+    <wf id="186" sent="1" para="1" offset="791" length="2"><![CDATA[12]]></wf>
+    <wf id="187" sent="1" para="1" offset="793" length="7"><![CDATA[assists]]></wf>
+    <wf id="188" sent="1" para="1" offset="800" length="2"><![CDATA[in]]></wf>
+    <wf id="189" sent="1" para="1" offset="802" length="2"><![CDATA[26]]></wf>
+    <wf id="190" sent="1" para="1" offset="804" length="5"><![CDATA[games]]></wf>
+    <wf id="191" sent="1" para="1" offset="809" length="1"><![CDATA[,]]></wf>
+    <wf id="192" sent="1" para="1" offset="810" length="4"><![CDATA[will]]></wf>
+    <wf id="193" sent="1" para="1" offset="814" length="4"><![CDATA[miss]]></wf>
+    <wf id="194" sent="1" para="1" offset="818" length="8"><![CDATA[Saturday]]></wf>
+    <wf id="195" sent="1" para="1" offset="826" length="2"><![CDATA['s]]></wf>
+    <wf id="196" sent="1" para="1" offset="828" length="4"><![CDATA[home]]></wf>
+    <wf id="197" sent="1" para="1" offset="832" length="4"><![CDATA[game]]></wf>
+    <wf id="198" sent="1" para="1" offset="836" length="7"><![CDATA[against]]></wf>
+    <wf id="199" sent="1" para="1" offset="843" length="6"><![CDATA[Ottawa]]></wf>
+    <wf id="200" sent="1" para="1" offset="849" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="NHL">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="ICE">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="HOCKEY">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="-">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="CANUCKS">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="RW">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="BURE">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="SUSPENDED">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="FOR">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="ONE">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="GAME">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma=".">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="NEW">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="YORK">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="1996-12-06">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="Vancouver">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="Canucks">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="star">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="right">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="wing">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="Pavel">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="Bure">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="was">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="suspended">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="for">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="one">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="game">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="by">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="the">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="National">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="Hockey">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="League">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="and">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="fined">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="$">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="1,000">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="Friday">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="for">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="his">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="hit">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="on">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="Buffalo">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="Sabres">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="defenceman">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="Garry">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="Galley">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="on">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="Wednesday">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma=".">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="Bure">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="received">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="a">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="double-minor">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="penalty">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="for">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="high-sticking">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="with">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="2:22">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="left">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="in">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="the">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="first">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="period">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="of">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="Wednesday">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="'s">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="7-6">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="overtime">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="win">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="by">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="Vancouver">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="after">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="colliding">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="with">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="Galley">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="in">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="Buffalo">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="zone">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma=".">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="Galley">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="suffered">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="a">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="concussion">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="and">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="did">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="not">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="return">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="to">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="the">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="game">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma=".">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="&quot;">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="Mr">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="Bure">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="left">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="his">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="feet">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="to">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="deliver">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="a">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="forearm">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="blow">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="to">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="Mr">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="Galley">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="as">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="he">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="was">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="about">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="to">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="be">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="checked">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="legally">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="by">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="his">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="opponent">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma=",">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="&quot;">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="said">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="NHL">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="discipline">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="chief">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="Brian">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="Burke">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="in">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="handing">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="out">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="the">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="suspension">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma=".">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="&quot;">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="Although">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="it">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="is">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="clear">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="from">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="the">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="videotape">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="that">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="Mr">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="Bure">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="'s">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="actions">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="were">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="a">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="reaction">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="to">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="the">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="impending">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="hit">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="and">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="there">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma="was">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="no">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="intent">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="to">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="injure">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="his">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="opponent">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma=",">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="there">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="can">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="be">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="no">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="excuse">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="for">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="this">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="type">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="of">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="conduct">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma=",">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma="&quot;">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="Burke">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="said">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma=".">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="Bure">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma=",">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="who">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="is">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="struggling">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="with">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="only">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="nine">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma="goals">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="and">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma="12">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="assists">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma="in">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="26">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma="games">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma=",">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="will">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma="miss">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma="Saturday">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma="'s">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma="home">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="game">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma="against">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma="Ottawa">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma=".">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="5475">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/National_Hockey_League" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5476">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Vancouver_Canucks" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="5"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5477">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pavel_Bure" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="7"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5478">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_York_City" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="13"/>
+          <target id="14"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5479">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Vancouver_Canucks" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="16"/>
+          <target id="17"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5480">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pavel_Bure" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="21"/>
+          <target id="22"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5481">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/National_Hockey_League" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="30"/>
+          <target id="31"/>
+          <target id="32"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5482">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Buffalo_Sabres" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="42"/>
+          <target id="43"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5483">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Garry_Galley" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="45"/>
+          <target id="46"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5484">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pavel_Bure" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="50"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5485">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Vancouver_Canucks" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="71"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5486">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Garry_Galley" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="75"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5487">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Buffalo_Sabres" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="77"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5488">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Garry_Galley" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="80"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5489">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pavel_Bure" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="94"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5490">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Garry_Galley" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="105"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5491">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/National_Hockey_League" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="120"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5492">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Brian_Burke_(ice_hockey)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="123"/>
+          <target id="124"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5493">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pavel_Bure" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="141"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5494">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="173"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5495">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pavel_Bure" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="176"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5496">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ottawa_Senators" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="199"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

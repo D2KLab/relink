@@ -1,0 +1,789 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[Estonian Tallinna Pank 11-mo net 46.6 mln kroons . TALLINN 1996-12-06 Tallinna Pank , one of the largest banks in Estonia , made a 11-month 1996 net profit of 46.6 million kroons , the bank said on Friday . It said in a statement that it made profits of 4.5 million kroons in November . The bank made a profit of 20.1 million kroons in the first half of the year . Tallinna Pank said its assets rose 17.8 million kroons to 1.84 billion kroons . Demand deposits rose to 855.8 million kroons from 834.6 million kroons and time deposits increased to 295.1 million kroons from 285.3 million kroons . -- Riga Newsroom , +371 721 5240 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1252testb" filename="1252testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="8"><![CDATA[Estonian]]></wf>
+    <wf id="1" sent="1" para="1" offset="8" length="8"><![CDATA[Tallinna]]></wf>
+    <wf id="2" sent="1" para="1" offset="16" length="4"><![CDATA[Pank]]></wf>
+    <wf id="3" sent="1" para="1" offset="20" length="5"><![CDATA[11-mo]]></wf>
+    <wf id="4" sent="1" para="1" offset="25" length="3"><![CDATA[net]]></wf>
+    <wf id="5" sent="1" para="1" offset="28" length="4"><![CDATA[46.6]]></wf>
+    <wf id="6" sent="1" para="1" offset="32" length="3"><![CDATA[mln]]></wf>
+    <wf id="7" sent="1" para="1" offset="35" length="6"><![CDATA[kroons]]></wf>
+    <wf id="8" sent="1" para="1" offset="41" length="1"><![CDATA[.]]></wf>
+    <wf id="9" sent="1" para="1" offset="42" length="7"><![CDATA[TALLINN]]></wf>
+    <wf id="10" sent="1" para="1" offset="49" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="11" sent="1" para="1" offset="59" length="8"><![CDATA[Tallinna]]></wf>
+    <wf id="12" sent="1" para="1" offset="67" length="4"><![CDATA[Pank]]></wf>
+    <wf id="13" sent="1" para="1" offset="71" length="1"><![CDATA[,]]></wf>
+    <wf id="14" sent="1" para="1" offset="72" length="3"><![CDATA[one]]></wf>
+    <wf id="15" sent="1" para="1" offset="75" length="2"><![CDATA[of]]></wf>
+    <wf id="16" sent="1" para="1" offset="77" length="3"><![CDATA[the]]></wf>
+    <wf id="17" sent="1" para="1" offset="80" length="7"><![CDATA[largest]]></wf>
+    <wf id="18" sent="1" para="1" offset="87" length="5"><![CDATA[banks]]></wf>
+    <wf id="19" sent="1" para="1" offset="92" length="2"><![CDATA[in]]></wf>
+    <wf id="20" sent="1" para="1" offset="94" length="7"><![CDATA[Estonia]]></wf>
+    <wf id="21" sent="1" para="1" offset="101" length="1"><![CDATA[,]]></wf>
+    <wf id="22" sent="1" para="1" offset="102" length="4"><![CDATA[made]]></wf>
+    <wf id="23" sent="1" para="1" offset="106" length="1"><![CDATA[a]]></wf>
+    <wf id="24" sent="1" para="1" offset="107" length="8"><![CDATA[11-month]]></wf>
+    <wf id="25" sent="1" para="1" offset="115" length="4"><![CDATA[1996]]></wf>
+    <wf id="26" sent="1" para="1" offset="119" length="3"><![CDATA[net]]></wf>
+    <wf id="27" sent="1" para="1" offset="122" length="6"><![CDATA[profit]]></wf>
+    <wf id="28" sent="1" para="1" offset="128" length="2"><![CDATA[of]]></wf>
+    <wf id="29" sent="1" para="1" offset="130" length="4"><![CDATA[46.6]]></wf>
+    <wf id="30" sent="1" para="1" offset="134" length="7"><![CDATA[million]]></wf>
+    <wf id="31" sent="1" para="1" offset="141" length="6"><![CDATA[kroons]]></wf>
+    <wf id="32" sent="1" para="1" offset="147" length="1"><![CDATA[,]]></wf>
+    <wf id="33" sent="1" para="1" offset="148" length="3"><![CDATA[the]]></wf>
+    <wf id="34" sent="1" para="1" offset="151" length="4"><![CDATA[bank]]></wf>
+    <wf id="35" sent="1" para="1" offset="155" length="4"><![CDATA[said]]></wf>
+    <wf id="36" sent="1" para="1" offset="159" length="2"><![CDATA[on]]></wf>
+    <wf id="37" sent="1" para="1" offset="161" length="6"><![CDATA[Friday]]></wf>
+    <wf id="38" sent="1" para="1" offset="167" length="1"><![CDATA[.]]></wf>
+    <wf id="39" sent="1" para="1" offset="168" length="2"><![CDATA[It]]></wf>
+    <wf id="40" sent="1" para="1" offset="170" length="4"><![CDATA[said]]></wf>
+    <wf id="41" sent="1" para="1" offset="174" length="2"><![CDATA[in]]></wf>
+    <wf id="42" sent="1" para="1" offset="176" length="1"><![CDATA[a]]></wf>
+    <wf id="43" sent="1" para="1" offset="177" length="9"><![CDATA[statement]]></wf>
+    <wf id="44" sent="1" para="1" offset="186" length="4"><![CDATA[that]]></wf>
+    <wf id="45" sent="1" para="1" offset="190" length="2"><![CDATA[it]]></wf>
+    <wf id="46" sent="1" para="1" offset="192" length="4"><![CDATA[made]]></wf>
+    <wf id="47" sent="1" para="1" offset="196" length="7"><![CDATA[profits]]></wf>
+    <wf id="48" sent="1" para="1" offset="203" length="2"><![CDATA[of]]></wf>
+    <wf id="49" sent="1" para="1" offset="205" length="3"><![CDATA[4.5]]></wf>
+    <wf id="50" sent="1" para="1" offset="208" length="7"><![CDATA[million]]></wf>
+    <wf id="51" sent="1" para="1" offset="215" length="6"><![CDATA[kroons]]></wf>
+    <wf id="52" sent="1" para="1" offset="221" length="2"><![CDATA[in]]></wf>
+    <wf id="53" sent="1" para="1" offset="223" length="8"><![CDATA[November]]></wf>
+    <wf id="54" sent="1" para="1" offset="231" length="1"><![CDATA[.]]></wf>
+    <wf id="55" sent="1" para="1" offset="232" length="3"><![CDATA[The]]></wf>
+    <wf id="56" sent="1" para="1" offset="235" length="4"><![CDATA[bank]]></wf>
+    <wf id="57" sent="1" para="1" offset="239" length="4"><![CDATA[made]]></wf>
+    <wf id="58" sent="1" para="1" offset="243" length="1"><![CDATA[a]]></wf>
+    <wf id="59" sent="1" para="1" offset="244" length="6"><![CDATA[profit]]></wf>
+    <wf id="60" sent="1" para="1" offset="250" length="2"><![CDATA[of]]></wf>
+    <wf id="61" sent="1" para="1" offset="252" length="4"><![CDATA[20.1]]></wf>
+    <wf id="62" sent="1" para="1" offset="256" length="7"><![CDATA[million]]></wf>
+    <wf id="63" sent="1" para="1" offset="263" length="6"><![CDATA[kroons]]></wf>
+    <wf id="64" sent="1" para="1" offset="269" length="2"><![CDATA[in]]></wf>
+    <wf id="65" sent="1" para="1" offset="271" length="3"><![CDATA[the]]></wf>
+    <wf id="66" sent="1" para="1" offset="274" length="5"><![CDATA[first]]></wf>
+    <wf id="67" sent="1" para="1" offset="279" length="4"><![CDATA[half]]></wf>
+    <wf id="68" sent="1" para="1" offset="283" length="2"><![CDATA[of]]></wf>
+    <wf id="69" sent="1" para="1" offset="285" length="3"><![CDATA[the]]></wf>
+    <wf id="70" sent="1" para="1" offset="288" length="4"><![CDATA[year]]></wf>
+    <wf id="71" sent="1" para="1" offset="292" length="1"><![CDATA[.]]></wf>
+    <wf id="72" sent="1" para="1" offset="293" length="8"><![CDATA[Tallinna]]></wf>
+    <wf id="73" sent="1" para="1" offset="301" length="4"><![CDATA[Pank]]></wf>
+    <wf id="74" sent="1" para="1" offset="305" length="4"><![CDATA[said]]></wf>
+    <wf id="75" sent="1" para="1" offset="309" length="3"><![CDATA[its]]></wf>
+    <wf id="76" sent="1" para="1" offset="312" length="6"><![CDATA[assets]]></wf>
+    <wf id="77" sent="1" para="1" offset="318" length="4"><![CDATA[rose]]></wf>
+    <wf id="78" sent="1" para="1" offset="322" length="4"><![CDATA[17.8]]></wf>
+    <wf id="79" sent="1" para="1" offset="326" length="7"><![CDATA[million]]></wf>
+    <wf id="80" sent="1" para="1" offset="333" length="6"><![CDATA[kroons]]></wf>
+    <wf id="81" sent="1" para="1" offset="339" length="2"><![CDATA[to]]></wf>
+    <wf id="82" sent="1" para="1" offset="341" length="4"><![CDATA[1.84]]></wf>
+    <wf id="83" sent="1" para="1" offset="345" length="7"><![CDATA[billion]]></wf>
+    <wf id="84" sent="1" para="1" offset="352" length="6"><![CDATA[kroons]]></wf>
+    <wf id="85" sent="1" para="1" offset="358" length="1"><![CDATA[.]]></wf>
+    <wf id="86" sent="1" para="1" offset="359" length="6"><![CDATA[Demand]]></wf>
+    <wf id="87" sent="1" para="1" offset="365" length="8"><![CDATA[deposits]]></wf>
+    <wf id="88" sent="1" para="1" offset="373" length="4"><![CDATA[rose]]></wf>
+    <wf id="89" sent="1" para="1" offset="377" length="2"><![CDATA[to]]></wf>
+    <wf id="90" sent="1" para="1" offset="379" length="5"><![CDATA[855.8]]></wf>
+    <wf id="91" sent="1" para="1" offset="384" length="7"><![CDATA[million]]></wf>
+    <wf id="92" sent="1" para="1" offset="391" length="6"><![CDATA[kroons]]></wf>
+    <wf id="93" sent="1" para="1" offset="397" length="4"><![CDATA[from]]></wf>
+    <wf id="94" sent="1" para="1" offset="401" length="5"><![CDATA[834.6]]></wf>
+    <wf id="95" sent="1" para="1" offset="406" length="7"><![CDATA[million]]></wf>
+    <wf id="96" sent="1" para="1" offset="413" length="6"><![CDATA[kroons]]></wf>
+    <wf id="97" sent="1" para="1" offset="419" length="3"><![CDATA[and]]></wf>
+    <wf id="98" sent="1" para="1" offset="422" length="4"><![CDATA[time]]></wf>
+    <wf id="99" sent="1" para="1" offset="426" length="8"><![CDATA[deposits]]></wf>
+    <wf id="100" sent="1" para="1" offset="434" length="9"><![CDATA[increased]]></wf>
+    <wf id="101" sent="1" para="1" offset="443" length="2"><![CDATA[to]]></wf>
+    <wf id="102" sent="1" para="1" offset="445" length="5"><![CDATA[295.1]]></wf>
+    <wf id="103" sent="1" para="1" offset="450" length="7"><![CDATA[million]]></wf>
+    <wf id="104" sent="1" para="1" offset="457" length="6"><![CDATA[kroons]]></wf>
+    <wf id="105" sent="1" para="1" offset="463" length="4"><![CDATA[from]]></wf>
+    <wf id="106" sent="1" para="1" offset="467" length="5"><![CDATA[285.3]]></wf>
+    <wf id="107" sent="1" para="1" offset="472" length="7"><![CDATA[million]]></wf>
+    <wf id="108" sent="1" para="1" offset="479" length="6"><![CDATA[kroons]]></wf>
+    <wf id="109" sent="1" para="1" offset="485" length="1"><![CDATA[.]]></wf>
+    <wf id="110" sent="1" para="1" offset="486" length="2"><![CDATA[--]]></wf>
+    <wf id="111" sent="1" para="1" offset="488" length="4"><![CDATA[Riga]]></wf>
+    <wf id="112" sent="1" para="1" offset="492" length="8"><![CDATA[Newsroom]]></wf>
+    <wf id="113" sent="1" para="1" offset="500" length="1"><![CDATA[,]]></wf>
+    <wf id="114" sent="1" para="1" offset="501" length="4"><![CDATA[+371]]></wf>
+    <wf id="115" sent="1" para="1" offset="505" length="3"><![CDATA[721]]></wf>
+    <wf id="116" sent="1" para="1" offset="508" length="4"><![CDATA[5240]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="Estonian">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="Tallinna">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="Pank">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="11-mo">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="net">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="46.6">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="mln">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="kroons">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma=".">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="TALLINN">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="1996-12-06">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="Tallinna">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="Pank">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma=",">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="one">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="of">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="the">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="largest">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="banks">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="in">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="Estonia">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma=",">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="made">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="a">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="11-month">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="1996">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="net">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="profit">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="of">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="46.6">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="million">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="kroons">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma=",">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="the">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="bank">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="said">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="on">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="Friday">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma=".">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="It">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="said">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="in">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="a">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="statement">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="that">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="it">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="made">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="profits">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="of">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="4.5">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="million">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="kroons">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="in">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="November">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma=".">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="The">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="bank">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="made">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="a">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="profit">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="of">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="20.1">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="million">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="kroons">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="in">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="the">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="first">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="half">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="of">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="the">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="year">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma=".">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="Tallinna">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="Pank">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="said">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="its">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="assets">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="rose">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="17.8">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="million">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="kroons">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="to">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="1.84">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="billion">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="kroons">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma=".">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="Demand">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="deposits">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="rose">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="to">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="855.8">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="million">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="kroons">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="from">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="834.6">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="million">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="kroons">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="and">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="time">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="deposits">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="increased">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="to">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="295.1">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="million">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="kroons">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="from">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="285.3">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="million">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="kroons">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma=".">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="--">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="Riga">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="Newsroom">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma=",">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="+371">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="721">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="5240">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="2336">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Estonia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="0"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2337">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+          <target id="2"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2338">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Tallinn" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2339">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+          <target id="12"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2340">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Estonia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="20"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2341">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="72"/>
+          <target id="73"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2342">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="111"/>
+          <target id="112"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

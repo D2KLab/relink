@@ -1,0 +1,1876 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[ U.S. stocks plummet amid global sell-off February 27 , 2007 The biggest U.S. stock market index , the Dow Jones , plunged by more than 416 points by the closing bell on Tuesday , the worst single-day decline since the re-opening of the markets following the September 11th terrorist attacks . The slip followed a 9 % sell-off in Chinese markets . Other stock indices , such as the Nasdaq and the S&amp;P 500 , dipped by 96 points and 50 points , respectively . It was the 7th largest single-day decline is U.S. history . Analysts blamed the slide on a number of factors : ( 1 ) U.S. and Chinese stock exchanges had powered upward for too long and were due for a significant correction ; ( 2 ) inflation and the prices of bonds and equities had become too high ; ( 3 ) the U.S. is headed for an economic recession . Alan Greenspan indicated on Monday that the U.S. economy would not sustain its recent growth , where the Dow Industrials set day-to-day records and the White House signaled on Tuesday that it would revise its estimate of fourth-quarter 2006 GDP growth down to an annual rate of about 2.3 percent from an initial forecast of 3.5 percent and was increasingly nervous that the figure could come in even lower . Around 3 p.m. EST , Reuters reported that the New York Stock Exchange had implemented on-floor tradition restrictions meant to curb the sell off . The decline also occurred on the day that a plot to assassinate U.S. Vice President Richard Cheney failed in Afghanistan .]]></raw>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="2" sent="1" para="1" offset="4" length="6"><![CDATA[stocks]]></wf>
+    <wf id="3" sent="1" para="1" offset="10" length="7"><![CDATA[plummet]]></wf>
+    <wf id="4" sent="1" para="1" offset="17" length="4"><![CDATA[amid]]></wf>
+    <wf id="5" sent="1" para="1" offset="21" length="6"><![CDATA[global]]></wf>
+    <wf id="6" sent="1" para="1" offset="27" length="8"><![CDATA[sell-off]]></wf>
+    <wf id="7" sent="2" para="1" offset="35" length="8"><![CDATA[February]]></wf>
+    <wf id="8" sent="2" para="1" offset="43" length="2"><![CDATA[27]]></wf>
+    <wf id="9" sent="2" para="1" offset="45" length="1"><![CDATA[,]]></wf>
+    <wf id="10" sent="2" para="1" offset="46" length="4"><![CDATA[2007]]></wf>
+    <wf id="11" sent="3" para="1" offset="50" length="3"><![CDATA[The]]></wf>
+    <wf id="12" sent="3" para="1" offset="53" length="7"><![CDATA[biggest]]></wf>
+    <wf id="13" sent="3" para="1" offset="60" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="14" sent="3" para="1" offset="64" length="5"><![CDATA[stock]]></wf>
+    <wf id="15" sent="3" para="1" offset="69" length="6"><![CDATA[market]]></wf>
+    <wf id="16" sent="3" para="1" offset="75" length="5"><![CDATA[index]]></wf>
+    <wf id="17" sent="3" para="1" offset="80" length="1"><![CDATA[,]]></wf>
+    <wf id="18" sent="3" para="1" offset="81" length="3"><![CDATA[the]]></wf>
+    <wf id="19" sent="3" para="1" offset="84" length="3"><![CDATA[Dow]]></wf>
+    <wf id="20" sent="3" para="1" offset="87" length="5"><![CDATA[Jones]]></wf>
+    <wf id="21" sent="3" para="1" offset="92" length="1"><![CDATA[,]]></wf>
+    <wf id="22" sent="3" para="1" offset="93" length="7"><![CDATA[plunged]]></wf>
+    <wf id="23" sent="3" para="1" offset="100" length="2"><![CDATA[by]]></wf>
+    <wf id="24" sent="3" para="1" offset="102" length="4"><![CDATA[more]]></wf>
+    <wf id="25" sent="3" para="1" offset="106" length="4"><![CDATA[than]]></wf>
+    <wf id="26" sent="3" para="1" offset="110" length="3"><![CDATA[416]]></wf>
+    <wf id="27" sent="3" para="1" offset="113" length="6"><![CDATA[points]]></wf>
+    <wf id="28" sent="3" para="1" offset="119" length="2"><![CDATA[by]]></wf>
+    <wf id="29" sent="3" para="1" offset="121" length="3"><![CDATA[the]]></wf>
+    <wf id="30" sent="3" para="1" offset="124" length="7"><![CDATA[closing]]></wf>
+    <wf id="31" sent="3" para="1" offset="131" length="4"><![CDATA[bell]]></wf>
+    <wf id="32" sent="3" para="1" offset="135" length="2"><![CDATA[on]]></wf>
+    <wf id="33" sent="3" para="1" offset="137" length="7"><![CDATA[Tuesday]]></wf>
+    <wf id="34" sent="3" para="1" offset="144" length="1"><![CDATA[,]]></wf>
+    <wf id="35" sent="3" para="1" offset="145" length="3"><![CDATA[the]]></wf>
+    <wf id="36" sent="3" para="1" offset="148" length="5"><![CDATA[worst]]></wf>
+    <wf id="37" sent="3" para="1" offset="153" length="10"><![CDATA[single-day]]></wf>
+    <wf id="38" sent="3" para="1" offset="163" length="7"><![CDATA[decline]]></wf>
+    <wf id="39" sent="3" para="1" offset="170" length="5"><![CDATA[since]]></wf>
+    <wf id="40" sent="3" para="1" offset="175" length="3"><![CDATA[the]]></wf>
+    <wf id="41" sent="3" para="1" offset="178" length="10"><![CDATA[re-opening]]></wf>
+    <wf id="42" sent="3" para="1" offset="188" length="2"><![CDATA[of]]></wf>
+    <wf id="43" sent="3" para="1" offset="190" length="3"><![CDATA[the]]></wf>
+    <wf id="44" sent="3" para="1" offset="193" length="7"><![CDATA[markets]]></wf>
+    <wf id="45" sent="3" para="1" offset="200" length="9"><![CDATA[following]]></wf>
+    <wf id="46" sent="3" para="1" offset="209" length="3"><![CDATA[the]]></wf>
+    <wf id="47" sent="3" para="1" offset="212" length="9"><![CDATA[September]]></wf>
+    <wf id="48" sent="3" para="1" offset="221" length="4"><![CDATA[11th]]></wf>
+    <wf id="49" sent="3" para="1" offset="225" length="9"><![CDATA[terrorist]]></wf>
+    <wf id="50" sent="3" para="1" offset="234" length="7"><![CDATA[attacks]]></wf>
+    <wf id="51" sent="3" para="1" offset="241" length="1"><![CDATA[.]]></wf>
+    <wf id="52" sent="4" para="1" offset="242" length="3"><![CDATA[The]]></wf>
+    <wf id="53" sent="4" para="1" offset="245" length="4"><![CDATA[slip]]></wf>
+    <wf id="54" sent="4" para="1" offset="249" length="8"><![CDATA[followed]]></wf>
+    <wf id="55" sent="4" para="1" offset="257" length="1"><![CDATA[a]]></wf>
+    <wf id="56" sent="4" para="1" offset="258" length="1"><![CDATA[9]]></wf>
+    <wf id="57" sent="4" para="1" offset="259" length="1"><![CDATA[%]]></wf>
+    <wf id="58" sent="4" para="1" offset="260" length="8"><![CDATA[sell-off]]></wf>
+    <wf id="59" sent="4" para="1" offset="268" length="2"><![CDATA[in]]></wf>
+    <wf id="60" sent="4" para="1" offset="270" length="7"><![CDATA[Chinese]]></wf>
+    <wf id="61" sent="4" para="1" offset="277" length="7"><![CDATA[markets]]></wf>
+    <wf id="62" sent="4" para="1" offset="284" length="1"><![CDATA[.]]></wf>
+    <wf id="63" sent="5" para="1" offset="285" length="5"><![CDATA[Other]]></wf>
+    <wf id="64" sent="5" para="1" offset="290" length="5"><![CDATA[stock]]></wf>
+    <wf id="65" sent="5" para="1" offset="295" length="7"><![CDATA[indices]]></wf>
+    <wf id="66" sent="5" para="1" offset="302" length="1"><![CDATA[,]]></wf>
+    <wf id="67" sent="5" para="1" offset="303" length="4"><![CDATA[such]]></wf>
+    <wf id="68" sent="5" para="1" offset="307" length="2"><![CDATA[as]]></wf>
+    <wf id="69" sent="5" para="1" offset="309" length="3"><![CDATA[the]]></wf>
+    <wf id="70" sent="5" para="1" offset="312" length="6"><![CDATA[Nasdaq]]></wf>
+    <wf id="71" sent="5" para="1" offset="318" length="3"><![CDATA[and]]></wf>
+    <wf id="72" sent="5" para="1" offset="321" length="3"><![CDATA[the]]></wf>
+    <wf id="73" sent="5" para="1" offset="324" length="7"><![CDATA[S&amp;P]]></wf>
+    <wf id="74" sent="5" para="1" offset="331" length="3"><![CDATA[500]]></wf>
+    <wf id="75" sent="5" para="1" offset="334" length="1"><![CDATA[,]]></wf>
+    <wf id="76" sent="5" para="1" offset="335" length="6"><![CDATA[dipped]]></wf>
+    <wf id="77" sent="5" para="1" offset="341" length="2"><![CDATA[by]]></wf>
+    <wf id="78" sent="5" para="1" offset="343" length="2"><![CDATA[96]]></wf>
+    <wf id="79" sent="5" para="1" offset="345" length="6"><![CDATA[points]]></wf>
+    <wf id="80" sent="5" para="1" offset="351" length="3"><![CDATA[and]]></wf>
+    <wf id="81" sent="5" para="1" offset="354" length="2"><![CDATA[50]]></wf>
+    <wf id="82" sent="5" para="1" offset="356" length="6"><![CDATA[points]]></wf>
+    <wf id="83" sent="5" para="1" offset="362" length="1"><![CDATA[,]]></wf>
+    <wf id="84" sent="5" para="1" offset="363" length="12"><![CDATA[respectively]]></wf>
+    <wf id="85" sent="5" para="1" offset="375" length="1"><![CDATA[.]]></wf>
+    <wf id="86" sent="6" para="1" offset="376" length="2"><![CDATA[It]]></wf>
+    <wf id="87" sent="6" para="1" offset="378" length="3"><![CDATA[was]]></wf>
+    <wf id="88" sent="6" para="1" offset="381" length="3"><![CDATA[the]]></wf>
+    <wf id="89" sent="6" para="1" offset="384" length="3"><![CDATA[7th]]></wf>
+    <wf id="90" sent="6" para="1" offset="387" length="7"><![CDATA[largest]]></wf>
+    <wf id="91" sent="6" para="1" offset="394" length="10"><![CDATA[single-day]]></wf>
+    <wf id="92" sent="6" para="1" offset="404" length="7"><![CDATA[decline]]></wf>
+    <wf id="93" sent="6" para="1" offset="411" length="2"><![CDATA[is]]></wf>
+    <wf id="94" sent="6" para="1" offset="413" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="95" sent="6" para="1" offset="417" length="7"><![CDATA[history]]></wf>
+    <wf id="96" sent="6" para="1" offset="424" length="1"><![CDATA[.]]></wf>
+    <wf id="97" sent="7" para="1" offset="425" length="8"><![CDATA[Analysts]]></wf>
+    <wf id="98" sent="7" para="1" offset="433" length="6"><![CDATA[blamed]]></wf>
+    <wf id="99" sent="7" para="1" offset="439" length="3"><![CDATA[the]]></wf>
+    <wf id="100" sent="7" para="1" offset="442" length="5"><![CDATA[slide]]></wf>
+    <wf id="101" sent="7" para="1" offset="447" length="2"><![CDATA[on]]></wf>
+    <wf id="102" sent="7" para="1" offset="449" length="1"><![CDATA[a]]></wf>
+    <wf id="103" sent="7" para="1" offset="450" length="6"><![CDATA[number]]></wf>
+    <wf id="104" sent="7" para="1" offset="456" length="2"><![CDATA[of]]></wf>
+    <wf id="105" sent="7" para="1" offset="458" length="7"><![CDATA[factors]]></wf>
+    <wf id="106" sent="7" para="1" offset="465" length="1"><![CDATA[:]]></wf>
+    <wf id="107" sent="7" para="1" offset="466" length="1"><![CDATA[(]]></wf>
+    <wf id="108" sent="7" para="1" offset="467" length="1"><![CDATA[1]]></wf>
+    <wf id="109" sent="7" para="1" offset="468" length="1"><![CDATA[)]]></wf>
+    <wf id="110" sent="7" para="1" offset="469" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="111" sent="7" para="1" offset="473" length="3"><![CDATA[and]]></wf>
+    <wf id="112" sent="7" para="1" offset="476" length="7"><![CDATA[Chinese]]></wf>
+    <wf id="113" sent="7" para="1" offset="483" length="5"><![CDATA[stock]]></wf>
+    <wf id="114" sent="7" para="1" offset="488" length="9"><![CDATA[exchanges]]></wf>
+    <wf id="115" sent="7" para="1" offset="497" length="3"><![CDATA[had]]></wf>
+    <wf id="116" sent="7" para="1" offset="500" length="7"><![CDATA[powered]]></wf>
+    <wf id="117" sent="7" para="1" offset="507" length="6"><![CDATA[upward]]></wf>
+    <wf id="118" sent="7" para="1" offset="513" length="3"><![CDATA[for]]></wf>
+    <wf id="119" sent="7" para="1" offset="516" length="3"><![CDATA[too]]></wf>
+    <wf id="120" sent="7" para="1" offset="519" length="4"><![CDATA[long]]></wf>
+    <wf id="121" sent="7" para="1" offset="523" length="3"><![CDATA[and]]></wf>
+    <wf id="122" sent="7" para="1" offset="526" length="4"><![CDATA[were]]></wf>
+    <wf id="123" sent="7" para="1" offset="530" length="3"><![CDATA[due]]></wf>
+    <wf id="124" sent="7" para="1" offset="533" length="3"><![CDATA[for]]></wf>
+    <wf id="125" sent="7" para="1" offset="536" length="1"><![CDATA[a]]></wf>
+    <wf id="126" sent="7" para="1" offset="537" length="11"><![CDATA[significant]]></wf>
+    <wf id="127" sent="7" para="1" offset="548" length="10"><![CDATA[correction]]></wf>
+    <wf id="128" sent="7" para="1" offset="558" length="1"><![CDATA[;]]></wf>
+    <wf id="129" sent="7" para="1" offset="559" length="1"><![CDATA[(]]></wf>
+    <wf id="130" sent="7" para="1" offset="560" length="1"><![CDATA[2]]></wf>
+    <wf id="131" sent="7" para="1" offset="561" length="1"><![CDATA[)]]></wf>
+    <wf id="132" sent="7" para="1" offset="562" length="9"><![CDATA[inflation]]></wf>
+    <wf id="133" sent="7" para="1" offset="571" length="3"><![CDATA[and]]></wf>
+    <wf id="134" sent="7" para="1" offset="574" length="3"><![CDATA[the]]></wf>
+    <wf id="135" sent="7" para="1" offset="577" length="6"><![CDATA[prices]]></wf>
+    <wf id="136" sent="7" para="1" offset="583" length="2"><![CDATA[of]]></wf>
+    <wf id="137" sent="7" para="1" offset="585" length="5"><![CDATA[bonds]]></wf>
+    <wf id="138" sent="7" para="1" offset="590" length="3"><![CDATA[and]]></wf>
+    <wf id="139" sent="7" para="1" offset="593" length="8"><![CDATA[equities]]></wf>
+    <wf id="140" sent="7" para="1" offset="601" length="3"><![CDATA[had]]></wf>
+    <wf id="141" sent="7" para="1" offset="604" length="6"><![CDATA[become]]></wf>
+    <wf id="142" sent="7" para="1" offset="610" length="3"><![CDATA[too]]></wf>
+    <wf id="143" sent="7" para="1" offset="613" length="4"><![CDATA[high]]></wf>
+    <wf id="144" sent="7" para="1" offset="617" length="1"><![CDATA[;]]></wf>
+    <wf id="145" sent="7" para="1" offset="618" length="1"><![CDATA[(]]></wf>
+    <wf id="146" sent="7" para="1" offset="619" length="1"><![CDATA[3]]></wf>
+    <wf id="147" sent="7" para="1" offset="620" length="1"><![CDATA[)]]></wf>
+    <wf id="148" sent="7" para="1" offset="621" length="3"><![CDATA[the]]></wf>
+    <wf id="149" sent="7" para="1" offset="624" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="150" sent="7" para="1" offset="628" length="2"><![CDATA[is]]></wf>
+    <wf id="151" sent="7" para="1" offset="630" length="6"><![CDATA[headed]]></wf>
+    <wf id="152" sent="7" para="1" offset="636" length="3"><![CDATA[for]]></wf>
+    <wf id="153" sent="7" para="1" offset="639" length="2"><![CDATA[an]]></wf>
+    <wf id="154" sent="7" para="1" offset="641" length="8"><![CDATA[economic]]></wf>
+    <wf id="155" sent="7" para="1" offset="649" length="9"><![CDATA[recession]]></wf>
+    <wf id="156" sent="7" para="1" offset="658" length="1"><![CDATA[.]]></wf>
+    <wf id="157" sent="8" para="1" offset="659" length="4"><![CDATA[Alan]]></wf>
+    <wf id="158" sent="8" para="1" offset="663" length="9"><![CDATA[Greenspan]]></wf>
+    <wf id="159" sent="8" para="1" offset="672" length="9"><![CDATA[indicated]]></wf>
+    <wf id="160" sent="8" para="1" offset="681" length="2"><![CDATA[on]]></wf>
+    <wf id="161" sent="8" para="1" offset="683" length="6"><![CDATA[Monday]]></wf>
+    <wf id="162" sent="8" para="1" offset="689" length="4"><![CDATA[that]]></wf>
+    <wf id="163" sent="8" para="1" offset="693" length="3"><![CDATA[the]]></wf>
+    <wf id="164" sent="8" para="1" offset="696" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="165" sent="8" para="1" offset="700" length="7"><![CDATA[economy]]></wf>
+    <wf id="166" sent="8" para="1" offset="707" length="5"><![CDATA[would]]></wf>
+    <wf id="167" sent="8" para="1" offset="712" length="3"><![CDATA[not]]></wf>
+    <wf id="168" sent="8" para="1" offset="715" length="7"><![CDATA[sustain]]></wf>
+    <wf id="169" sent="8" para="1" offset="722" length="3"><![CDATA[its]]></wf>
+    <wf id="170" sent="8" para="1" offset="725" length="6"><![CDATA[recent]]></wf>
+    <wf id="171" sent="8" para="1" offset="731" length="6"><![CDATA[growth]]></wf>
+    <wf id="172" sent="8" para="1" offset="737" length="1"><![CDATA[,]]></wf>
+    <wf id="173" sent="8" para="1" offset="738" length="5"><![CDATA[where]]></wf>
+    <wf id="174" sent="8" para="1" offset="743" length="3"><![CDATA[the]]></wf>
+    <wf id="175" sent="8" para="1" offset="746" length="3"><![CDATA[Dow]]></wf>
+    <wf id="176" sent="8" para="1" offset="749" length="11"><![CDATA[Industrials]]></wf>
+    <wf id="177" sent="8" para="1" offset="760" length="3"><![CDATA[set]]></wf>
+    <wf id="178" sent="8" para="1" offset="763" length="10"><![CDATA[day-to-day]]></wf>
+    <wf id="179" sent="8" para="1" offset="773" length="7"><![CDATA[records]]></wf>
+    <wf id="180" sent="8" para="1" offset="780" length="3"><![CDATA[and]]></wf>
+    <wf id="181" sent="8" para="1" offset="783" length="3"><![CDATA[the]]></wf>
+    <wf id="182" sent="8" para="1" offset="786" length="5"><![CDATA[White]]></wf>
+    <wf id="183" sent="8" para="1" offset="791" length="5"><![CDATA[House]]></wf>
+    <wf id="184" sent="8" para="1" offset="796" length="8"><![CDATA[signaled]]></wf>
+    <wf id="185" sent="8" para="1" offset="804" length="2"><![CDATA[on]]></wf>
+    <wf id="186" sent="8" para="1" offset="806" length="7"><![CDATA[Tuesday]]></wf>
+    <wf id="187" sent="8" para="1" offset="813" length="4"><![CDATA[that]]></wf>
+    <wf id="188" sent="8" para="1" offset="817" length="2"><![CDATA[it]]></wf>
+    <wf id="189" sent="8" para="1" offset="819" length="5"><![CDATA[would]]></wf>
+    <wf id="190" sent="8" para="1" offset="824" length="6"><![CDATA[revise]]></wf>
+    <wf id="191" sent="8" para="1" offset="830" length="3"><![CDATA[its]]></wf>
+    <wf id="192" sent="8" para="1" offset="833" length="8"><![CDATA[estimate]]></wf>
+    <wf id="193" sent="8" para="1" offset="841" length="2"><![CDATA[of]]></wf>
+    <wf id="194" sent="8" para="1" offset="843" length="14"><![CDATA[fourth-quarter]]></wf>
+    <wf id="195" sent="8" para="1" offset="857" length="4"><![CDATA[2006]]></wf>
+    <wf id="196" sent="8" para="1" offset="861" length="3"><![CDATA[GDP]]></wf>
+    <wf id="197" sent="8" para="1" offset="864" length="6"><![CDATA[growth]]></wf>
+    <wf id="198" sent="8" para="1" offset="870" length="4"><![CDATA[down]]></wf>
+    <wf id="199" sent="8" para="1" offset="874" length="2"><![CDATA[to]]></wf>
+    <wf id="200" sent="8" para="1" offset="876" length="2"><![CDATA[an]]></wf>
+    <wf id="201" sent="8" para="1" offset="878" length="6"><![CDATA[annual]]></wf>
+    <wf id="202" sent="8" para="1" offset="884" length="4"><![CDATA[rate]]></wf>
+    <wf id="203" sent="8" para="1" offset="888" length="2"><![CDATA[of]]></wf>
+    <wf id="204" sent="8" para="1" offset="890" length="5"><![CDATA[about]]></wf>
+    <wf id="205" sent="8" para="1" offset="895" length="3"><![CDATA[2.3]]></wf>
+    <wf id="206" sent="8" para="1" offset="898" length="7"><![CDATA[percent]]></wf>
+    <wf id="207" sent="8" para="1" offset="905" length="4"><![CDATA[from]]></wf>
+    <wf id="208" sent="8" para="1" offset="909" length="2"><![CDATA[an]]></wf>
+    <wf id="209" sent="8" para="1" offset="911" length="7"><![CDATA[initial]]></wf>
+    <wf id="210" sent="8" para="1" offset="918" length="8"><![CDATA[forecast]]></wf>
+    <wf id="211" sent="8" para="1" offset="926" length="2"><![CDATA[of]]></wf>
+    <wf id="212" sent="8" para="1" offset="928" length="3"><![CDATA[3.5]]></wf>
+    <wf id="213" sent="8" para="1" offset="931" length="7"><![CDATA[percent]]></wf>
+    <wf id="214" sent="8" para="1" offset="938" length="3"><![CDATA[and]]></wf>
+    <wf id="215" sent="8" para="1" offset="941" length="3"><![CDATA[was]]></wf>
+    <wf id="216" sent="8" para="1" offset="944" length="12"><![CDATA[increasingly]]></wf>
+    <wf id="217" sent="8" para="1" offset="956" length="7"><![CDATA[nervous]]></wf>
+    <wf id="218" sent="8" para="1" offset="963" length="4"><![CDATA[that]]></wf>
+    <wf id="219" sent="8" para="1" offset="967" length="3"><![CDATA[the]]></wf>
+    <wf id="220" sent="8" para="1" offset="970" length="6"><![CDATA[figure]]></wf>
+    <wf id="221" sent="8" para="1" offset="976" length="5"><![CDATA[could]]></wf>
+    <wf id="222" sent="8" para="1" offset="981" length="4"><![CDATA[come]]></wf>
+    <wf id="223" sent="8" para="1" offset="985" length="2"><![CDATA[in]]></wf>
+    <wf id="224" sent="8" para="1" offset="987" length="4"><![CDATA[even]]></wf>
+    <wf id="225" sent="8" para="1" offset="991" length="5"><![CDATA[lower]]></wf>
+    <wf id="226" sent="8" para="1" offset="996" length="1"><![CDATA[.]]></wf>
+    <wf id="227" sent="9" para="1" offset="997" length="6"><![CDATA[Around]]></wf>
+    <wf id="228" sent="9" para="1" offset="1003" length="1"><![CDATA[3]]></wf>
+    <wf id="229" sent="9" para="1" offset="1004" length="4"><![CDATA[p.m.]]></wf>
+    <wf id="230" sent="9" para="1" offset="1008" length="3"><![CDATA[EST]]></wf>
+    <wf id="231" sent="9" para="1" offset="1011" length="1"><![CDATA[,]]></wf>
+    <wf id="232" sent="9" para="1" offset="1012" length="7"><![CDATA[Reuters]]></wf>
+    <wf id="233" sent="9" para="1" offset="1019" length="8"><![CDATA[reported]]></wf>
+    <wf id="234" sent="9" para="1" offset="1027" length="4"><![CDATA[that]]></wf>
+    <wf id="235" sent="9" para="1" offset="1031" length="3"><![CDATA[the]]></wf>
+    <wf id="236" sent="9" para="1" offset="1034" length="3"><![CDATA[New]]></wf>
+    <wf id="237" sent="9" para="1" offset="1037" length="4"><![CDATA[York]]></wf>
+    <wf id="238" sent="9" para="1" offset="1041" length="5"><![CDATA[Stock]]></wf>
+    <wf id="239" sent="9" para="1" offset="1046" length="8"><![CDATA[Exchange]]></wf>
+    <wf id="240" sent="9" para="1" offset="1054" length="3"><![CDATA[had]]></wf>
+    <wf id="241" sent="9" para="1" offset="1057" length="11"><![CDATA[implemented]]></wf>
+    <wf id="242" sent="9" para="1" offset="1068" length="8"><![CDATA[on-floor]]></wf>
+    <wf id="243" sent="9" para="1" offset="1076" length="9"><![CDATA[tradition]]></wf>
+    <wf id="244" sent="9" para="1" offset="1085" length="12"><![CDATA[restrictions]]></wf>
+    <wf id="245" sent="9" para="1" offset="1097" length="5"><![CDATA[meant]]></wf>
+    <wf id="246" sent="9" para="1" offset="1102" length="2"><![CDATA[to]]></wf>
+    <wf id="247" sent="9" para="1" offset="1104" length="4"><![CDATA[curb]]></wf>
+    <wf id="248" sent="9" para="1" offset="1108" length="3"><![CDATA[the]]></wf>
+    <wf id="249" sent="9" para="1" offset="1111" length="4"><![CDATA[sell]]></wf>
+    <wf id="250" sent="9" para="1" offset="1115" length="3"><![CDATA[off]]></wf>
+    <wf id="251" sent="9" para="1" offset="1118" length="1"><![CDATA[.]]></wf>
+    <wf id="252" sent="10" para="1" offset="1119" length="3"><![CDATA[The]]></wf>
+    <wf id="253" sent="10" para="1" offset="1122" length="7"><![CDATA[decline]]></wf>
+    <wf id="254" sent="10" para="1" offset="1129" length="4"><![CDATA[also]]></wf>
+    <wf id="255" sent="10" para="1" offset="1133" length="8"><![CDATA[occurred]]></wf>
+    <wf id="256" sent="10" para="1" offset="1141" length="2"><![CDATA[on]]></wf>
+    <wf id="257" sent="10" para="1" offset="1143" length="3"><![CDATA[the]]></wf>
+    <wf id="258" sent="10" para="1" offset="1146" length="3"><![CDATA[day]]></wf>
+    <wf id="259" sent="10" para="1" offset="1149" length="4"><![CDATA[that]]></wf>
+    <wf id="260" sent="10" para="1" offset="1153" length="1"><![CDATA[a]]></wf>
+    <wf id="261" sent="10" para="1" offset="1154" length="4"><![CDATA[plot]]></wf>
+    <wf id="262" sent="10" para="1" offset="1158" length="2"><![CDATA[to]]></wf>
+    <wf id="263" sent="10" para="1" offset="1160" length="11"><![CDATA[assassinate]]></wf>
+    <wf id="264" sent="10" para="1" offset="1171" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="265" sent="10" para="1" offset="1175" length="4"><![CDATA[Vice]]></wf>
+    <wf id="266" sent="10" para="1" offset="1179" length="9"><![CDATA[President]]></wf>
+    <wf id="267" sent="10" para="1" offset="1188" length="7"><![CDATA[Richard]]></wf>
+    <wf id="268" sent="10" para="1" offset="1195" length="6"><![CDATA[Cheney]]></wf>
+    <wf id="269" sent="10" para="1" offset="1201" length="6"><![CDATA[failed]]></wf>
+    <wf id="270" sent="10" para="1" offset="1207" length="2"><![CDATA[in]]></wf>
+    <wf id="271" sent="10" para="1" offset="1209" length="11"><![CDATA[Afghanistan]]></wf>
+    <wf id="272" sent="10" para="1" offset="1220" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="U.S.">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="stocks">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="plummet">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="amid">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="global">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="sell-off">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="February">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="27">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma=",">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="2007">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="The">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="biggest">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="U.S.">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="stock">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="market">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="index">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma=",">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="the">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="Dow">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="Jones">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma=",">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="plunged">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="by">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="more">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="than">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="416">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="points">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="by">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="the">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="closing">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="bell">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="on">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="Tuesday">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma=",">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="the">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="worst">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="single-day">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="decline">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="since">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="the">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="re-opening">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="of">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="the">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="markets">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="following">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="the">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="September">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="11th">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="terrorist">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="attacks">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma=".">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="The">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="slip">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="followed">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="a">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="9">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="%">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="sell-off">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="in">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="Chinese">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="markets">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma=".">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="Other">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="stock">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="indices">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma=",">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="such">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="as">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="the">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="Nasdaq">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="and">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="the">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="S&amp;amp;P">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="500">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma=",">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="dipped">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="by">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="96">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="points">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="and">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="50">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="points">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma=",">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="respectively">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma=".">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="It">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="was">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="the">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="7th">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="largest">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="single-day">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="decline">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="is">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="U.S.">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="history">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma=".">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="Analysts">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="blamed">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="the">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="slide">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="on">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="a">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="number">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="of">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="factors">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma=":">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="(">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="1">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma=")">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="U.S.">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="and">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="Chinese">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="stock">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="exchanges">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="had">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="powered">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="upward">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="for">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="too">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="long">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="and">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="were">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="due">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="for">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="a">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="significant">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="correction">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma=";">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="(">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="2">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma=")">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="inflation">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="and">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="the">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="prices">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="of">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="bonds">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="and">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="equities">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="had">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="become">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="too">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="high">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma=";">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="(">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="3">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma=")">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="the">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="U.S.">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="is">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="headed">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="for">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma="an">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="economic">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="recession">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma=".">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="Alan">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="Greenspan">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="indicated">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="on">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="Monday">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="that">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="the">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="U.S.">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="economy">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="would">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="not">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="sustain">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="its">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="recent">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="growth">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma=",">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="where">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="the">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma="Dow">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="Industrials">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma="set">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="day-to-day">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="records">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="and">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="the">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="White">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="House">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma="signaled">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="on">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma="Tuesday">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="that">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma="it">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="would">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma="revise">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma="its">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="estimate">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma="of">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma="fourth-quarter">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma="2006">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma="GDP">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="growth">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma="down">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma="to">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma="an">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+    <term id="201" lemma="annual">
+      <span>
+        <target id="201"/>
+      </span>
+    </term>
+    <term id="202" lemma="rate">
+      <span>
+        <target id="202"/>
+      </span>
+    </term>
+    <term id="203" lemma="of">
+      <span>
+        <target id="203"/>
+      </span>
+    </term>
+    <term id="204" lemma="about">
+      <span>
+        <target id="204"/>
+      </span>
+    </term>
+    <term id="205" lemma="2.3">
+      <span>
+        <target id="205"/>
+      </span>
+    </term>
+    <term id="206" lemma="percent">
+      <span>
+        <target id="206"/>
+      </span>
+    </term>
+    <term id="207" lemma="from">
+      <span>
+        <target id="207"/>
+      </span>
+    </term>
+    <term id="208" lemma="an">
+      <span>
+        <target id="208"/>
+      </span>
+    </term>
+    <term id="209" lemma="initial">
+      <span>
+        <target id="209"/>
+      </span>
+    </term>
+    <term id="210" lemma="forecast">
+      <span>
+        <target id="210"/>
+      </span>
+    </term>
+    <term id="211" lemma="of">
+      <span>
+        <target id="211"/>
+      </span>
+    </term>
+    <term id="212" lemma="3.5">
+      <span>
+        <target id="212"/>
+      </span>
+    </term>
+    <term id="213" lemma="percent">
+      <span>
+        <target id="213"/>
+      </span>
+    </term>
+    <term id="214" lemma="and">
+      <span>
+        <target id="214"/>
+      </span>
+    </term>
+    <term id="215" lemma="was">
+      <span>
+        <target id="215"/>
+      </span>
+    </term>
+    <term id="216" lemma="increasingly">
+      <span>
+        <target id="216"/>
+      </span>
+    </term>
+    <term id="217" lemma="nervous">
+      <span>
+        <target id="217"/>
+      </span>
+    </term>
+    <term id="218" lemma="that">
+      <span>
+        <target id="218"/>
+      </span>
+    </term>
+    <term id="219" lemma="the">
+      <span>
+        <target id="219"/>
+      </span>
+    </term>
+    <term id="220" lemma="figure">
+      <span>
+        <target id="220"/>
+      </span>
+    </term>
+    <term id="221" lemma="could">
+      <span>
+        <target id="221"/>
+      </span>
+    </term>
+    <term id="222" lemma="come">
+      <span>
+        <target id="222"/>
+      </span>
+    </term>
+    <term id="223" lemma="in">
+      <span>
+        <target id="223"/>
+      </span>
+    </term>
+    <term id="224" lemma="even">
+      <span>
+        <target id="224"/>
+      </span>
+    </term>
+    <term id="225" lemma="lower">
+      <span>
+        <target id="225"/>
+      </span>
+    </term>
+    <term id="226" lemma=".">
+      <span>
+        <target id="226"/>
+      </span>
+    </term>
+    <term id="227" lemma="Around">
+      <span>
+        <target id="227"/>
+      </span>
+    </term>
+    <term id="228" lemma="3">
+      <span>
+        <target id="228"/>
+      </span>
+    </term>
+    <term id="229" lemma="p.m.">
+      <span>
+        <target id="229"/>
+      </span>
+    </term>
+    <term id="230" lemma="EST">
+      <span>
+        <target id="230"/>
+      </span>
+    </term>
+    <term id="231" lemma=",">
+      <span>
+        <target id="231"/>
+      </span>
+    </term>
+    <term id="232" lemma="Reuters">
+      <span>
+        <target id="232"/>
+      </span>
+    </term>
+    <term id="233" lemma="reported">
+      <span>
+        <target id="233"/>
+      </span>
+    </term>
+    <term id="234" lemma="that">
+      <span>
+        <target id="234"/>
+      </span>
+    </term>
+    <term id="235" lemma="the">
+      <span>
+        <target id="235"/>
+      </span>
+    </term>
+    <term id="236" lemma="New">
+      <span>
+        <target id="236"/>
+      </span>
+    </term>
+    <term id="237" lemma="York">
+      <span>
+        <target id="237"/>
+      </span>
+    </term>
+    <term id="238" lemma="Stock">
+      <span>
+        <target id="238"/>
+      </span>
+    </term>
+    <term id="239" lemma="Exchange">
+      <span>
+        <target id="239"/>
+      </span>
+    </term>
+    <term id="240" lemma="had">
+      <span>
+        <target id="240"/>
+      </span>
+    </term>
+    <term id="241" lemma="implemented">
+      <span>
+        <target id="241"/>
+      </span>
+    </term>
+    <term id="242" lemma="on-floor">
+      <span>
+        <target id="242"/>
+      </span>
+    </term>
+    <term id="243" lemma="tradition">
+      <span>
+        <target id="243"/>
+      </span>
+    </term>
+    <term id="244" lemma="restrictions">
+      <span>
+        <target id="244"/>
+      </span>
+    </term>
+    <term id="245" lemma="meant">
+      <span>
+        <target id="245"/>
+      </span>
+    </term>
+    <term id="246" lemma="to">
+      <span>
+        <target id="246"/>
+      </span>
+    </term>
+    <term id="247" lemma="curb">
+      <span>
+        <target id="247"/>
+      </span>
+    </term>
+    <term id="248" lemma="the">
+      <span>
+        <target id="248"/>
+      </span>
+    </term>
+    <term id="249" lemma="sell">
+      <span>
+        <target id="249"/>
+      </span>
+    </term>
+    <term id="250" lemma="off">
+      <span>
+        <target id="250"/>
+      </span>
+    </term>
+    <term id="251" lemma=".">
+      <span>
+        <target id="251"/>
+      </span>
+    </term>
+    <term id="252" lemma="The">
+      <span>
+        <target id="252"/>
+      </span>
+    </term>
+    <term id="253" lemma="decline">
+      <span>
+        <target id="253"/>
+      </span>
+    </term>
+    <term id="254" lemma="also">
+      <span>
+        <target id="254"/>
+      </span>
+    </term>
+    <term id="255" lemma="occurred">
+      <span>
+        <target id="255"/>
+      </span>
+    </term>
+    <term id="256" lemma="on">
+      <span>
+        <target id="256"/>
+      </span>
+    </term>
+    <term id="257" lemma="the">
+      <span>
+        <target id="257"/>
+      </span>
+    </term>
+    <term id="258" lemma="day">
+      <span>
+        <target id="258"/>
+      </span>
+    </term>
+    <term id="259" lemma="that">
+      <span>
+        <target id="259"/>
+      </span>
+    </term>
+    <term id="260" lemma="a">
+      <span>
+        <target id="260"/>
+      </span>
+    </term>
+    <term id="261" lemma="plot">
+      <span>
+        <target id="261"/>
+      </span>
+    </term>
+    <term id="262" lemma="to">
+      <span>
+        <target id="262"/>
+      </span>
+    </term>
+    <term id="263" lemma="assassinate">
+      <span>
+        <target id="263"/>
+      </span>
+    </term>
+    <term id="264" lemma="U.S.">
+      <span>
+        <target id="264"/>
+      </span>
+    </term>
+    <term id="265" lemma="Vice">
+      <span>
+        <target id="265"/>
+      </span>
+    </term>
+    <term id="266" lemma="President">
+      <span>
+        <target id="266"/>
+      </span>
+    </term>
+    <term id="267" lemma="Richard">
+      <span>
+        <target id="267"/>
+      </span>
+    </term>
+    <term id="268" lemma="Cheney">
+      <span>
+        <target id="268"/>
+      </span>
+    </term>
+    <term id="269" lemma="failed">
+      <span>
+        <target id="269"/>
+      </span>
+    </term>
+    <term id="270" lemma="in">
+      <span>
+        <target id="270"/>
+      </span>
+    </term>
+    <term id="271" lemma="Afghanistan">
+      <span>
+        <target id="271"/>
+      </span>
+    </term>
+    <term id="272" lemma=".">
+      <span>
+        <target id="272"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="59" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Dow_Jones_Industrial_Average" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="174"/>
+          <target id="175"/>
+          <target id="176"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="71" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/China" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="60"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="79" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="13"/>
+          <target id="14"/>
+          <target id="15"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="82" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="69"/>
+          <target id="70"/>
+          <target id="71"/>
+          <target id="72"/>
+          <target id="73"/>
+          <target id="74"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="75" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Dow_Jones_Industrial_Average" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="18"/>
+          <target id="19"/>
+          <target id="20"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="76" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Dow_Jones_Industrial_Average" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+          <target id="12"/>
+          <target id="13"/>
+          <target id="14"/>
+          <target id="15"/>
+          <target id="16"/>
+          <target id="17"/>
+          <target id="18"/>
+          <target id="19"/>
+          <target id="20"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="62" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/S&amp;P_500" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="72"/>
+          <target id="73"/>
+          <target id="74"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="63" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="63"/>
+          <target id="64"/>
+          <target id="65"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="64" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="13"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="65" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/New_York_Stock_Exchange" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="235"/>
+          <target id="236"/>
+          <target id="237"/>
+          <target id="238"/>
+          <target id="239"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="66" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Nasdaq_Composite" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="69"/>
+          <target id="70"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="70" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="43"/>
+          <target id="44"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="68" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Dow_Jones_Industrial_Average" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+          <target id="12"/>
+          <target id="13"/>
+          <target id="14"/>
+          <target id="15"/>
+          <target id="16"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="73" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="60"/>
+          <target id="61"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="80" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+          <target id="2"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="74" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="94"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+  <timeExpressions>
+    <timex3 id="24" type="DATE" value="2007-02-27">
+      <span>
+        <target id="33"/>
+      </span>
+    </timex3>
+    <timex3 id="25" type="DATE" value="P1D">
+      <span>
+        <target id="37"/>
+      </span>
+    </timex3>
+    <timex3 id="5" type="DATE" value="2007-02-27">
+      <span>
+        <target id="7"/>
+        <target id="8"/>
+        <target id="9"/>
+        <target id="10"/>
+      </span>
+    </timex3>
+    <timex3 id="36" type="DATE" value="P1D">
+      <span>
+        <target id="91"/>
+      </span>
+    </timex3>
+  </timeExpressions>
+  <srl>
+    <predicate id="pr3">
+      <span>
+        <target id="3"/>
+      </span>
+    </predicate>
+    <predicate id="pr30">
+      <span>
+        <target id="58"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

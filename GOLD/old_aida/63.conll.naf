@@ -1,0 +1,1621 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[New meningitis scare hits Britain . LONDON 1996-12-06 A boy has died from meningitis and a girl from the same school has contracted the disease in the second such scare to hit Britain in as many weeks , health authorities said on Friday . The 16-year-old who attended Sale Grammar School in the northern England city of Manchester died less than a day after becoming ill . The 15-year-old girl is also suffering from the disease and hospital officials described her condition as serious . " At the moment there is no evidence the two cases are linked . However , we are assuming they are as a precaution for the time being , " a spokeswoman said . The more than 1,260 students at the school are being given antibiotics as a precaution . Wales grappled with its own cluster of meningitis cases on a university campus in Cardiff . At least two people have died and hundreds have been vaccinated in an effort to contain the virus . In Scotland , eight people have died and hundreds more are fighting a widespread food-poisoning outbreak . A health authority spokeswoman said 78 people suspected of having the disease , including 64 confirmed cases , were still being treated . Three were listed in poor condition . More than 290 people have reported symptoms in Lanarkshire county , the worst-hit area , since the outbreak first came to light after people ate tainted meat pies at a pensioners ' lunch . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1225testb" filename="1225testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="3"><![CDATA[New]]></wf>
+    <wf id="1" sent="1" para="1" offset="3" length="10"><![CDATA[meningitis]]></wf>
+    <wf id="2" sent="1" para="1" offset="13" length="5"><![CDATA[scare]]></wf>
+    <wf id="3" sent="1" para="1" offset="18" length="4"><![CDATA[hits]]></wf>
+    <wf id="4" sent="1" para="1" offset="22" length="7"><![CDATA[Britain]]></wf>
+    <wf id="5" sent="1" para="1" offset="29" length="1"><![CDATA[.]]></wf>
+    <wf id="6" sent="1" para="1" offset="30" length="6"><![CDATA[LONDON]]></wf>
+    <wf id="7" sent="1" para="1" offset="36" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="8" sent="1" para="1" offset="46" length="1"><![CDATA[A]]></wf>
+    <wf id="9" sent="1" para="1" offset="47" length="3"><![CDATA[boy]]></wf>
+    <wf id="10" sent="1" para="1" offset="50" length="3"><![CDATA[has]]></wf>
+    <wf id="11" sent="1" para="1" offset="53" length="4"><![CDATA[died]]></wf>
+    <wf id="12" sent="1" para="1" offset="57" length="4"><![CDATA[from]]></wf>
+    <wf id="13" sent="1" para="1" offset="61" length="10"><![CDATA[meningitis]]></wf>
+    <wf id="14" sent="1" para="1" offset="71" length="3"><![CDATA[and]]></wf>
+    <wf id="15" sent="1" para="1" offset="74" length="1"><![CDATA[a]]></wf>
+    <wf id="16" sent="1" para="1" offset="75" length="4"><![CDATA[girl]]></wf>
+    <wf id="17" sent="1" para="1" offset="79" length="4"><![CDATA[from]]></wf>
+    <wf id="18" sent="1" para="1" offset="83" length="3"><![CDATA[the]]></wf>
+    <wf id="19" sent="1" para="1" offset="86" length="4"><![CDATA[same]]></wf>
+    <wf id="20" sent="1" para="1" offset="90" length="6"><![CDATA[school]]></wf>
+    <wf id="21" sent="1" para="1" offset="96" length="3"><![CDATA[has]]></wf>
+    <wf id="22" sent="1" para="1" offset="99" length="10"><![CDATA[contracted]]></wf>
+    <wf id="23" sent="1" para="1" offset="109" length="3"><![CDATA[the]]></wf>
+    <wf id="24" sent="1" para="1" offset="112" length="7"><![CDATA[disease]]></wf>
+    <wf id="25" sent="1" para="1" offset="119" length="2"><![CDATA[in]]></wf>
+    <wf id="26" sent="1" para="1" offset="121" length="3"><![CDATA[the]]></wf>
+    <wf id="27" sent="1" para="1" offset="124" length="6"><![CDATA[second]]></wf>
+    <wf id="28" sent="1" para="1" offset="130" length="4"><![CDATA[such]]></wf>
+    <wf id="29" sent="1" para="1" offset="134" length="5"><![CDATA[scare]]></wf>
+    <wf id="30" sent="1" para="1" offset="139" length="2"><![CDATA[to]]></wf>
+    <wf id="31" sent="1" para="1" offset="141" length="3"><![CDATA[hit]]></wf>
+    <wf id="32" sent="1" para="1" offset="144" length="7"><![CDATA[Britain]]></wf>
+    <wf id="33" sent="1" para="1" offset="151" length="2"><![CDATA[in]]></wf>
+    <wf id="34" sent="1" para="1" offset="153" length="2"><![CDATA[as]]></wf>
+    <wf id="35" sent="1" para="1" offset="155" length="4"><![CDATA[many]]></wf>
+    <wf id="36" sent="1" para="1" offset="159" length="5"><![CDATA[weeks]]></wf>
+    <wf id="37" sent="1" para="1" offset="164" length="1"><![CDATA[,]]></wf>
+    <wf id="38" sent="1" para="1" offset="165" length="6"><![CDATA[health]]></wf>
+    <wf id="39" sent="1" para="1" offset="171" length="11"><![CDATA[authorities]]></wf>
+    <wf id="40" sent="1" para="1" offset="182" length="4"><![CDATA[said]]></wf>
+    <wf id="41" sent="1" para="1" offset="186" length="2"><![CDATA[on]]></wf>
+    <wf id="42" sent="1" para="1" offset="188" length="6"><![CDATA[Friday]]></wf>
+    <wf id="43" sent="1" para="1" offset="194" length="1"><![CDATA[.]]></wf>
+    <wf id="44" sent="1" para="1" offset="195" length="3"><![CDATA[The]]></wf>
+    <wf id="45" sent="1" para="1" offset="198" length="11"><![CDATA[16-year-old]]></wf>
+    <wf id="46" sent="1" para="1" offset="209" length="3"><![CDATA[who]]></wf>
+    <wf id="47" sent="1" para="1" offset="212" length="8"><![CDATA[attended]]></wf>
+    <wf id="48" sent="1" para="1" offset="220" length="4"><![CDATA[Sale]]></wf>
+    <wf id="49" sent="1" para="1" offset="224" length="7"><![CDATA[Grammar]]></wf>
+    <wf id="50" sent="1" para="1" offset="231" length="6"><![CDATA[School]]></wf>
+    <wf id="51" sent="1" para="1" offset="237" length="2"><![CDATA[in]]></wf>
+    <wf id="52" sent="1" para="1" offset="239" length="3"><![CDATA[the]]></wf>
+    <wf id="53" sent="1" para="1" offset="242" length="8"><![CDATA[northern]]></wf>
+    <wf id="54" sent="1" para="1" offset="250" length="7"><![CDATA[England]]></wf>
+    <wf id="55" sent="1" para="1" offset="257" length="4"><![CDATA[city]]></wf>
+    <wf id="56" sent="1" para="1" offset="261" length="2"><![CDATA[of]]></wf>
+    <wf id="57" sent="1" para="1" offset="263" length="10"><![CDATA[Manchester]]></wf>
+    <wf id="58" sent="1" para="1" offset="273" length="4"><![CDATA[died]]></wf>
+    <wf id="59" sent="1" para="1" offset="277" length="4"><![CDATA[less]]></wf>
+    <wf id="60" sent="1" para="1" offset="281" length="4"><![CDATA[than]]></wf>
+    <wf id="61" sent="1" para="1" offset="285" length="1"><![CDATA[a]]></wf>
+    <wf id="62" sent="1" para="1" offset="286" length="3"><![CDATA[day]]></wf>
+    <wf id="63" sent="1" para="1" offset="289" length="5"><![CDATA[after]]></wf>
+    <wf id="64" sent="1" para="1" offset="294" length="8"><![CDATA[becoming]]></wf>
+    <wf id="65" sent="1" para="1" offset="302" length="3"><![CDATA[ill]]></wf>
+    <wf id="66" sent="1" para="1" offset="305" length="1"><![CDATA[.]]></wf>
+    <wf id="67" sent="1" para="1" offset="306" length="3"><![CDATA[The]]></wf>
+    <wf id="68" sent="1" para="1" offset="309" length="11"><![CDATA[15-year-old]]></wf>
+    <wf id="69" sent="1" para="1" offset="320" length="4"><![CDATA[girl]]></wf>
+    <wf id="70" sent="1" para="1" offset="324" length="2"><![CDATA[is]]></wf>
+    <wf id="71" sent="1" para="1" offset="326" length="4"><![CDATA[also]]></wf>
+    <wf id="72" sent="1" para="1" offset="330" length="9"><![CDATA[suffering]]></wf>
+    <wf id="73" sent="1" para="1" offset="339" length="4"><![CDATA[from]]></wf>
+    <wf id="74" sent="1" para="1" offset="343" length="3"><![CDATA[the]]></wf>
+    <wf id="75" sent="1" para="1" offset="346" length="7"><![CDATA[disease]]></wf>
+    <wf id="76" sent="1" para="1" offset="353" length="3"><![CDATA[and]]></wf>
+    <wf id="77" sent="1" para="1" offset="356" length="8"><![CDATA[hospital]]></wf>
+    <wf id="78" sent="1" para="1" offset="364" length="9"><![CDATA[officials]]></wf>
+    <wf id="79" sent="1" para="1" offset="373" length="9"><![CDATA[described]]></wf>
+    <wf id="80" sent="1" para="1" offset="382" length="3"><![CDATA[her]]></wf>
+    <wf id="81" sent="1" para="1" offset="385" length="9"><![CDATA[condition]]></wf>
+    <wf id="82" sent="1" para="1" offset="394" length="2"><![CDATA[as]]></wf>
+    <wf id="83" sent="1" para="1" offset="396" length="7"><![CDATA[serious]]></wf>
+    <wf id="84" sent="1" para="1" offset="403" length="1"><![CDATA[.]]></wf>
+    <wf id="85" sent="1" para="1" offset="404" length="1"><![CDATA["]]></wf>
+    <wf id="86" sent="1" para="1" offset="405" length="2"><![CDATA[At]]></wf>
+    <wf id="87" sent="1" para="1" offset="407" length="3"><![CDATA[the]]></wf>
+    <wf id="88" sent="1" para="1" offset="410" length="6"><![CDATA[moment]]></wf>
+    <wf id="89" sent="1" para="1" offset="416" length="5"><![CDATA[there]]></wf>
+    <wf id="90" sent="1" para="1" offset="421" length="2"><![CDATA[is]]></wf>
+    <wf id="91" sent="1" para="1" offset="423" length="2"><![CDATA[no]]></wf>
+    <wf id="92" sent="1" para="1" offset="425" length="8"><![CDATA[evidence]]></wf>
+    <wf id="93" sent="1" para="1" offset="433" length="3"><![CDATA[the]]></wf>
+    <wf id="94" sent="1" para="1" offset="436" length="3"><![CDATA[two]]></wf>
+    <wf id="95" sent="1" para="1" offset="439" length="5"><![CDATA[cases]]></wf>
+    <wf id="96" sent="1" para="1" offset="444" length="3"><![CDATA[are]]></wf>
+    <wf id="97" sent="1" para="1" offset="447" length="6"><![CDATA[linked]]></wf>
+    <wf id="98" sent="1" para="1" offset="453" length="1"><![CDATA[.]]></wf>
+    <wf id="99" sent="1" para="1" offset="454" length="7"><![CDATA[However]]></wf>
+    <wf id="100" sent="1" para="1" offset="461" length="1"><![CDATA[,]]></wf>
+    <wf id="101" sent="1" para="1" offset="462" length="2"><![CDATA[we]]></wf>
+    <wf id="102" sent="1" para="1" offset="464" length="3"><![CDATA[are]]></wf>
+    <wf id="103" sent="1" para="1" offset="467" length="8"><![CDATA[assuming]]></wf>
+    <wf id="104" sent="1" para="1" offset="475" length="4"><![CDATA[they]]></wf>
+    <wf id="105" sent="1" para="1" offset="479" length="3"><![CDATA[are]]></wf>
+    <wf id="106" sent="1" para="1" offset="482" length="2"><![CDATA[as]]></wf>
+    <wf id="107" sent="1" para="1" offset="484" length="1"><![CDATA[a]]></wf>
+    <wf id="108" sent="1" para="1" offset="485" length="10"><![CDATA[precaution]]></wf>
+    <wf id="109" sent="1" para="1" offset="495" length="3"><![CDATA[for]]></wf>
+    <wf id="110" sent="1" para="1" offset="498" length="3"><![CDATA[the]]></wf>
+    <wf id="111" sent="1" para="1" offset="501" length="4"><![CDATA[time]]></wf>
+    <wf id="112" sent="1" para="1" offset="505" length="5"><![CDATA[being]]></wf>
+    <wf id="113" sent="1" para="1" offset="510" length="1"><![CDATA[,]]></wf>
+    <wf id="114" sent="1" para="1" offset="511" length="1"><![CDATA["]]></wf>
+    <wf id="115" sent="1" para="1" offset="512" length="1"><![CDATA[a]]></wf>
+    <wf id="116" sent="1" para="1" offset="513" length="11"><![CDATA[spokeswoman]]></wf>
+    <wf id="117" sent="1" para="1" offset="524" length="4"><![CDATA[said]]></wf>
+    <wf id="118" sent="1" para="1" offset="528" length="1"><![CDATA[.]]></wf>
+    <wf id="119" sent="1" para="1" offset="529" length="3"><![CDATA[The]]></wf>
+    <wf id="120" sent="1" para="1" offset="532" length="4"><![CDATA[more]]></wf>
+    <wf id="121" sent="1" para="1" offset="536" length="4"><![CDATA[than]]></wf>
+    <wf id="122" sent="1" para="1" offset="540" length="5"><![CDATA[1,260]]></wf>
+    <wf id="123" sent="1" para="1" offset="545" length="8"><![CDATA[students]]></wf>
+    <wf id="124" sent="1" para="1" offset="553" length="2"><![CDATA[at]]></wf>
+    <wf id="125" sent="1" para="1" offset="555" length="3"><![CDATA[the]]></wf>
+    <wf id="126" sent="1" para="1" offset="558" length="6"><![CDATA[school]]></wf>
+    <wf id="127" sent="1" para="1" offset="564" length="3"><![CDATA[are]]></wf>
+    <wf id="128" sent="1" para="1" offset="567" length="5"><![CDATA[being]]></wf>
+    <wf id="129" sent="1" para="1" offset="572" length="5"><![CDATA[given]]></wf>
+    <wf id="130" sent="1" para="1" offset="577" length="11"><![CDATA[antibiotics]]></wf>
+    <wf id="131" sent="1" para="1" offset="588" length="2"><![CDATA[as]]></wf>
+    <wf id="132" sent="1" para="1" offset="590" length="1"><![CDATA[a]]></wf>
+    <wf id="133" sent="1" para="1" offset="591" length="10"><![CDATA[precaution]]></wf>
+    <wf id="134" sent="1" para="1" offset="601" length="1"><![CDATA[.]]></wf>
+    <wf id="135" sent="1" para="1" offset="602" length="5"><![CDATA[Wales]]></wf>
+    <wf id="136" sent="1" para="1" offset="607" length="8"><![CDATA[grappled]]></wf>
+    <wf id="137" sent="1" para="1" offset="615" length="4"><![CDATA[with]]></wf>
+    <wf id="138" sent="1" para="1" offset="619" length="3"><![CDATA[its]]></wf>
+    <wf id="139" sent="1" para="1" offset="622" length="3"><![CDATA[own]]></wf>
+    <wf id="140" sent="1" para="1" offset="625" length="7"><![CDATA[cluster]]></wf>
+    <wf id="141" sent="1" para="1" offset="632" length="2"><![CDATA[of]]></wf>
+    <wf id="142" sent="1" para="1" offset="634" length="10"><![CDATA[meningitis]]></wf>
+    <wf id="143" sent="1" para="1" offset="644" length="5"><![CDATA[cases]]></wf>
+    <wf id="144" sent="1" para="1" offset="649" length="2"><![CDATA[on]]></wf>
+    <wf id="145" sent="1" para="1" offset="651" length="1"><![CDATA[a]]></wf>
+    <wf id="146" sent="1" para="1" offset="652" length="10"><![CDATA[university]]></wf>
+    <wf id="147" sent="1" para="1" offset="662" length="6"><![CDATA[campus]]></wf>
+    <wf id="148" sent="1" para="1" offset="668" length="2"><![CDATA[in]]></wf>
+    <wf id="149" sent="1" para="1" offset="670" length="7"><![CDATA[Cardiff]]></wf>
+    <wf id="150" sent="1" para="1" offset="677" length="1"><![CDATA[.]]></wf>
+    <wf id="151" sent="1" para="1" offset="678" length="2"><![CDATA[At]]></wf>
+    <wf id="152" sent="1" para="1" offset="680" length="5"><![CDATA[least]]></wf>
+    <wf id="153" sent="1" para="1" offset="685" length="3"><![CDATA[two]]></wf>
+    <wf id="154" sent="1" para="1" offset="688" length="6"><![CDATA[people]]></wf>
+    <wf id="155" sent="1" para="1" offset="694" length="4"><![CDATA[have]]></wf>
+    <wf id="156" sent="1" para="1" offset="698" length="4"><![CDATA[died]]></wf>
+    <wf id="157" sent="1" para="1" offset="702" length="3"><![CDATA[and]]></wf>
+    <wf id="158" sent="1" para="1" offset="705" length="8"><![CDATA[hundreds]]></wf>
+    <wf id="159" sent="1" para="1" offset="713" length="4"><![CDATA[have]]></wf>
+    <wf id="160" sent="1" para="1" offset="717" length="4"><![CDATA[been]]></wf>
+    <wf id="161" sent="1" para="1" offset="721" length="10"><![CDATA[vaccinated]]></wf>
+    <wf id="162" sent="1" para="1" offset="731" length="2"><![CDATA[in]]></wf>
+    <wf id="163" sent="1" para="1" offset="733" length="2"><![CDATA[an]]></wf>
+    <wf id="164" sent="1" para="1" offset="735" length="6"><![CDATA[effort]]></wf>
+    <wf id="165" sent="1" para="1" offset="741" length="2"><![CDATA[to]]></wf>
+    <wf id="166" sent="1" para="1" offset="743" length="7"><![CDATA[contain]]></wf>
+    <wf id="167" sent="1" para="1" offset="750" length="3"><![CDATA[the]]></wf>
+    <wf id="168" sent="1" para="1" offset="753" length="5"><![CDATA[virus]]></wf>
+    <wf id="169" sent="1" para="1" offset="758" length="1"><![CDATA[.]]></wf>
+    <wf id="170" sent="1" para="1" offset="759" length="2"><![CDATA[In]]></wf>
+    <wf id="171" sent="1" para="1" offset="761" length="8"><![CDATA[Scotland]]></wf>
+    <wf id="172" sent="1" para="1" offset="769" length="1"><![CDATA[,]]></wf>
+    <wf id="173" sent="1" para="1" offset="770" length="5"><![CDATA[eight]]></wf>
+    <wf id="174" sent="1" para="1" offset="775" length="6"><![CDATA[people]]></wf>
+    <wf id="175" sent="1" para="1" offset="781" length="4"><![CDATA[have]]></wf>
+    <wf id="176" sent="1" para="1" offset="785" length="4"><![CDATA[died]]></wf>
+    <wf id="177" sent="1" para="1" offset="789" length="3"><![CDATA[and]]></wf>
+    <wf id="178" sent="1" para="1" offset="792" length="8"><![CDATA[hundreds]]></wf>
+    <wf id="179" sent="1" para="1" offset="800" length="4"><![CDATA[more]]></wf>
+    <wf id="180" sent="1" para="1" offset="804" length="3"><![CDATA[are]]></wf>
+    <wf id="181" sent="1" para="1" offset="807" length="8"><![CDATA[fighting]]></wf>
+    <wf id="182" sent="1" para="1" offset="815" length="1"><![CDATA[a]]></wf>
+    <wf id="183" sent="1" para="1" offset="816" length="10"><![CDATA[widespread]]></wf>
+    <wf id="184" sent="1" para="1" offset="826" length="14"><![CDATA[food-poisoning]]></wf>
+    <wf id="185" sent="1" para="1" offset="840" length="8"><![CDATA[outbreak]]></wf>
+    <wf id="186" sent="1" para="1" offset="848" length="1"><![CDATA[.]]></wf>
+    <wf id="187" sent="1" para="1" offset="849" length="1"><![CDATA[A]]></wf>
+    <wf id="188" sent="1" para="1" offset="850" length="6"><![CDATA[health]]></wf>
+    <wf id="189" sent="1" para="1" offset="856" length="9"><![CDATA[authority]]></wf>
+    <wf id="190" sent="1" para="1" offset="865" length="11"><![CDATA[spokeswoman]]></wf>
+    <wf id="191" sent="1" para="1" offset="876" length="4"><![CDATA[said]]></wf>
+    <wf id="192" sent="1" para="1" offset="880" length="2"><![CDATA[78]]></wf>
+    <wf id="193" sent="1" para="1" offset="882" length="6"><![CDATA[people]]></wf>
+    <wf id="194" sent="1" para="1" offset="888" length="9"><![CDATA[suspected]]></wf>
+    <wf id="195" sent="1" para="1" offset="897" length="2"><![CDATA[of]]></wf>
+    <wf id="196" sent="1" para="1" offset="899" length="6"><![CDATA[having]]></wf>
+    <wf id="197" sent="1" para="1" offset="905" length="3"><![CDATA[the]]></wf>
+    <wf id="198" sent="1" para="1" offset="908" length="7"><![CDATA[disease]]></wf>
+    <wf id="199" sent="1" para="1" offset="915" length="1"><![CDATA[,]]></wf>
+    <wf id="200" sent="1" para="1" offset="916" length="9"><![CDATA[including]]></wf>
+    <wf id="201" sent="1" para="1" offset="925" length="2"><![CDATA[64]]></wf>
+    <wf id="202" sent="1" para="1" offset="927" length="9"><![CDATA[confirmed]]></wf>
+    <wf id="203" sent="1" para="1" offset="936" length="5"><![CDATA[cases]]></wf>
+    <wf id="204" sent="1" para="1" offset="941" length="1"><![CDATA[,]]></wf>
+    <wf id="205" sent="1" para="1" offset="942" length="4"><![CDATA[were]]></wf>
+    <wf id="206" sent="1" para="1" offset="946" length="5"><![CDATA[still]]></wf>
+    <wf id="207" sent="1" para="1" offset="951" length="5"><![CDATA[being]]></wf>
+    <wf id="208" sent="1" para="1" offset="956" length="7"><![CDATA[treated]]></wf>
+    <wf id="209" sent="1" para="1" offset="963" length="1"><![CDATA[.]]></wf>
+    <wf id="210" sent="1" para="1" offset="964" length="5"><![CDATA[Three]]></wf>
+    <wf id="211" sent="1" para="1" offset="969" length="4"><![CDATA[were]]></wf>
+    <wf id="212" sent="1" para="1" offset="973" length="6"><![CDATA[listed]]></wf>
+    <wf id="213" sent="1" para="1" offset="979" length="2"><![CDATA[in]]></wf>
+    <wf id="214" sent="1" para="1" offset="981" length="4"><![CDATA[poor]]></wf>
+    <wf id="215" sent="1" para="1" offset="985" length="9"><![CDATA[condition]]></wf>
+    <wf id="216" sent="1" para="1" offset="994" length="1"><![CDATA[.]]></wf>
+    <wf id="217" sent="1" para="1" offset="995" length="4"><![CDATA[More]]></wf>
+    <wf id="218" sent="1" para="1" offset="999" length="4"><![CDATA[than]]></wf>
+    <wf id="219" sent="1" para="1" offset="1003" length="3"><![CDATA[290]]></wf>
+    <wf id="220" sent="1" para="1" offset="1006" length="6"><![CDATA[people]]></wf>
+    <wf id="221" sent="1" para="1" offset="1012" length="4"><![CDATA[have]]></wf>
+    <wf id="222" sent="1" para="1" offset="1016" length="8"><![CDATA[reported]]></wf>
+    <wf id="223" sent="1" para="1" offset="1024" length="8"><![CDATA[symptoms]]></wf>
+    <wf id="224" sent="1" para="1" offset="1032" length="2"><![CDATA[in]]></wf>
+    <wf id="225" sent="1" para="1" offset="1034" length="11"><![CDATA[Lanarkshire]]></wf>
+    <wf id="226" sent="1" para="1" offset="1045" length="6"><![CDATA[county]]></wf>
+    <wf id="227" sent="1" para="1" offset="1051" length="1"><![CDATA[,]]></wf>
+    <wf id="228" sent="1" para="1" offset="1052" length="3"><![CDATA[the]]></wf>
+    <wf id="229" sent="1" para="1" offset="1055" length="9"><![CDATA[worst-hit]]></wf>
+    <wf id="230" sent="1" para="1" offset="1064" length="4"><![CDATA[area]]></wf>
+    <wf id="231" sent="1" para="1" offset="1068" length="1"><![CDATA[,]]></wf>
+    <wf id="232" sent="1" para="1" offset="1069" length="5"><![CDATA[since]]></wf>
+    <wf id="233" sent="1" para="1" offset="1074" length="3"><![CDATA[the]]></wf>
+    <wf id="234" sent="1" para="1" offset="1077" length="8"><![CDATA[outbreak]]></wf>
+    <wf id="235" sent="1" para="1" offset="1085" length="5"><![CDATA[first]]></wf>
+    <wf id="236" sent="1" para="1" offset="1090" length="4"><![CDATA[came]]></wf>
+    <wf id="237" sent="1" para="1" offset="1094" length="2"><![CDATA[to]]></wf>
+    <wf id="238" sent="1" para="1" offset="1096" length="5"><![CDATA[light]]></wf>
+    <wf id="239" sent="1" para="1" offset="1101" length="5"><![CDATA[after]]></wf>
+    <wf id="240" sent="1" para="1" offset="1106" length="6"><![CDATA[people]]></wf>
+    <wf id="241" sent="1" para="1" offset="1112" length="3"><![CDATA[ate]]></wf>
+    <wf id="242" sent="1" para="1" offset="1115" length="7"><![CDATA[tainted]]></wf>
+    <wf id="243" sent="1" para="1" offset="1122" length="4"><![CDATA[meat]]></wf>
+    <wf id="244" sent="1" para="1" offset="1126" length="4"><![CDATA[pies]]></wf>
+    <wf id="245" sent="1" para="1" offset="1130" length="2"><![CDATA[at]]></wf>
+    <wf id="246" sent="1" para="1" offset="1132" length="1"><![CDATA[a]]></wf>
+    <wf id="247" sent="1" para="1" offset="1133" length="10"><![CDATA[pensioners]]></wf>
+    <wf id="248" sent="1" para="1" offset="1143" length="1"><![CDATA[']]></wf>
+    <wf id="249" sent="1" para="1" offset="1144" length="5"><![CDATA[lunch]]></wf>
+    <wf id="250" sent="1" para="1" offset="1149" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="New">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="meningitis">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="scare">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="hits">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="Britain">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma=".">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="LONDON">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="1996-12-06">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="A">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="boy">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="has">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="died">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="from">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="meningitis">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="and">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="a">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="girl">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="from">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="the">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="same">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="school">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="has">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="contracted">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="the">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="disease">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="in">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="the">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="second">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="such">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="scare">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="to">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="hit">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="Britain">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="in">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="as">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="many">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="weeks">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma=",">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="health">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="authorities">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="said">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="on">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="Friday">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma=".">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="The">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="16-year-old">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="who">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="attended">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="Sale">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="Grammar">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="School">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="in">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="the">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="northern">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="England">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="city">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="of">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="Manchester">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="died">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="less">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="than">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="a">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="day">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="after">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="becoming">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="ill">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma=".">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="The">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="15-year-old">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="girl">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="is">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="also">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="suffering">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="from">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="the">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="disease">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="and">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="hospital">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="officials">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="described">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="her">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="condition">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="as">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="serious">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma=".">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="&quot;">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="At">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="the">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="moment">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="there">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="is">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="no">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="evidence">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="the">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="two">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="cases">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="are">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="linked">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma=".">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="However">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma=",">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="we">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="are">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="assuming">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="they">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="are">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="as">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="a">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="precaution">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="for">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="the">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="time">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="being">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma=",">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="&quot;">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="a">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="spokeswoman">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="said">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma=".">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="The">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="more">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="than">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="1,260">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="students">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="at">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="the">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="school">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="are">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="being">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="given">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="antibiotics">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="as">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="a">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="precaution">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma=".">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="Wales">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="grappled">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="with">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="its">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="own">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="cluster">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="of">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="meningitis">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="cases">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="on">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="a">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="university">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="campus">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="in">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="Cardiff">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma=".">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="At">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="least">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma="two">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="people">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="have">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="died">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="and">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="hundreds">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="have">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="been">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="vaccinated">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="in">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="an">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="effort">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="to">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="contain">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="the">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="virus">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma=".">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="In">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="Scotland">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma=",">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="eight">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="people">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma="have">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="died">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma="and">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="hundreds">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="more">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="are">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="fighting">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="a">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="widespread">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma="food-poisoning">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="outbreak">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma=".">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="A">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma="health">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="authority">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma="spokeswoman">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma="said">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="78">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma="people">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma="suspected">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma="of">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma="having">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="the">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma="disease">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma=",">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma="including">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+    <term id="201" lemma="64">
+      <span>
+        <target id="201"/>
+      </span>
+    </term>
+    <term id="202" lemma="confirmed">
+      <span>
+        <target id="202"/>
+      </span>
+    </term>
+    <term id="203" lemma="cases">
+      <span>
+        <target id="203"/>
+      </span>
+    </term>
+    <term id="204" lemma=",">
+      <span>
+        <target id="204"/>
+      </span>
+    </term>
+    <term id="205" lemma="were">
+      <span>
+        <target id="205"/>
+      </span>
+    </term>
+    <term id="206" lemma="still">
+      <span>
+        <target id="206"/>
+      </span>
+    </term>
+    <term id="207" lemma="being">
+      <span>
+        <target id="207"/>
+      </span>
+    </term>
+    <term id="208" lemma="treated">
+      <span>
+        <target id="208"/>
+      </span>
+    </term>
+    <term id="209" lemma=".">
+      <span>
+        <target id="209"/>
+      </span>
+    </term>
+    <term id="210" lemma="Three">
+      <span>
+        <target id="210"/>
+      </span>
+    </term>
+    <term id="211" lemma="were">
+      <span>
+        <target id="211"/>
+      </span>
+    </term>
+    <term id="212" lemma="listed">
+      <span>
+        <target id="212"/>
+      </span>
+    </term>
+    <term id="213" lemma="in">
+      <span>
+        <target id="213"/>
+      </span>
+    </term>
+    <term id="214" lemma="poor">
+      <span>
+        <target id="214"/>
+      </span>
+    </term>
+    <term id="215" lemma="condition">
+      <span>
+        <target id="215"/>
+      </span>
+    </term>
+    <term id="216" lemma=".">
+      <span>
+        <target id="216"/>
+      </span>
+    </term>
+    <term id="217" lemma="More">
+      <span>
+        <target id="217"/>
+      </span>
+    </term>
+    <term id="218" lemma="than">
+      <span>
+        <target id="218"/>
+      </span>
+    </term>
+    <term id="219" lemma="290">
+      <span>
+        <target id="219"/>
+      </span>
+    </term>
+    <term id="220" lemma="people">
+      <span>
+        <target id="220"/>
+      </span>
+    </term>
+    <term id="221" lemma="have">
+      <span>
+        <target id="221"/>
+      </span>
+    </term>
+    <term id="222" lemma="reported">
+      <span>
+        <target id="222"/>
+      </span>
+    </term>
+    <term id="223" lemma="symptoms">
+      <span>
+        <target id="223"/>
+      </span>
+    </term>
+    <term id="224" lemma="in">
+      <span>
+        <target id="224"/>
+      </span>
+    </term>
+    <term id="225" lemma="Lanarkshire">
+      <span>
+        <target id="225"/>
+      </span>
+    </term>
+    <term id="226" lemma="county">
+      <span>
+        <target id="226"/>
+      </span>
+    </term>
+    <term id="227" lemma=",">
+      <span>
+        <target id="227"/>
+      </span>
+    </term>
+    <term id="228" lemma="the">
+      <span>
+        <target id="228"/>
+      </span>
+    </term>
+    <term id="229" lemma="worst-hit">
+      <span>
+        <target id="229"/>
+      </span>
+    </term>
+    <term id="230" lemma="area">
+      <span>
+        <target id="230"/>
+      </span>
+    </term>
+    <term id="231" lemma=",">
+      <span>
+        <target id="231"/>
+      </span>
+    </term>
+    <term id="232" lemma="since">
+      <span>
+        <target id="232"/>
+      </span>
+    </term>
+    <term id="233" lemma="the">
+      <span>
+        <target id="233"/>
+      </span>
+    </term>
+    <term id="234" lemma="outbreak">
+      <span>
+        <target id="234"/>
+      </span>
+    </term>
+    <term id="235" lemma="first">
+      <span>
+        <target id="235"/>
+      </span>
+    </term>
+    <term id="236" lemma="came">
+      <span>
+        <target id="236"/>
+      </span>
+    </term>
+    <term id="237" lemma="to">
+      <span>
+        <target id="237"/>
+      </span>
+    </term>
+    <term id="238" lemma="light">
+      <span>
+        <target id="238"/>
+      </span>
+    </term>
+    <term id="239" lemma="after">
+      <span>
+        <target id="239"/>
+      </span>
+    </term>
+    <term id="240" lemma="people">
+      <span>
+        <target id="240"/>
+      </span>
+    </term>
+    <term id="241" lemma="ate">
+      <span>
+        <target id="241"/>
+      </span>
+    </term>
+    <term id="242" lemma="tainted">
+      <span>
+        <target id="242"/>
+      </span>
+    </term>
+    <term id="243" lemma="meat">
+      <span>
+        <target id="243"/>
+      </span>
+    </term>
+    <term id="244" lemma="pies">
+      <span>
+        <target id="244"/>
+      </span>
+    </term>
+    <term id="245" lemma="at">
+      <span>
+        <target id="245"/>
+      </span>
+    </term>
+    <term id="246" lemma="a">
+      <span>
+        <target id="246"/>
+      </span>
+    </term>
+    <term id="247" lemma="pensioners">
+      <span>
+        <target id="247"/>
+      </span>
+    </term>
+    <term id="248" lemma="'">
+      <span>
+        <target id="248"/>
+      </span>
+    </term>
+    <term id="249" lemma="lunch">
+      <span>
+        <target id="249"/>
+      </span>
+    </term>
+    <term id="250" lemma=".">
+      <span>
+        <target id="250"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="1891">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_Kingdom" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="4"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1892">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/London" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="6"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1893">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_Kingdom" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="32"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1894">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Sale_Grammar_School" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="48"/>
+          <target id="49"/>
+          <target id="50"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1895">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/England" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="54"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1896">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Manchester" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="57"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1897">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Wales" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="135"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1898">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Cardiff" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="149"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1899">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Scotland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="171"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1900">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Lanarkshire" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="225"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

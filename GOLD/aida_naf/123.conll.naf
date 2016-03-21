@@ -1,0 +1,2275 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[Half of dog bites provoked , says American vet . CHICAGO 1996-12-06 As many as 1 million dog bites are recorded in the United States every year and half of them are provoked by humans , a veterinarian told fellow animal doctors on Friday . The Humane Society of the United States estimates that between 500,000 and one million bites are delivered by dogs each year , more than half of which are suffered by children . " Most bites can be prevented by teaching children how to respect a dog , " Michael Cornwell of the Glencoe Animal Hospital in Columbus , Ohio , told the annual meeting of the American Veterinary Medical Association . " Let 's not let our kids jump on them or crawl on them . Dogs and children do n't have to have an interaction . Let 's respect their territories , " he said . Cornwell said 50 percent of reported bites were provoked by a person and 60 percent were suffered by children . He also estimated that only 25 percent of bites were reported because medical attention was not needed . Don Rieck , president of the National Animal Control Association , said aggressiveness in dogs was related more to gender than breed and a male dog that had not been neutered was three times more likely to bite than an unspayed female . The five breeds credited with the most incidents were chow chows , Rottweilers , German shepherds , cocker spaniels and Dalmatians . " The trends in dog bites by particular breeds have more to do with fad pets owned by individuals who need to have something unique . Speaking strictly of dogs , 15 years ago the macho fad pet was a Doberman . Today , Rottweilers are on the way up , " Rieck said . If approached by a stray dog , children should be taught to stand still with fists folded underneath the neck , elbows in , and gaze forward until the dog goes away . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1285testb" filename="1285testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="4"><![CDATA[Half]]></wf>
+    <wf id="2" sent="1" para="1" offset="4" length="2"><![CDATA[of]]></wf>
+    <wf id="3" sent="1" para="1" offset="6" length="3"><![CDATA[dog]]></wf>
+    <wf id="4" sent="1" para="1" offset="9" length="5"><![CDATA[bites]]></wf>
+    <wf id="5" sent="1" para="1" offset="14" length="8"><![CDATA[provoked]]></wf>
+    <wf id="6" sent="1" para="1" offset="22" length="1"><![CDATA[,]]></wf>
+    <wf id="7" sent="1" para="1" offset="23" length="4"><![CDATA[says]]></wf>
+    <wf id="8" sent="1" para="1" offset="27" length="8"><![CDATA[American]]></wf>
+    <wf id="9" sent="1" para="1" offset="35" length="3"><![CDATA[vet]]></wf>
+    <wf id="10" sent="1" para="1" offset="38" length="1"><![CDATA[.]]></wf>
+    <wf id="11" sent="1" para="1" offset="39" length="7"><![CDATA[CHICAGO]]></wf>
+    <wf id="12" sent="1" para="1" offset="46" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="13" sent="1" para="1" offset="56" length="2"><![CDATA[As]]></wf>
+    <wf id="14" sent="1" para="1" offset="58" length="4"><![CDATA[many]]></wf>
+    <wf id="15" sent="1" para="1" offset="62" length="2"><![CDATA[as]]></wf>
+    <wf id="16" sent="1" para="1" offset="64" length="1"><![CDATA[1]]></wf>
+    <wf id="17" sent="1" para="1" offset="65" length="7"><![CDATA[million]]></wf>
+    <wf id="18" sent="1" para="1" offset="72" length="3"><![CDATA[dog]]></wf>
+    <wf id="19" sent="1" para="1" offset="75" length="5"><![CDATA[bites]]></wf>
+    <wf id="20" sent="1" para="1" offset="80" length="3"><![CDATA[are]]></wf>
+    <wf id="21" sent="1" para="1" offset="83" length="8"><![CDATA[recorded]]></wf>
+    <wf id="22" sent="1" para="1" offset="91" length="2"><![CDATA[in]]></wf>
+    <wf id="23" sent="1" para="1" offset="93" length="3"><![CDATA[the]]></wf>
+    <wf id="24" sent="1" para="1" offset="96" length="6"><![CDATA[United]]></wf>
+    <wf id="25" sent="1" para="1" offset="102" length="6"><![CDATA[States]]></wf>
+    <wf id="26" sent="1" para="1" offset="108" length="5"><![CDATA[every]]></wf>
+    <wf id="27" sent="1" para="1" offset="113" length="4"><![CDATA[year]]></wf>
+    <wf id="28" sent="1" para="1" offset="117" length="3"><![CDATA[and]]></wf>
+    <wf id="29" sent="1" para="1" offset="120" length="4"><![CDATA[half]]></wf>
+    <wf id="30" sent="1" para="1" offset="124" length="2"><![CDATA[of]]></wf>
+    <wf id="31" sent="1" para="1" offset="126" length="4"><![CDATA[them]]></wf>
+    <wf id="32" sent="1" para="1" offset="130" length="3"><![CDATA[are]]></wf>
+    <wf id="33" sent="1" para="1" offset="133" length="8"><![CDATA[provoked]]></wf>
+    <wf id="34" sent="1" para="1" offset="141" length="2"><![CDATA[by]]></wf>
+    <wf id="35" sent="1" para="1" offset="143" length="6"><![CDATA[humans]]></wf>
+    <wf id="36" sent="1" para="1" offset="149" length="1"><![CDATA[,]]></wf>
+    <wf id="37" sent="1" para="1" offset="150" length="1"><![CDATA[a]]></wf>
+    <wf id="38" sent="1" para="1" offset="151" length="12"><![CDATA[veterinarian]]></wf>
+    <wf id="39" sent="1" para="1" offset="163" length="4"><![CDATA[told]]></wf>
+    <wf id="40" sent="1" para="1" offset="167" length="6"><![CDATA[fellow]]></wf>
+    <wf id="41" sent="1" para="1" offset="173" length="6"><![CDATA[animal]]></wf>
+    <wf id="42" sent="1" para="1" offset="179" length="7"><![CDATA[doctors]]></wf>
+    <wf id="43" sent="1" para="1" offset="186" length="2"><![CDATA[on]]></wf>
+    <wf id="44" sent="1" para="1" offset="188" length="6"><![CDATA[Friday]]></wf>
+    <wf id="45" sent="1" para="1" offset="194" length="1"><![CDATA[.]]></wf>
+    <wf id="46" sent="1" para="1" offset="195" length="3"><![CDATA[The]]></wf>
+    <wf id="47" sent="1" para="1" offset="198" length="6"><![CDATA[Humane]]></wf>
+    <wf id="48" sent="1" para="1" offset="204" length="7"><![CDATA[Society]]></wf>
+    <wf id="49" sent="1" para="1" offset="211" length="2"><![CDATA[of]]></wf>
+    <wf id="50" sent="1" para="1" offset="213" length="3"><![CDATA[the]]></wf>
+    <wf id="51" sent="1" para="1" offset="216" length="6"><![CDATA[United]]></wf>
+    <wf id="52" sent="1" para="1" offset="222" length="6"><![CDATA[States]]></wf>
+    <wf id="53" sent="1" para="1" offset="228" length="9"><![CDATA[estimates]]></wf>
+    <wf id="54" sent="1" para="1" offset="237" length="4"><![CDATA[that]]></wf>
+    <wf id="55" sent="1" para="1" offset="241" length="7"><![CDATA[between]]></wf>
+    <wf id="56" sent="1" para="1" offset="248" length="7"><![CDATA[500,000]]></wf>
+    <wf id="57" sent="1" para="1" offset="255" length="3"><![CDATA[and]]></wf>
+    <wf id="58" sent="1" para="1" offset="258" length="3"><![CDATA[one]]></wf>
+    <wf id="59" sent="1" para="1" offset="261" length="7"><![CDATA[million]]></wf>
+    <wf id="60" sent="1" para="1" offset="268" length="5"><![CDATA[bites]]></wf>
+    <wf id="61" sent="1" para="1" offset="273" length="3"><![CDATA[are]]></wf>
+    <wf id="62" sent="1" para="1" offset="276" length="9"><![CDATA[delivered]]></wf>
+    <wf id="63" sent="1" para="1" offset="285" length="2"><![CDATA[by]]></wf>
+    <wf id="64" sent="1" para="1" offset="287" length="4"><![CDATA[dogs]]></wf>
+    <wf id="65" sent="1" para="1" offset="291" length="4"><![CDATA[each]]></wf>
+    <wf id="66" sent="1" para="1" offset="295" length="4"><![CDATA[year]]></wf>
+    <wf id="67" sent="1" para="1" offset="299" length="1"><![CDATA[,]]></wf>
+    <wf id="68" sent="1" para="1" offset="300" length="4"><![CDATA[more]]></wf>
+    <wf id="69" sent="1" para="1" offset="304" length="4"><![CDATA[than]]></wf>
+    <wf id="70" sent="1" para="1" offset="308" length="4"><![CDATA[half]]></wf>
+    <wf id="71" sent="1" para="1" offset="312" length="2"><![CDATA[of]]></wf>
+    <wf id="72" sent="1" para="1" offset="314" length="5"><![CDATA[which]]></wf>
+    <wf id="73" sent="1" para="1" offset="319" length="3"><![CDATA[are]]></wf>
+    <wf id="74" sent="1" para="1" offset="322" length="8"><![CDATA[suffered]]></wf>
+    <wf id="75" sent="1" para="1" offset="330" length="2"><![CDATA[by]]></wf>
+    <wf id="76" sent="1" para="1" offset="332" length="8"><![CDATA[children]]></wf>
+    <wf id="77" sent="1" para="1" offset="340" length="1"><![CDATA[.]]></wf>
+    <wf id="78" sent="1" para="1" offset="341" length="1"><![CDATA["]]></wf>
+    <wf id="79" sent="1" para="1" offset="342" length="4"><![CDATA[Most]]></wf>
+    <wf id="80" sent="1" para="1" offset="346" length="5"><![CDATA[bites]]></wf>
+    <wf id="81" sent="1" para="1" offset="351" length="3"><![CDATA[can]]></wf>
+    <wf id="82" sent="1" para="1" offset="354" length="2"><![CDATA[be]]></wf>
+    <wf id="83" sent="1" para="1" offset="356" length="9"><![CDATA[prevented]]></wf>
+    <wf id="84" sent="1" para="1" offset="365" length="2"><![CDATA[by]]></wf>
+    <wf id="85" sent="1" para="1" offset="367" length="8"><![CDATA[teaching]]></wf>
+    <wf id="86" sent="1" para="1" offset="375" length="8"><![CDATA[children]]></wf>
+    <wf id="87" sent="1" para="1" offset="383" length="3"><![CDATA[how]]></wf>
+    <wf id="88" sent="1" para="1" offset="386" length="2"><![CDATA[to]]></wf>
+    <wf id="89" sent="1" para="1" offset="388" length="7"><![CDATA[respect]]></wf>
+    <wf id="90" sent="1" para="1" offset="395" length="1"><![CDATA[a]]></wf>
+    <wf id="91" sent="1" para="1" offset="396" length="3"><![CDATA[dog]]></wf>
+    <wf id="92" sent="1" para="1" offset="399" length="1"><![CDATA[,]]></wf>
+    <wf id="93" sent="1" para="1" offset="400" length="1"><![CDATA["]]></wf>
+    <wf id="94" sent="1" para="1" offset="401" length="7"><![CDATA[Michael]]></wf>
+    <wf id="95" sent="1" para="1" offset="408" length="8"><![CDATA[Cornwell]]></wf>
+    <wf id="96" sent="1" para="1" offset="416" length="2"><![CDATA[of]]></wf>
+    <wf id="97" sent="1" para="1" offset="418" length="3"><![CDATA[the]]></wf>
+    <wf id="98" sent="1" para="1" offset="421" length="7"><![CDATA[Glencoe]]></wf>
+    <wf id="99" sent="1" para="1" offset="428" length="6"><![CDATA[Animal]]></wf>
+    <wf id="100" sent="1" para="1" offset="434" length="8"><![CDATA[Hospital]]></wf>
+    <wf id="101" sent="1" para="1" offset="442" length="2"><![CDATA[in]]></wf>
+    <wf id="102" sent="1" para="1" offset="444" length="8"><![CDATA[Columbus]]></wf>
+    <wf id="103" sent="1" para="1" offset="452" length="1"><![CDATA[,]]></wf>
+    <wf id="104" sent="1" para="1" offset="453" length="4"><![CDATA[Ohio]]></wf>
+    <wf id="105" sent="1" para="1" offset="457" length="1"><![CDATA[,]]></wf>
+    <wf id="106" sent="1" para="1" offset="458" length="4"><![CDATA[told]]></wf>
+    <wf id="107" sent="1" para="1" offset="462" length="3"><![CDATA[the]]></wf>
+    <wf id="108" sent="1" para="1" offset="465" length="6"><![CDATA[annual]]></wf>
+    <wf id="109" sent="1" para="1" offset="471" length="7"><![CDATA[meeting]]></wf>
+    <wf id="110" sent="1" para="1" offset="478" length="2"><![CDATA[of]]></wf>
+    <wf id="111" sent="1" para="1" offset="480" length="3"><![CDATA[the]]></wf>
+    <wf id="112" sent="1" para="1" offset="483" length="8"><![CDATA[American]]></wf>
+    <wf id="113" sent="1" para="1" offset="491" length="10"><![CDATA[Veterinary]]></wf>
+    <wf id="114" sent="1" para="1" offset="501" length="7"><![CDATA[Medical]]></wf>
+    <wf id="115" sent="1" para="1" offset="508" length="11"><![CDATA[Association]]></wf>
+    <wf id="116" sent="1" para="1" offset="519" length="1"><![CDATA[.]]></wf>
+    <wf id="117" sent="1" para="1" offset="520" length="1"><![CDATA["]]></wf>
+    <wf id="118" sent="1" para="1" offset="521" length="3"><![CDATA[Let]]></wf>
+    <wf id="119" sent="1" para="1" offset="524" length="2"><![CDATA['s]]></wf>
+    <wf id="120" sent="1" para="1" offset="526" length="3"><![CDATA[not]]></wf>
+    <wf id="121" sent="1" para="1" offset="529" length="3"><![CDATA[let]]></wf>
+    <wf id="122" sent="1" para="1" offset="532" length="3"><![CDATA[our]]></wf>
+    <wf id="123" sent="1" para="1" offset="535" length="4"><![CDATA[kids]]></wf>
+    <wf id="124" sent="1" para="1" offset="539" length="4"><![CDATA[jump]]></wf>
+    <wf id="125" sent="1" para="1" offset="543" length="2"><![CDATA[on]]></wf>
+    <wf id="126" sent="1" para="1" offset="545" length="4"><![CDATA[them]]></wf>
+    <wf id="127" sent="1" para="1" offset="549" length="2"><![CDATA[or]]></wf>
+    <wf id="128" sent="1" para="1" offset="551" length="5"><![CDATA[crawl]]></wf>
+    <wf id="129" sent="1" para="1" offset="556" length="2"><![CDATA[on]]></wf>
+    <wf id="130" sent="1" para="1" offset="558" length="4"><![CDATA[them]]></wf>
+    <wf id="131" sent="1" para="1" offset="562" length="1"><![CDATA[.]]></wf>
+    <wf id="132" sent="1" para="1" offset="563" length="4"><![CDATA[Dogs]]></wf>
+    <wf id="133" sent="1" para="1" offset="567" length="3"><![CDATA[and]]></wf>
+    <wf id="134" sent="1" para="1" offset="570" length="8"><![CDATA[children]]></wf>
+    <wf id="135" sent="1" para="1" offset="578" length="2"><![CDATA[do]]></wf>
+    <wf id="136" sent="1" para="1" offset="580" length="3"><![CDATA[n't]]></wf>
+    <wf id="137" sent="1" para="1" offset="583" length="4"><![CDATA[have]]></wf>
+    <wf id="138" sent="1" para="1" offset="587" length="2"><![CDATA[to]]></wf>
+    <wf id="139" sent="1" para="1" offset="589" length="4"><![CDATA[have]]></wf>
+    <wf id="140" sent="1" para="1" offset="593" length="2"><![CDATA[an]]></wf>
+    <wf id="141" sent="1" para="1" offset="595" length="11"><![CDATA[interaction]]></wf>
+    <wf id="142" sent="1" para="1" offset="606" length="1"><![CDATA[.]]></wf>
+    <wf id="143" sent="1" para="1" offset="607" length="3"><![CDATA[Let]]></wf>
+    <wf id="144" sent="1" para="1" offset="610" length="2"><![CDATA['s]]></wf>
+    <wf id="145" sent="1" para="1" offset="612" length="7"><![CDATA[respect]]></wf>
+    <wf id="146" sent="1" para="1" offset="619" length="5"><![CDATA[their]]></wf>
+    <wf id="147" sent="1" para="1" offset="624" length="11"><![CDATA[territories]]></wf>
+    <wf id="148" sent="1" para="1" offset="635" length="1"><![CDATA[,]]></wf>
+    <wf id="149" sent="1" para="1" offset="636" length="1"><![CDATA["]]></wf>
+    <wf id="150" sent="1" para="1" offset="637" length="2"><![CDATA[he]]></wf>
+    <wf id="151" sent="1" para="1" offset="639" length="4"><![CDATA[said]]></wf>
+    <wf id="152" sent="1" para="1" offset="643" length="1"><![CDATA[.]]></wf>
+    <wf id="153" sent="1" para="1" offset="644" length="8"><![CDATA[Cornwell]]></wf>
+    <wf id="154" sent="1" para="1" offset="652" length="4"><![CDATA[said]]></wf>
+    <wf id="155" sent="1" para="1" offset="656" length="2"><![CDATA[50]]></wf>
+    <wf id="156" sent="1" para="1" offset="658" length="7"><![CDATA[percent]]></wf>
+    <wf id="157" sent="1" para="1" offset="665" length="2"><![CDATA[of]]></wf>
+    <wf id="158" sent="1" para="1" offset="667" length="8"><![CDATA[reported]]></wf>
+    <wf id="159" sent="1" para="1" offset="675" length="5"><![CDATA[bites]]></wf>
+    <wf id="160" sent="1" para="1" offset="680" length="4"><![CDATA[were]]></wf>
+    <wf id="161" sent="1" para="1" offset="684" length="8"><![CDATA[provoked]]></wf>
+    <wf id="162" sent="1" para="1" offset="692" length="2"><![CDATA[by]]></wf>
+    <wf id="163" sent="1" para="1" offset="694" length="1"><![CDATA[a]]></wf>
+    <wf id="164" sent="1" para="1" offset="695" length="6"><![CDATA[person]]></wf>
+    <wf id="165" sent="1" para="1" offset="701" length="3"><![CDATA[and]]></wf>
+    <wf id="166" sent="1" para="1" offset="704" length="2"><![CDATA[60]]></wf>
+    <wf id="167" sent="1" para="1" offset="706" length="7"><![CDATA[percent]]></wf>
+    <wf id="168" sent="1" para="1" offset="713" length="4"><![CDATA[were]]></wf>
+    <wf id="169" sent="1" para="1" offset="717" length="8"><![CDATA[suffered]]></wf>
+    <wf id="170" sent="1" para="1" offset="725" length="2"><![CDATA[by]]></wf>
+    <wf id="171" sent="1" para="1" offset="727" length="8"><![CDATA[children]]></wf>
+    <wf id="172" sent="1" para="1" offset="735" length="1"><![CDATA[.]]></wf>
+    <wf id="173" sent="1" para="1" offset="736" length="2"><![CDATA[He]]></wf>
+    <wf id="174" sent="1" para="1" offset="738" length="4"><![CDATA[also]]></wf>
+    <wf id="175" sent="1" para="1" offset="742" length="9"><![CDATA[estimated]]></wf>
+    <wf id="176" sent="1" para="1" offset="751" length="4"><![CDATA[that]]></wf>
+    <wf id="177" sent="1" para="1" offset="755" length="4"><![CDATA[only]]></wf>
+    <wf id="178" sent="1" para="1" offset="759" length="2"><![CDATA[25]]></wf>
+    <wf id="179" sent="1" para="1" offset="761" length="7"><![CDATA[percent]]></wf>
+    <wf id="180" sent="1" para="1" offset="768" length="2"><![CDATA[of]]></wf>
+    <wf id="181" sent="1" para="1" offset="770" length="5"><![CDATA[bites]]></wf>
+    <wf id="182" sent="1" para="1" offset="775" length="4"><![CDATA[were]]></wf>
+    <wf id="183" sent="1" para="1" offset="779" length="8"><![CDATA[reported]]></wf>
+    <wf id="184" sent="1" para="1" offset="787" length="7"><![CDATA[because]]></wf>
+    <wf id="185" sent="1" para="1" offset="794" length="7"><![CDATA[medical]]></wf>
+    <wf id="186" sent="1" para="1" offset="801" length="9"><![CDATA[attention]]></wf>
+    <wf id="187" sent="1" para="1" offset="810" length="3"><![CDATA[was]]></wf>
+    <wf id="188" sent="1" para="1" offset="813" length="3"><![CDATA[not]]></wf>
+    <wf id="189" sent="1" para="1" offset="816" length="6"><![CDATA[needed]]></wf>
+    <wf id="190" sent="1" para="1" offset="822" length="1"><![CDATA[.]]></wf>
+    <wf id="191" sent="1" para="1" offset="823" length="3"><![CDATA[Don]]></wf>
+    <wf id="192" sent="1" para="1" offset="826" length="5"><![CDATA[Rieck]]></wf>
+    <wf id="193" sent="1" para="1" offset="831" length="1"><![CDATA[,]]></wf>
+    <wf id="194" sent="1" para="1" offset="832" length="9"><![CDATA[president]]></wf>
+    <wf id="195" sent="1" para="1" offset="841" length="2"><![CDATA[of]]></wf>
+    <wf id="196" sent="1" para="1" offset="843" length="3"><![CDATA[the]]></wf>
+    <wf id="197" sent="1" para="1" offset="846" length="8"><![CDATA[National]]></wf>
+    <wf id="198" sent="1" para="1" offset="854" length="6"><![CDATA[Animal]]></wf>
+    <wf id="199" sent="1" para="1" offset="860" length="7"><![CDATA[Control]]></wf>
+    <wf id="200" sent="1" para="1" offset="867" length="11"><![CDATA[Association]]></wf>
+    <wf id="201" sent="1" para="1" offset="878" length="1"><![CDATA[,]]></wf>
+    <wf id="202" sent="1" para="1" offset="879" length="4"><![CDATA[said]]></wf>
+    <wf id="203" sent="1" para="1" offset="883" length="14"><![CDATA[aggressiveness]]></wf>
+    <wf id="204" sent="1" para="1" offset="897" length="2"><![CDATA[in]]></wf>
+    <wf id="205" sent="1" para="1" offset="899" length="4"><![CDATA[dogs]]></wf>
+    <wf id="206" sent="1" para="1" offset="903" length="3"><![CDATA[was]]></wf>
+    <wf id="207" sent="1" para="1" offset="906" length="7"><![CDATA[related]]></wf>
+    <wf id="208" sent="1" para="1" offset="913" length="4"><![CDATA[more]]></wf>
+    <wf id="209" sent="1" para="1" offset="917" length="2"><![CDATA[to]]></wf>
+    <wf id="210" sent="1" para="1" offset="919" length="6"><![CDATA[gender]]></wf>
+    <wf id="211" sent="1" para="1" offset="925" length="4"><![CDATA[than]]></wf>
+    <wf id="212" sent="1" para="1" offset="929" length="5"><![CDATA[breed]]></wf>
+    <wf id="213" sent="1" para="1" offset="934" length="3"><![CDATA[and]]></wf>
+    <wf id="214" sent="1" para="1" offset="937" length="1"><![CDATA[a]]></wf>
+    <wf id="215" sent="1" para="1" offset="938" length="4"><![CDATA[male]]></wf>
+    <wf id="216" sent="1" para="1" offset="942" length="3"><![CDATA[dog]]></wf>
+    <wf id="217" sent="1" para="1" offset="945" length="4"><![CDATA[that]]></wf>
+    <wf id="218" sent="1" para="1" offset="949" length="3"><![CDATA[had]]></wf>
+    <wf id="219" sent="1" para="1" offset="952" length="3"><![CDATA[not]]></wf>
+    <wf id="220" sent="1" para="1" offset="955" length="4"><![CDATA[been]]></wf>
+    <wf id="221" sent="1" para="1" offset="959" length="8"><![CDATA[neutered]]></wf>
+    <wf id="222" sent="1" para="1" offset="967" length="3"><![CDATA[was]]></wf>
+    <wf id="223" sent="1" para="1" offset="970" length="5"><![CDATA[three]]></wf>
+    <wf id="224" sent="1" para="1" offset="975" length="5"><![CDATA[times]]></wf>
+    <wf id="225" sent="1" para="1" offset="980" length="4"><![CDATA[more]]></wf>
+    <wf id="226" sent="1" para="1" offset="984" length="6"><![CDATA[likely]]></wf>
+    <wf id="227" sent="1" para="1" offset="990" length="2"><![CDATA[to]]></wf>
+    <wf id="228" sent="1" para="1" offset="992" length="4"><![CDATA[bite]]></wf>
+    <wf id="229" sent="1" para="1" offset="996" length="4"><![CDATA[than]]></wf>
+    <wf id="230" sent="1" para="1" offset="1000" length="2"><![CDATA[an]]></wf>
+    <wf id="231" sent="1" para="1" offset="1002" length="8"><![CDATA[unspayed]]></wf>
+    <wf id="232" sent="1" para="1" offset="1010" length="6"><![CDATA[female]]></wf>
+    <wf id="233" sent="1" para="1" offset="1016" length="1"><![CDATA[.]]></wf>
+    <wf id="234" sent="1" para="1" offset="1017" length="3"><![CDATA[The]]></wf>
+    <wf id="235" sent="1" para="1" offset="1020" length="4"><![CDATA[five]]></wf>
+    <wf id="236" sent="1" para="1" offset="1024" length="6"><![CDATA[breeds]]></wf>
+    <wf id="237" sent="1" para="1" offset="1030" length="8"><![CDATA[credited]]></wf>
+    <wf id="238" sent="1" para="1" offset="1038" length="4"><![CDATA[with]]></wf>
+    <wf id="239" sent="1" para="1" offset="1042" length="3"><![CDATA[the]]></wf>
+    <wf id="240" sent="1" para="1" offset="1045" length="4"><![CDATA[most]]></wf>
+    <wf id="241" sent="1" para="1" offset="1049" length="9"><![CDATA[incidents]]></wf>
+    <wf id="242" sent="1" para="1" offset="1058" length="4"><![CDATA[were]]></wf>
+    <wf id="243" sent="1" para="1" offset="1062" length="4"><![CDATA[chow]]></wf>
+    <wf id="244" sent="1" para="1" offset="1066" length="5"><![CDATA[chows]]></wf>
+    <wf id="245" sent="1" para="1" offset="1071" length="1"><![CDATA[,]]></wf>
+    <wf id="246" sent="1" para="1" offset="1072" length="11"><![CDATA[Rottweilers]]></wf>
+    <wf id="247" sent="1" para="1" offset="1083" length="1"><![CDATA[,]]></wf>
+    <wf id="248" sent="1" para="1" offset="1084" length="6"><![CDATA[German]]></wf>
+    <wf id="249" sent="1" para="1" offset="1090" length="9"><![CDATA[shepherds]]></wf>
+    <wf id="250" sent="1" para="1" offset="1099" length="1"><![CDATA[,]]></wf>
+    <wf id="251" sent="1" para="1" offset="1100" length="6"><![CDATA[cocker]]></wf>
+    <wf id="252" sent="1" para="1" offset="1106" length="8"><![CDATA[spaniels]]></wf>
+    <wf id="253" sent="1" para="1" offset="1114" length="3"><![CDATA[and]]></wf>
+    <wf id="254" sent="1" para="1" offset="1117" length="10"><![CDATA[Dalmatians]]></wf>
+    <wf id="255" sent="1" para="1" offset="1127" length="1"><![CDATA[.]]></wf>
+    <wf id="256" sent="1" para="1" offset="1128" length="1"><![CDATA["]]></wf>
+    <wf id="257" sent="1" para="1" offset="1129" length="3"><![CDATA[The]]></wf>
+    <wf id="258" sent="1" para="1" offset="1132" length="6"><![CDATA[trends]]></wf>
+    <wf id="259" sent="1" para="1" offset="1138" length="2"><![CDATA[in]]></wf>
+    <wf id="260" sent="1" para="1" offset="1140" length="3"><![CDATA[dog]]></wf>
+    <wf id="261" sent="1" para="1" offset="1143" length="5"><![CDATA[bites]]></wf>
+    <wf id="262" sent="1" para="1" offset="1148" length="2"><![CDATA[by]]></wf>
+    <wf id="263" sent="1" para="1" offset="1150" length="10"><![CDATA[particular]]></wf>
+    <wf id="264" sent="1" para="1" offset="1160" length="6"><![CDATA[breeds]]></wf>
+    <wf id="265" sent="1" para="1" offset="1166" length="4"><![CDATA[have]]></wf>
+    <wf id="266" sent="1" para="1" offset="1170" length="4"><![CDATA[more]]></wf>
+    <wf id="267" sent="1" para="1" offset="1174" length="2"><![CDATA[to]]></wf>
+    <wf id="268" sent="1" para="1" offset="1176" length="2"><![CDATA[do]]></wf>
+    <wf id="269" sent="1" para="1" offset="1178" length="4"><![CDATA[with]]></wf>
+    <wf id="270" sent="1" para="1" offset="1182" length="3"><![CDATA[fad]]></wf>
+    <wf id="271" sent="1" para="1" offset="1185" length="4"><![CDATA[pets]]></wf>
+    <wf id="272" sent="1" para="1" offset="1189" length="5"><![CDATA[owned]]></wf>
+    <wf id="273" sent="1" para="1" offset="1194" length="2"><![CDATA[by]]></wf>
+    <wf id="274" sent="1" para="1" offset="1196" length="11"><![CDATA[individuals]]></wf>
+    <wf id="275" sent="1" para="1" offset="1207" length="3"><![CDATA[who]]></wf>
+    <wf id="276" sent="1" para="1" offset="1210" length="4"><![CDATA[need]]></wf>
+    <wf id="277" sent="1" para="1" offset="1214" length="2"><![CDATA[to]]></wf>
+    <wf id="278" sent="1" para="1" offset="1216" length="4"><![CDATA[have]]></wf>
+    <wf id="279" sent="1" para="1" offset="1220" length="9"><![CDATA[something]]></wf>
+    <wf id="280" sent="1" para="1" offset="1229" length="6"><![CDATA[unique]]></wf>
+    <wf id="281" sent="1" para="1" offset="1235" length="1"><![CDATA[.]]></wf>
+    <wf id="282" sent="1" para="1" offset="1236" length="8"><![CDATA[Speaking]]></wf>
+    <wf id="283" sent="1" para="1" offset="1244" length="8"><![CDATA[strictly]]></wf>
+    <wf id="284" sent="1" para="1" offset="1252" length="2"><![CDATA[of]]></wf>
+    <wf id="285" sent="1" para="1" offset="1254" length="4"><![CDATA[dogs]]></wf>
+    <wf id="286" sent="1" para="1" offset="1258" length="1"><![CDATA[,]]></wf>
+    <wf id="287" sent="1" para="1" offset="1259" length="2"><![CDATA[15]]></wf>
+    <wf id="288" sent="1" para="1" offset="1261" length="5"><![CDATA[years]]></wf>
+    <wf id="289" sent="1" para="1" offset="1266" length="3"><![CDATA[ago]]></wf>
+    <wf id="290" sent="1" para="1" offset="1269" length="3"><![CDATA[the]]></wf>
+    <wf id="291" sent="1" para="1" offset="1272" length="5"><![CDATA[macho]]></wf>
+    <wf id="292" sent="1" para="1" offset="1277" length="3"><![CDATA[fad]]></wf>
+    <wf id="293" sent="1" para="1" offset="1280" length="3"><![CDATA[pet]]></wf>
+    <wf id="294" sent="1" para="1" offset="1283" length="3"><![CDATA[was]]></wf>
+    <wf id="295" sent="1" para="1" offset="1286" length="1"><![CDATA[a]]></wf>
+    <wf id="296" sent="1" para="1" offset="1287" length="8"><![CDATA[Doberman]]></wf>
+    <wf id="297" sent="1" para="1" offset="1295" length="1"><![CDATA[.]]></wf>
+    <wf id="298" sent="1" para="1" offset="1296" length="5"><![CDATA[Today]]></wf>
+    <wf id="299" sent="1" para="1" offset="1301" length="1"><![CDATA[,]]></wf>
+    <wf id="300" sent="1" para="1" offset="1302" length="11"><![CDATA[Rottweilers]]></wf>
+    <wf id="301" sent="1" para="1" offset="1313" length="3"><![CDATA[are]]></wf>
+    <wf id="302" sent="1" para="1" offset="1316" length="2"><![CDATA[on]]></wf>
+    <wf id="303" sent="1" para="1" offset="1318" length="3"><![CDATA[the]]></wf>
+    <wf id="304" sent="1" para="1" offset="1321" length="3"><![CDATA[way]]></wf>
+    <wf id="305" sent="1" para="1" offset="1324" length="2"><![CDATA[up]]></wf>
+    <wf id="306" sent="1" para="1" offset="1326" length="1"><![CDATA[,]]></wf>
+    <wf id="307" sent="1" para="1" offset="1327" length="1"><![CDATA["]]></wf>
+    <wf id="308" sent="1" para="1" offset="1328" length="5"><![CDATA[Rieck]]></wf>
+    <wf id="309" sent="1" para="1" offset="1333" length="4"><![CDATA[said]]></wf>
+    <wf id="310" sent="1" para="1" offset="1337" length="1"><![CDATA[.]]></wf>
+    <wf id="311" sent="1" para="1" offset="1338" length="2"><![CDATA[If]]></wf>
+    <wf id="312" sent="1" para="1" offset="1340" length="10"><![CDATA[approached]]></wf>
+    <wf id="313" sent="1" para="1" offset="1350" length="2"><![CDATA[by]]></wf>
+    <wf id="314" sent="1" para="1" offset="1352" length="1"><![CDATA[a]]></wf>
+    <wf id="315" sent="1" para="1" offset="1353" length="5"><![CDATA[stray]]></wf>
+    <wf id="316" sent="1" para="1" offset="1358" length="3"><![CDATA[dog]]></wf>
+    <wf id="317" sent="1" para="1" offset="1361" length="1"><![CDATA[,]]></wf>
+    <wf id="318" sent="1" para="1" offset="1362" length="8"><![CDATA[children]]></wf>
+    <wf id="319" sent="1" para="1" offset="1370" length="6"><![CDATA[should]]></wf>
+    <wf id="320" sent="1" para="1" offset="1376" length="2"><![CDATA[be]]></wf>
+    <wf id="321" sent="1" para="1" offset="1378" length="6"><![CDATA[taught]]></wf>
+    <wf id="322" sent="1" para="1" offset="1384" length="2"><![CDATA[to]]></wf>
+    <wf id="323" sent="1" para="1" offset="1386" length="5"><![CDATA[stand]]></wf>
+    <wf id="324" sent="1" para="1" offset="1391" length="5"><![CDATA[still]]></wf>
+    <wf id="325" sent="1" para="1" offset="1396" length="4"><![CDATA[with]]></wf>
+    <wf id="326" sent="1" para="1" offset="1400" length="5"><![CDATA[fists]]></wf>
+    <wf id="327" sent="1" para="1" offset="1405" length="6"><![CDATA[folded]]></wf>
+    <wf id="328" sent="1" para="1" offset="1411" length="10"><![CDATA[underneath]]></wf>
+    <wf id="329" sent="1" para="1" offset="1421" length="3"><![CDATA[the]]></wf>
+    <wf id="330" sent="1" para="1" offset="1424" length="4"><![CDATA[neck]]></wf>
+    <wf id="331" sent="1" para="1" offset="1428" length="1"><![CDATA[,]]></wf>
+    <wf id="332" sent="1" para="1" offset="1429" length="6"><![CDATA[elbows]]></wf>
+    <wf id="333" sent="1" para="1" offset="1435" length="2"><![CDATA[in]]></wf>
+    <wf id="334" sent="1" para="1" offset="1437" length="1"><![CDATA[,]]></wf>
+    <wf id="335" sent="1" para="1" offset="1438" length="3"><![CDATA[and]]></wf>
+    <wf id="336" sent="1" para="1" offset="1441" length="4"><![CDATA[gaze]]></wf>
+    <wf id="337" sent="1" para="1" offset="1445" length="7"><![CDATA[forward]]></wf>
+    <wf id="338" sent="1" para="1" offset="1452" length="5"><![CDATA[until]]></wf>
+    <wf id="339" sent="1" para="1" offset="1457" length="3"><![CDATA[the]]></wf>
+    <wf id="340" sent="1" para="1" offset="1460" length="3"><![CDATA[dog]]></wf>
+    <wf id="341" sent="1" para="1" offset="1463" length="4"><![CDATA[goes]]></wf>
+    <wf id="342" sent="1" para="1" offset="1467" length="4"><![CDATA[away]]></wf>
+    <wf id="343" sent="1" para="1" offset="1471" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="Half">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="of">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="dog">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="bites">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="provoked">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma=",">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="says">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="American">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="vet">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma=".">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="CHICAGO">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="1996-12-06">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="As">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="many">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="as">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="1">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="million">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="dog">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="bites">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="are">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="recorded">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="in">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="the">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="United">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="States">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="every">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="year">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="and">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="half">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="of">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="them">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="are">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="provoked">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="by">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="humans">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma=",">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="a">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="veterinarian">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="told">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="fellow">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="animal">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="doctors">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="on">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="Friday">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma=".">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="The">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="Humane">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="Society">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="of">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="the">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="United">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="States">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="estimates">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="that">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="between">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="500,000">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="and">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="one">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="million">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="bites">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="are">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="delivered">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="by">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="dogs">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="each">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="year">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma=",">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="more">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="than">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="half">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="of">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="which">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="are">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="suffered">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="by">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="children">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma=".">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="&quot;">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="Most">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="bites">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="can">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="be">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="prevented">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="by">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="teaching">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="children">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="how">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="to">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="respect">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="a">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="dog">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma=",">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="&quot;">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="Michael">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="Cornwell">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="of">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="the">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="Glencoe">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="Animal">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="Hospital">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="in">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="Columbus">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma=",">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="Ohio">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma=",">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="told">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="the">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="annual">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="meeting">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="of">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="the">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="American">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="Veterinary">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="Medical">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="Association">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma=".">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="&quot;">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="Let">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="'s">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="not">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="let">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="our">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="kids">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="jump">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="on">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="them">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="or">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="crawl">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="on">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="them">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma=".">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="Dogs">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="and">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="children">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="do">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="n't">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="have">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="to">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="have">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="an">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="interaction">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma=".">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="Let">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="'s">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="respect">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="their">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="territories">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma=",">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="&quot;">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="he">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="said">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma=".">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma="Cornwell">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="said">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="50">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="percent">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="of">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="reported">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="bites">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="were">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="provoked">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="by">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="a">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="person">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="and">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="60">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="percent">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="were">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="suffered">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="by">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="children">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma=".">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="He">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="also">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma="estimated">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="that">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma="only">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="25">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="percent">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="of">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="bites">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="were">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="reported">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma="because">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="medical">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma="attention">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="was">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma="not">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="needed">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma=".">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma="Don">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="Rieck">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma=",">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma="president">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma="of">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma="the">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="National">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma="Animal">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma="Control">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma="Association">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+    <term id="201" lemma=",">
+      <span>
+        <target id="201"/>
+      </span>
+    </term>
+    <term id="202" lemma="said">
+      <span>
+        <target id="202"/>
+      </span>
+    </term>
+    <term id="203" lemma="aggressiveness">
+      <span>
+        <target id="203"/>
+      </span>
+    </term>
+    <term id="204" lemma="in">
+      <span>
+        <target id="204"/>
+      </span>
+    </term>
+    <term id="205" lemma="dogs">
+      <span>
+        <target id="205"/>
+      </span>
+    </term>
+    <term id="206" lemma="was">
+      <span>
+        <target id="206"/>
+      </span>
+    </term>
+    <term id="207" lemma="related">
+      <span>
+        <target id="207"/>
+      </span>
+    </term>
+    <term id="208" lemma="more">
+      <span>
+        <target id="208"/>
+      </span>
+    </term>
+    <term id="209" lemma="to">
+      <span>
+        <target id="209"/>
+      </span>
+    </term>
+    <term id="210" lemma="gender">
+      <span>
+        <target id="210"/>
+      </span>
+    </term>
+    <term id="211" lemma="than">
+      <span>
+        <target id="211"/>
+      </span>
+    </term>
+    <term id="212" lemma="breed">
+      <span>
+        <target id="212"/>
+      </span>
+    </term>
+    <term id="213" lemma="and">
+      <span>
+        <target id="213"/>
+      </span>
+    </term>
+    <term id="214" lemma="a">
+      <span>
+        <target id="214"/>
+      </span>
+    </term>
+    <term id="215" lemma="male">
+      <span>
+        <target id="215"/>
+      </span>
+    </term>
+    <term id="216" lemma="dog">
+      <span>
+        <target id="216"/>
+      </span>
+    </term>
+    <term id="217" lemma="that">
+      <span>
+        <target id="217"/>
+      </span>
+    </term>
+    <term id="218" lemma="had">
+      <span>
+        <target id="218"/>
+      </span>
+    </term>
+    <term id="219" lemma="not">
+      <span>
+        <target id="219"/>
+      </span>
+    </term>
+    <term id="220" lemma="been">
+      <span>
+        <target id="220"/>
+      </span>
+    </term>
+    <term id="221" lemma="neutered">
+      <span>
+        <target id="221"/>
+      </span>
+    </term>
+    <term id="222" lemma="was">
+      <span>
+        <target id="222"/>
+      </span>
+    </term>
+    <term id="223" lemma="three">
+      <span>
+        <target id="223"/>
+      </span>
+    </term>
+    <term id="224" lemma="times">
+      <span>
+        <target id="224"/>
+      </span>
+    </term>
+    <term id="225" lemma="more">
+      <span>
+        <target id="225"/>
+      </span>
+    </term>
+    <term id="226" lemma="likely">
+      <span>
+        <target id="226"/>
+      </span>
+    </term>
+    <term id="227" lemma="to">
+      <span>
+        <target id="227"/>
+      </span>
+    </term>
+    <term id="228" lemma="bite">
+      <span>
+        <target id="228"/>
+      </span>
+    </term>
+    <term id="229" lemma="than">
+      <span>
+        <target id="229"/>
+      </span>
+    </term>
+    <term id="230" lemma="an">
+      <span>
+        <target id="230"/>
+      </span>
+    </term>
+    <term id="231" lemma="unspayed">
+      <span>
+        <target id="231"/>
+      </span>
+    </term>
+    <term id="232" lemma="female">
+      <span>
+        <target id="232"/>
+      </span>
+    </term>
+    <term id="233" lemma=".">
+      <span>
+        <target id="233"/>
+      </span>
+    </term>
+    <term id="234" lemma="The">
+      <span>
+        <target id="234"/>
+      </span>
+    </term>
+    <term id="235" lemma="five">
+      <span>
+        <target id="235"/>
+      </span>
+    </term>
+    <term id="236" lemma="breeds">
+      <span>
+        <target id="236"/>
+      </span>
+    </term>
+    <term id="237" lemma="credited">
+      <span>
+        <target id="237"/>
+      </span>
+    </term>
+    <term id="238" lemma="with">
+      <span>
+        <target id="238"/>
+      </span>
+    </term>
+    <term id="239" lemma="the">
+      <span>
+        <target id="239"/>
+      </span>
+    </term>
+    <term id="240" lemma="most">
+      <span>
+        <target id="240"/>
+      </span>
+    </term>
+    <term id="241" lemma="incidents">
+      <span>
+        <target id="241"/>
+      </span>
+    </term>
+    <term id="242" lemma="were">
+      <span>
+        <target id="242"/>
+      </span>
+    </term>
+    <term id="243" lemma="chow">
+      <span>
+        <target id="243"/>
+      </span>
+    </term>
+    <term id="244" lemma="chows">
+      <span>
+        <target id="244"/>
+      </span>
+    </term>
+    <term id="245" lemma=",">
+      <span>
+        <target id="245"/>
+      </span>
+    </term>
+    <term id="246" lemma="Rottweilers">
+      <span>
+        <target id="246"/>
+      </span>
+    </term>
+    <term id="247" lemma=",">
+      <span>
+        <target id="247"/>
+      </span>
+    </term>
+    <term id="248" lemma="German">
+      <span>
+        <target id="248"/>
+      </span>
+    </term>
+    <term id="249" lemma="shepherds">
+      <span>
+        <target id="249"/>
+      </span>
+    </term>
+    <term id="250" lemma=",">
+      <span>
+        <target id="250"/>
+      </span>
+    </term>
+    <term id="251" lemma="cocker">
+      <span>
+        <target id="251"/>
+      </span>
+    </term>
+    <term id="252" lemma="spaniels">
+      <span>
+        <target id="252"/>
+      </span>
+    </term>
+    <term id="253" lemma="and">
+      <span>
+        <target id="253"/>
+      </span>
+    </term>
+    <term id="254" lemma="Dalmatians">
+      <span>
+        <target id="254"/>
+      </span>
+    </term>
+    <term id="255" lemma=".">
+      <span>
+        <target id="255"/>
+      </span>
+    </term>
+    <term id="256" lemma="&quot;">
+      <span>
+        <target id="256"/>
+      </span>
+    </term>
+    <term id="257" lemma="The">
+      <span>
+        <target id="257"/>
+      </span>
+    </term>
+    <term id="258" lemma="trends">
+      <span>
+        <target id="258"/>
+      </span>
+    </term>
+    <term id="259" lemma="in">
+      <span>
+        <target id="259"/>
+      </span>
+    </term>
+    <term id="260" lemma="dog">
+      <span>
+        <target id="260"/>
+      </span>
+    </term>
+    <term id="261" lemma="bites">
+      <span>
+        <target id="261"/>
+      </span>
+    </term>
+    <term id="262" lemma="by">
+      <span>
+        <target id="262"/>
+      </span>
+    </term>
+    <term id="263" lemma="particular">
+      <span>
+        <target id="263"/>
+      </span>
+    </term>
+    <term id="264" lemma="breeds">
+      <span>
+        <target id="264"/>
+      </span>
+    </term>
+    <term id="265" lemma="have">
+      <span>
+        <target id="265"/>
+      </span>
+    </term>
+    <term id="266" lemma="more">
+      <span>
+        <target id="266"/>
+      </span>
+    </term>
+    <term id="267" lemma="to">
+      <span>
+        <target id="267"/>
+      </span>
+    </term>
+    <term id="268" lemma="do">
+      <span>
+        <target id="268"/>
+      </span>
+    </term>
+    <term id="269" lemma="with">
+      <span>
+        <target id="269"/>
+      </span>
+    </term>
+    <term id="270" lemma="fad">
+      <span>
+        <target id="270"/>
+      </span>
+    </term>
+    <term id="271" lemma="pets">
+      <span>
+        <target id="271"/>
+      </span>
+    </term>
+    <term id="272" lemma="owned">
+      <span>
+        <target id="272"/>
+      </span>
+    </term>
+    <term id="273" lemma="by">
+      <span>
+        <target id="273"/>
+      </span>
+    </term>
+    <term id="274" lemma="individuals">
+      <span>
+        <target id="274"/>
+      </span>
+    </term>
+    <term id="275" lemma="who">
+      <span>
+        <target id="275"/>
+      </span>
+    </term>
+    <term id="276" lemma="need">
+      <span>
+        <target id="276"/>
+      </span>
+    </term>
+    <term id="277" lemma="to">
+      <span>
+        <target id="277"/>
+      </span>
+    </term>
+    <term id="278" lemma="have">
+      <span>
+        <target id="278"/>
+      </span>
+    </term>
+    <term id="279" lemma="something">
+      <span>
+        <target id="279"/>
+      </span>
+    </term>
+    <term id="280" lemma="unique">
+      <span>
+        <target id="280"/>
+      </span>
+    </term>
+    <term id="281" lemma=".">
+      <span>
+        <target id="281"/>
+      </span>
+    </term>
+    <term id="282" lemma="Speaking">
+      <span>
+        <target id="282"/>
+      </span>
+    </term>
+    <term id="283" lemma="strictly">
+      <span>
+        <target id="283"/>
+      </span>
+    </term>
+    <term id="284" lemma="of">
+      <span>
+        <target id="284"/>
+      </span>
+    </term>
+    <term id="285" lemma="dogs">
+      <span>
+        <target id="285"/>
+      </span>
+    </term>
+    <term id="286" lemma=",">
+      <span>
+        <target id="286"/>
+      </span>
+    </term>
+    <term id="287" lemma="15">
+      <span>
+        <target id="287"/>
+      </span>
+    </term>
+    <term id="288" lemma="years">
+      <span>
+        <target id="288"/>
+      </span>
+    </term>
+    <term id="289" lemma="ago">
+      <span>
+        <target id="289"/>
+      </span>
+    </term>
+    <term id="290" lemma="the">
+      <span>
+        <target id="290"/>
+      </span>
+    </term>
+    <term id="291" lemma="macho">
+      <span>
+        <target id="291"/>
+      </span>
+    </term>
+    <term id="292" lemma="fad">
+      <span>
+        <target id="292"/>
+      </span>
+    </term>
+    <term id="293" lemma="pet">
+      <span>
+        <target id="293"/>
+      </span>
+    </term>
+    <term id="294" lemma="was">
+      <span>
+        <target id="294"/>
+      </span>
+    </term>
+    <term id="295" lemma="a">
+      <span>
+        <target id="295"/>
+      </span>
+    </term>
+    <term id="296" lemma="Doberman">
+      <span>
+        <target id="296"/>
+      </span>
+    </term>
+    <term id="297" lemma=".">
+      <span>
+        <target id="297"/>
+      </span>
+    </term>
+    <term id="298" lemma="Today">
+      <span>
+        <target id="298"/>
+      </span>
+    </term>
+    <term id="299" lemma=",">
+      <span>
+        <target id="299"/>
+      </span>
+    </term>
+    <term id="300" lemma="Rottweilers">
+      <span>
+        <target id="300"/>
+      </span>
+    </term>
+    <term id="301" lemma="are">
+      <span>
+        <target id="301"/>
+      </span>
+    </term>
+    <term id="302" lemma="on">
+      <span>
+        <target id="302"/>
+      </span>
+    </term>
+    <term id="303" lemma="the">
+      <span>
+        <target id="303"/>
+      </span>
+    </term>
+    <term id="304" lemma="way">
+      <span>
+        <target id="304"/>
+      </span>
+    </term>
+    <term id="305" lemma="up">
+      <span>
+        <target id="305"/>
+      </span>
+    </term>
+    <term id="306" lemma=",">
+      <span>
+        <target id="306"/>
+      </span>
+    </term>
+    <term id="307" lemma="&quot;">
+      <span>
+        <target id="307"/>
+      </span>
+    </term>
+    <term id="308" lemma="Rieck">
+      <span>
+        <target id="308"/>
+      </span>
+    </term>
+    <term id="309" lemma="said">
+      <span>
+        <target id="309"/>
+      </span>
+    </term>
+    <term id="310" lemma=".">
+      <span>
+        <target id="310"/>
+      </span>
+    </term>
+    <term id="311" lemma="If">
+      <span>
+        <target id="311"/>
+      </span>
+    </term>
+    <term id="312" lemma="approached">
+      <span>
+        <target id="312"/>
+      </span>
+    </term>
+    <term id="313" lemma="by">
+      <span>
+        <target id="313"/>
+      </span>
+    </term>
+    <term id="314" lemma="a">
+      <span>
+        <target id="314"/>
+      </span>
+    </term>
+    <term id="315" lemma="stray">
+      <span>
+        <target id="315"/>
+      </span>
+    </term>
+    <term id="316" lemma="dog">
+      <span>
+        <target id="316"/>
+      </span>
+    </term>
+    <term id="317" lemma=",">
+      <span>
+        <target id="317"/>
+      </span>
+    </term>
+    <term id="318" lemma="children">
+      <span>
+        <target id="318"/>
+      </span>
+    </term>
+    <term id="319" lemma="should">
+      <span>
+        <target id="319"/>
+      </span>
+    </term>
+    <term id="320" lemma="be">
+      <span>
+        <target id="320"/>
+      </span>
+    </term>
+    <term id="321" lemma="taught">
+      <span>
+        <target id="321"/>
+      </span>
+    </term>
+    <term id="322" lemma="to">
+      <span>
+        <target id="322"/>
+      </span>
+    </term>
+    <term id="323" lemma="stand">
+      <span>
+        <target id="323"/>
+      </span>
+    </term>
+    <term id="324" lemma="still">
+      <span>
+        <target id="324"/>
+      </span>
+    </term>
+    <term id="325" lemma="with">
+      <span>
+        <target id="325"/>
+      </span>
+    </term>
+    <term id="326" lemma="fists">
+      <span>
+        <target id="326"/>
+      </span>
+    </term>
+    <term id="327" lemma="folded">
+      <span>
+        <target id="327"/>
+      </span>
+    </term>
+    <term id="328" lemma="underneath">
+      <span>
+        <target id="328"/>
+      </span>
+    </term>
+    <term id="329" lemma="the">
+      <span>
+        <target id="329"/>
+      </span>
+    </term>
+    <term id="330" lemma="neck">
+      <span>
+        <target id="330"/>
+      </span>
+    </term>
+    <term id="331" lemma=",">
+      <span>
+        <target id="331"/>
+      </span>
+    </term>
+    <term id="332" lemma="elbows">
+      <span>
+        <target id="332"/>
+      </span>
+    </term>
+    <term id="333" lemma="in">
+      <span>
+        <target id="333"/>
+      </span>
+    </term>
+    <term id="334" lemma=",">
+      <span>
+        <target id="334"/>
+      </span>
+    </term>
+    <term id="335" lemma="and">
+      <span>
+        <target id="335"/>
+      </span>
+    </term>
+    <term id="336" lemma="gaze">
+      <span>
+        <target id="336"/>
+      </span>
+    </term>
+    <term id="337" lemma="forward">
+      <span>
+        <target id="337"/>
+      </span>
+    </term>
+    <term id="338" lemma="until">
+      <span>
+        <target id="338"/>
+      </span>
+    </term>
+    <term id="339" lemma="the">
+      <span>
+        <target id="339"/>
+      </span>
+    </term>
+    <term id="340" lemma="dog">
+      <span>
+        <target id="340"/>
+      </span>
+    </term>
+    <term id="341" lemma="goes">
+      <span>
+        <target id="341"/>
+      </span>
+    </term>
+    <term id="342" lemma="away">
+      <span>
+        <target id="342"/>
+      </span>
+    </term>
+    <term id="343" lemma=".">
+      <span>
+        <target id="343"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="2958">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="8"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2959">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chicago" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2960">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="24"/>
+          <target id="25"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2961">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="51"/>
+          <target id="52"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2962">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="94"/>
+          <target id="95"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2963">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="98"/>
+          <target id="99"/>
+          <target id="100"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2964">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Columbus,_Ohio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="102"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2965">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ohio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="104"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2966">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/American_Veterinary_Medical_Association" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="112"/>
+          <target id="113"/>
+          <target id="114"/>
+          <target id="115"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2967">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="153"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2968">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="191"/>
+          <target id="192"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2969">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="197"/>
+          <target id="198"/>
+          <target id="199"/>
+          <target id="200"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2970">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="246"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2971">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/German_Shepherd_Dog" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="248"/>
+          <target id="249"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2972">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Cocker_Spaniel" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="251"/>
+          <target id="252"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2973">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dalmatian_(dog)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="254"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2974">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Doberman_Pinscher" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="296"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2975">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="300"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2976">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="308"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

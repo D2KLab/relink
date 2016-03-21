@@ -1,0 +1,1040 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[SOCCER - LEADING SCOTTISH PREMIER DIVISION SCORERS . GLASGOW 1996-12-07 Leading goalscorers in the Scottish premier division after Saturday 's matches : 10 - Billy Dodds ( Aberdeen ) , Pierre Van Hooydonk ( Celtic ) 9 - Paul Gascoigne ( Rangers ) 7 - Paul Wright ( Kilmarnock ) , Ally McCoist ( Rangers ) 6 - Andreas Thom ( Celtic ) , Dean Windass ( Aberdeen ) , Brian Laudrup ( Rangers ) , Darren Jackson ( Hibernian ) 5 - Peter van Vossen ( Rangers ) , Gerry Britton ( Dunfermline ) , Colin Cameron ( Hearts ) , Robert Winters ( Dundee United ) , Paolo Di Canio ( Celtic ) . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1362testb" filename="1362testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="6"><![CDATA[SOCCER]]></wf>
+    <wf id="2" sent="1" para="1" offset="6" length="1"><![CDATA[-]]></wf>
+    <wf id="3" sent="1" para="1" offset="7" length="7"><![CDATA[LEADING]]></wf>
+    <wf id="4" sent="1" para="1" offset="14" length="8"><![CDATA[SCOTTISH]]></wf>
+    <wf id="5" sent="1" para="1" offset="22" length="7"><![CDATA[PREMIER]]></wf>
+    <wf id="6" sent="1" para="1" offset="29" length="8"><![CDATA[DIVISION]]></wf>
+    <wf id="7" sent="1" para="1" offset="37" length="7"><![CDATA[SCORERS]]></wf>
+    <wf id="8" sent="1" para="1" offset="44" length="1"><![CDATA[.]]></wf>
+    <wf id="9" sent="1" para="1" offset="45" length="7"><![CDATA[GLASGOW]]></wf>
+    <wf id="10" sent="1" para="1" offset="52" length="10"><![CDATA[1996-12-07]]></wf>
+    <wf id="11" sent="1" para="1" offset="62" length="7"><![CDATA[Leading]]></wf>
+    <wf id="12" sent="1" para="1" offset="69" length="11"><![CDATA[goalscorers]]></wf>
+    <wf id="13" sent="1" para="1" offset="80" length="2"><![CDATA[in]]></wf>
+    <wf id="14" sent="1" para="1" offset="82" length="3"><![CDATA[the]]></wf>
+    <wf id="15" sent="1" para="1" offset="85" length="8"><![CDATA[Scottish]]></wf>
+    <wf id="16" sent="1" para="1" offset="93" length="7"><![CDATA[premier]]></wf>
+    <wf id="17" sent="1" para="1" offset="100" length="8"><![CDATA[division]]></wf>
+    <wf id="18" sent="1" para="1" offset="108" length="5"><![CDATA[after]]></wf>
+    <wf id="19" sent="1" para="1" offset="113" length="8"><![CDATA[Saturday]]></wf>
+    <wf id="20" sent="1" para="1" offset="121" length="2"><![CDATA['s]]></wf>
+    <wf id="21" sent="1" para="1" offset="123" length="7"><![CDATA[matches]]></wf>
+    <wf id="22" sent="1" para="1" offset="130" length="1"><![CDATA[:]]></wf>
+    <wf id="23" sent="1" para="1" offset="131" length="2"><![CDATA[10]]></wf>
+    <wf id="24" sent="1" para="1" offset="133" length="1"><![CDATA[-]]></wf>
+    <wf id="25" sent="1" para="1" offset="134" length="5"><![CDATA[Billy]]></wf>
+    <wf id="26" sent="1" para="1" offset="139" length="5"><![CDATA[Dodds]]></wf>
+    <wf id="27" sent="1" para="1" offset="144" length="1"><![CDATA[(]]></wf>
+    <wf id="28" sent="1" para="1" offset="145" length="8"><![CDATA[Aberdeen]]></wf>
+    <wf id="29" sent="1" para="1" offset="153" length="1"><![CDATA[)]]></wf>
+    <wf id="30" sent="1" para="1" offset="154" length="1"><![CDATA[,]]></wf>
+    <wf id="31" sent="1" para="1" offset="155" length="6"><![CDATA[Pierre]]></wf>
+    <wf id="32" sent="1" para="1" offset="161" length="3"><![CDATA[Van]]></wf>
+    <wf id="33" sent="1" para="1" offset="164" length="8"><![CDATA[Hooydonk]]></wf>
+    <wf id="34" sent="1" para="1" offset="172" length="1"><![CDATA[(]]></wf>
+    <wf id="35" sent="1" para="1" offset="173" length="6"><![CDATA[Celtic]]></wf>
+    <wf id="36" sent="1" para="1" offset="179" length="1"><![CDATA[)]]></wf>
+    <wf id="37" sent="1" para="1" offset="180" length="1"><![CDATA[9]]></wf>
+    <wf id="38" sent="1" para="1" offset="181" length="1"><![CDATA[-]]></wf>
+    <wf id="39" sent="1" para="1" offset="182" length="4"><![CDATA[Paul]]></wf>
+    <wf id="40" sent="1" para="1" offset="186" length="9"><![CDATA[Gascoigne]]></wf>
+    <wf id="41" sent="1" para="1" offset="195" length="1"><![CDATA[(]]></wf>
+    <wf id="42" sent="1" para="1" offset="196" length="7"><![CDATA[Rangers]]></wf>
+    <wf id="43" sent="1" para="1" offset="203" length="1"><![CDATA[)]]></wf>
+    <wf id="44" sent="1" para="1" offset="204" length="1"><![CDATA[7]]></wf>
+    <wf id="45" sent="1" para="1" offset="205" length="1"><![CDATA[-]]></wf>
+    <wf id="46" sent="1" para="1" offset="206" length="4"><![CDATA[Paul]]></wf>
+    <wf id="47" sent="1" para="1" offset="210" length="6"><![CDATA[Wright]]></wf>
+    <wf id="48" sent="1" para="1" offset="216" length="1"><![CDATA[(]]></wf>
+    <wf id="49" sent="1" para="1" offset="217" length="10"><![CDATA[Kilmarnock]]></wf>
+    <wf id="50" sent="1" para="1" offset="227" length="1"><![CDATA[)]]></wf>
+    <wf id="51" sent="1" para="1" offset="228" length="1"><![CDATA[,]]></wf>
+    <wf id="52" sent="1" para="1" offset="229" length="4"><![CDATA[Ally]]></wf>
+    <wf id="53" sent="1" para="1" offset="233" length="7"><![CDATA[McCoist]]></wf>
+    <wf id="54" sent="1" para="1" offset="240" length="1"><![CDATA[(]]></wf>
+    <wf id="55" sent="1" para="1" offset="241" length="7"><![CDATA[Rangers]]></wf>
+    <wf id="56" sent="1" para="1" offset="248" length="1"><![CDATA[)]]></wf>
+    <wf id="57" sent="1" para="1" offset="249" length="1"><![CDATA[6]]></wf>
+    <wf id="58" sent="1" para="1" offset="250" length="1"><![CDATA[-]]></wf>
+    <wf id="59" sent="1" para="1" offset="251" length="7"><![CDATA[Andreas]]></wf>
+    <wf id="60" sent="1" para="1" offset="258" length="4"><![CDATA[Thom]]></wf>
+    <wf id="61" sent="1" para="1" offset="262" length="1"><![CDATA[(]]></wf>
+    <wf id="62" sent="1" para="1" offset="263" length="6"><![CDATA[Celtic]]></wf>
+    <wf id="63" sent="1" para="1" offset="269" length="1"><![CDATA[)]]></wf>
+    <wf id="64" sent="1" para="1" offset="270" length="1"><![CDATA[,]]></wf>
+    <wf id="65" sent="1" para="1" offset="271" length="4"><![CDATA[Dean]]></wf>
+    <wf id="66" sent="1" para="1" offset="275" length="7"><![CDATA[Windass]]></wf>
+    <wf id="67" sent="1" para="1" offset="282" length="1"><![CDATA[(]]></wf>
+    <wf id="68" sent="1" para="1" offset="283" length="8"><![CDATA[Aberdeen]]></wf>
+    <wf id="69" sent="1" para="1" offset="291" length="1"><![CDATA[)]]></wf>
+    <wf id="70" sent="1" para="1" offset="292" length="1"><![CDATA[,]]></wf>
+    <wf id="71" sent="1" para="1" offset="293" length="5"><![CDATA[Brian]]></wf>
+    <wf id="72" sent="1" para="1" offset="298" length="7"><![CDATA[Laudrup]]></wf>
+    <wf id="73" sent="1" para="1" offset="305" length="1"><![CDATA[(]]></wf>
+    <wf id="74" sent="1" para="1" offset="306" length="7"><![CDATA[Rangers]]></wf>
+    <wf id="75" sent="1" para="1" offset="313" length="1"><![CDATA[)]]></wf>
+    <wf id="76" sent="1" para="1" offset="314" length="1"><![CDATA[,]]></wf>
+    <wf id="77" sent="1" para="1" offset="315" length="6"><![CDATA[Darren]]></wf>
+    <wf id="78" sent="1" para="1" offset="321" length="7"><![CDATA[Jackson]]></wf>
+    <wf id="79" sent="1" para="1" offset="328" length="1"><![CDATA[(]]></wf>
+    <wf id="80" sent="1" para="1" offset="329" length="9"><![CDATA[Hibernian]]></wf>
+    <wf id="81" sent="1" para="1" offset="338" length="1"><![CDATA[)]]></wf>
+    <wf id="82" sent="1" para="1" offset="339" length="1"><![CDATA[5]]></wf>
+    <wf id="83" sent="1" para="1" offset="340" length="1"><![CDATA[-]]></wf>
+    <wf id="84" sent="1" para="1" offset="341" length="5"><![CDATA[Peter]]></wf>
+    <wf id="85" sent="1" para="1" offset="346" length="3"><![CDATA[van]]></wf>
+    <wf id="86" sent="1" para="1" offset="349" length="6"><![CDATA[Vossen]]></wf>
+    <wf id="87" sent="1" para="1" offset="355" length="1"><![CDATA[(]]></wf>
+    <wf id="88" sent="1" para="1" offset="356" length="7"><![CDATA[Rangers]]></wf>
+    <wf id="89" sent="1" para="1" offset="363" length="1"><![CDATA[)]]></wf>
+    <wf id="90" sent="1" para="1" offset="364" length="1"><![CDATA[,]]></wf>
+    <wf id="91" sent="1" para="1" offset="365" length="5"><![CDATA[Gerry]]></wf>
+    <wf id="92" sent="1" para="1" offset="370" length="7"><![CDATA[Britton]]></wf>
+    <wf id="93" sent="1" para="1" offset="377" length="1"><![CDATA[(]]></wf>
+    <wf id="94" sent="1" para="1" offset="378" length="11"><![CDATA[Dunfermline]]></wf>
+    <wf id="95" sent="1" para="1" offset="389" length="1"><![CDATA[)]]></wf>
+    <wf id="96" sent="1" para="1" offset="390" length="1"><![CDATA[,]]></wf>
+    <wf id="97" sent="1" para="1" offset="391" length="5"><![CDATA[Colin]]></wf>
+    <wf id="98" sent="1" para="1" offset="396" length="7"><![CDATA[Cameron]]></wf>
+    <wf id="99" sent="1" para="1" offset="403" length="1"><![CDATA[(]]></wf>
+    <wf id="100" sent="1" para="1" offset="404" length="6"><![CDATA[Hearts]]></wf>
+    <wf id="101" sent="1" para="1" offset="410" length="1"><![CDATA[)]]></wf>
+    <wf id="102" sent="1" para="1" offset="411" length="1"><![CDATA[,]]></wf>
+    <wf id="103" sent="1" para="1" offset="412" length="6"><![CDATA[Robert]]></wf>
+    <wf id="104" sent="1" para="1" offset="418" length="7"><![CDATA[Winters]]></wf>
+    <wf id="105" sent="1" para="1" offset="425" length="1"><![CDATA[(]]></wf>
+    <wf id="106" sent="1" para="1" offset="426" length="6"><![CDATA[Dundee]]></wf>
+    <wf id="107" sent="1" para="1" offset="432" length="6"><![CDATA[United]]></wf>
+    <wf id="108" sent="1" para="1" offset="438" length="1"><![CDATA[)]]></wf>
+    <wf id="109" sent="1" para="1" offset="439" length="1"><![CDATA[,]]></wf>
+    <wf id="110" sent="1" para="1" offset="440" length="5"><![CDATA[Paolo]]></wf>
+    <wf id="111" sent="1" para="1" offset="445" length="2"><![CDATA[Di]]></wf>
+    <wf id="112" sent="1" para="1" offset="447" length="5"><![CDATA[Canio]]></wf>
+    <wf id="113" sent="1" para="1" offset="452" length="1"><![CDATA[(]]></wf>
+    <wf id="114" sent="1" para="1" offset="453" length="6"><![CDATA[Celtic]]></wf>
+    <wf id="115" sent="1" para="1" offset="459" length="1"><![CDATA[)]]></wf>
+    <wf id="116" sent="1" para="1" offset="460" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="SOCCER">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="-">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="LEADING">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="SCOTTISH">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="PREMIER">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="DIVISION">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="SCORERS">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma=".">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="GLASGOW">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="1996-12-07">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="Leading">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="goalscorers">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="in">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="the">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="Scottish">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="premier">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="division">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="after">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="Saturday">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="'s">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="matches">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma=":">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="10">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="-">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="Billy">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="Dodds">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="(">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="Aberdeen">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma=")">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma=",">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="Pierre">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="Van">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="Hooydonk">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="(">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="Celtic">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma=")">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="9">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="-">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="Paul">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="Gascoigne">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="(">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="Rangers">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma=")">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="7">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="-">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="Paul">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="Wright">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="(">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="Kilmarnock">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma=")">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma=",">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="Ally">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="McCoist">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="(">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="Rangers">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma=")">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="6">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="-">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="Andreas">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="Thom">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="(">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="Celtic">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma=")">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma=",">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="Dean">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="Windass">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="(">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="Aberdeen">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma=")">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma=",">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="Brian">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="Laudrup">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="(">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="Rangers">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma=")">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma=",">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="Darren">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="Jackson">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="(">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="Hibernian">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma=")">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="5">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="-">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="Peter">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="van">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="Vossen">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="(">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="Rangers">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma=")">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma=",">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="Gerry">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="Britton">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="(">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="Dunfermline">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma=")">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma=",">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="Colin">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="Cameron">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="(">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="Hearts">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma=")">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma=",">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="Robert">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="Winters">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="(">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="Dundee">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="United">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma=")">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma=",">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="Paolo">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="Di">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="Canio">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="(">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="Celtic">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma=")">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma=".">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="4591">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Scottish_Premier_League" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="4"/>
+          <target id="5"/>
+          <target id="6"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4592">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Glasgow" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4593">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="15"/>
+          <target id="16"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4594">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Billy_Dodds" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="25"/>
+          <target id="26"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4595">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Aberdeen_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="28"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4596">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pierre_van_Hooijdonk" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="31"/>
+          <target id="32"/>
+          <target id="33"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4597">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Celtic_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="35"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4598">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Paul_Gascoigne" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="39"/>
+          <target id="40"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4599">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Rangers_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="42"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4600">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Paul_Wright_(footballer)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="46"/>
+          <target id="47"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4601">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Kilmarnock_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="49"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4602">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ally_McCoist" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="52"/>
+          <target id="53"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4603">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Rangers_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="55"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4604">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Andreas_Thom" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="59"/>
+          <target id="60"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4605">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Celtic_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="62"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4606">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dean_Windass" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="65"/>
+          <target id="66"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4607">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Aberdeen_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="68"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4608">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Brian_Laudrup" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="71"/>
+          <target id="72"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4609">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Rangers_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="74"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4610">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Darren_Jackson" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="77"/>
+          <target id="78"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4611">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Hibernian_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="80"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4612">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Peter_van_Vossen" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="84"/>
+          <target id="85"/>
+          <target id="86"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4613">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Rangers_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="88"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4614">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Gerry_Britton" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="91"/>
+          <target id="92"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4615">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dunfermline_Athletic_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="94"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4616">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Colin_Cameron_(footballer)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="97"/>
+          <target id="98"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4617">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Heart_of_Midlothian_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="100"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4618">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Robbie_Winters" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="103"/>
+          <target id="104"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4619">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dundee_United_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="106"/>
+          <target id="107"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4620">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Paolo_Di_Canio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="110"/>
+          <target id="111"/>
+          <target id="112"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4621">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Celtic_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="114"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

@@ -1,0 +1,543 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[SOCCER - ARAB CONTRACTORS WIN AFRICAN CUP WINNERS ' CUP . CAIRO 1996-12-06 Result of the second leg of the African Cup Winners ' Cup final at the National stadium on Friday : Arab Contractors ( Egypt ) 4 Sodigraf ( Zaire ) 0 ( halftime 2-0 ) Scorers : Aly Ashour 7 , 56 penalty , Mohamed Ouda 24 , 73 Contractors won 4-0 on aggregate . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1185testb" filename="1185testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="6"><![CDATA[SOCCER]]></wf>
+    <wf id="1" sent="1" para="1" offset="6" length="1"><![CDATA[-]]></wf>
+    <wf id="2" sent="1" para="1" offset="7" length="4"><![CDATA[ARAB]]></wf>
+    <wf id="3" sent="1" para="1" offset="11" length="11"><![CDATA[CONTRACTORS]]></wf>
+    <wf id="4" sent="1" para="1" offset="22" length="3"><![CDATA[WIN]]></wf>
+    <wf id="5" sent="1" para="1" offset="25" length="7"><![CDATA[AFRICAN]]></wf>
+    <wf id="6" sent="1" para="1" offset="32" length="3"><![CDATA[CUP]]></wf>
+    <wf id="7" sent="1" para="1" offset="35" length="7"><![CDATA[WINNERS]]></wf>
+    <wf id="8" sent="1" para="1" offset="42" length="1"><![CDATA[']]></wf>
+    <wf id="9" sent="1" para="1" offset="43" length="3"><![CDATA[CUP]]></wf>
+    <wf id="10" sent="1" para="1" offset="46" length="1"><![CDATA[.]]></wf>
+    <wf id="11" sent="1" para="1" offset="47" length="5"><![CDATA[CAIRO]]></wf>
+    <wf id="12" sent="1" para="1" offset="52" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="13" sent="1" para="1" offset="62" length="6"><![CDATA[Result]]></wf>
+    <wf id="14" sent="1" para="1" offset="68" length="2"><![CDATA[of]]></wf>
+    <wf id="15" sent="1" para="1" offset="70" length="3"><![CDATA[the]]></wf>
+    <wf id="16" sent="1" para="1" offset="73" length="6"><![CDATA[second]]></wf>
+    <wf id="17" sent="1" para="1" offset="79" length="3"><![CDATA[leg]]></wf>
+    <wf id="18" sent="1" para="1" offset="82" length="2"><![CDATA[of]]></wf>
+    <wf id="19" sent="1" para="1" offset="84" length="3"><![CDATA[the]]></wf>
+    <wf id="20" sent="1" para="1" offset="87" length="7"><![CDATA[African]]></wf>
+    <wf id="21" sent="1" para="1" offset="94" length="3"><![CDATA[Cup]]></wf>
+    <wf id="22" sent="1" para="1" offset="97" length="7"><![CDATA[Winners]]></wf>
+    <wf id="23" sent="1" para="1" offset="104" length="1"><![CDATA[']]></wf>
+    <wf id="24" sent="1" para="1" offset="105" length="3"><![CDATA[Cup]]></wf>
+    <wf id="25" sent="1" para="1" offset="108" length="5"><![CDATA[final]]></wf>
+    <wf id="26" sent="1" para="1" offset="113" length="2"><![CDATA[at]]></wf>
+    <wf id="27" sent="1" para="1" offset="115" length="3"><![CDATA[the]]></wf>
+    <wf id="28" sent="1" para="1" offset="118" length="8"><![CDATA[National]]></wf>
+    <wf id="29" sent="1" para="1" offset="126" length="7"><![CDATA[stadium]]></wf>
+    <wf id="30" sent="1" para="1" offset="133" length="2"><![CDATA[on]]></wf>
+    <wf id="31" sent="1" para="1" offset="135" length="6"><![CDATA[Friday]]></wf>
+    <wf id="32" sent="1" para="1" offset="141" length="1"><![CDATA[:]]></wf>
+    <wf id="33" sent="1" para="1" offset="142" length="4"><![CDATA[Arab]]></wf>
+    <wf id="34" sent="1" para="1" offset="146" length="11"><![CDATA[Contractors]]></wf>
+    <wf id="35" sent="1" para="1" offset="157" length="1"><![CDATA[(]]></wf>
+    <wf id="36" sent="1" para="1" offset="158" length="5"><![CDATA[Egypt]]></wf>
+    <wf id="37" sent="1" para="1" offset="163" length="1"><![CDATA[)]]></wf>
+    <wf id="38" sent="1" para="1" offset="164" length="1"><![CDATA[4]]></wf>
+    <wf id="39" sent="1" para="1" offset="165" length="8"><![CDATA[Sodigraf]]></wf>
+    <wf id="40" sent="1" para="1" offset="173" length="1"><![CDATA[(]]></wf>
+    <wf id="41" sent="1" para="1" offset="174" length="5"><![CDATA[Zaire]]></wf>
+    <wf id="42" sent="1" para="1" offset="179" length="1"><![CDATA[)]]></wf>
+    <wf id="43" sent="1" para="1" offset="180" length="1"><![CDATA[0]]></wf>
+    <wf id="44" sent="1" para="1" offset="181" length="1"><![CDATA[(]]></wf>
+    <wf id="45" sent="1" para="1" offset="182" length="8"><![CDATA[halftime]]></wf>
+    <wf id="46" sent="1" para="1" offset="190" length="3"><![CDATA[2-0]]></wf>
+    <wf id="47" sent="1" para="1" offset="193" length="1"><![CDATA[)]]></wf>
+    <wf id="48" sent="1" para="1" offset="194" length="7"><![CDATA[Scorers]]></wf>
+    <wf id="49" sent="1" para="1" offset="201" length="1"><![CDATA[:]]></wf>
+    <wf id="50" sent="1" para="1" offset="202" length="3"><![CDATA[Aly]]></wf>
+    <wf id="51" sent="1" para="1" offset="205" length="6"><![CDATA[Ashour]]></wf>
+    <wf id="52" sent="1" para="1" offset="211" length="1"><![CDATA[7]]></wf>
+    <wf id="53" sent="1" para="1" offset="212" length="1"><![CDATA[,]]></wf>
+    <wf id="54" sent="1" para="1" offset="213" length="2"><![CDATA[56]]></wf>
+    <wf id="55" sent="1" para="1" offset="215" length="7"><![CDATA[penalty]]></wf>
+    <wf id="56" sent="1" para="1" offset="222" length="1"><![CDATA[,]]></wf>
+    <wf id="57" sent="1" para="1" offset="223" length="7"><![CDATA[Mohamed]]></wf>
+    <wf id="58" sent="1" para="1" offset="230" length="4"><![CDATA[Ouda]]></wf>
+    <wf id="59" sent="1" para="1" offset="234" length="2"><![CDATA[24]]></wf>
+    <wf id="60" sent="1" para="1" offset="236" length="1"><![CDATA[,]]></wf>
+    <wf id="61" sent="1" para="1" offset="237" length="2"><![CDATA[73]]></wf>
+    <wf id="62" sent="1" para="1" offset="239" length="11"><![CDATA[Contractors]]></wf>
+    <wf id="63" sent="1" para="1" offset="250" length="3"><![CDATA[won]]></wf>
+    <wf id="64" sent="1" para="1" offset="253" length="3"><![CDATA[4-0]]></wf>
+    <wf id="65" sent="1" para="1" offset="256" length="2"><![CDATA[on]]></wf>
+    <wf id="66" sent="1" para="1" offset="258" length="9"><![CDATA[aggregate]]></wf>
+    <wf id="67" sent="1" para="1" offset="267" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="SOCCER">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="-">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="ARAB">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="CONTRACTORS">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="WIN">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="AFRICAN">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="CUP">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="WINNERS">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="'">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="CUP">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma=".">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="CAIRO">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="1996-12-06">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Result">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="of">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="the">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="second">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="leg">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="of">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="the">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="African">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="Cup">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="Winners">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="'">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="Cup">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="final">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="at">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="the">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="National">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="stadium">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="on">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="Friday">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma=":">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="Arab">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="Contractors">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="(">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="Egypt">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma=")">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="4">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="Sodigraf">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="(">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="Zaire">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma=")">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="0">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="(">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="halftime">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="2-0">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma=")">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="Scorers">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma=":">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="Aly">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="Ashour">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="7">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma=",">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="56">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="penalty">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma=",">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="Mohamed">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="Ouda">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="24">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma=",">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="73">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="Contractors">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="won">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="4-0">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="on">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="aggregate">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma=".">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="799">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="2"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="800">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="5"/>
+          <target id="6"/>
+          <target id="7"/>
+          <target id="8"/>
+          <target id="9"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="801">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Cairo" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="802">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="20"/>
+          <target id="21"/>
+          <target id="22"/>
+          <target id="23"/>
+          <target id="24"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="803">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/National_stadium" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="28"/>
+          <target id="29"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="804">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Arab_Contractors_(company)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="33"/>
+          <target id="34"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="805">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Egypt" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="36"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="806">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="39"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="807">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="41"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="808">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="50"/>
+          <target id="51"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="809">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="57"/>
+          <target id="58"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

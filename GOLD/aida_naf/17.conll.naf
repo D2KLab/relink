@@ -1,0 +1,509 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[CRICKET - AUSTRALIA BEAT WEST INDIES BY FIVE WICKETS . MELBOURNE 1996-12-06 Australia beat West Indies by five wickets in a World Series limited overs match at the Melbourne Cricket Ground on Friday . Scores : West Indies 172 all out in 49.2 overs ( Shivnarine Chanderpaul 54 ) ; Australia 173-5 in 48.4 overs ( Greg Blewett 57 not out ) . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1179testb" filename="1179testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="7"><![CDATA[CRICKET]]></wf>
+    <wf id="2" sent="1" para="1" offset="7" length="1"><![CDATA[-]]></wf>
+    <wf id="3" sent="1" para="1" offset="8" length="9"><![CDATA[AUSTRALIA]]></wf>
+    <wf id="4" sent="1" para="1" offset="17" length="4"><![CDATA[BEAT]]></wf>
+    <wf id="5" sent="1" para="1" offset="21" length="4"><![CDATA[WEST]]></wf>
+    <wf id="6" sent="1" para="1" offset="25" length="6"><![CDATA[INDIES]]></wf>
+    <wf id="7" sent="1" para="1" offset="31" length="2"><![CDATA[BY]]></wf>
+    <wf id="8" sent="1" para="1" offset="33" length="4"><![CDATA[FIVE]]></wf>
+    <wf id="9" sent="1" para="1" offset="37" length="7"><![CDATA[WICKETS]]></wf>
+    <wf id="10" sent="1" para="1" offset="44" length="1"><![CDATA[.]]></wf>
+    <wf id="11" sent="1" para="1" offset="45" length="9"><![CDATA[MELBOURNE]]></wf>
+    <wf id="12" sent="1" para="1" offset="54" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="13" sent="1" para="1" offset="64" length="9"><![CDATA[Australia]]></wf>
+    <wf id="14" sent="1" para="1" offset="73" length="4"><![CDATA[beat]]></wf>
+    <wf id="15" sent="1" para="1" offset="77" length="4"><![CDATA[West]]></wf>
+    <wf id="16" sent="1" para="1" offset="81" length="6"><![CDATA[Indies]]></wf>
+    <wf id="17" sent="1" para="1" offset="87" length="2"><![CDATA[by]]></wf>
+    <wf id="18" sent="1" para="1" offset="89" length="4"><![CDATA[five]]></wf>
+    <wf id="19" sent="1" para="1" offset="93" length="7"><![CDATA[wickets]]></wf>
+    <wf id="20" sent="1" para="1" offset="100" length="2"><![CDATA[in]]></wf>
+    <wf id="21" sent="1" para="1" offset="102" length="1"><![CDATA[a]]></wf>
+    <wf id="22" sent="1" para="1" offset="103" length="5"><![CDATA[World]]></wf>
+    <wf id="23" sent="1" para="1" offset="108" length="6"><![CDATA[Series]]></wf>
+    <wf id="24" sent="1" para="1" offset="114" length="7"><![CDATA[limited]]></wf>
+    <wf id="25" sent="1" para="1" offset="121" length="5"><![CDATA[overs]]></wf>
+    <wf id="26" sent="1" para="1" offset="126" length="5"><![CDATA[match]]></wf>
+    <wf id="27" sent="1" para="1" offset="131" length="2"><![CDATA[at]]></wf>
+    <wf id="28" sent="1" para="1" offset="133" length="3"><![CDATA[the]]></wf>
+    <wf id="29" sent="1" para="1" offset="136" length="9"><![CDATA[Melbourne]]></wf>
+    <wf id="30" sent="1" para="1" offset="145" length="7"><![CDATA[Cricket]]></wf>
+    <wf id="31" sent="1" para="1" offset="152" length="6"><![CDATA[Ground]]></wf>
+    <wf id="32" sent="1" para="1" offset="158" length="2"><![CDATA[on]]></wf>
+    <wf id="33" sent="1" para="1" offset="160" length="6"><![CDATA[Friday]]></wf>
+    <wf id="34" sent="1" para="1" offset="166" length="1"><![CDATA[.]]></wf>
+    <wf id="35" sent="1" para="1" offset="167" length="6"><![CDATA[Scores]]></wf>
+    <wf id="36" sent="1" para="1" offset="173" length="1"><![CDATA[:]]></wf>
+    <wf id="37" sent="1" para="1" offset="174" length="4"><![CDATA[West]]></wf>
+    <wf id="38" sent="1" para="1" offset="178" length="6"><![CDATA[Indies]]></wf>
+    <wf id="39" sent="1" para="1" offset="184" length="3"><![CDATA[172]]></wf>
+    <wf id="40" sent="1" para="1" offset="187" length="3"><![CDATA[all]]></wf>
+    <wf id="41" sent="1" para="1" offset="190" length="3"><![CDATA[out]]></wf>
+    <wf id="42" sent="1" para="1" offset="193" length="2"><![CDATA[in]]></wf>
+    <wf id="43" sent="1" para="1" offset="195" length="4"><![CDATA[49.2]]></wf>
+    <wf id="44" sent="1" para="1" offset="199" length="5"><![CDATA[overs]]></wf>
+    <wf id="45" sent="1" para="1" offset="204" length="1"><![CDATA[(]]></wf>
+    <wf id="46" sent="1" para="1" offset="205" length="10"><![CDATA[Shivnarine]]></wf>
+    <wf id="47" sent="1" para="1" offset="215" length="11"><![CDATA[Chanderpaul]]></wf>
+    <wf id="48" sent="1" para="1" offset="226" length="2"><![CDATA[54]]></wf>
+    <wf id="49" sent="1" para="1" offset="228" length="1"><![CDATA[)]]></wf>
+    <wf id="50" sent="1" para="1" offset="229" length="1"><![CDATA[;]]></wf>
+    <wf id="51" sent="1" para="1" offset="230" length="9"><![CDATA[Australia]]></wf>
+    <wf id="52" sent="1" para="1" offset="239" length="5"><![CDATA[173-5]]></wf>
+    <wf id="53" sent="1" para="1" offset="244" length="2"><![CDATA[in]]></wf>
+    <wf id="54" sent="1" para="1" offset="246" length="4"><![CDATA[48.4]]></wf>
+    <wf id="55" sent="1" para="1" offset="250" length="5"><![CDATA[overs]]></wf>
+    <wf id="56" sent="1" para="1" offset="255" length="1"><![CDATA[(]]></wf>
+    <wf id="57" sent="1" para="1" offset="256" length="4"><![CDATA[Greg]]></wf>
+    <wf id="58" sent="1" para="1" offset="260" length="7"><![CDATA[Blewett]]></wf>
+    <wf id="59" sent="1" para="1" offset="267" length="2"><![CDATA[57]]></wf>
+    <wf id="60" sent="1" para="1" offset="269" length="3"><![CDATA[not]]></wf>
+    <wf id="61" sent="1" para="1" offset="272" length="3"><![CDATA[out]]></wf>
+    <wf id="62" sent="1" para="1" offset="275" length="1"><![CDATA[)]]></wf>
+    <wf id="63" sent="1" para="1" offset="276" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="CRICKET">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="-">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="AUSTRALIA">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="BEAT">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="WEST">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="INDIES">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="BY">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="FIVE">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="WICKETS">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma=".">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="MELBOURNE">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="1996-12-06">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Australia">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="beat">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="West">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="Indies">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="by">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="five">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="wickets">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="in">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="a">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="World">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="Series">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="limited">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="overs">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="match">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="at">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="the">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="Melbourne">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="Cricket">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="Ground">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="on">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="Friday">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma=".">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="Scores">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma=":">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="West">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="Indies">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="172">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="all">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="out">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="in">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="49.2">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="overs">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="(">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="Shivnarine">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="Chanderpaul">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="54">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma=")">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma=";">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="Australia">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="173-5">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="in">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="48.4">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="overs">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="(">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="Greg">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="Blewett">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="57">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="not">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="out">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma=")">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma=".">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="639">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Australia_national_cricket_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="3"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="640">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/West_Indies_cricket_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="5"/>
+          <target id="6"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="641">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Melbourne" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="642">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Australia_national_cricket_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="13"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="643">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/West_Indies_cricket_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="15"/>
+          <target id="16"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="644">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/World_Series_Cricket" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="22"/>
+          <target id="23"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="645">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Melbourne_Cricket_Ground" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="29"/>
+          <target id="30"/>
+          <target id="31"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="646">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/West_Indies_cricket_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="37"/>
+          <target id="38"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="647">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Shivnarine_Chanderpaul" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="46"/>
+          <target id="47"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="648">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Australia_national_cricket_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="51"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="649">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Greg_Blewett" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="57"/>
+          <target id="58"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

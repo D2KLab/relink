@@ -1,0 +1,1796 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[GUNMEN KILL FOUR IN S.AFRICA 'S ZULU PROVINCE . DURBAN , South Africa 1996-12-06 At least four people have been shot dead in two suspected political attacks in South Africa 's volatile Zulu heartland , police said on Friday . A police spokesman said two youths believed to be supporters of President Nelson Mandela 's African National Congress ( ANC ) had been killed when unknown gunmen opened fire at the rural settlement of Izingolweni on KwaZulu-Natal province 's south coast on Thursday night . The victims were 18 and 20 , he said , adding one other youth had been wounded in the shooting . In another attack , also on the province 's south coast on Thursday night , two men were shot dead near Umkomaas . " We suspect that these killings are linked to politics , " spokesman Bala Naidoo told Reuters . There had been no arrests . The killings came just hours after violence monitors said they were not optimistic of a peaceful festive season in KwaZulu-Natal and pointed the south coast region where 18 people were massacred last Christmas as one of potential hot spots . They said the recent lull in political feuding could be upset as thousands of migrant workers , some tense with grudges brewed in the cities and keen to settle old scores , flock back to their home villages . More than 14,000 people have lost their lives in over a decade of political turf wars between the ANC and Zulu Chief Mangosuthu Buthelezi 's Inkatha Freedom Party in the province . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1212testb" filename="1212testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="6"><![CDATA[GUNMEN]]></wf>
+    <wf id="2" sent="1" para="1" offset="6" length="4"><![CDATA[KILL]]></wf>
+    <wf id="3" sent="1" para="1" offset="10" length="4"><![CDATA[FOUR]]></wf>
+    <wf id="4" sent="1" para="1" offset="14" length="2"><![CDATA[IN]]></wf>
+    <wf id="5" sent="1" para="1" offset="16" length="8"><![CDATA[S.AFRICA]]></wf>
+    <wf id="6" sent="1" para="1" offset="24" length="2"><![CDATA['S]]></wf>
+    <wf id="7" sent="1" para="1" offset="26" length="4"><![CDATA[ZULU]]></wf>
+    <wf id="8" sent="1" para="1" offset="30" length="8"><![CDATA[PROVINCE]]></wf>
+    <wf id="9" sent="1" para="1" offset="38" length="1"><![CDATA[.]]></wf>
+    <wf id="10" sent="1" para="1" offset="39" length="6"><![CDATA[DURBAN]]></wf>
+    <wf id="11" sent="1" para="1" offset="45" length="1"><![CDATA[,]]></wf>
+    <wf id="12" sent="1" para="1" offset="46" length="5"><![CDATA[South]]></wf>
+    <wf id="13" sent="1" para="1" offset="51" length="6"><![CDATA[Africa]]></wf>
+    <wf id="14" sent="1" para="1" offset="57" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="15" sent="1" para="1" offset="67" length="2"><![CDATA[At]]></wf>
+    <wf id="16" sent="1" para="1" offset="69" length="5"><![CDATA[least]]></wf>
+    <wf id="17" sent="1" para="1" offset="74" length="4"><![CDATA[four]]></wf>
+    <wf id="18" sent="1" para="1" offset="78" length="6"><![CDATA[people]]></wf>
+    <wf id="19" sent="1" para="1" offset="84" length="4"><![CDATA[have]]></wf>
+    <wf id="20" sent="1" para="1" offset="88" length="4"><![CDATA[been]]></wf>
+    <wf id="21" sent="1" para="1" offset="92" length="4"><![CDATA[shot]]></wf>
+    <wf id="22" sent="1" para="1" offset="96" length="4"><![CDATA[dead]]></wf>
+    <wf id="23" sent="1" para="1" offset="100" length="2"><![CDATA[in]]></wf>
+    <wf id="24" sent="1" para="1" offset="102" length="3"><![CDATA[two]]></wf>
+    <wf id="25" sent="1" para="1" offset="105" length="9"><![CDATA[suspected]]></wf>
+    <wf id="26" sent="1" para="1" offset="114" length="9"><![CDATA[political]]></wf>
+    <wf id="27" sent="1" para="1" offset="123" length="7"><![CDATA[attacks]]></wf>
+    <wf id="28" sent="1" para="1" offset="130" length="2"><![CDATA[in]]></wf>
+    <wf id="29" sent="1" para="1" offset="132" length="5"><![CDATA[South]]></wf>
+    <wf id="30" sent="1" para="1" offset="137" length="6"><![CDATA[Africa]]></wf>
+    <wf id="31" sent="1" para="1" offset="143" length="2"><![CDATA['s]]></wf>
+    <wf id="32" sent="1" para="1" offset="145" length="8"><![CDATA[volatile]]></wf>
+    <wf id="33" sent="1" para="1" offset="153" length="4"><![CDATA[Zulu]]></wf>
+    <wf id="34" sent="1" para="1" offset="157" length="9"><![CDATA[heartland]]></wf>
+    <wf id="35" sent="1" para="1" offset="166" length="1"><![CDATA[,]]></wf>
+    <wf id="36" sent="1" para="1" offset="167" length="6"><![CDATA[police]]></wf>
+    <wf id="37" sent="1" para="1" offset="173" length="4"><![CDATA[said]]></wf>
+    <wf id="38" sent="1" para="1" offset="177" length="2"><![CDATA[on]]></wf>
+    <wf id="39" sent="1" para="1" offset="179" length="6"><![CDATA[Friday]]></wf>
+    <wf id="40" sent="1" para="1" offset="185" length="1"><![CDATA[.]]></wf>
+    <wf id="41" sent="1" para="1" offset="186" length="1"><![CDATA[A]]></wf>
+    <wf id="42" sent="1" para="1" offset="187" length="6"><![CDATA[police]]></wf>
+    <wf id="43" sent="1" para="1" offset="193" length="9"><![CDATA[spokesman]]></wf>
+    <wf id="44" sent="1" para="1" offset="202" length="4"><![CDATA[said]]></wf>
+    <wf id="45" sent="1" para="1" offset="206" length="3"><![CDATA[two]]></wf>
+    <wf id="46" sent="1" para="1" offset="209" length="6"><![CDATA[youths]]></wf>
+    <wf id="47" sent="1" para="1" offset="215" length="8"><![CDATA[believed]]></wf>
+    <wf id="48" sent="1" para="1" offset="223" length="2"><![CDATA[to]]></wf>
+    <wf id="49" sent="1" para="1" offset="225" length="2"><![CDATA[be]]></wf>
+    <wf id="50" sent="1" para="1" offset="227" length="10"><![CDATA[supporters]]></wf>
+    <wf id="51" sent="1" para="1" offset="237" length="2"><![CDATA[of]]></wf>
+    <wf id="52" sent="1" para="1" offset="239" length="9"><![CDATA[President]]></wf>
+    <wf id="53" sent="1" para="1" offset="248" length="6"><![CDATA[Nelson]]></wf>
+    <wf id="54" sent="1" para="1" offset="254" length="7"><![CDATA[Mandela]]></wf>
+    <wf id="55" sent="1" para="1" offset="261" length="2"><![CDATA['s]]></wf>
+    <wf id="56" sent="1" para="1" offset="263" length="7"><![CDATA[African]]></wf>
+    <wf id="57" sent="1" para="1" offset="270" length="8"><![CDATA[National]]></wf>
+    <wf id="58" sent="1" para="1" offset="278" length="8"><![CDATA[Congress]]></wf>
+    <wf id="59" sent="1" para="1" offset="286" length="1"><![CDATA[(]]></wf>
+    <wf id="60" sent="1" para="1" offset="287" length="3"><![CDATA[ANC]]></wf>
+    <wf id="61" sent="1" para="1" offset="290" length="1"><![CDATA[)]]></wf>
+    <wf id="62" sent="1" para="1" offset="291" length="3"><![CDATA[had]]></wf>
+    <wf id="63" sent="1" para="1" offset="294" length="4"><![CDATA[been]]></wf>
+    <wf id="64" sent="1" para="1" offset="298" length="6"><![CDATA[killed]]></wf>
+    <wf id="65" sent="1" para="1" offset="304" length="4"><![CDATA[when]]></wf>
+    <wf id="66" sent="1" para="1" offset="308" length="7"><![CDATA[unknown]]></wf>
+    <wf id="67" sent="1" para="1" offset="315" length="6"><![CDATA[gunmen]]></wf>
+    <wf id="68" sent="1" para="1" offset="321" length="6"><![CDATA[opened]]></wf>
+    <wf id="69" sent="1" para="1" offset="327" length="4"><![CDATA[fire]]></wf>
+    <wf id="70" sent="1" para="1" offset="331" length="2"><![CDATA[at]]></wf>
+    <wf id="71" sent="1" para="1" offset="333" length="3"><![CDATA[the]]></wf>
+    <wf id="72" sent="1" para="1" offset="336" length="5"><![CDATA[rural]]></wf>
+    <wf id="73" sent="1" para="1" offset="341" length="10"><![CDATA[settlement]]></wf>
+    <wf id="74" sent="1" para="1" offset="351" length="2"><![CDATA[of]]></wf>
+    <wf id="75" sent="1" para="1" offset="353" length="11"><![CDATA[Izingolweni]]></wf>
+    <wf id="76" sent="1" para="1" offset="364" length="2"><![CDATA[on]]></wf>
+    <wf id="77" sent="1" para="1" offset="366" length="13"><![CDATA[KwaZulu-Natal]]></wf>
+    <wf id="78" sent="1" para="1" offset="379" length="8"><![CDATA[province]]></wf>
+    <wf id="79" sent="1" para="1" offset="387" length="2"><![CDATA['s]]></wf>
+    <wf id="80" sent="1" para="1" offset="389" length="5"><![CDATA[south]]></wf>
+    <wf id="81" sent="1" para="1" offset="394" length="5"><![CDATA[coast]]></wf>
+    <wf id="82" sent="1" para="1" offset="399" length="2"><![CDATA[on]]></wf>
+    <wf id="83" sent="1" para="1" offset="401" length="8"><![CDATA[Thursday]]></wf>
+    <wf id="84" sent="1" para="1" offset="409" length="5"><![CDATA[night]]></wf>
+    <wf id="85" sent="1" para="1" offset="414" length="1"><![CDATA[.]]></wf>
+    <wf id="86" sent="1" para="1" offset="415" length="3"><![CDATA[The]]></wf>
+    <wf id="87" sent="1" para="1" offset="418" length="7"><![CDATA[victims]]></wf>
+    <wf id="88" sent="1" para="1" offset="425" length="4"><![CDATA[were]]></wf>
+    <wf id="89" sent="1" para="1" offset="429" length="2"><![CDATA[18]]></wf>
+    <wf id="90" sent="1" para="1" offset="431" length="3"><![CDATA[and]]></wf>
+    <wf id="91" sent="1" para="1" offset="434" length="2"><![CDATA[20]]></wf>
+    <wf id="92" sent="1" para="1" offset="436" length="1"><![CDATA[,]]></wf>
+    <wf id="93" sent="1" para="1" offset="437" length="2"><![CDATA[he]]></wf>
+    <wf id="94" sent="1" para="1" offset="439" length="4"><![CDATA[said]]></wf>
+    <wf id="95" sent="1" para="1" offset="443" length="1"><![CDATA[,]]></wf>
+    <wf id="96" sent="1" para="1" offset="444" length="6"><![CDATA[adding]]></wf>
+    <wf id="97" sent="1" para="1" offset="450" length="3"><![CDATA[one]]></wf>
+    <wf id="98" sent="1" para="1" offset="453" length="5"><![CDATA[other]]></wf>
+    <wf id="99" sent="1" para="1" offset="458" length="5"><![CDATA[youth]]></wf>
+    <wf id="100" sent="1" para="1" offset="463" length="3"><![CDATA[had]]></wf>
+    <wf id="101" sent="1" para="1" offset="466" length="4"><![CDATA[been]]></wf>
+    <wf id="102" sent="1" para="1" offset="470" length="7"><![CDATA[wounded]]></wf>
+    <wf id="103" sent="1" para="1" offset="477" length="2"><![CDATA[in]]></wf>
+    <wf id="104" sent="1" para="1" offset="479" length="3"><![CDATA[the]]></wf>
+    <wf id="105" sent="1" para="1" offset="482" length="8"><![CDATA[shooting]]></wf>
+    <wf id="106" sent="1" para="1" offset="490" length="1"><![CDATA[.]]></wf>
+    <wf id="107" sent="1" para="1" offset="491" length="2"><![CDATA[In]]></wf>
+    <wf id="108" sent="1" para="1" offset="493" length="7"><![CDATA[another]]></wf>
+    <wf id="109" sent="1" para="1" offset="500" length="6"><![CDATA[attack]]></wf>
+    <wf id="110" sent="1" para="1" offset="506" length="1"><![CDATA[,]]></wf>
+    <wf id="111" sent="1" para="1" offset="507" length="4"><![CDATA[also]]></wf>
+    <wf id="112" sent="1" para="1" offset="511" length="2"><![CDATA[on]]></wf>
+    <wf id="113" sent="1" para="1" offset="513" length="3"><![CDATA[the]]></wf>
+    <wf id="114" sent="1" para="1" offset="516" length="8"><![CDATA[province]]></wf>
+    <wf id="115" sent="1" para="1" offset="524" length="2"><![CDATA['s]]></wf>
+    <wf id="116" sent="1" para="1" offset="526" length="5"><![CDATA[south]]></wf>
+    <wf id="117" sent="1" para="1" offset="531" length="5"><![CDATA[coast]]></wf>
+    <wf id="118" sent="1" para="1" offset="536" length="2"><![CDATA[on]]></wf>
+    <wf id="119" sent="1" para="1" offset="538" length="8"><![CDATA[Thursday]]></wf>
+    <wf id="120" sent="1" para="1" offset="546" length="5"><![CDATA[night]]></wf>
+    <wf id="121" sent="1" para="1" offset="551" length="1"><![CDATA[,]]></wf>
+    <wf id="122" sent="1" para="1" offset="552" length="3"><![CDATA[two]]></wf>
+    <wf id="123" sent="1" para="1" offset="555" length="3"><![CDATA[men]]></wf>
+    <wf id="124" sent="1" para="1" offset="558" length="4"><![CDATA[were]]></wf>
+    <wf id="125" sent="1" para="1" offset="562" length="4"><![CDATA[shot]]></wf>
+    <wf id="126" sent="1" para="1" offset="566" length="4"><![CDATA[dead]]></wf>
+    <wf id="127" sent="1" para="1" offset="570" length="4"><![CDATA[near]]></wf>
+    <wf id="128" sent="1" para="1" offset="574" length="8"><![CDATA[Umkomaas]]></wf>
+    <wf id="129" sent="1" para="1" offset="582" length="1"><![CDATA[.]]></wf>
+    <wf id="130" sent="1" para="1" offset="583" length="1"><![CDATA["]]></wf>
+    <wf id="131" sent="1" para="1" offset="584" length="2"><![CDATA[We]]></wf>
+    <wf id="132" sent="1" para="1" offset="586" length="7"><![CDATA[suspect]]></wf>
+    <wf id="133" sent="1" para="1" offset="593" length="4"><![CDATA[that]]></wf>
+    <wf id="134" sent="1" para="1" offset="597" length="5"><![CDATA[these]]></wf>
+    <wf id="135" sent="1" para="1" offset="602" length="8"><![CDATA[killings]]></wf>
+    <wf id="136" sent="1" para="1" offset="610" length="3"><![CDATA[are]]></wf>
+    <wf id="137" sent="1" para="1" offset="613" length="6"><![CDATA[linked]]></wf>
+    <wf id="138" sent="1" para="1" offset="619" length="2"><![CDATA[to]]></wf>
+    <wf id="139" sent="1" para="1" offset="621" length="8"><![CDATA[politics]]></wf>
+    <wf id="140" sent="1" para="1" offset="629" length="1"><![CDATA[,]]></wf>
+    <wf id="141" sent="1" para="1" offset="630" length="1"><![CDATA["]]></wf>
+    <wf id="142" sent="1" para="1" offset="631" length="9"><![CDATA[spokesman]]></wf>
+    <wf id="143" sent="1" para="1" offset="640" length="4"><![CDATA[Bala]]></wf>
+    <wf id="144" sent="1" para="1" offset="644" length="6"><![CDATA[Naidoo]]></wf>
+    <wf id="145" sent="1" para="1" offset="650" length="4"><![CDATA[told]]></wf>
+    <wf id="146" sent="1" para="1" offset="654" length="7"><![CDATA[Reuters]]></wf>
+    <wf id="147" sent="1" para="1" offset="661" length="1"><![CDATA[.]]></wf>
+    <wf id="148" sent="1" para="1" offset="662" length="5"><![CDATA[There]]></wf>
+    <wf id="149" sent="1" para="1" offset="667" length="3"><![CDATA[had]]></wf>
+    <wf id="150" sent="1" para="1" offset="670" length="4"><![CDATA[been]]></wf>
+    <wf id="151" sent="1" para="1" offset="674" length="2"><![CDATA[no]]></wf>
+    <wf id="152" sent="1" para="1" offset="676" length="7"><![CDATA[arrests]]></wf>
+    <wf id="153" sent="1" para="1" offset="683" length="1"><![CDATA[.]]></wf>
+    <wf id="154" sent="1" para="1" offset="684" length="3"><![CDATA[The]]></wf>
+    <wf id="155" sent="1" para="1" offset="687" length="8"><![CDATA[killings]]></wf>
+    <wf id="156" sent="1" para="1" offset="695" length="4"><![CDATA[came]]></wf>
+    <wf id="157" sent="1" para="1" offset="699" length="4"><![CDATA[just]]></wf>
+    <wf id="158" sent="1" para="1" offset="703" length="5"><![CDATA[hours]]></wf>
+    <wf id="159" sent="1" para="1" offset="708" length="5"><![CDATA[after]]></wf>
+    <wf id="160" sent="1" para="1" offset="713" length="8"><![CDATA[violence]]></wf>
+    <wf id="161" sent="1" para="1" offset="721" length="8"><![CDATA[monitors]]></wf>
+    <wf id="162" sent="1" para="1" offset="729" length="4"><![CDATA[said]]></wf>
+    <wf id="163" sent="1" para="1" offset="733" length="4"><![CDATA[they]]></wf>
+    <wf id="164" sent="1" para="1" offset="737" length="4"><![CDATA[were]]></wf>
+    <wf id="165" sent="1" para="1" offset="741" length="3"><![CDATA[not]]></wf>
+    <wf id="166" sent="1" para="1" offset="744" length="10"><![CDATA[optimistic]]></wf>
+    <wf id="167" sent="1" para="1" offset="754" length="2"><![CDATA[of]]></wf>
+    <wf id="168" sent="1" para="1" offset="756" length="1"><![CDATA[a]]></wf>
+    <wf id="169" sent="1" para="1" offset="757" length="8"><![CDATA[peaceful]]></wf>
+    <wf id="170" sent="1" para="1" offset="765" length="7"><![CDATA[festive]]></wf>
+    <wf id="171" sent="1" para="1" offset="772" length="6"><![CDATA[season]]></wf>
+    <wf id="172" sent="1" para="1" offset="778" length="2"><![CDATA[in]]></wf>
+    <wf id="173" sent="1" para="1" offset="780" length="13"><![CDATA[KwaZulu-Natal]]></wf>
+    <wf id="174" sent="1" para="1" offset="793" length="3"><![CDATA[and]]></wf>
+    <wf id="175" sent="1" para="1" offset="796" length="7"><![CDATA[pointed]]></wf>
+    <wf id="176" sent="1" para="1" offset="803" length="3"><![CDATA[the]]></wf>
+    <wf id="177" sent="1" para="1" offset="806" length="5"><![CDATA[south]]></wf>
+    <wf id="178" sent="1" para="1" offset="811" length="5"><![CDATA[coast]]></wf>
+    <wf id="179" sent="1" para="1" offset="816" length="6"><![CDATA[region]]></wf>
+    <wf id="180" sent="1" para="1" offset="822" length="5"><![CDATA[where]]></wf>
+    <wf id="181" sent="1" para="1" offset="827" length="2"><![CDATA[18]]></wf>
+    <wf id="182" sent="1" para="1" offset="829" length="6"><![CDATA[people]]></wf>
+    <wf id="183" sent="1" para="1" offset="835" length="4"><![CDATA[were]]></wf>
+    <wf id="184" sent="1" para="1" offset="839" length="9"><![CDATA[massacred]]></wf>
+    <wf id="185" sent="1" para="1" offset="848" length="4"><![CDATA[last]]></wf>
+    <wf id="186" sent="1" para="1" offset="852" length="9"><![CDATA[Christmas]]></wf>
+    <wf id="187" sent="1" para="1" offset="861" length="2"><![CDATA[as]]></wf>
+    <wf id="188" sent="1" para="1" offset="863" length="3"><![CDATA[one]]></wf>
+    <wf id="189" sent="1" para="1" offset="866" length="2"><![CDATA[of]]></wf>
+    <wf id="190" sent="1" para="1" offset="868" length="9"><![CDATA[potential]]></wf>
+    <wf id="191" sent="1" para="1" offset="877" length="3"><![CDATA[hot]]></wf>
+    <wf id="192" sent="1" para="1" offset="880" length="5"><![CDATA[spots]]></wf>
+    <wf id="193" sent="1" para="1" offset="885" length="1"><![CDATA[.]]></wf>
+    <wf id="194" sent="1" para="1" offset="886" length="4"><![CDATA[They]]></wf>
+    <wf id="195" sent="1" para="1" offset="890" length="4"><![CDATA[said]]></wf>
+    <wf id="196" sent="1" para="1" offset="894" length="3"><![CDATA[the]]></wf>
+    <wf id="197" sent="1" para="1" offset="897" length="6"><![CDATA[recent]]></wf>
+    <wf id="198" sent="1" para="1" offset="903" length="4"><![CDATA[lull]]></wf>
+    <wf id="199" sent="1" para="1" offset="907" length="2"><![CDATA[in]]></wf>
+    <wf id="200" sent="1" para="1" offset="909" length="9"><![CDATA[political]]></wf>
+    <wf id="201" sent="1" para="1" offset="918" length="7"><![CDATA[feuding]]></wf>
+    <wf id="202" sent="1" para="1" offset="925" length="5"><![CDATA[could]]></wf>
+    <wf id="203" sent="1" para="1" offset="930" length="2"><![CDATA[be]]></wf>
+    <wf id="204" sent="1" para="1" offset="932" length="5"><![CDATA[upset]]></wf>
+    <wf id="205" sent="1" para="1" offset="937" length="2"><![CDATA[as]]></wf>
+    <wf id="206" sent="1" para="1" offset="939" length="9"><![CDATA[thousands]]></wf>
+    <wf id="207" sent="1" para="1" offset="948" length="2"><![CDATA[of]]></wf>
+    <wf id="208" sent="1" para="1" offset="950" length="7"><![CDATA[migrant]]></wf>
+    <wf id="209" sent="1" para="1" offset="957" length="7"><![CDATA[workers]]></wf>
+    <wf id="210" sent="1" para="1" offset="964" length="1"><![CDATA[,]]></wf>
+    <wf id="211" sent="1" para="1" offset="965" length="4"><![CDATA[some]]></wf>
+    <wf id="212" sent="1" para="1" offset="969" length="5"><![CDATA[tense]]></wf>
+    <wf id="213" sent="1" para="1" offset="974" length="4"><![CDATA[with]]></wf>
+    <wf id="214" sent="1" para="1" offset="978" length="7"><![CDATA[grudges]]></wf>
+    <wf id="215" sent="1" para="1" offset="985" length="6"><![CDATA[brewed]]></wf>
+    <wf id="216" sent="1" para="1" offset="991" length="2"><![CDATA[in]]></wf>
+    <wf id="217" sent="1" para="1" offset="993" length="3"><![CDATA[the]]></wf>
+    <wf id="218" sent="1" para="1" offset="996" length="6"><![CDATA[cities]]></wf>
+    <wf id="219" sent="1" para="1" offset="1002" length="3"><![CDATA[and]]></wf>
+    <wf id="220" sent="1" para="1" offset="1005" length="4"><![CDATA[keen]]></wf>
+    <wf id="221" sent="1" para="1" offset="1009" length="2"><![CDATA[to]]></wf>
+    <wf id="222" sent="1" para="1" offset="1011" length="6"><![CDATA[settle]]></wf>
+    <wf id="223" sent="1" para="1" offset="1017" length="3"><![CDATA[old]]></wf>
+    <wf id="224" sent="1" para="1" offset="1020" length="6"><![CDATA[scores]]></wf>
+    <wf id="225" sent="1" para="1" offset="1026" length="1"><![CDATA[,]]></wf>
+    <wf id="226" sent="1" para="1" offset="1027" length="5"><![CDATA[flock]]></wf>
+    <wf id="227" sent="1" para="1" offset="1032" length="4"><![CDATA[back]]></wf>
+    <wf id="228" sent="1" para="1" offset="1036" length="2"><![CDATA[to]]></wf>
+    <wf id="229" sent="1" para="1" offset="1038" length="5"><![CDATA[their]]></wf>
+    <wf id="230" sent="1" para="1" offset="1043" length="4"><![CDATA[home]]></wf>
+    <wf id="231" sent="1" para="1" offset="1047" length="8"><![CDATA[villages]]></wf>
+    <wf id="232" sent="1" para="1" offset="1055" length="1"><![CDATA[.]]></wf>
+    <wf id="233" sent="1" para="1" offset="1056" length="4"><![CDATA[More]]></wf>
+    <wf id="234" sent="1" para="1" offset="1060" length="4"><![CDATA[than]]></wf>
+    <wf id="235" sent="1" para="1" offset="1064" length="6"><![CDATA[14,000]]></wf>
+    <wf id="236" sent="1" para="1" offset="1070" length="6"><![CDATA[people]]></wf>
+    <wf id="237" sent="1" para="1" offset="1076" length="4"><![CDATA[have]]></wf>
+    <wf id="238" sent="1" para="1" offset="1080" length="4"><![CDATA[lost]]></wf>
+    <wf id="239" sent="1" para="1" offset="1084" length="5"><![CDATA[their]]></wf>
+    <wf id="240" sent="1" para="1" offset="1089" length="5"><![CDATA[lives]]></wf>
+    <wf id="241" sent="1" para="1" offset="1094" length="2"><![CDATA[in]]></wf>
+    <wf id="242" sent="1" para="1" offset="1096" length="4"><![CDATA[over]]></wf>
+    <wf id="243" sent="1" para="1" offset="1100" length="1"><![CDATA[a]]></wf>
+    <wf id="244" sent="1" para="1" offset="1101" length="6"><![CDATA[decade]]></wf>
+    <wf id="245" sent="1" para="1" offset="1107" length="2"><![CDATA[of]]></wf>
+    <wf id="246" sent="1" para="1" offset="1109" length="9"><![CDATA[political]]></wf>
+    <wf id="247" sent="1" para="1" offset="1118" length="4"><![CDATA[turf]]></wf>
+    <wf id="248" sent="1" para="1" offset="1122" length="4"><![CDATA[wars]]></wf>
+    <wf id="249" sent="1" para="1" offset="1126" length="7"><![CDATA[between]]></wf>
+    <wf id="250" sent="1" para="1" offset="1133" length="3"><![CDATA[the]]></wf>
+    <wf id="251" sent="1" para="1" offset="1136" length="3"><![CDATA[ANC]]></wf>
+    <wf id="252" sent="1" para="1" offset="1139" length="3"><![CDATA[and]]></wf>
+    <wf id="253" sent="1" para="1" offset="1142" length="4"><![CDATA[Zulu]]></wf>
+    <wf id="254" sent="1" para="1" offset="1146" length="5"><![CDATA[Chief]]></wf>
+    <wf id="255" sent="1" para="1" offset="1151" length="10"><![CDATA[Mangosuthu]]></wf>
+    <wf id="256" sent="1" para="1" offset="1161" length="9"><![CDATA[Buthelezi]]></wf>
+    <wf id="257" sent="1" para="1" offset="1170" length="2"><![CDATA['s]]></wf>
+    <wf id="258" sent="1" para="1" offset="1172" length="7"><![CDATA[Inkatha]]></wf>
+    <wf id="259" sent="1" para="1" offset="1179" length="7"><![CDATA[Freedom]]></wf>
+    <wf id="260" sent="1" para="1" offset="1186" length="5"><![CDATA[Party]]></wf>
+    <wf id="261" sent="1" para="1" offset="1191" length="2"><![CDATA[in]]></wf>
+    <wf id="262" sent="1" para="1" offset="1193" length="3"><![CDATA[the]]></wf>
+    <wf id="263" sent="1" para="1" offset="1196" length="8"><![CDATA[province]]></wf>
+    <wf id="264" sent="1" para="1" offset="1204" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="GUNMEN">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="KILL">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="FOUR">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="IN">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="S.AFRICA">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="'S">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="ZULU">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="PROVINCE">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma=".">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="DURBAN">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma=",">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="South">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Africa">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="1996-12-06">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="At">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="least">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="four">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="people">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="have">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="been">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="shot">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="dead">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="in">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="two">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="suspected">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="political">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="attacks">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="in">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="South">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="Africa">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="'s">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="volatile">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="Zulu">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="heartland">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma=",">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="police">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="said">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="on">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="Friday">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma=".">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="A">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="police">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="spokesman">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="said">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="two">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="youths">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="believed">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="to">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="be">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="supporters">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="of">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="President">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="Nelson">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="Mandela">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="'s">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="African">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="National">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="Congress">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="(">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="ANC">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma=")">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="had">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="been">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="killed">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="when">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="unknown">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="gunmen">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="opened">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="fire">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="at">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="the">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="rural">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="settlement">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="of">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="Izingolweni">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="on">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="KwaZulu-Natal">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="province">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="'s">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="south">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="coast">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="on">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="Thursday">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="night">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma=".">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="The">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="victims">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="were">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="18">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="and">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="20">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma=",">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="he">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="said">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma=",">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="adding">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="one">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="other">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="youth">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="had">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="been">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="wounded">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="in">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="the">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="shooting">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma=".">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="In">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="another">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="attack">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma=",">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="also">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="on">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="the">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="province">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="'s">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="south">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="coast">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="on">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="Thursday">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="night">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma=",">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="two">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="men">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="were">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="shot">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="dead">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="near">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="Umkomaas">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma=".">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="&quot;">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="We">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="suspect">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="that">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="these">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="killings">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="are">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="linked">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="to">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="politics">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma=",">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="&quot;">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="spokesman">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="Bala">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="Naidoo">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="told">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="Reuters">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma=".">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="There">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="had">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="been">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="no">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="arrests">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma=".">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="The">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="killings">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="came">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="just">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="hours">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="after">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="violence">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="monitors">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="said">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="they">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="were">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="not">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="optimistic">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="of">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="a">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="peaceful">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="festive">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="season">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma="in">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="KwaZulu-Natal">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="and">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma="pointed">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="the">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma="south">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="coast">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="region">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="where">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="18">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="people">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="were">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma="massacred">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="last">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma="Christmas">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="as">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma="one">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="of">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma="potential">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma="hot">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="spots">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma=".">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma="They">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma="said">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma="the">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="recent">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma="lull">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma="in">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma="political">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+    <term id="201" lemma="feuding">
+      <span>
+        <target id="201"/>
+      </span>
+    </term>
+    <term id="202" lemma="could">
+      <span>
+        <target id="202"/>
+      </span>
+    </term>
+    <term id="203" lemma="be">
+      <span>
+        <target id="203"/>
+      </span>
+    </term>
+    <term id="204" lemma="upset">
+      <span>
+        <target id="204"/>
+      </span>
+    </term>
+    <term id="205" lemma="as">
+      <span>
+        <target id="205"/>
+      </span>
+    </term>
+    <term id="206" lemma="thousands">
+      <span>
+        <target id="206"/>
+      </span>
+    </term>
+    <term id="207" lemma="of">
+      <span>
+        <target id="207"/>
+      </span>
+    </term>
+    <term id="208" lemma="migrant">
+      <span>
+        <target id="208"/>
+      </span>
+    </term>
+    <term id="209" lemma="workers">
+      <span>
+        <target id="209"/>
+      </span>
+    </term>
+    <term id="210" lemma=",">
+      <span>
+        <target id="210"/>
+      </span>
+    </term>
+    <term id="211" lemma="some">
+      <span>
+        <target id="211"/>
+      </span>
+    </term>
+    <term id="212" lemma="tense">
+      <span>
+        <target id="212"/>
+      </span>
+    </term>
+    <term id="213" lemma="with">
+      <span>
+        <target id="213"/>
+      </span>
+    </term>
+    <term id="214" lemma="grudges">
+      <span>
+        <target id="214"/>
+      </span>
+    </term>
+    <term id="215" lemma="brewed">
+      <span>
+        <target id="215"/>
+      </span>
+    </term>
+    <term id="216" lemma="in">
+      <span>
+        <target id="216"/>
+      </span>
+    </term>
+    <term id="217" lemma="the">
+      <span>
+        <target id="217"/>
+      </span>
+    </term>
+    <term id="218" lemma="cities">
+      <span>
+        <target id="218"/>
+      </span>
+    </term>
+    <term id="219" lemma="and">
+      <span>
+        <target id="219"/>
+      </span>
+    </term>
+    <term id="220" lemma="keen">
+      <span>
+        <target id="220"/>
+      </span>
+    </term>
+    <term id="221" lemma="to">
+      <span>
+        <target id="221"/>
+      </span>
+    </term>
+    <term id="222" lemma="settle">
+      <span>
+        <target id="222"/>
+      </span>
+    </term>
+    <term id="223" lemma="old">
+      <span>
+        <target id="223"/>
+      </span>
+    </term>
+    <term id="224" lemma="scores">
+      <span>
+        <target id="224"/>
+      </span>
+    </term>
+    <term id="225" lemma=",">
+      <span>
+        <target id="225"/>
+      </span>
+    </term>
+    <term id="226" lemma="flock">
+      <span>
+        <target id="226"/>
+      </span>
+    </term>
+    <term id="227" lemma="back">
+      <span>
+        <target id="227"/>
+      </span>
+    </term>
+    <term id="228" lemma="to">
+      <span>
+        <target id="228"/>
+      </span>
+    </term>
+    <term id="229" lemma="their">
+      <span>
+        <target id="229"/>
+      </span>
+    </term>
+    <term id="230" lemma="home">
+      <span>
+        <target id="230"/>
+      </span>
+    </term>
+    <term id="231" lemma="villages">
+      <span>
+        <target id="231"/>
+      </span>
+    </term>
+    <term id="232" lemma=".">
+      <span>
+        <target id="232"/>
+      </span>
+    </term>
+    <term id="233" lemma="More">
+      <span>
+        <target id="233"/>
+      </span>
+    </term>
+    <term id="234" lemma="than">
+      <span>
+        <target id="234"/>
+      </span>
+    </term>
+    <term id="235" lemma="14,000">
+      <span>
+        <target id="235"/>
+      </span>
+    </term>
+    <term id="236" lemma="people">
+      <span>
+        <target id="236"/>
+      </span>
+    </term>
+    <term id="237" lemma="have">
+      <span>
+        <target id="237"/>
+      </span>
+    </term>
+    <term id="238" lemma="lost">
+      <span>
+        <target id="238"/>
+      </span>
+    </term>
+    <term id="239" lemma="their">
+      <span>
+        <target id="239"/>
+      </span>
+    </term>
+    <term id="240" lemma="lives">
+      <span>
+        <target id="240"/>
+      </span>
+    </term>
+    <term id="241" lemma="in">
+      <span>
+        <target id="241"/>
+      </span>
+    </term>
+    <term id="242" lemma="over">
+      <span>
+        <target id="242"/>
+      </span>
+    </term>
+    <term id="243" lemma="a">
+      <span>
+        <target id="243"/>
+      </span>
+    </term>
+    <term id="244" lemma="decade">
+      <span>
+        <target id="244"/>
+      </span>
+    </term>
+    <term id="245" lemma="of">
+      <span>
+        <target id="245"/>
+      </span>
+    </term>
+    <term id="246" lemma="political">
+      <span>
+        <target id="246"/>
+      </span>
+    </term>
+    <term id="247" lemma="turf">
+      <span>
+        <target id="247"/>
+      </span>
+    </term>
+    <term id="248" lemma="wars">
+      <span>
+        <target id="248"/>
+      </span>
+    </term>
+    <term id="249" lemma="between">
+      <span>
+        <target id="249"/>
+      </span>
+    </term>
+    <term id="250" lemma="the">
+      <span>
+        <target id="250"/>
+      </span>
+    </term>
+    <term id="251" lemma="ANC">
+      <span>
+        <target id="251"/>
+      </span>
+    </term>
+    <term id="252" lemma="and">
+      <span>
+        <target id="252"/>
+      </span>
+    </term>
+    <term id="253" lemma="Zulu">
+      <span>
+        <target id="253"/>
+      </span>
+    </term>
+    <term id="254" lemma="Chief">
+      <span>
+        <target id="254"/>
+      </span>
+    </term>
+    <term id="255" lemma="Mangosuthu">
+      <span>
+        <target id="255"/>
+      </span>
+    </term>
+    <term id="256" lemma="Buthelezi">
+      <span>
+        <target id="256"/>
+      </span>
+    </term>
+    <term id="257" lemma="'s">
+      <span>
+        <target id="257"/>
+      </span>
+    </term>
+    <term id="258" lemma="Inkatha">
+      <span>
+        <target id="258"/>
+      </span>
+    </term>
+    <term id="259" lemma="Freedom">
+      <span>
+        <target id="259"/>
+      </span>
+    </term>
+    <term id="260" lemma="Party">
+      <span>
+        <target id="260"/>
+      </span>
+    </term>
+    <term id="261" lemma="in">
+      <span>
+        <target id="261"/>
+      </span>
+    </term>
+    <term id="262" lemma="the">
+      <span>
+        <target id="262"/>
+      </span>
+    </term>
+    <term id="263" lemma="province">
+      <span>
+        <target id="263"/>
+      </span>
+    </term>
+    <term id="264" lemma=".">
+      <span>
+        <target id="264"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="1576">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="5"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1577">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Zulu_Kingdom" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="7"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1578">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Durban" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="10"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1579">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/South_Africa" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+          <target id="13"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1580">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/South_Africa" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="29"/>
+          <target id="30"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1581">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Zulu_Kingdom" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="33"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1582">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Nelson_Mandela" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="53"/>
+          <target id="54"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1583">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/African_National_Congress" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="56"/>
+          <target id="57"/>
+          <target id="58"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1584">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/African_National_Congress" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="60"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1585">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="75"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1586">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/KwaZulu-Natal" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="77"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1587">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Umkomaas" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="128"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1588">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="143"/>
+          <target id="144"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1589">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Reuters" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="146"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1590">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/KwaZulu-Natal" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="173"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1591">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/African_National_Congress" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="251"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1592">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Zulu_Kingdom" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="253"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1593">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Mangosuthu_Buthelezi" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="255"/>
+          <target id="256"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1594">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Inkatha_Freedom_Party" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="258"/>
+          <target id="259"/>
+          <target id="260"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

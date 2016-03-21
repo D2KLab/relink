@@ -1,0 +1,954 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[Electronic Data bags flight data contract . LONDON 1996-12-06 Information technology firm Electronic Data Systems said on Friday it had bagged a contract for the first air traffic control project being funded under the Private Finance Initiative . In a statement , EDS said the contract would be in the region of 50 million stg . The contract involved upgrading the flight data processing system at the Oceanic Control Centre in Prestwick in south west Scotland for National Air Traffic Services Ltd ( NATS ) , subsidiary of the Civil Aviation Authority . The system is responsible for the control of aircraft flying transatlantic routes from Europe and North America . The system , which would use satellite technology , is scheduled to enter service in 2000 . -- London Newsroom +44-171-542 7717 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1227testb" filename="1227testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="10"><![CDATA[Electronic]]></wf>
+    <wf id="1" sent="1" para="1" offset="10" length="4"><![CDATA[Data]]></wf>
+    <wf id="2" sent="1" para="1" offset="14" length="4"><![CDATA[bags]]></wf>
+    <wf id="3" sent="1" para="1" offset="18" length="6"><![CDATA[flight]]></wf>
+    <wf id="4" sent="1" para="1" offset="24" length="4"><![CDATA[data]]></wf>
+    <wf id="5" sent="1" para="1" offset="28" length="8"><![CDATA[contract]]></wf>
+    <wf id="6" sent="1" para="1" offset="36" length="1"><![CDATA[.]]></wf>
+    <wf id="7" sent="1" para="1" offset="37" length="6"><![CDATA[LONDON]]></wf>
+    <wf id="8" sent="1" para="1" offset="43" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="9" sent="1" para="1" offset="53" length="11"><![CDATA[Information]]></wf>
+    <wf id="10" sent="1" para="1" offset="64" length="10"><![CDATA[technology]]></wf>
+    <wf id="11" sent="1" para="1" offset="74" length="4"><![CDATA[firm]]></wf>
+    <wf id="12" sent="1" para="1" offset="78" length="10"><![CDATA[Electronic]]></wf>
+    <wf id="13" sent="1" para="1" offset="88" length="4"><![CDATA[Data]]></wf>
+    <wf id="14" sent="1" para="1" offset="92" length="7"><![CDATA[Systems]]></wf>
+    <wf id="15" sent="1" para="1" offset="99" length="4"><![CDATA[said]]></wf>
+    <wf id="16" sent="1" para="1" offset="103" length="2"><![CDATA[on]]></wf>
+    <wf id="17" sent="1" para="1" offset="105" length="6"><![CDATA[Friday]]></wf>
+    <wf id="18" sent="1" para="1" offset="111" length="2"><![CDATA[it]]></wf>
+    <wf id="19" sent="1" para="1" offset="113" length="3"><![CDATA[had]]></wf>
+    <wf id="20" sent="1" para="1" offset="116" length="6"><![CDATA[bagged]]></wf>
+    <wf id="21" sent="1" para="1" offset="122" length="1"><![CDATA[a]]></wf>
+    <wf id="22" sent="1" para="1" offset="123" length="8"><![CDATA[contract]]></wf>
+    <wf id="23" sent="1" para="1" offset="131" length="3"><![CDATA[for]]></wf>
+    <wf id="24" sent="1" para="1" offset="134" length="3"><![CDATA[the]]></wf>
+    <wf id="25" sent="1" para="1" offset="137" length="5"><![CDATA[first]]></wf>
+    <wf id="26" sent="1" para="1" offset="142" length="3"><![CDATA[air]]></wf>
+    <wf id="27" sent="1" para="1" offset="145" length="7"><![CDATA[traffic]]></wf>
+    <wf id="28" sent="1" para="1" offset="152" length="7"><![CDATA[control]]></wf>
+    <wf id="29" sent="1" para="1" offset="159" length="7"><![CDATA[project]]></wf>
+    <wf id="30" sent="1" para="1" offset="166" length="5"><![CDATA[being]]></wf>
+    <wf id="31" sent="1" para="1" offset="171" length="6"><![CDATA[funded]]></wf>
+    <wf id="32" sent="1" para="1" offset="177" length="5"><![CDATA[under]]></wf>
+    <wf id="33" sent="1" para="1" offset="182" length="3"><![CDATA[the]]></wf>
+    <wf id="34" sent="1" para="1" offset="185" length="7"><![CDATA[Private]]></wf>
+    <wf id="35" sent="1" para="1" offset="192" length="7"><![CDATA[Finance]]></wf>
+    <wf id="36" sent="1" para="1" offset="199" length="10"><![CDATA[Initiative]]></wf>
+    <wf id="37" sent="1" para="1" offset="209" length="1"><![CDATA[.]]></wf>
+    <wf id="38" sent="1" para="1" offset="210" length="2"><![CDATA[In]]></wf>
+    <wf id="39" sent="1" para="1" offset="212" length="1"><![CDATA[a]]></wf>
+    <wf id="40" sent="1" para="1" offset="213" length="9"><![CDATA[statement]]></wf>
+    <wf id="41" sent="1" para="1" offset="222" length="1"><![CDATA[,]]></wf>
+    <wf id="42" sent="1" para="1" offset="223" length="3"><![CDATA[EDS]]></wf>
+    <wf id="43" sent="1" para="1" offset="226" length="4"><![CDATA[said]]></wf>
+    <wf id="44" sent="1" para="1" offset="230" length="3"><![CDATA[the]]></wf>
+    <wf id="45" sent="1" para="1" offset="233" length="8"><![CDATA[contract]]></wf>
+    <wf id="46" sent="1" para="1" offset="241" length="5"><![CDATA[would]]></wf>
+    <wf id="47" sent="1" para="1" offset="246" length="2"><![CDATA[be]]></wf>
+    <wf id="48" sent="1" para="1" offset="248" length="2"><![CDATA[in]]></wf>
+    <wf id="49" sent="1" para="1" offset="250" length="3"><![CDATA[the]]></wf>
+    <wf id="50" sent="1" para="1" offset="253" length="6"><![CDATA[region]]></wf>
+    <wf id="51" sent="1" para="1" offset="259" length="2"><![CDATA[of]]></wf>
+    <wf id="52" sent="1" para="1" offset="261" length="2"><![CDATA[50]]></wf>
+    <wf id="53" sent="1" para="1" offset="263" length="7"><![CDATA[million]]></wf>
+    <wf id="54" sent="1" para="1" offset="270" length="3"><![CDATA[stg]]></wf>
+    <wf id="55" sent="1" para="1" offset="273" length="1"><![CDATA[.]]></wf>
+    <wf id="56" sent="1" para="1" offset="274" length="3"><![CDATA[The]]></wf>
+    <wf id="57" sent="1" para="1" offset="277" length="8"><![CDATA[contract]]></wf>
+    <wf id="58" sent="1" para="1" offset="285" length="8"><![CDATA[involved]]></wf>
+    <wf id="59" sent="1" para="1" offset="293" length="9"><![CDATA[upgrading]]></wf>
+    <wf id="60" sent="1" para="1" offset="302" length="3"><![CDATA[the]]></wf>
+    <wf id="61" sent="1" para="1" offset="305" length="6"><![CDATA[flight]]></wf>
+    <wf id="62" sent="1" para="1" offset="311" length="4"><![CDATA[data]]></wf>
+    <wf id="63" sent="1" para="1" offset="315" length="10"><![CDATA[processing]]></wf>
+    <wf id="64" sent="1" para="1" offset="325" length="6"><![CDATA[system]]></wf>
+    <wf id="65" sent="1" para="1" offset="331" length="2"><![CDATA[at]]></wf>
+    <wf id="66" sent="1" para="1" offset="333" length="3"><![CDATA[the]]></wf>
+    <wf id="67" sent="1" para="1" offset="336" length="7"><![CDATA[Oceanic]]></wf>
+    <wf id="68" sent="1" para="1" offset="343" length="7"><![CDATA[Control]]></wf>
+    <wf id="69" sent="1" para="1" offset="350" length="6"><![CDATA[Centre]]></wf>
+    <wf id="70" sent="1" para="1" offset="356" length="2"><![CDATA[in]]></wf>
+    <wf id="71" sent="1" para="1" offset="358" length="9"><![CDATA[Prestwick]]></wf>
+    <wf id="72" sent="1" para="1" offset="367" length="2"><![CDATA[in]]></wf>
+    <wf id="73" sent="1" para="1" offset="369" length="5"><![CDATA[south]]></wf>
+    <wf id="74" sent="1" para="1" offset="374" length="4"><![CDATA[west]]></wf>
+    <wf id="75" sent="1" para="1" offset="378" length="8"><![CDATA[Scotland]]></wf>
+    <wf id="76" sent="1" para="1" offset="386" length="3"><![CDATA[for]]></wf>
+    <wf id="77" sent="1" para="1" offset="389" length="8"><![CDATA[National]]></wf>
+    <wf id="78" sent="1" para="1" offset="397" length="3"><![CDATA[Air]]></wf>
+    <wf id="79" sent="1" para="1" offset="400" length="7"><![CDATA[Traffic]]></wf>
+    <wf id="80" sent="1" para="1" offset="407" length="8"><![CDATA[Services]]></wf>
+    <wf id="81" sent="1" para="1" offset="415" length="3"><![CDATA[Ltd]]></wf>
+    <wf id="82" sent="1" para="1" offset="418" length="1"><![CDATA[(]]></wf>
+    <wf id="83" sent="1" para="1" offset="419" length="4"><![CDATA[NATS]]></wf>
+    <wf id="84" sent="1" para="1" offset="423" length="1"><![CDATA[)]]></wf>
+    <wf id="85" sent="1" para="1" offset="424" length="1"><![CDATA[,]]></wf>
+    <wf id="86" sent="1" para="1" offset="425" length="10"><![CDATA[subsidiary]]></wf>
+    <wf id="87" sent="1" para="1" offset="435" length="2"><![CDATA[of]]></wf>
+    <wf id="88" sent="1" para="1" offset="437" length="3"><![CDATA[the]]></wf>
+    <wf id="89" sent="1" para="1" offset="440" length="5"><![CDATA[Civil]]></wf>
+    <wf id="90" sent="1" para="1" offset="445" length="8"><![CDATA[Aviation]]></wf>
+    <wf id="91" sent="1" para="1" offset="453" length="9"><![CDATA[Authority]]></wf>
+    <wf id="92" sent="1" para="1" offset="462" length="1"><![CDATA[.]]></wf>
+    <wf id="93" sent="1" para="1" offset="463" length="3"><![CDATA[The]]></wf>
+    <wf id="94" sent="1" para="1" offset="466" length="6"><![CDATA[system]]></wf>
+    <wf id="95" sent="1" para="1" offset="472" length="2"><![CDATA[is]]></wf>
+    <wf id="96" sent="1" para="1" offset="474" length="11"><![CDATA[responsible]]></wf>
+    <wf id="97" sent="1" para="1" offset="485" length="3"><![CDATA[for]]></wf>
+    <wf id="98" sent="1" para="1" offset="488" length="3"><![CDATA[the]]></wf>
+    <wf id="99" sent="1" para="1" offset="491" length="7"><![CDATA[control]]></wf>
+    <wf id="100" sent="1" para="1" offset="498" length="2"><![CDATA[of]]></wf>
+    <wf id="101" sent="1" para="1" offset="500" length="8"><![CDATA[aircraft]]></wf>
+    <wf id="102" sent="1" para="1" offset="508" length="6"><![CDATA[flying]]></wf>
+    <wf id="103" sent="1" para="1" offset="514" length="13"><![CDATA[transatlantic]]></wf>
+    <wf id="104" sent="1" para="1" offset="527" length="6"><![CDATA[routes]]></wf>
+    <wf id="105" sent="1" para="1" offset="533" length="4"><![CDATA[from]]></wf>
+    <wf id="106" sent="1" para="1" offset="537" length="6"><![CDATA[Europe]]></wf>
+    <wf id="107" sent="1" para="1" offset="543" length="3"><![CDATA[and]]></wf>
+    <wf id="108" sent="1" para="1" offset="546" length="5"><![CDATA[North]]></wf>
+    <wf id="109" sent="1" para="1" offset="551" length="7"><![CDATA[America]]></wf>
+    <wf id="110" sent="1" para="1" offset="558" length="1"><![CDATA[.]]></wf>
+    <wf id="111" sent="1" para="1" offset="559" length="3"><![CDATA[The]]></wf>
+    <wf id="112" sent="1" para="1" offset="562" length="6"><![CDATA[system]]></wf>
+    <wf id="113" sent="1" para="1" offset="568" length="1"><![CDATA[,]]></wf>
+    <wf id="114" sent="1" para="1" offset="569" length="5"><![CDATA[which]]></wf>
+    <wf id="115" sent="1" para="1" offset="574" length="5"><![CDATA[would]]></wf>
+    <wf id="116" sent="1" para="1" offset="579" length="3"><![CDATA[use]]></wf>
+    <wf id="117" sent="1" para="1" offset="582" length="9"><![CDATA[satellite]]></wf>
+    <wf id="118" sent="1" para="1" offset="591" length="10"><![CDATA[technology]]></wf>
+    <wf id="119" sent="1" para="1" offset="601" length="1"><![CDATA[,]]></wf>
+    <wf id="120" sent="1" para="1" offset="602" length="2"><![CDATA[is]]></wf>
+    <wf id="121" sent="1" para="1" offset="604" length="9"><![CDATA[scheduled]]></wf>
+    <wf id="122" sent="1" para="1" offset="613" length="2"><![CDATA[to]]></wf>
+    <wf id="123" sent="1" para="1" offset="615" length="5"><![CDATA[enter]]></wf>
+    <wf id="124" sent="1" para="1" offset="620" length="7"><![CDATA[service]]></wf>
+    <wf id="125" sent="1" para="1" offset="627" length="2"><![CDATA[in]]></wf>
+    <wf id="126" sent="1" para="1" offset="629" length="4"><![CDATA[2000]]></wf>
+    <wf id="127" sent="1" para="1" offset="633" length="1"><![CDATA[.]]></wf>
+    <wf id="128" sent="1" para="1" offset="634" length="2"><![CDATA[--]]></wf>
+    <wf id="129" sent="1" para="1" offset="636" length="6"><![CDATA[London]]></wf>
+    <wf id="130" sent="1" para="1" offset="642" length="8"><![CDATA[Newsroom]]></wf>
+    <wf id="131" sent="1" para="1" offset="650" length="11"><![CDATA[+44-171-542]]></wf>
+    <wf id="132" sent="1" para="1" offset="661" length="4"><![CDATA[7717]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="Electronic">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="Data">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="bags">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="flight">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="data">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="contract">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma=".">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="LONDON">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="1996-12-06">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="Information">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="technology">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="firm">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="Electronic">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Data">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="Systems">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="said">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="on">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="Friday">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="it">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="had">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="bagged">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="a">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="contract">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="for">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="the">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="first">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="air">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="traffic">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="control">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="project">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="being">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="funded">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="under">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="the">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="Private">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="Finance">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="Initiative">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma=".">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="In">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="a">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="statement">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma=",">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="EDS">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="said">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="the">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="contract">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="would">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="be">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="in">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="the">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="region">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="of">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="50">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="million">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="stg">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma=".">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="The">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="contract">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="involved">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="upgrading">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="the">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="flight">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="data">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="processing">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="system">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="at">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="the">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="Oceanic">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="Control">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="Centre">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="in">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="Prestwick">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="in">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="south">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="west">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="Scotland">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="for">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="National">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="Air">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="Traffic">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="Services">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="Ltd">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="(">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="NATS">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma=")">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma=",">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="subsidiary">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="of">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="the">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="Civil">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="Aviation">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="Authority">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma=".">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="The">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="system">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="is">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="responsible">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="for">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="the">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="control">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="of">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="aircraft">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="flying">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="transatlantic">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="routes">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="from">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="Europe">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="and">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="North">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="America">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma=".">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="The">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="system">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma=",">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="which">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="would">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="use">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="satellite">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="technology">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma=",">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="is">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="scheduled">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="to">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="enter">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="service">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="in">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="2000">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma=".">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="--">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="London">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="Newsroom">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="+44-171-542">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="7717">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="1918">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="0"/>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1919">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/London" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="7"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1920">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/HP_Enterprise_Services" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+          <target id="13"/>
+          <target id="14"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1921">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/HP_Enterprise_Services" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="42"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1922">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="67"/>
+          <target id="68"/>
+          <target id="69"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1923">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Prestwick" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="71"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1924">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Scotland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="75"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1925">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="77"/>
+          <target id="78"/>
+          <target id="79"/>
+          <target id="80"/>
+          <target id="81"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1926">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/National_Air_Traffic_Services" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="83"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1927">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Civil_Aviation_Authority_(United_Kingdom)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="89"/>
+          <target id="90"/>
+          <target id="91"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1928">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Europe" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="106"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1929">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/North_America" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="108"/>
+          <target id="109"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1930">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="129"/>
+          <target id="130"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

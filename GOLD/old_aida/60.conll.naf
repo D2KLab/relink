@@ -1,0 +1,845 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[Woman charged over N. Ireland arms find . BELFAST 1996-12-06 A woman was charged on Friday with terrorist offences after three Irish Republican Army mortar bombs were found in a Belfast house , police said . Police said the bombs were found hidden with incendiaries and ammunition that were blocked up behind a kitchen wall . The 35-year-old woman was charged with possession of explosives with intent to endanger life and making a house available for the purpose of terrorism , police said . She will appear in court on Saturday . Her name was not released . Security forces said the bombs may have been intended for use in a pre-Christmas bombing campaign by the guerrilla group that is battling to oust Britain from Northern Ireland . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1222testb" filename="1222testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="5"><![CDATA[Woman]]></wf>
+    <wf id="1" sent="1" para="1" offset="5" length="7"><![CDATA[charged]]></wf>
+    <wf id="2" sent="1" para="1" offset="12" length="4"><![CDATA[over]]></wf>
+    <wf id="3" sent="1" para="1" offset="16" length="2"><![CDATA[N.]]></wf>
+    <wf id="4" sent="1" para="1" offset="18" length="7"><![CDATA[Ireland]]></wf>
+    <wf id="5" sent="1" para="1" offset="25" length="4"><![CDATA[arms]]></wf>
+    <wf id="6" sent="1" para="1" offset="29" length="4"><![CDATA[find]]></wf>
+    <wf id="7" sent="1" para="1" offset="33" length="1"><![CDATA[.]]></wf>
+    <wf id="8" sent="1" para="1" offset="34" length="7"><![CDATA[BELFAST]]></wf>
+    <wf id="9" sent="1" para="1" offset="41" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="10" sent="1" para="1" offset="51" length="1"><![CDATA[A]]></wf>
+    <wf id="11" sent="1" para="1" offset="52" length="5"><![CDATA[woman]]></wf>
+    <wf id="12" sent="1" para="1" offset="57" length="3"><![CDATA[was]]></wf>
+    <wf id="13" sent="1" para="1" offset="60" length="7"><![CDATA[charged]]></wf>
+    <wf id="14" sent="1" para="1" offset="67" length="2"><![CDATA[on]]></wf>
+    <wf id="15" sent="1" para="1" offset="69" length="6"><![CDATA[Friday]]></wf>
+    <wf id="16" sent="1" para="1" offset="75" length="4"><![CDATA[with]]></wf>
+    <wf id="17" sent="1" para="1" offset="79" length="9"><![CDATA[terrorist]]></wf>
+    <wf id="18" sent="1" para="1" offset="88" length="8"><![CDATA[offences]]></wf>
+    <wf id="19" sent="1" para="1" offset="96" length="5"><![CDATA[after]]></wf>
+    <wf id="20" sent="1" para="1" offset="101" length="5"><![CDATA[three]]></wf>
+    <wf id="21" sent="1" para="1" offset="106" length="5"><![CDATA[Irish]]></wf>
+    <wf id="22" sent="1" para="1" offset="111" length="10"><![CDATA[Republican]]></wf>
+    <wf id="23" sent="1" para="1" offset="121" length="4"><![CDATA[Army]]></wf>
+    <wf id="24" sent="1" para="1" offset="125" length="6"><![CDATA[mortar]]></wf>
+    <wf id="25" sent="1" para="1" offset="131" length="5"><![CDATA[bombs]]></wf>
+    <wf id="26" sent="1" para="1" offset="136" length="4"><![CDATA[were]]></wf>
+    <wf id="27" sent="1" para="1" offset="140" length="5"><![CDATA[found]]></wf>
+    <wf id="28" sent="1" para="1" offset="145" length="2"><![CDATA[in]]></wf>
+    <wf id="29" sent="1" para="1" offset="147" length="1"><![CDATA[a]]></wf>
+    <wf id="30" sent="1" para="1" offset="148" length="7"><![CDATA[Belfast]]></wf>
+    <wf id="31" sent="1" para="1" offset="155" length="5"><![CDATA[house]]></wf>
+    <wf id="32" sent="1" para="1" offset="160" length="1"><![CDATA[,]]></wf>
+    <wf id="33" sent="1" para="1" offset="161" length="6"><![CDATA[police]]></wf>
+    <wf id="34" sent="1" para="1" offset="167" length="4"><![CDATA[said]]></wf>
+    <wf id="35" sent="1" para="1" offset="171" length="1"><![CDATA[.]]></wf>
+    <wf id="36" sent="1" para="1" offset="172" length="6"><![CDATA[Police]]></wf>
+    <wf id="37" sent="1" para="1" offset="178" length="4"><![CDATA[said]]></wf>
+    <wf id="38" sent="1" para="1" offset="182" length="3"><![CDATA[the]]></wf>
+    <wf id="39" sent="1" para="1" offset="185" length="5"><![CDATA[bombs]]></wf>
+    <wf id="40" sent="1" para="1" offset="190" length="4"><![CDATA[were]]></wf>
+    <wf id="41" sent="1" para="1" offset="194" length="5"><![CDATA[found]]></wf>
+    <wf id="42" sent="1" para="1" offset="199" length="6"><![CDATA[hidden]]></wf>
+    <wf id="43" sent="1" para="1" offset="205" length="4"><![CDATA[with]]></wf>
+    <wf id="44" sent="1" para="1" offset="209" length="12"><![CDATA[incendiaries]]></wf>
+    <wf id="45" sent="1" para="1" offset="221" length="3"><![CDATA[and]]></wf>
+    <wf id="46" sent="1" para="1" offset="224" length="10"><![CDATA[ammunition]]></wf>
+    <wf id="47" sent="1" para="1" offset="234" length="4"><![CDATA[that]]></wf>
+    <wf id="48" sent="1" para="1" offset="238" length="4"><![CDATA[were]]></wf>
+    <wf id="49" sent="1" para="1" offset="242" length="7"><![CDATA[blocked]]></wf>
+    <wf id="50" sent="1" para="1" offset="249" length="2"><![CDATA[up]]></wf>
+    <wf id="51" sent="1" para="1" offset="251" length="6"><![CDATA[behind]]></wf>
+    <wf id="52" sent="1" para="1" offset="257" length="1"><![CDATA[a]]></wf>
+    <wf id="53" sent="1" para="1" offset="258" length="7"><![CDATA[kitchen]]></wf>
+    <wf id="54" sent="1" para="1" offset="265" length="4"><![CDATA[wall]]></wf>
+    <wf id="55" sent="1" para="1" offset="269" length="1"><![CDATA[.]]></wf>
+    <wf id="56" sent="1" para="1" offset="270" length="3"><![CDATA[The]]></wf>
+    <wf id="57" sent="1" para="1" offset="273" length="11"><![CDATA[35-year-old]]></wf>
+    <wf id="58" sent="1" para="1" offset="284" length="5"><![CDATA[woman]]></wf>
+    <wf id="59" sent="1" para="1" offset="289" length="3"><![CDATA[was]]></wf>
+    <wf id="60" sent="1" para="1" offset="292" length="7"><![CDATA[charged]]></wf>
+    <wf id="61" sent="1" para="1" offset="299" length="4"><![CDATA[with]]></wf>
+    <wf id="62" sent="1" para="1" offset="303" length="10"><![CDATA[possession]]></wf>
+    <wf id="63" sent="1" para="1" offset="313" length="2"><![CDATA[of]]></wf>
+    <wf id="64" sent="1" para="1" offset="315" length="10"><![CDATA[explosives]]></wf>
+    <wf id="65" sent="1" para="1" offset="325" length="4"><![CDATA[with]]></wf>
+    <wf id="66" sent="1" para="1" offset="329" length="6"><![CDATA[intent]]></wf>
+    <wf id="67" sent="1" para="1" offset="335" length="2"><![CDATA[to]]></wf>
+    <wf id="68" sent="1" para="1" offset="337" length="8"><![CDATA[endanger]]></wf>
+    <wf id="69" sent="1" para="1" offset="345" length="4"><![CDATA[life]]></wf>
+    <wf id="70" sent="1" para="1" offset="349" length="3"><![CDATA[and]]></wf>
+    <wf id="71" sent="1" para="1" offset="352" length="6"><![CDATA[making]]></wf>
+    <wf id="72" sent="1" para="1" offset="358" length="1"><![CDATA[a]]></wf>
+    <wf id="73" sent="1" para="1" offset="359" length="5"><![CDATA[house]]></wf>
+    <wf id="74" sent="1" para="1" offset="364" length="9"><![CDATA[available]]></wf>
+    <wf id="75" sent="1" para="1" offset="373" length="3"><![CDATA[for]]></wf>
+    <wf id="76" sent="1" para="1" offset="376" length="3"><![CDATA[the]]></wf>
+    <wf id="77" sent="1" para="1" offset="379" length="7"><![CDATA[purpose]]></wf>
+    <wf id="78" sent="1" para="1" offset="386" length="2"><![CDATA[of]]></wf>
+    <wf id="79" sent="1" para="1" offset="388" length="9"><![CDATA[terrorism]]></wf>
+    <wf id="80" sent="1" para="1" offset="397" length="1"><![CDATA[,]]></wf>
+    <wf id="81" sent="1" para="1" offset="398" length="6"><![CDATA[police]]></wf>
+    <wf id="82" sent="1" para="1" offset="404" length="4"><![CDATA[said]]></wf>
+    <wf id="83" sent="1" para="1" offset="408" length="1"><![CDATA[.]]></wf>
+    <wf id="84" sent="1" para="1" offset="409" length="3"><![CDATA[She]]></wf>
+    <wf id="85" sent="1" para="1" offset="412" length="4"><![CDATA[will]]></wf>
+    <wf id="86" sent="1" para="1" offset="416" length="6"><![CDATA[appear]]></wf>
+    <wf id="87" sent="1" para="1" offset="422" length="2"><![CDATA[in]]></wf>
+    <wf id="88" sent="1" para="1" offset="424" length="5"><![CDATA[court]]></wf>
+    <wf id="89" sent="1" para="1" offset="429" length="2"><![CDATA[on]]></wf>
+    <wf id="90" sent="1" para="1" offset="431" length="8"><![CDATA[Saturday]]></wf>
+    <wf id="91" sent="1" para="1" offset="439" length="1"><![CDATA[.]]></wf>
+    <wf id="92" sent="1" para="1" offset="440" length="3"><![CDATA[Her]]></wf>
+    <wf id="93" sent="1" para="1" offset="443" length="4"><![CDATA[name]]></wf>
+    <wf id="94" sent="1" para="1" offset="447" length="3"><![CDATA[was]]></wf>
+    <wf id="95" sent="1" para="1" offset="450" length="3"><![CDATA[not]]></wf>
+    <wf id="96" sent="1" para="1" offset="453" length="8"><![CDATA[released]]></wf>
+    <wf id="97" sent="1" para="1" offset="461" length="1"><![CDATA[.]]></wf>
+    <wf id="98" sent="1" para="1" offset="462" length="8"><![CDATA[Security]]></wf>
+    <wf id="99" sent="1" para="1" offset="470" length="6"><![CDATA[forces]]></wf>
+    <wf id="100" sent="1" para="1" offset="476" length="4"><![CDATA[said]]></wf>
+    <wf id="101" sent="1" para="1" offset="480" length="3"><![CDATA[the]]></wf>
+    <wf id="102" sent="1" para="1" offset="483" length="5"><![CDATA[bombs]]></wf>
+    <wf id="103" sent="1" para="1" offset="488" length="3"><![CDATA[may]]></wf>
+    <wf id="104" sent="1" para="1" offset="491" length="4"><![CDATA[have]]></wf>
+    <wf id="105" sent="1" para="1" offset="495" length="4"><![CDATA[been]]></wf>
+    <wf id="106" sent="1" para="1" offset="499" length="8"><![CDATA[intended]]></wf>
+    <wf id="107" sent="1" para="1" offset="507" length="3"><![CDATA[for]]></wf>
+    <wf id="108" sent="1" para="1" offset="510" length="3"><![CDATA[use]]></wf>
+    <wf id="109" sent="1" para="1" offset="513" length="2"><![CDATA[in]]></wf>
+    <wf id="110" sent="1" para="1" offset="515" length="1"><![CDATA[a]]></wf>
+    <wf id="111" sent="1" para="1" offset="516" length="13"><![CDATA[pre-Christmas]]></wf>
+    <wf id="112" sent="1" para="1" offset="529" length="7"><![CDATA[bombing]]></wf>
+    <wf id="113" sent="1" para="1" offset="536" length="8"><![CDATA[campaign]]></wf>
+    <wf id="114" sent="1" para="1" offset="544" length="2"><![CDATA[by]]></wf>
+    <wf id="115" sent="1" para="1" offset="546" length="3"><![CDATA[the]]></wf>
+    <wf id="116" sent="1" para="1" offset="549" length="9"><![CDATA[guerrilla]]></wf>
+    <wf id="117" sent="1" para="1" offset="558" length="5"><![CDATA[group]]></wf>
+    <wf id="118" sent="1" para="1" offset="563" length="4"><![CDATA[that]]></wf>
+    <wf id="119" sent="1" para="1" offset="567" length="2"><![CDATA[is]]></wf>
+    <wf id="120" sent="1" para="1" offset="569" length="8"><![CDATA[battling]]></wf>
+    <wf id="121" sent="1" para="1" offset="577" length="2"><![CDATA[to]]></wf>
+    <wf id="122" sent="1" para="1" offset="579" length="4"><![CDATA[oust]]></wf>
+    <wf id="123" sent="1" para="1" offset="583" length="7"><![CDATA[Britain]]></wf>
+    <wf id="124" sent="1" para="1" offset="590" length="4"><![CDATA[from]]></wf>
+    <wf id="125" sent="1" para="1" offset="594" length="8"><![CDATA[Northern]]></wf>
+    <wf id="126" sent="1" para="1" offset="602" length="7"><![CDATA[Ireland]]></wf>
+    <wf id="127" sent="1" para="1" offset="609" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="Woman">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="charged">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="over">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="N.">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="Ireland">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="arms">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="find">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma=".">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="BELFAST">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="1996-12-06">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="A">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="woman">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="was">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="charged">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="on">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="Friday">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="with">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="terrorist">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="offences">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="after">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="three">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="Irish">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="Republican">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="Army">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="mortar">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="bombs">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="were">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="found">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="in">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="a">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="Belfast">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="house">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma=",">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="police">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="said">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma=".">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="Police">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="said">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="the">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="bombs">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="were">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="found">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="hidden">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="with">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="incendiaries">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="and">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="ammunition">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="that">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="were">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="blocked">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="up">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="behind">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="a">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="kitchen">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="wall">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma=".">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="The">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="35-year-old">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="woman">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="was">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="charged">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="with">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="possession">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="of">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="explosives">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="with">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="intent">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="to">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="endanger">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="life">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="and">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="making">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="a">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="house">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="available">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="for">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="the">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="purpose">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="of">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="terrorism">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma=",">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="police">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="said">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma=".">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="She">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="will">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="appear">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="in">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="court">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="on">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="Saturday">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma=".">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="Her">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="name">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="was">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="not">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="released">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma=".">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="Security">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="forces">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="said">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="the">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="bombs">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="may">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="have">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="been">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="intended">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="for">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="use">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="in">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="a">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="pre-Christmas">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="bombing">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="campaign">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="by">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="the">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="guerrilla">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="group">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="that">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="is">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="battling">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="to">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="oust">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="Britain">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="from">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="Northern">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="Ireland">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma=".">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="1822">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Northern_Ireland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="3"/>
+          <target id="4"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1823">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Belfast" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="8"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1824">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Irish_Republican_Army" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="21"/>
+          <target id="22"/>
+          <target id="23"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1825">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Belfast" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="30"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1826">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_Kingdom" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="123"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1827">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Northern_Ireland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="125"/>
+          <target id="126"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

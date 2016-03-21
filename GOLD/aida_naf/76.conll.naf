@@ -1,0 +1,4945 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[Wall St speculates about Santa Fe savior . Brendan Intindola NEW YORK 1996-12-06 Homestake Mining Co tops Wall Street 's list as the most likely white knight buyer for Santa Fe Pacific Gold Corp if Santa Fe rejects unsolicited suitor Newmont Mining Corp . Santa Fe is so far mum on the more than $ 2 billion stock swap takeover proposal from Newmont , announced Thursday . Wall Street , since the bid , has speculated that any deal between Newmont and Santa Fe would be a " bear hug , " or a reluctantly negotiated agreement where the buyer is not necessarily a friendly suitor . Newmont said the companies have had previous contact , though declined to detail the encounters . Analysts predict Santa Fe will go to the highest bidder , and that if a rival buyer is found , Newmont may not be able to match its offer . They said the Santa Fe deal , which includes desirable Nevada mining territory , would only payoff for Newmont longer term . Newmont , in fact , will not benefit from the Santa Fe acquisition on an earnings basis for at least two years , which also limits its capacity to raise its offer . Any deal , friendly or hostile , would almost assuredly be a stock swap , which is necessary to preserve the tax-free , pooling-of-interest accounting , they said . Analysts and arbitrageurs immediately ruled out Barrick Gold Corp and Bre-X Minerals Ltd as Santa Fe saviors because they are locked in negotiations over their splitting Indonesia 's Busang vast gold deposit . Placer Dome Inc too was considered unlikley because it is focusing on geographic expansion in areas that do match Santa Fe 's Nevada , South America and Central Asia presence , they said . A Homestake spokesman was not immediately available to comment on speculation that it tops the list . Homestake , based in San Francisco , operates gold mines in the United States , Australia , Chile and Canada . Earnings in 1995 were $ 0.22 per share , or $ 30.3 million , on revenues of $ 746.3 million . Santa Fe is headquartered Albuquerque , N.M. and reported 1995 earnings of $ 0.30 per share , or $ 40 million , on revenues of $ 350 million . Santa Fe has mining and exploration operations in Nevada , California , Montana , Canada , Brazil , Australia , Chile , Kazakstan , Mexico and Ghana . PaineWebber analyst Marc Cohen said he lowered his rating on Newmont to neutral from attractive today because if Newmont merged with Santa Fe , investors would have to wait until the second half of 1998 to realize earnings accretion . " I think Homestake could come in as a white knight , but how much is someone willing to come in above the Newmont number . One would have to outbid by at least 15 percent , but there is going to be a ( Santa Fe ) deal with someone , " he said . " Longer term , two to three years out , ( a Newmont-Santa Fe deal ) is positive , it does all the right things . But in the near-term it is , at worst , neutral , " the analyst added . Newmont proposed to Santa Fe a stock-swap merger at a ratio of 0.33 Newmont shares for each Santa Fe shares . In Friday New York Stock Exchange trade , Newmonth was off 1/2 to 46-5/8 while Santa Fe added 1/4 to 15-1/8 . " Newmont said it wants to discuss a friendly deal with Santa Fe , which is almost always a euphemism for ' We have more money in our pocket , ' " said an arb , referring to a possible sweetened bid from Newmont . Two other arbs called Newmont 's move a " a 32 cent bid " because there is no formal tender offer , only the proposal letter " mailed " to Santa Fe 's board . -- Wall Street Desk , 212-859-1734 . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1238testb" filename="1238testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="4"><![CDATA[Wall]]></wf>
+    <wf id="2" sent="1" para="1" offset="4" length="2"><![CDATA[St]]></wf>
+    <wf id="3" sent="1" para="1" offset="6" length="10"><![CDATA[speculates]]></wf>
+    <wf id="4" sent="1" para="1" offset="16" length="5"><![CDATA[about]]></wf>
+    <wf id="5" sent="1" para="1" offset="21" length="5"><![CDATA[Santa]]></wf>
+    <wf id="6" sent="1" para="1" offset="26" length="2"><![CDATA[Fe]]></wf>
+    <wf id="7" sent="1" para="1" offset="28" length="6"><![CDATA[savior]]></wf>
+    <wf id="8" sent="1" para="1" offset="34" length="1"><![CDATA[.]]></wf>
+    <wf id="9" sent="1" para="1" offset="35" length="7"><![CDATA[Brendan]]></wf>
+    <wf id="10" sent="1" para="1" offset="42" length="9"><![CDATA[Intindola]]></wf>
+    <wf id="11" sent="1" para="1" offset="51" length="3"><![CDATA[NEW]]></wf>
+    <wf id="12" sent="1" para="1" offset="54" length="4"><![CDATA[YORK]]></wf>
+    <wf id="13" sent="1" para="1" offset="58" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="14" sent="1" para="1" offset="68" length="9"><![CDATA[Homestake]]></wf>
+    <wf id="15" sent="1" para="1" offset="77" length="6"><![CDATA[Mining]]></wf>
+    <wf id="16" sent="1" para="1" offset="83" length="2"><![CDATA[Co]]></wf>
+    <wf id="17" sent="1" para="1" offset="85" length="4"><![CDATA[tops]]></wf>
+    <wf id="18" sent="1" para="1" offset="89" length="4"><![CDATA[Wall]]></wf>
+    <wf id="19" sent="1" para="1" offset="93" length="6"><![CDATA[Street]]></wf>
+    <wf id="20" sent="1" para="1" offset="99" length="2"><![CDATA['s]]></wf>
+    <wf id="21" sent="1" para="1" offset="101" length="4"><![CDATA[list]]></wf>
+    <wf id="22" sent="1" para="1" offset="105" length="2"><![CDATA[as]]></wf>
+    <wf id="23" sent="1" para="1" offset="107" length="3"><![CDATA[the]]></wf>
+    <wf id="24" sent="1" para="1" offset="110" length="4"><![CDATA[most]]></wf>
+    <wf id="25" sent="1" para="1" offset="114" length="6"><![CDATA[likely]]></wf>
+    <wf id="26" sent="1" para="1" offset="120" length="5"><![CDATA[white]]></wf>
+    <wf id="27" sent="1" para="1" offset="125" length="6"><![CDATA[knight]]></wf>
+    <wf id="28" sent="1" para="1" offset="131" length="5"><![CDATA[buyer]]></wf>
+    <wf id="29" sent="1" para="1" offset="136" length="3"><![CDATA[for]]></wf>
+    <wf id="30" sent="1" para="1" offset="139" length="5"><![CDATA[Santa]]></wf>
+    <wf id="31" sent="1" para="1" offset="144" length="2"><![CDATA[Fe]]></wf>
+    <wf id="32" sent="1" para="1" offset="146" length="7"><![CDATA[Pacific]]></wf>
+    <wf id="33" sent="1" para="1" offset="153" length="4"><![CDATA[Gold]]></wf>
+    <wf id="34" sent="1" para="1" offset="157" length="4"><![CDATA[Corp]]></wf>
+    <wf id="35" sent="1" para="1" offset="161" length="2"><![CDATA[if]]></wf>
+    <wf id="36" sent="1" para="1" offset="163" length="5"><![CDATA[Santa]]></wf>
+    <wf id="37" sent="1" para="1" offset="168" length="2"><![CDATA[Fe]]></wf>
+    <wf id="38" sent="1" para="1" offset="170" length="7"><![CDATA[rejects]]></wf>
+    <wf id="39" sent="1" para="1" offset="177" length="11"><![CDATA[unsolicited]]></wf>
+    <wf id="40" sent="1" para="1" offset="188" length="6"><![CDATA[suitor]]></wf>
+    <wf id="41" sent="1" para="1" offset="194" length="7"><![CDATA[Newmont]]></wf>
+    <wf id="42" sent="1" para="1" offset="201" length="6"><![CDATA[Mining]]></wf>
+    <wf id="43" sent="1" para="1" offset="207" length="4"><![CDATA[Corp]]></wf>
+    <wf id="44" sent="1" para="1" offset="211" length="1"><![CDATA[.]]></wf>
+    <wf id="45" sent="1" para="1" offset="212" length="5"><![CDATA[Santa]]></wf>
+    <wf id="46" sent="1" para="1" offset="217" length="2"><![CDATA[Fe]]></wf>
+    <wf id="47" sent="1" para="1" offset="219" length="2"><![CDATA[is]]></wf>
+    <wf id="48" sent="1" para="1" offset="221" length="2"><![CDATA[so]]></wf>
+    <wf id="49" sent="1" para="1" offset="223" length="3"><![CDATA[far]]></wf>
+    <wf id="50" sent="1" para="1" offset="226" length="3"><![CDATA[mum]]></wf>
+    <wf id="51" sent="1" para="1" offset="229" length="2"><![CDATA[on]]></wf>
+    <wf id="52" sent="1" para="1" offset="231" length="3"><![CDATA[the]]></wf>
+    <wf id="53" sent="1" para="1" offset="234" length="4"><![CDATA[more]]></wf>
+    <wf id="54" sent="1" para="1" offset="238" length="4"><![CDATA[than]]></wf>
+    <wf id="55" sent="1" para="1" offset="242" length="1"><![CDATA[$]]></wf>
+    <wf id="56" sent="1" para="1" offset="243" length="1"><![CDATA[2]]></wf>
+    <wf id="57" sent="1" para="1" offset="244" length="7"><![CDATA[billion]]></wf>
+    <wf id="58" sent="1" para="1" offset="251" length="5"><![CDATA[stock]]></wf>
+    <wf id="59" sent="1" para="1" offset="256" length="4"><![CDATA[swap]]></wf>
+    <wf id="60" sent="1" para="1" offset="260" length="8"><![CDATA[takeover]]></wf>
+    <wf id="61" sent="1" para="1" offset="268" length="8"><![CDATA[proposal]]></wf>
+    <wf id="62" sent="1" para="1" offset="276" length="4"><![CDATA[from]]></wf>
+    <wf id="63" sent="1" para="1" offset="280" length="7"><![CDATA[Newmont]]></wf>
+    <wf id="64" sent="1" para="1" offset="287" length="1"><![CDATA[,]]></wf>
+    <wf id="65" sent="1" para="1" offset="288" length="9"><![CDATA[announced]]></wf>
+    <wf id="66" sent="1" para="1" offset="297" length="8"><![CDATA[Thursday]]></wf>
+    <wf id="67" sent="1" para="1" offset="305" length="1"><![CDATA[.]]></wf>
+    <wf id="68" sent="1" para="1" offset="306" length="4"><![CDATA[Wall]]></wf>
+    <wf id="69" sent="1" para="1" offset="310" length="6"><![CDATA[Street]]></wf>
+    <wf id="70" sent="1" para="1" offset="316" length="1"><![CDATA[,]]></wf>
+    <wf id="71" sent="1" para="1" offset="317" length="5"><![CDATA[since]]></wf>
+    <wf id="72" sent="1" para="1" offset="322" length="3"><![CDATA[the]]></wf>
+    <wf id="73" sent="1" para="1" offset="325" length="3"><![CDATA[bid]]></wf>
+    <wf id="74" sent="1" para="1" offset="328" length="1"><![CDATA[,]]></wf>
+    <wf id="75" sent="1" para="1" offset="329" length="3"><![CDATA[has]]></wf>
+    <wf id="76" sent="1" para="1" offset="332" length="10"><![CDATA[speculated]]></wf>
+    <wf id="77" sent="1" para="1" offset="342" length="4"><![CDATA[that]]></wf>
+    <wf id="78" sent="1" para="1" offset="346" length="3"><![CDATA[any]]></wf>
+    <wf id="79" sent="1" para="1" offset="349" length="4"><![CDATA[deal]]></wf>
+    <wf id="80" sent="1" para="1" offset="353" length="7"><![CDATA[between]]></wf>
+    <wf id="81" sent="1" para="1" offset="360" length="7"><![CDATA[Newmont]]></wf>
+    <wf id="82" sent="1" para="1" offset="367" length="3"><![CDATA[and]]></wf>
+    <wf id="83" sent="1" para="1" offset="370" length="5"><![CDATA[Santa]]></wf>
+    <wf id="84" sent="1" para="1" offset="375" length="2"><![CDATA[Fe]]></wf>
+    <wf id="85" sent="1" para="1" offset="377" length="5"><![CDATA[would]]></wf>
+    <wf id="86" sent="1" para="1" offset="382" length="2"><![CDATA[be]]></wf>
+    <wf id="87" sent="1" para="1" offset="384" length="1"><![CDATA[a]]></wf>
+    <wf id="88" sent="1" para="1" offset="385" length="1"><![CDATA["]]></wf>
+    <wf id="89" sent="1" para="1" offset="386" length="4"><![CDATA[bear]]></wf>
+    <wf id="90" sent="1" para="1" offset="390" length="3"><![CDATA[hug]]></wf>
+    <wf id="91" sent="1" para="1" offset="393" length="1"><![CDATA[,]]></wf>
+    <wf id="92" sent="1" para="1" offset="394" length="1"><![CDATA["]]></wf>
+    <wf id="93" sent="1" para="1" offset="395" length="2"><![CDATA[or]]></wf>
+    <wf id="94" sent="1" para="1" offset="397" length="1"><![CDATA[a]]></wf>
+    <wf id="95" sent="1" para="1" offset="398" length="11"><![CDATA[reluctantly]]></wf>
+    <wf id="96" sent="1" para="1" offset="409" length="10"><![CDATA[negotiated]]></wf>
+    <wf id="97" sent="1" para="1" offset="419" length="9"><![CDATA[agreement]]></wf>
+    <wf id="98" sent="1" para="1" offset="428" length="5"><![CDATA[where]]></wf>
+    <wf id="99" sent="1" para="1" offset="433" length="3"><![CDATA[the]]></wf>
+    <wf id="100" sent="1" para="1" offset="436" length="5"><![CDATA[buyer]]></wf>
+    <wf id="101" sent="1" para="1" offset="441" length="2"><![CDATA[is]]></wf>
+    <wf id="102" sent="1" para="1" offset="443" length="3"><![CDATA[not]]></wf>
+    <wf id="103" sent="1" para="1" offset="446" length="11"><![CDATA[necessarily]]></wf>
+    <wf id="104" sent="1" para="1" offset="457" length="1"><![CDATA[a]]></wf>
+    <wf id="105" sent="1" para="1" offset="458" length="8"><![CDATA[friendly]]></wf>
+    <wf id="106" sent="1" para="1" offset="466" length="6"><![CDATA[suitor]]></wf>
+    <wf id="107" sent="1" para="1" offset="472" length="1"><![CDATA[.]]></wf>
+    <wf id="108" sent="1" para="1" offset="473" length="7"><![CDATA[Newmont]]></wf>
+    <wf id="109" sent="1" para="1" offset="480" length="4"><![CDATA[said]]></wf>
+    <wf id="110" sent="1" para="1" offset="484" length="3"><![CDATA[the]]></wf>
+    <wf id="111" sent="1" para="1" offset="487" length="9"><![CDATA[companies]]></wf>
+    <wf id="112" sent="1" para="1" offset="496" length="4"><![CDATA[have]]></wf>
+    <wf id="113" sent="1" para="1" offset="500" length="3"><![CDATA[had]]></wf>
+    <wf id="114" sent="1" para="1" offset="503" length="8"><![CDATA[previous]]></wf>
+    <wf id="115" sent="1" para="1" offset="511" length="7"><![CDATA[contact]]></wf>
+    <wf id="116" sent="1" para="1" offset="518" length="1"><![CDATA[,]]></wf>
+    <wf id="117" sent="1" para="1" offset="519" length="6"><![CDATA[though]]></wf>
+    <wf id="118" sent="1" para="1" offset="525" length="8"><![CDATA[declined]]></wf>
+    <wf id="119" sent="1" para="1" offset="533" length="2"><![CDATA[to]]></wf>
+    <wf id="120" sent="1" para="1" offset="535" length="6"><![CDATA[detail]]></wf>
+    <wf id="121" sent="1" para="1" offset="541" length="3"><![CDATA[the]]></wf>
+    <wf id="122" sent="1" para="1" offset="544" length="10"><![CDATA[encounters]]></wf>
+    <wf id="123" sent="1" para="1" offset="554" length="1"><![CDATA[.]]></wf>
+    <wf id="124" sent="1" para="1" offset="555" length="8"><![CDATA[Analysts]]></wf>
+    <wf id="125" sent="1" para="1" offset="563" length="7"><![CDATA[predict]]></wf>
+    <wf id="126" sent="1" para="1" offset="570" length="5"><![CDATA[Santa]]></wf>
+    <wf id="127" sent="1" para="1" offset="575" length="2"><![CDATA[Fe]]></wf>
+    <wf id="128" sent="1" para="1" offset="577" length="4"><![CDATA[will]]></wf>
+    <wf id="129" sent="1" para="1" offset="581" length="2"><![CDATA[go]]></wf>
+    <wf id="130" sent="1" para="1" offset="583" length="2"><![CDATA[to]]></wf>
+    <wf id="131" sent="1" para="1" offset="585" length="3"><![CDATA[the]]></wf>
+    <wf id="132" sent="1" para="1" offset="588" length="7"><![CDATA[highest]]></wf>
+    <wf id="133" sent="1" para="1" offset="595" length="6"><![CDATA[bidder]]></wf>
+    <wf id="134" sent="1" para="1" offset="601" length="1"><![CDATA[,]]></wf>
+    <wf id="135" sent="1" para="1" offset="602" length="3"><![CDATA[and]]></wf>
+    <wf id="136" sent="1" para="1" offset="605" length="4"><![CDATA[that]]></wf>
+    <wf id="137" sent="1" para="1" offset="609" length="2"><![CDATA[if]]></wf>
+    <wf id="138" sent="1" para="1" offset="611" length="1"><![CDATA[a]]></wf>
+    <wf id="139" sent="1" para="1" offset="612" length="5"><![CDATA[rival]]></wf>
+    <wf id="140" sent="1" para="1" offset="617" length="5"><![CDATA[buyer]]></wf>
+    <wf id="141" sent="1" para="1" offset="622" length="2"><![CDATA[is]]></wf>
+    <wf id="142" sent="1" para="1" offset="624" length="5"><![CDATA[found]]></wf>
+    <wf id="143" sent="1" para="1" offset="629" length="1"><![CDATA[,]]></wf>
+    <wf id="144" sent="1" para="1" offset="630" length="7"><![CDATA[Newmont]]></wf>
+    <wf id="145" sent="1" para="1" offset="637" length="3"><![CDATA[may]]></wf>
+    <wf id="146" sent="1" para="1" offset="640" length="3"><![CDATA[not]]></wf>
+    <wf id="147" sent="1" para="1" offset="643" length="2"><![CDATA[be]]></wf>
+    <wf id="148" sent="1" para="1" offset="645" length="4"><![CDATA[able]]></wf>
+    <wf id="149" sent="1" para="1" offset="649" length="2"><![CDATA[to]]></wf>
+    <wf id="150" sent="1" para="1" offset="651" length="5"><![CDATA[match]]></wf>
+    <wf id="151" sent="1" para="1" offset="656" length="3"><![CDATA[its]]></wf>
+    <wf id="152" sent="1" para="1" offset="659" length="5"><![CDATA[offer]]></wf>
+    <wf id="153" sent="1" para="1" offset="664" length="1"><![CDATA[.]]></wf>
+    <wf id="154" sent="1" para="1" offset="665" length="4"><![CDATA[They]]></wf>
+    <wf id="155" sent="1" para="1" offset="669" length="4"><![CDATA[said]]></wf>
+    <wf id="156" sent="1" para="1" offset="673" length="3"><![CDATA[the]]></wf>
+    <wf id="157" sent="1" para="1" offset="676" length="5"><![CDATA[Santa]]></wf>
+    <wf id="158" sent="1" para="1" offset="681" length="2"><![CDATA[Fe]]></wf>
+    <wf id="159" sent="1" para="1" offset="683" length="4"><![CDATA[deal]]></wf>
+    <wf id="160" sent="1" para="1" offset="687" length="1"><![CDATA[,]]></wf>
+    <wf id="161" sent="1" para="1" offset="688" length="5"><![CDATA[which]]></wf>
+    <wf id="162" sent="1" para="1" offset="693" length="8"><![CDATA[includes]]></wf>
+    <wf id="163" sent="1" para="1" offset="701" length="9"><![CDATA[desirable]]></wf>
+    <wf id="164" sent="1" para="1" offset="710" length="6"><![CDATA[Nevada]]></wf>
+    <wf id="165" sent="1" para="1" offset="716" length="6"><![CDATA[mining]]></wf>
+    <wf id="166" sent="1" para="1" offset="722" length="9"><![CDATA[territory]]></wf>
+    <wf id="167" sent="1" para="1" offset="731" length="1"><![CDATA[,]]></wf>
+    <wf id="168" sent="1" para="1" offset="732" length="5"><![CDATA[would]]></wf>
+    <wf id="169" sent="1" para="1" offset="737" length="4"><![CDATA[only]]></wf>
+    <wf id="170" sent="1" para="1" offset="741" length="6"><![CDATA[payoff]]></wf>
+    <wf id="171" sent="1" para="1" offset="747" length="3"><![CDATA[for]]></wf>
+    <wf id="172" sent="1" para="1" offset="750" length="7"><![CDATA[Newmont]]></wf>
+    <wf id="173" sent="1" para="1" offset="757" length="6"><![CDATA[longer]]></wf>
+    <wf id="174" sent="1" para="1" offset="763" length="4"><![CDATA[term]]></wf>
+    <wf id="175" sent="1" para="1" offset="767" length="1"><![CDATA[.]]></wf>
+    <wf id="176" sent="1" para="1" offset="768" length="7"><![CDATA[Newmont]]></wf>
+    <wf id="177" sent="1" para="1" offset="775" length="1"><![CDATA[,]]></wf>
+    <wf id="178" sent="1" para="1" offset="776" length="2"><![CDATA[in]]></wf>
+    <wf id="179" sent="1" para="1" offset="778" length="4"><![CDATA[fact]]></wf>
+    <wf id="180" sent="1" para="1" offset="782" length="1"><![CDATA[,]]></wf>
+    <wf id="181" sent="1" para="1" offset="783" length="4"><![CDATA[will]]></wf>
+    <wf id="182" sent="1" para="1" offset="787" length="3"><![CDATA[not]]></wf>
+    <wf id="183" sent="1" para="1" offset="790" length="7"><![CDATA[benefit]]></wf>
+    <wf id="184" sent="1" para="1" offset="797" length="4"><![CDATA[from]]></wf>
+    <wf id="185" sent="1" para="1" offset="801" length="3"><![CDATA[the]]></wf>
+    <wf id="186" sent="1" para="1" offset="804" length="5"><![CDATA[Santa]]></wf>
+    <wf id="187" sent="1" para="1" offset="809" length="2"><![CDATA[Fe]]></wf>
+    <wf id="188" sent="1" para="1" offset="811" length="11"><![CDATA[acquisition]]></wf>
+    <wf id="189" sent="1" para="1" offset="822" length="2"><![CDATA[on]]></wf>
+    <wf id="190" sent="1" para="1" offset="824" length="2"><![CDATA[an]]></wf>
+    <wf id="191" sent="1" para="1" offset="826" length="8"><![CDATA[earnings]]></wf>
+    <wf id="192" sent="1" para="1" offset="834" length="5"><![CDATA[basis]]></wf>
+    <wf id="193" sent="1" para="1" offset="839" length="3"><![CDATA[for]]></wf>
+    <wf id="194" sent="1" para="1" offset="842" length="2"><![CDATA[at]]></wf>
+    <wf id="195" sent="1" para="1" offset="844" length="5"><![CDATA[least]]></wf>
+    <wf id="196" sent="1" para="1" offset="849" length="3"><![CDATA[two]]></wf>
+    <wf id="197" sent="1" para="1" offset="852" length="5"><![CDATA[years]]></wf>
+    <wf id="198" sent="1" para="1" offset="857" length="1"><![CDATA[,]]></wf>
+    <wf id="199" sent="1" para="1" offset="858" length="5"><![CDATA[which]]></wf>
+    <wf id="200" sent="1" para="1" offset="863" length="4"><![CDATA[also]]></wf>
+    <wf id="201" sent="1" para="1" offset="867" length="6"><![CDATA[limits]]></wf>
+    <wf id="202" sent="1" para="1" offset="873" length="3"><![CDATA[its]]></wf>
+    <wf id="203" sent="1" para="1" offset="876" length="8"><![CDATA[capacity]]></wf>
+    <wf id="204" sent="1" para="1" offset="884" length="2"><![CDATA[to]]></wf>
+    <wf id="205" sent="1" para="1" offset="886" length="5"><![CDATA[raise]]></wf>
+    <wf id="206" sent="1" para="1" offset="891" length="3"><![CDATA[its]]></wf>
+    <wf id="207" sent="1" para="1" offset="894" length="5"><![CDATA[offer]]></wf>
+    <wf id="208" sent="1" para="1" offset="899" length="1"><![CDATA[.]]></wf>
+    <wf id="209" sent="1" para="1" offset="900" length="3"><![CDATA[Any]]></wf>
+    <wf id="210" sent="1" para="1" offset="903" length="4"><![CDATA[deal]]></wf>
+    <wf id="211" sent="1" para="1" offset="907" length="1"><![CDATA[,]]></wf>
+    <wf id="212" sent="1" para="1" offset="908" length="8"><![CDATA[friendly]]></wf>
+    <wf id="213" sent="1" para="1" offset="916" length="2"><![CDATA[or]]></wf>
+    <wf id="214" sent="1" para="1" offset="918" length="7"><![CDATA[hostile]]></wf>
+    <wf id="215" sent="1" para="1" offset="925" length="1"><![CDATA[,]]></wf>
+    <wf id="216" sent="1" para="1" offset="926" length="5"><![CDATA[would]]></wf>
+    <wf id="217" sent="1" para="1" offset="931" length="6"><![CDATA[almost]]></wf>
+    <wf id="218" sent="1" para="1" offset="937" length="9"><![CDATA[assuredly]]></wf>
+    <wf id="219" sent="1" para="1" offset="946" length="2"><![CDATA[be]]></wf>
+    <wf id="220" sent="1" para="1" offset="948" length="1"><![CDATA[a]]></wf>
+    <wf id="221" sent="1" para="1" offset="949" length="5"><![CDATA[stock]]></wf>
+    <wf id="222" sent="1" para="1" offset="954" length="4"><![CDATA[swap]]></wf>
+    <wf id="223" sent="1" para="1" offset="958" length="1"><![CDATA[,]]></wf>
+    <wf id="224" sent="1" para="1" offset="959" length="5"><![CDATA[which]]></wf>
+    <wf id="225" sent="1" para="1" offset="964" length="2"><![CDATA[is]]></wf>
+    <wf id="226" sent="1" para="1" offset="966" length="9"><![CDATA[necessary]]></wf>
+    <wf id="227" sent="1" para="1" offset="975" length="2"><![CDATA[to]]></wf>
+    <wf id="228" sent="1" para="1" offset="977" length="8"><![CDATA[preserve]]></wf>
+    <wf id="229" sent="1" para="1" offset="985" length="3"><![CDATA[the]]></wf>
+    <wf id="230" sent="1" para="1" offset="988" length="8"><![CDATA[tax-free]]></wf>
+    <wf id="231" sent="1" para="1" offset="996" length="1"><![CDATA[,]]></wf>
+    <wf id="232" sent="1" para="1" offset="997" length="19"><![CDATA[pooling-of-interest]]></wf>
+    <wf id="233" sent="1" para="1" offset="1016" length="10"><![CDATA[accounting]]></wf>
+    <wf id="234" sent="1" para="1" offset="1026" length="1"><![CDATA[,]]></wf>
+    <wf id="235" sent="1" para="1" offset="1027" length="4"><![CDATA[they]]></wf>
+    <wf id="236" sent="1" para="1" offset="1031" length="4"><![CDATA[said]]></wf>
+    <wf id="237" sent="1" para="1" offset="1035" length="1"><![CDATA[.]]></wf>
+    <wf id="238" sent="1" para="1" offset="1036" length="8"><![CDATA[Analysts]]></wf>
+    <wf id="239" sent="1" para="1" offset="1044" length="3"><![CDATA[and]]></wf>
+    <wf id="240" sent="1" para="1" offset="1047" length="12"><![CDATA[arbitrageurs]]></wf>
+    <wf id="241" sent="1" para="1" offset="1059" length="11"><![CDATA[immediately]]></wf>
+    <wf id="242" sent="1" para="1" offset="1070" length="5"><![CDATA[ruled]]></wf>
+    <wf id="243" sent="1" para="1" offset="1075" length="3"><![CDATA[out]]></wf>
+    <wf id="244" sent="1" para="1" offset="1078" length="7"><![CDATA[Barrick]]></wf>
+    <wf id="245" sent="1" para="1" offset="1085" length="4"><![CDATA[Gold]]></wf>
+    <wf id="246" sent="1" para="1" offset="1089" length="4"><![CDATA[Corp]]></wf>
+    <wf id="247" sent="1" para="1" offset="1093" length="3"><![CDATA[and]]></wf>
+    <wf id="248" sent="1" para="1" offset="1096" length="5"><![CDATA[Bre-X]]></wf>
+    <wf id="249" sent="1" para="1" offset="1101" length="8"><![CDATA[Minerals]]></wf>
+    <wf id="250" sent="1" para="1" offset="1109" length="3"><![CDATA[Ltd]]></wf>
+    <wf id="251" sent="1" para="1" offset="1112" length="2"><![CDATA[as]]></wf>
+    <wf id="252" sent="1" para="1" offset="1114" length="5"><![CDATA[Santa]]></wf>
+    <wf id="253" sent="1" para="1" offset="1119" length="2"><![CDATA[Fe]]></wf>
+    <wf id="254" sent="1" para="1" offset="1121" length="7"><![CDATA[saviors]]></wf>
+    <wf id="255" sent="1" para="1" offset="1128" length="7"><![CDATA[because]]></wf>
+    <wf id="256" sent="1" para="1" offset="1135" length="4"><![CDATA[they]]></wf>
+    <wf id="257" sent="1" para="1" offset="1139" length="3"><![CDATA[are]]></wf>
+    <wf id="258" sent="1" para="1" offset="1142" length="6"><![CDATA[locked]]></wf>
+    <wf id="259" sent="1" para="1" offset="1148" length="2"><![CDATA[in]]></wf>
+    <wf id="260" sent="1" para="1" offset="1150" length="12"><![CDATA[negotiations]]></wf>
+    <wf id="261" sent="1" para="1" offset="1162" length="4"><![CDATA[over]]></wf>
+    <wf id="262" sent="1" para="1" offset="1166" length="5"><![CDATA[their]]></wf>
+    <wf id="263" sent="1" para="1" offset="1171" length="9"><![CDATA[splitting]]></wf>
+    <wf id="264" sent="1" para="1" offset="1180" length="9"><![CDATA[Indonesia]]></wf>
+    <wf id="265" sent="1" para="1" offset="1189" length="2"><![CDATA['s]]></wf>
+    <wf id="266" sent="1" para="1" offset="1191" length="6"><![CDATA[Busang]]></wf>
+    <wf id="267" sent="1" para="1" offset="1197" length="4"><![CDATA[vast]]></wf>
+    <wf id="268" sent="1" para="1" offset="1201" length="4"><![CDATA[gold]]></wf>
+    <wf id="269" sent="1" para="1" offset="1205" length="7"><![CDATA[deposit]]></wf>
+    <wf id="270" sent="1" para="1" offset="1212" length="1"><![CDATA[.]]></wf>
+    <wf id="271" sent="1" para="1" offset="1213" length="6"><![CDATA[Placer]]></wf>
+    <wf id="272" sent="1" para="1" offset="1219" length="4"><![CDATA[Dome]]></wf>
+    <wf id="273" sent="1" para="1" offset="1223" length="3"><![CDATA[Inc]]></wf>
+    <wf id="274" sent="1" para="1" offset="1226" length="3"><![CDATA[too]]></wf>
+    <wf id="275" sent="1" para="1" offset="1229" length="3"><![CDATA[was]]></wf>
+    <wf id="276" sent="1" para="1" offset="1232" length="10"><![CDATA[considered]]></wf>
+    <wf id="277" sent="1" para="1" offset="1242" length="8"><![CDATA[unlikley]]></wf>
+    <wf id="278" sent="1" para="1" offset="1250" length="7"><![CDATA[because]]></wf>
+    <wf id="279" sent="1" para="1" offset="1257" length="2"><![CDATA[it]]></wf>
+    <wf id="280" sent="1" para="1" offset="1259" length="2"><![CDATA[is]]></wf>
+    <wf id="281" sent="1" para="1" offset="1261" length="8"><![CDATA[focusing]]></wf>
+    <wf id="282" sent="1" para="1" offset="1269" length="2"><![CDATA[on]]></wf>
+    <wf id="283" sent="1" para="1" offset="1271" length="10"><![CDATA[geographic]]></wf>
+    <wf id="284" sent="1" para="1" offset="1281" length="9"><![CDATA[expansion]]></wf>
+    <wf id="285" sent="1" para="1" offset="1290" length="2"><![CDATA[in]]></wf>
+    <wf id="286" sent="1" para="1" offset="1292" length="5"><![CDATA[areas]]></wf>
+    <wf id="287" sent="1" para="1" offset="1297" length="4"><![CDATA[that]]></wf>
+    <wf id="288" sent="1" para="1" offset="1301" length="2"><![CDATA[do]]></wf>
+    <wf id="289" sent="1" para="1" offset="1303" length="5"><![CDATA[match]]></wf>
+    <wf id="290" sent="1" para="1" offset="1308" length="5"><![CDATA[Santa]]></wf>
+    <wf id="291" sent="1" para="1" offset="1313" length="2"><![CDATA[Fe]]></wf>
+    <wf id="292" sent="1" para="1" offset="1315" length="2"><![CDATA['s]]></wf>
+    <wf id="293" sent="1" para="1" offset="1317" length="6"><![CDATA[Nevada]]></wf>
+    <wf id="294" sent="1" para="1" offset="1323" length="1"><![CDATA[,]]></wf>
+    <wf id="295" sent="1" para="1" offset="1324" length="5"><![CDATA[South]]></wf>
+    <wf id="296" sent="1" para="1" offset="1329" length="7"><![CDATA[America]]></wf>
+    <wf id="297" sent="1" para="1" offset="1336" length="3"><![CDATA[and]]></wf>
+    <wf id="298" sent="1" para="1" offset="1339" length="7"><![CDATA[Central]]></wf>
+    <wf id="299" sent="1" para="1" offset="1346" length="4"><![CDATA[Asia]]></wf>
+    <wf id="300" sent="1" para="1" offset="1350" length="8"><![CDATA[presence]]></wf>
+    <wf id="301" sent="1" para="1" offset="1358" length="1"><![CDATA[,]]></wf>
+    <wf id="302" sent="1" para="1" offset="1359" length="4"><![CDATA[they]]></wf>
+    <wf id="303" sent="1" para="1" offset="1363" length="4"><![CDATA[said]]></wf>
+    <wf id="304" sent="1" para="1" offset="1367" length="1"><![CDATA[.]]></wf>
+    <wf id="305" sent="1" para="1" offset="1368" length="1"><![CDATA[A]]></wf>
+    <wf id="306" sent="1" para="1" offset="1369" length="9"><![CDATA[Homestake]]></wf>
+    <wf id="307" sent="1" para="1" offset="1378" length="9"><![CDATA[spokesman]]></wf>
+    <wf id="308" sent="1" para="1" offset="1387" length="3"><![CDATA[was]]></wf>
+    <wf id="309" sent="1" para="1" offset="1390" length="3"><![CDATA[not]]></wf>
+    <wf id="310" sent="1" para="1" offset="1393" length="11"><![CDATA[immediately]]></wf>
+    <wf id="311" sent="1" para="1" offset="1404" length="9"><![CDATA[available]]></wf>
+    <wf id="312" sent="1" para="1" offset="1413" length="2"><![CDATA[to]]></wf>
+    <wf id="313" sent="1" para="1" offset="1415" length="7"><![CDATA[comment]]></wf>
+    <wf id="314" sent="1" para="1" offset="1422" length="2"><![CDATA[on]]></wf>
+    <wf id="315" sent="1" para="1" offset="1424" length="11"><![CDATA[speculation]]></wf>
+    <wf id="316" sent="1" para="1" offset="1435" length="4"><![CDATA[that]]></wf>
+    <wf id="317" sent="1" para="1" offset="1439" length="2"><![CDATA[it]]></wf>
+    <wf id="318" sent="1" para="1" offset="1441" length="4"><![CDATA[tops]]></wf>
+    <wf id="319" sent="1" para="1" offset="1445" length="3"><![CDATA[the]]></wf>
+    <wf id="320" sent="1" para="1" offset="1448" length="4"><![CDATA[list]]></wf>
+    <wf id="321" sent="1" para="1" offset="1452" length="1"><![CDATA[.]]></wf>
+    <wf id="322" sent="1" para="1" offset="1453" length="9"><![CDATA[Homestake]]></wf>
+    <wf id="323" sent="1" para="1" offset="1462" length="1"><![CDATA[,]]></wf>
+    <wf id="324" sent="1" para="1" offset="1463" length="5"><![CDATA[based]]></wf>
+    <wf id="325" sent="1" para="1" offset="1468" length="2"><![CDATA[in]]></wf>
+    <wf id="326" sent="1" para="1" offset="1470" length="3"><![CDATA[San]]></wf>
+    <wf id="327" sent="1" para="1" offset="1473" length="9"><![CDATA[Francisco]]></wf>
+    <wf id="328" sent="1" para="1" offset="1482" length="1"><![CDATA[,]]></wf>
+    <wf id="329" sent="1" para="1" offset="1483" length="8"><![CDATA[operates]]></wf>
+    <wf id="330" sent="1" para="1" offset="1491" length="4"><![CDATA[gold]]></wf>
+    <wf id="331" sent="1" para="1" offset="1495" length="5"><![CDATA[mines]]></wf>
+    <wf id="332" sent="1" para="1" offset="1500" length="2"><![CDATA[in]]></wf>
+    <wf id="333" sent="1" para="1" offset="1502" length="3"><![CDATA[the]]></wf>
+    <wf id="334" sent="1" para="1" offset="1505" length="6"><![CDATA[United]]></wf>
+    <wf id="335" sent="1" para="1" offset="1511" length="6"><![CDATA[States]]></wf>
+    <wf id="336" sent="1" para="1" offset="1517" length="1"><![CDATA[,]]></wf>
+    <wf id="337" sent="1" para="1" offset="1518" length="9"><![CDATA[Australia]]></wf>
+    <wf id="338" sent="1" para="1" offset="1527" length="1"><![CDATA[,]]></wf>
+    <wf id="339" sent="1" para="1" offset="1528" length="5"><![CDATA[Chile]]></wf>
+    <wf id="340" sent="1" para="1" offset="1533" length="3"><![CDATA[and]]></wf>
+    <wf id="341" sent="1" para="1" offset="1536" length="6"><![CDATA[Canada]]></wf>
+    <wf id="342" sent="1" para="1" offset="1542" length="1"><![CDATA[.]]></wf>
+    <wf id="343" sent="1" para="1" offset="1543" length="8"><![CDATA[Earnings]]></wf>
+    <wf id="344" sent="1" para="1" offset="1551" length="2"><![CDATA[in]]></wf>
+    <wf id="345" sent="1" para="1" offset="1553" length="4"><![CDATA[1995]]></wf>
+    <wf id="346" sent="1" para="1" offset="1557" length="4"><![CDATA[were]]></wf>
+    <wf id="347" sent="1" para="1" offset="1561" length="1"><![CDATA[$]]></wf>
+    <wf id="348" sent="1" para="1" offset="1562" length="4"><![CDATA[0.22]]></wf>
+    <wf id="349" sent="1" para="1" offset="1566" length="3"><![CDATA[per]]></wf>
+    <wf id="350" sent="1" para="1" offset="1569" length="5"><![CDATA[share]]></wf>
+    <wf id="351" sent="1" para="1" offset="1574" length="1"><![CDATA[,]]></wf>
+    <wf id="352" sent="1" para="1" offset="1575" length="2"><![CDATA[or]]></wf>
+    <wf id="353" sent="1" para="1" offset="1577" length="1"><![CDATA[$]]></wf>
+    <wf id="354" sent="1" para="1" offset="1578" length="4"><![CDATA[30.3]]></wf>
+    <wf id="355" sent="1" para="1" offset="1582" length="7"><![CDATA[million]]></wf>
+    <wf id="356" sent="1" para="1" offset="1589" length="1"><![CDATA[,]]></wf>
+    <wf id="357" sent="1" para="1" offset="1590" length="2"><![CDATA[on]]></wf>
+    <wf id="358" sent="1" para="1" offset="1592" length="8"><![CDATA[revenues]]></wf>
+    <wf id="359" sent="1" para="1" offset="1600" length="2"><![CDATA[of]]></wf>
+    <wf id="360" sent="1" para="1" offset="1602" length="1"><![CDATA[$]]></wf>
+    <wf id="361" sent="1" para="1" offset="1603" length="5"><![CDATA[746.3]]></wf>
+    <wf id="362" sent="1" para="1" offset="1608" length="7"><![CDATA[million]]></wf>
+    <wf id="363" sent="1" para="1" offset="1615" length="1"><![CDATA[.]]></wf>
+    <wf id="364" sent="1" para="1" offset="1616" length="5"><![CDATA[Santa]]></wf>
+    <wf id="365" sent="1" para="1" offset="1621" length="2"><![CDATA[Fe]]></wf>
+    <wf id="366" sent="1" para="1" offset="1623" length="2"><![CDATA[is]]></wf>
+    <wf id="367" sent="1" para="1" offset="1625" length="13"><![CDATA[headquartered]]></wf>
+    <wf id="368" sent="1" para="1" offset="1638" length="11"><![CDATA[Albuquerque]]></wf>
+    <wf id="369" sent="1" para="1" offset="1649" length="1"><![CDATA[,]]></wf>
+    <wf id="370" sent="1" para="1" offset="1650" length="4"><![CDATA[N.M.]]></wf>
+    <wf id="371" sent="1" para="1" offset="1654" length="3"><![CDATA[and]]></wf>
+    <wf id="372" sent="1" para="1" offset="1657" length="8"><![CDATA[reported]]></wf>
+    <wf id="373" sent="1" para="1" offset="1665" length="4"><![CDATA[1995]]></wf>
+    <wf id="374" sent="1" para="1" offset="1669" length="8"><![CDATA[earnings]]></wf>
+    <wf id="375" sent="1" para="1" offset="1677" length="2"><![CDATA[of]]></wf>
+    <wf id="376" sent="1" para="1" offset="1679" length="1"><![CDATA[$]]></wf>
+    <wf id="377" sent="1" para="1" offset="1680" length="4"><![CDATA[0.30]]></wf>
+    <wf id="378" sent="1" para="1" offset="1684" length="3"><![CDATA[per]]></wf>
+    <wf id="379" sent="1" para="1" offset="1687" length="5"><![CDATA[share]]></wf>
+    <wf id="380" sent="1" para="1" offset="1692" length="1"><![CDATA[,]]></wf>
+    <wf id="381" sent="1" para="1" offset="1693" length="2"><![CDATA[or]]></wf>
+    <wf id="382" sent="1" para="1" offset="1695" length="1"><![CDATA[$]]></wf>
+    <wf id="383" sent="1" para="1" offset="1696" length="2"><![CDATA[40]]></wf>
+    <wf id="384" sent="1" para="1" offset="1698" length="7"><![CDATA[million]]></wf>
+    <wf id="385" sent="1" para="1" offset="1705" length="1"><![CDATA[,]]></wf>
+    <wf id="386" sent="1" para="1" offset="1706" length="2"><![CDATA[on]]></wf>
+    <wf id="387" sent="1" para="1" offset="1708" length="8"><![CDATA[revenues]]></wf>
+    <wf id="388" sent="1" para="1" offset="1716" length="2"><![CDATA[of]]></wf>
+    <wf id="389" sent="1" para="1" offset="1718" length="1"><![CDATA[$]]></wf>
+    <wf id="390" sent="1" para="1" offset="1719" length="3"><![CDATA[350]]></wf>
+    <wf id="391" sent="1" para="1" offset="1722" length="7"><![CDATA[million]]></wf>
+    <wf id="392" sent="1" para="1" offset="1729" length="1"><![CDATA[.]]></wf>
+    <wf id="393" sent="1" para="1" offset="1730" length="5"><![CDATA[Santa]]></wf>
+    <wf id="394" sent="1" para="1" offset="1735" length="2"><![CDATA[Fe]]></wf>
+    <wf id="395" sent="1" para="1" offset="1737" length="3"><![CDATA[has]]></wf>
+    <wf id="396" sent="1" para="1" offset="1740" length="6"><![CDATA[mining]]></wf>
+    <wf id="397" sent="1" para="1" offset="1746" length="3"><![CDATA[and]]></wf>
+    <wf id="398" sent="1" para="1" offset="1749" length="11"><![CDATA[exploration]]></wf>
+    <wf id="399" sent="1" para="1" offset="1760" length="10"><![CDATA[operations]]></wf>
+    <wf id="400" sent="1" para="1" offset="1770" length="2"><![CDATA[in]]></wf>
+    <wf id="401" sent="1" para="1" offset="1772" length="6"><![CDATA[Nevada]]></wf>
+    <wf id="402" sent="1" para="1" offset="1778" length="1"><![CDATA[,]]></wf>
+    <wf id="403" sent="1" para="1" offset="1779" length="10"><![CDATA[California]]></wf>
+    <wf id="404" sent="1" para="1" offset="1789" length="1"><![CDATA[,]]></wf>
+    <wf id="405" sent="1" para="1" offset="1790" length="7"><![CDATA[Montana]]></wf>
+    <wf id="406" sent="1" para="1" offset="1797" length="1"><![CDATA[,]]></wf>
+    <wf id="407" sent="1" para="1" offset="1798" length="6"><![CDATA[Canada]]></wf>
+    <wf id="408" sent="1" para="1" offset="1804" length="1"><![CDATA[,]]></wf>
+    <wf id="409" sent="1" para="1" offset="1805" length="6"><![CDATA[Brazil]]></wf>
+    <wf id="410" sent="1" para="1" offset="1811" length="1"><![CDATA[,]]></wf>
+    <wf id="411" sent="1" para="1" offset="1812" length="9"><![CDATA[Australia]]></wf>
+    <wf id="412" sent="1" para="1" offset="1821" length="1"><![CDATA[,]]></wf>
+    <wf id="413" sent="1" para="1" offset="1822" length="5"><![CDATA[Chile]]></wf>
+    <wf id="414" sent="1" para="1" offset="1827" length="1"><![CDATA[,]]></wf>
+    <wf id="415" sent="1" para="1" offset="1828" length="9"><![CDATA[Kazakstan]]></wf>
+    <wf id="416" sent="1" para="1" offset="1837" length="1"><![CDATA[,]]></wf>
+    <wf id="417" sent="1" para="1" offset="1838" length="6"><![CDATA[Mexico]]></wf>
+    <wf id="418" sent="1" para="1" offset="1844" length="3"><![CDATA[and]]></wf>
+    <wf id="419" sent="1" para="1" offset="1847" length="5"><![CDATA[Ghana]]></wf>
+    <wf id="420" sent="1" para="1" offset="1852" length="1"><![CDATA[.]]></wf>
+    <wf id="421" sent="1" para="1" offset="1853" length="11"><![CDATA[PaineWebber]]></wf>
+    <wf id="422" sent="1" para="1" offset="1864" length="7"><![CDATA[analyst]]></wf>
+    <wf id="423" sent="1" para="1" offset="1871" length="4"><![CDATA[Marc]]></wf>
+    <wf id="424" sent="1" para="1" offset="1875" length="5"><![CDATA[Cohen]]></wf>
+    <wf id="425" sent="1" para="1" offset="1880" length="4"><![CDATA[said]]></wf>
+    <wf id="426" sent="1" para="1" offset="1884" length="2"><![CDATA[he]]></wf>
+    <wf id="427" sent="1" para="1" offset="1886" length="7"><![CDATA[lowered]]></wf>
+    <wf id="428" sent="1" para="1" offset="1893" length="3"><![CDATA[his]]></wf>
+    <wf id="429" sent="1" para="1" offset="1896" length="6"><![CDATA[rating]]></wf>
+    <wf id="430" sent="1" para="1" offset="1902" length="2"><![CDATA[on]]></wf>
+    <wf id="431" sent="1" para="1" offset="1904" length="7"><![CDATA[Newmont]]></wf>
+    <wf id="432" sent="1" para="1" offset="1911" length="2"><![CDATA[to]]></wf>
+    <wf id="433" sent="1" para="1" offset="1913" length="7"><![CDATA[neutral]]></wf>
+    <wf id="434" sent="1" para="1" offset="1920" length="4"><![CDATA[from]]></wf>
+    <wf id="435" sent="1" para="1" offset="1924" length="10"><![CDATA[attractive]]></wf>
+    <wf id="436" sent="1" para="1" offset="1934" length="5"><![CDATA[today]]></wf>
+    <wf id="437" sent="1" para="1" offset="1939" length="7"><![CDATA[because]]></wf>
+    <wf id="438" sent="1" para="1" offset="1946" length="2"><![CDATA[if]]></wf>
+    <wf id="439" sent="1" para="1" offset="1948" length="7"><![CDATA[Newmont]]></wf>
+    <wf id="440" sent="1" para="1" offset="1955" length="6"><![CDATA[merged]]></wf>
+    <wf id="441" sent="1" para="1" offset="1961" length="4"><![CDATA[with]]></wf>
+    <wf id="442" sent="1" para="1" offset="1965" length="5"><![CDATA[Santa]]></wf>
+    <wf id="443" sent="1" para="1" offset="1970" length="2"><![CDATA[Fe]]></wf>
+    <wf id="444" sent="1" para="1" offset="1972" length="1"><![CDATA[,]]></wf>
+    <wf id="445" sent="1" para="1" offset="1973" length="9"><![CDATA[investors]]></wf>
+    <wf id="446" sent="1" para="1" offset="1982" length="5"><![CDATA[would]]></wf>
+    <wf id="447" sent="1" para="1" offset="1987" length="4"><![CDATA[have]]></wf>
+    <wf id="448" sent="1" para="1" offset="1991" length="2"><![CDATA[to]]></wf>
+    <wf id="449" sent="1" para="1" offset="1993" length="4"><![CDATA[wait]]></wf>
+    <wf id="450" sent="1" para="1" offset="1997" length="5"><![CDATA[until]]></wf>
+    <wf id="451" sent="1" para="1" offset="2002" length="3"><![CDATA[the]]></wf>
+    <wf id="452" sent="1" para="1" offset="2005" length="6"><![CDATA[second]]></wf>
+    <wf id="453" sent="1" para="1" offset="2011" length="4"><![CDATA[half]]></wf>
+    <wf id="454" sent="1" para="1" offset="2015" length="2"><![CDATA[of]]></wf>
+    <wf id="455" sent="1" para="1" offset="2017" length="4"><![CDATA[1998]]></wf>
+    <wf id="456" sent="1" para="1" offset="2021" length="2"><![CDATA[to]]></wf>
+    <wf id="457" sent="1" para="1" offset="2023" length="7"><![CDATA[realize]]></wf>
+    <wf id="458" sent="1" para="1" offset="2030" length="8"><![CDATA[earnings]]></wf>
+    <wf id="459" sent="1" para="1" offset="2038" length="9"><![CDATA[accretion]]></wf>
+    <wf id="460" sent="1" para="1" offset="2047" length="1"><![CDATA[.]]></wf>
+    <wf id="461" sent="1" para="1" offset="2048" length="1"><![CDATA["]]></wf>
+    <wf id="462" sent="1" para="1" offset="2049" length="1"><![CDATA[I]]></wf>
+    <wf id="463" sent="1" para="1" offset="2050" length="5"><![CDATA[think]]></wf>
+    <wf id="464" sent="1" para="1" offset="2055" length="9"><![CDATA[Homestake]]></wf>
+    <wf id="465" sent="1" para="1" offset="2064" length="5"><![CDATA[could]]></wf>
+    <wf id="466" sent="1" para="1" offset="2069" length="4"><![CDATA[come]]></wf>
+    <wf id="467" sent="1" para="1" offset="2073" length="2"><![CDATA[in]]></wf>
+    <wf id="468" sent="1" para="1" offset="2075" length="2"><![CDATA[as]]></wf>
+    <wf id="469" sent="1" para="1" offset="2077" length="1"><![CDATA[a]]></wf>
+    <wf id="470" sent="1" para="1" offset="2078" length="5"><![CDATA[white]]></wf>
+    <wf id="471" sent="1" para="1" offset="2083" length="6"><![CDATA[knight]]></wf>
+    <wf id="472" sent="1" para="1" offset="2089" length="1"><![CDATA[,]]></wf>
+    <wf id="473" sent="1" para="1" offset="2090" length="3"><![CDATA[but]]></wf>
+    <wf id="474" sent="1" para="1" offset="2093" length="3"><![CDATA[how]]></wf>
+    <wf id="475" sent="1" para="1" offset="2096" length="4"><![CDATA[much]]></wf>
+    <wf id="476" sent="1" para="1" offset="2100" length="2"><![CDATA[is]]></wf>
+    <wf id="477" sent="1" para="1" offset="2102" length="7"><![CDATA[someone]]></wf>
+    <wf id="478" sent="1" para="1" offset="2109" length="7"><![CDATA[willing]]></wf>
+    <wf id="479" sent="1" para="1" offset="2116" length="2"><![CDATA[to]]></wf>
+    <wf id="480" sent="1" para="1" offset="2118" length="4"><![CDATA[come]]></wf>
+    <wf id="481" sent="1" para="1" offset="2122" length="2"><![CDATA[in]]></wf>
+    <wf id="482" sent="1" para="1" offset="2124" length="5"><![CDATA[above]]></wf>
+    <wf id="483" sent="1" para="1" offset="2129" length="3"><![CDATA[the]]></wf>
+    <wf id="484" sent="1" para="1" offset="2132" length="7"><![CDATA[Newmont]]></wf>
+    <wf id="485" sent="1" para="1" offset="2139" length="6"><![CDATA[number]]></wf>
+    <wf id="486" sent="1" para="1" offset="2145" length="1"><![CDATA[.]]></wf>
+    <wf id="487" sent="1" para="1" offset="2146" length="3"><![CDATA[One]]></wf>
+    <wf id="488" sent="1" para="1" offset="2149" length="5"><![CDATA[would]]></wf>
+    <wf id="489" sent="1" para="1" offset="2154" length="4"><![CDATA[have]]></wf>
+    <wf id="490" sent="1" para="1" offset="2158" length="2"><![CDATA[to]]></wf>
+    <wf id="491" sent="1" para="1" offset="2160" length="6"><![CDATA[outbid]]></wf>
+    <wf id="492" sent="1" para="1" offset="2166" length="2"><![CDATA[by]]></wf>
+    <wf id="493" sent="1" para="1" offset="2168" length="2"><![CDATA[at]]></wf>
+    <wf id="494" sent="1" para="1" offset="2170" length="5"><![CDATA[least]]></wf>
+    <wf id="495" sent="1" para="1" offset="2175" length="2"><![CDATA[15]]></wf>
+    <wf id="496" sent="1" para="1" offset="2177" length="7"><![CDATA[percent]]></wf>
+    <wf id="497" sent="1" para="1" offset="2184" length="1"><![CDATA[,]]></wf>
+    <wf id="498" sent="1" para="1" offset="2185" length="3"><![CDATA[but]]></wf>
+    <wf id="499" sent="1" para="1" offset="2188" length="5"><![CDATA[there]]></wf>
+    <wf id="500" sent="1" para="1" offset="2193" length="2"><![CDATA[is]]></wf>
+    <wf id="501" sent="1" para="1" offset="2195" length="5"><![CDATA[going]]></wf>
+    <wf id="502" sent="1" para="1" offset="2200" length="2"><![CDATA[to]]></wf>
+    <wf id="503" sent="1" para="1" offset="2202" length="2"><![CDATA[be]]></wf>
+    <wf id="504" sent="1" para="1" offset="2204" length="1"><![CDATA[a]]></wf>
+    <wf id="505" sent="1" para="1" offset="2205" length="1"><![CDATA[(]]></wf>
+    <wf id="506" sent="1" para="1" offset="2206" length="5"><![CDATA[Santa]]></wf>
+    <wf id="507" sent="1" para="1" offset="2211" length="2"><![CDATA[Fe]]></wf>
+    <wf id="508" sent="1" para="1" offset="2213" length="1"><![CDATA[)]]></wf>
+    <wf id="509" sent="1" para="1" offset="2214" length="4"><![CDATA[deal]]></wf>
+    <wf id="510" sent="1" para="1" offset="2218" length="4"><![CDATA[with]]></wf>
+    <wf id="511" sent="1" para="1" offset="2222" length="7"><![CDATA[someone]]></wf>
+    <wf id="512" sent="1" para="1" offset="2229" length="1"><![CDATA[,]]></wf>
+    <wf id="513" sent="1" para="1" offset="2230" length="1"><![CDATA["]]></wf>
+    <wf id="514" sent="1" para="1" offset="2231" length="2"><![CDATA[he]]></wf>
+    <wf id="515" sent="1" para="1" offset="2233" length="4"><![CDATA[said]]></wf>
+    <wf id="516" sent="1" para="1" offset="2237" length="1"><![CDATA[.]]></wf>
+    <wf id="517" sent="1" para="1" offset="2238" length="1"><![CDATA["]]></wf>
+    <wf id="518" sent="1" para="1" offset="2239" length="6"><![CDATA[Longer]]></wf>
+    <wf id="519" sent="1" para="1" offset="2245" length="4"><![CDATA[term]]></wf>
+    <wf id="520" sent="1" para="1" offset="2249" length="1"><![CDATA[,]]></wf>
+    <wf id="521" sent="1" para="1" offset="2250" length="3"><![CDATA[two]]></wf>
+    <wf id="522" sent="1" para="1" offset="2253" length="2"><![CDATA[to]]></wf>
+    <wf id="523" sent="1" para="1" offset="2255" length="5"><![CDATA[three]]></wf>
+    <wf id="524" sent="1" para="1" offset="2260" length="5"><![CDATA[years]]></wf>
+    <wf id="525" sent="1" para="1" offset="2265" length="3"><![CDATA[out]]></wf>
+    <wf id="526" sent="1" para="1" offset="2268" length="1"><![CDATA[,]]></wf>
+    <wf id="527" sent="1" para="1" offset="2269" length="1"><![CDATA[(]]></wf>
+    <wf id="528" sent="1" para="1" offset="2270" length="1"><![CDATA[a]]></wf>
+    <wf id="529" sent="1" para="1" offset="2271" length="13"><![CDATA[Newmont-Santa]]></wf>
+    <wf id="530" sent="1" para="1" offset="2284" length="2"><![CDATA[Fe]]></wf>
+    <wf id="531" sent="1" para="1" offset="2286" length="4"><![CDATA[deal]]></wf>
+    <wf id="532" sent="1" para="1" offset="2290" length="1"><![CDATA[)]]></wf>
+    <wf id="533" sent="1" para="1" offset="2291" length="2"><![CDATA[is]]></wf>
+    <wf id="534" sent="1" para="1" offset="2293" length="8"><![CDATA[positive]]></wf>
+    <wf id="535" sent="1" para="1" offset="2301" length="1"><![CDATA[,]]></wf>
+    <wf id="536" sent="1" para="1" offset="2302" length="2"><![CDATA[it]]></wf>
+    <wf id="537" sent="1" para="1" offset="2304" length="4"><![CDATA[does]]></wf>
+    <wf id="538" sent="1" para="1" offset="2308" length="3"><![CDATA[all]]></wf>
+    <wf id="539" sent="1" para="1" offset="2311" length="3"><![CDATA[the]]></wf>
+    <wf id="540" sent="1" para="1" offset="2314" length="5"><![CDATA[right]]></wf>
+    <wf id="541" sent="1" para="1" offset="2319" length="6"><![CDATA[things]]></wf>
+    <wf id="542" sent="1" para="1" offset="2325" length="1"><![CDATA[.]]></wf>
+    <wf id="543" sent="1" para="1" offset="2326" length="3"><![CDATA[But]]></wf>
+    <wf id="544" sent="1" para="1" offset="2329" length="2"><![CDATA[in]]></wf>
+    <wf id="545" sent="1" para="1" offset="2331" length="3"><![CDATA[the]]></wf>
+    <wf id="546" sent="1" para="1" offset="2334" length="9"><![CDATA[near-term]]></wf>
+    <wf id="547" sent="1" para="1" offset="2343" length="2"><![CDATA[it]]></wf>
+    <wf id="548" sent="1" para="1" offset="2345" length="2"><![CDATA[is]]></wf>
+    <wf id="549" sent="1" para="1" offset="2347" length="1"><![CDATA[,]]></wf>
+    <wf id="550" sent="1" para="1" offset="2348" length="2"><![CDATA[at]]></wf>
+    <wf id="551" sent="1" para="1" offset="2350" length="5"><![CDATA[worst]]></wf>
+    <wf id="552" sent="1" para="1" offset="2355" length="1"><![CDATA[,]]></wf>
+    <wf id="553" sent="1" para="1" offset="2356" length="7"><![CDATA[neutral]]></wf>
+    <wf id="554" sent="1" para="1" offset="2363" length="1"><![CDATA[,]]></wf>
+    <wf id="555" sent="1" para="1" offset="2364" length="1"><![CDATA["]]></wf>
+    <wf id="556" sent="1" para="1" offset="2365" length="3"><![CDATA[the]]></wf>
+    <wf id="557" sent="1" para="1" offset="2368" length="7"><![CDATA[analyst]]></wf>
+    <wf id="558" sent="1" para="1" offset="2375" length="5"><![CDATA[added]]></wf>
+    <wf id="559" sent="1" para="1" offset="2380" length="1"><![CDATA[.]]></wf>
+    <wf id="560" sent="1" para="1" offset="2381" length="7"><![CDATA[Newmont]]></wf>
+    <wf id="561" sent="1" para="1" offset="2388" length="8"><![CDATA[proposed]]></wf>
+    <wf id="562" sent="1" para="1" offset="2396" length="2"><![CDATA[to]]></wf>
+    <wf id="563" sent="1" para="1" offset="2398" length="5"><![CDATA[Santa]]></wf>
+    <wf id="564" sent="1" para="1" offset="2403" length="2"><![CDATA[Fe]]></wf>
+    <wf id="565" sent="1" para="1" offset="2405" length="1"><![CDATA[a]]></wf>
+    <wf id="566" sent="1" para="1" offset="2406" length="10"><![CDATA[stock-swap]]></wf>
+    <wf id="567" sent="1" para="1" offset="2416" length="6"><![CDATA[merger]]></wf>
+    <wf id="568" sent="1" para="1" offset="2422" length="2"><![CDATA[at]]></wf>
+    <wf id="569" sent="1" para="1" offset="2424" length="1"><![CDATA[a]]></wf>
+    <wf id="570" sent="1" para="1" offset="2425" length="5"><![CDATA[ratio]]></wf>
+    <wf id="571" sent="1" para="1" offset="2430" length="2"><![CDATA[of]]></wf>
+    <wf id="572" sent="1" para="1" offset="2432" length="4"><![CDATA[0.33]]></wf>
+    <wf id="573" sent="1" para="1" offset="2436" length="7"><![CDATA[Newmont]]></wf>
+    <wf id="574" sent="1" para="1" offset="2443" length="6"><![CDATA[shares]]></wf>
+    <wf id="575" sent="1" para="1" offset="2449" length="3"><![CDATA[for]]></wf>
+    <wf id="576" sent="1" para="1" offset="2452" length="4"><![CDATA[each]]></wf>
+    <wf id="577" sent="1" para="1" offset="2456" length="5"><![CDATA[Santa]]></wf>
+    <wf id="578" sent="1" para="1" offset="2461" length="2"><![CDATA[Fe]]></wf>
+    <wf id="579" sent="1" para="1" offset="2463" length="6"><![CDATA[shares]]></wf>
+    <wf id="580" sent="1" para="1" offset="2469" length="1"><![CDATA[.]]></wf>
+    <wf id="581" sent="1" para="1" offset="2470" length="2"><![CDATA[In]]></wf>
+    <wf id="582" sent="1" para="1" offset="2472" length="6"><![CDATA[Friday]]></wf>
+    <wf id="583" sent="1" para="1" offset="2478" length="3"><![CDATA[New]]></wf>
+    <wf id="584" sent="1" para="1" offset="2481" length="4"><![CDATA[York]]></wf>
+    <wf id="585" sent="1" para="1" offset="2485" length="5"><![CDATA[Stock]]></wf>
+    <wf id="586" sent="1" para="1" offset="2490" length="8"><![CDATA[Exchange]]></wf>
+    <wf id="587" sent="1" para="1" offset="2498" length="5"><![CDATA[trade]]></wf>
+    <wf id="588" sent="1" para="1" offset="2503" length="1"><![CDATA[,]]></wf>
+    <wf id="589" sent="1" para="1" offset="2504" length="8"><![CDATA[Newmonth]]></wf>
+    <wf id="590" sent="1" para="1" offset="2512" length="3"><![CDATA[was]]></wf>
+    <wf id="591" sent="1" para="1" offset="2515" length="3"><![CDATA[off]]></wf>
+    <wf id="592" sent="1" para="1" offset="2518" length="3"><![CDATA[1/2]]></wf>
+    <wf id="593" sent="1" para="1" offset="2521" length="2"><![CDATA[to]]></wf>
+    <wf id="594" sent="1" para="1" offset="2523" length="6"><![CDATA[46-5/8]]></wf>
+    <wf id="595" sent="1" para="1" offset="2529" length="5"><![CDATA[while]]></wf>
+    <wf id="596" sent="1" para="1" offset="2534" length="5"><![CDATA[Santa]]></wf>
+    <wf id="597" sent="1" para="1" offset="2539" length="2"><![CDATA[Fe]]></wf>
+    <wf id="598" sent="1" para="1" offset="2541" length="5"><![CDATA[added]]></wf>
+    <wf id="599" sent="1" para="1" offset="2546" length="3"><![CDATA[1/4]]></wf>
+    <wf id="600" sent="1" para="1" offset="2549" length="2"><![CDATA[to]]></wf>
+    <wf id="601" sent="1" para="1" offset="2551" length="6"><![CDATA[15-1/8]]></wf>
+    <wf id="602" sent="1" para="1" offset="2557" length="1"><![CDATA[.]]></wf>
+    <wf id="603" sent="1" para="1" offset="2558" length="1"><![CDATA["]]></wf>
+    <wf id="604" sent="1" para="1" offset="2559" length="7"><![CDATA[Newmont]]></wf>
+    <wf id="605" sent="1" para="1" offset="2566" length="4"><![CDATA[said]]></wf>
+    <wf id="606" sent="1" para="1" offset="2570" length="2"><![CDATA[it]]></wf>
+    <wf id="607" sent="1" para="1" offset="2572" length="5"><![CDATA[wants]]></wf>
+    <wf id="608" sent="1" para="1" offset="2577" length="2"><![CDATA[to]]></wf>
+    <wf id="609" sent="1" para="1" offset="2579" length="7"><![CDATA[discuss]]></wf>
+    <wf id="610" sent="1" para="1" offset="2586" length="1"><![CDATA[a]]></wf>
+    <wf id="611" sent="1" para="1" offset="2587" length="8"><![CDATA[friendly]]></wf>
+    <wf id="612" sent="1" para="1" offset="2595" length="4"><![CDATA[deal]]></wf>
+    <wf id="613" sent="1" para="1" offset="2599" length="4"><![CDATA[with]]></wf>
+    <wf id="614" sent="1" para="1" offset="2603" length="5"><![CDATA[Santa]]></wf>
+    <wf id="615" sent="1" para="1" offset="2608" length="2"><![CDATA[Fe]]></wf>
+    <wf id="616" sent="1" para="1" offset="2610" length="1"><![CDATA[,]]></wf>
+    <wf id="617" sent="1" para="1" offset="2611" length="5"><![CDATA[which]]></wf>
+    <wf id="618" sent="1" para="1" offset="2616" length="2"><![CDATA[is]]></wf>
+    <wf id="619" sent="1" para="1" offset="2618" length="6"><![CDATA[almost]]></wf>
+    <wf id="620" sent="1" para="1" offset="2624" length="6"><![CDATA[always]]></wf>
+    <wf id="621" sent="1" para="1" offset="2630" length="1"><![CDATA[a]]></wf>
+    <wf id="622" sent="1" para="1" offset="2631" length="9"><![CDATA[euphemism]]></wf>
+    <wf id="623" sent="1" para="1" offset="2640" length="3"><![CDATA[for]]></wf>
+    <wf id="624" sent="1" para="1" offset="2643" length="1"><![CDATA[']]></wf>
+    <wf id="625" sent="1" para="1" offset="2644" length="2"><![CDATA[We]]></wf>
+    <wf id="626" sent="1" para="1" offset="2646" length="4"><![CDATA[have]]></wf>
+    <wf id="627" sent="1" para="1" offset="2650" length="4"><![CDATA[more]]></wf>
+    <wf id="628" sent="1" para="1" offset="2654" length="5"><![CDATA[money]]></wf>
+    <wf id="629" sent="1" para="1" offset="2659" length="2"><![CDATA[in]]></wf>
+    <wf id="630" sent="1" para="1" offset="2661" length="3"><![CDATA[our]]></wf>
+    <wf id="631" sent="1" para="1" offset="2664" length="6"><![CDATA[pocket]]></wf>
+    <wf id="632" sent="1" para="1" offset="2670" length="1"><![CDATA[,]]></wf>
+    <wf id="633" sent="1" para="1" offset="2671" length="1"><![CDATA[']]></wf>
+    <wf id="634" sent="1" para="1" offset="2672" length="1"><![CDATA["]]></wf>
+    <wf id="635" sent="1" para="1" offset="2673" length="4"><![CDATA[said]]></wf>
+    <wf id="636" sent="1" para="1" offset="2677" length="2"><![CDATA[an]]></wf>
+    <wf id="637" sent="1" para="1" offset="2679" length="3"><![CDATA[arb]]></wf>
+    <wf id="638" sent="1" para="1" offset="2682" length="1"><![CDATA[,]]></wf>
+    <wf id="639" sent="1" para="1" offset="2683" length="9"><![CDATA[referring]]></wf>
+    <wf id="640" sent="1" para="1" offset="2692" length="2"><![CDATA[to]]></wf>
+    <wf id="641" sent="1" para="1" offset="2694" length="1"><![CDATA[a]]></wf>
+    <wf id="642" sent="1" para="1" offset="2695" length="8"><![CDATA[possible]]></wf>
+    <wf id="643" sent="1" para="1" offset="2703" length="9"><![CDATA[sweetened]]></wf>
+    <wf id="644" sent="1" para="1" offset="2712" length="3"><![CDATA[bid]]></wf>
+    <wf id="645" sent="1" para="1" offset="2715" length="4"><![CDATA[from]]></wf>
+    <wf id="646" sent="1" para="1" offset="2719" length="7"><![CDATA[Newmont]]></wf>
+    <wf id="647" sent="1" para="1" offset="2726" length="1"><![CDATA[.]]></wf>
+    <wf id="648" sent="1" para="1" offset="2727" length="3"><![CDATA[Two]]></wf>
+    <wf id="649" sent="1" para="1" offset="2730" length="5"><![CDATA[other]]></wf>
+    <wf id="650" sent="1" para="1" offset="2735" length="4"><![CDATA[arbs]]></wf>
+    <wf id="651" sent="1" para="1" offset="2739" length="6"><![CDATA[called]]></wf>
+    <wf id="652" sent="1" para="1" offset="2745" length="7"><![CDATA[Newmont]]></wf>
+    <wf id="653" sent="1" para="1" offset="2752" length="2"><![CDATA['s]]></wf>
+    <wf id="654" sent="1" para="1" offset="2754" length="4"><![CDATA[move]]></wf>
+    <wf id="655" sent="1" para="1" offset="2758" length="1"><![CDATA[a]]></wf>
+    <wf id="656" sent="1" para="1" offset="2759" length="1"><![CDATA["]]></wf>
+    <wf id="657" sent="1" para="1" offset="2760" length="1"><![CDATA[a]]></wf>
+    <wf id="658" sent="1" para="1" offset="2761" length="2"><![CDATA[32]]></wf>
+    <wf id="659" sent="1" para="1" offset="2763" length="4"><![CDATA[cent]]></wf>
+    <wf id="660" sent="1" para="1" offset="2767" length="3"><![CDATA[bid]]></wf>
+    <wf id="661" sent="1" para="1" offset="2770" length="1"><![CDATA["]]></wf>
+    <wf id="662" sent="1" para="1" offset="2771" length="7"><![CDATA[because]]></wf>
+    <wf id="663" sent="1" para="1" offset="2778" length="5"><![CDATA[there]]></wf>
+    <wf id="664" sent="1" para="1" offset="2783" length="2"><![CDATA[is]]></wf>
+    <wf id="665" sent="1" para="1" offset="2785" length="2"><![CDATA[no]]></wf>
+    <wf id="666" sent="1" para="1" offset="2787" length="6"><![CDATA[formal]]></wf>
+    <wf id="667" sent="1" para="1" offset="2793" length="6"><![CDATA[tender]]></wf>
+    <wf id="668" sent="1" para="1" offset="2799" length="5"><![CDATA[offer]]></wf>
+    <wf id="669" sent="1" para="1" offset="2804" length="1"><![CDATA[,]]></wf>
+    <wf id="670" sent="1" para="1" offset="2805" length="4"><![CDATA[only]]></wf>
+    <wf id="671" sent="1" para="1" offset="2809" length="3"><![CDATA[the]]></wf>
+    <wf id="672" sent="1" para="1" offset="2812" length="8"><![CDATA[proposal]]></wf>
+    <wf id="673" sent="1" para="1" offset="2820" length="6"><![CDATA[letter]]></wf>
+    <wf id="674" sent="1" para="1" offset="2826" length="1"><![CDATA["]]></wf>
+    <wf id="675" sent="1" para="1" offset="2827" length="6"><![CDATA[mailed]]></wf>
+    <wf id="676" sent="1" para="1" offset="2833" length="1"><![CDATA["]]></wf>
+    <wf id="677" sent="1" para="1" offset="2834" length="2"><![CDATA[to]]></wf>
+    <wf id="678" sent="1" para="1" offset="2836" length="5"><![CDATA[Santa]]></wf>
+    <wf id="679" sent="1" para="1" offset="2841" length="2"><![CDATA[Fe]]></wf>
+    <wf id="680" sent="1" para="1" offset="2843" length="2"><![CDATA['s]]></wf>
+    <wf id="681" sent="1" para="1" offset="2845" length="5"><![CDATA[board]]></wf>
+    <wf id="682" sent="1" para="1" offset="2850" length="1"><![CDATA[.]]></wf>
+    <wf id="683" sent="1" para="1" offset="2851" length="2"><![CDATA[--]]></wf>
+    <wf id="684" sent="1" para="1" offset="2853" length="4"><![CDATA[Wall]]></wf>
+    <wf id="685" sent="1" para="1" offset="2857" length="6"><![CDATA[Street]]></wf>
+    <wf id="686" sent="1" para="1" offset="2863" length="4"><![CDATA[Desk]]></wf>
+    <wf id="687" sent="1" para="1" offset="2867" length="1"><![CDATA[,]]></wf>
+    <wf id="688" sent="1" para="1" offset="2868" length="12"><![CDATA[212-859-1734]]></wf>
+    <wf id="689" sent="1" para="1" offset="2880" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="Wall">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="St">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="speculates">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="about">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="Santa">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="Fe">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="savior">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma=".">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="Brendan">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="Intindola">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="NEW">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="YORK">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="1996-12-06">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="Homestake">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="Mining">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="Co">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="tops">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="Wall">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="Street">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="'s">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="list">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="as">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="the">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="most">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="likely">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="white">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="knight">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="buyer">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="for">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="Santa">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="Fe">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="Pacific">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="Gold">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="Corp">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="if">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="Santa">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="Fe">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="rejects">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="unsolicited">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="suitor">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="Newmont">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="Mining">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="Corp">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma=".">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="Santa">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="Fe">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="is">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="so">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="far">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="mum">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="on">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="the">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="more">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="than">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="$">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="2">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="billion">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="stock">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="swap">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="takeover">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="proposal">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="from">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="Newmont">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma=",">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="announced">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="Thursday">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma=".">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="Wall">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="Street">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma=",">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="since">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="the">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="bid">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma=",">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="has">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="speculated">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="that">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="any">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="deal">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="between">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="Newmont">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="and">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="Santa">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="Fe">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="would">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="be">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="a">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="&quot;">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="bear">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="hug">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma=",">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="&quot;">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="or">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="a">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="reluctantly">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="negotiated">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="agreement">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="where">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="the">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="buyer">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="is">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="not">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="necessarily">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="a">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="friendly">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="suitor">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma=".">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="Newmont">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="said">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="the">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="companies">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="have">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="had">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="previous">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="contact">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma=",">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="though">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="declined">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="to">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="detail">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="the">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="encounters">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma=".">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="Analysts">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="predict">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="Santa">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="Fe">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="will">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="go">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="to">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="the">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="highest">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="bidder">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma=",">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="and">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="that">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="if">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="a">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="rival">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="buyer">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="is">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="found">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma=",">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="Newmont">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="may">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="not">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="be">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="able">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="to">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="match">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="its">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="offer">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma=".">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="They">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="said">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="the">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="Santa">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="Fe">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="deal">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma=",">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="which">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="includes">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="desirable">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="Nevada">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="mining">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="territory">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma=",">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="would">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="only">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="payoff">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="for">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma="Newmont">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="longer">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="term">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma=".">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="Newmont">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma=",">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="in">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="fact">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma=",">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="will">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="not">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="benefit">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma="from">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="the">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma="Santa">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="Fe">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma="acquisition">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="on">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma="an">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma="earnings">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="basis">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma="for">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma="at">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma="least">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma="two">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="years">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma=",">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma="which">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma="also">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+    <term id="201" lemma="limits">
+      <span>
+        <target id="201"/>
+      </span>
+    </term>
+    <term id="202" lemma="its">
+      <span>
+        <target id="202"/>
+      </span>
+    </term>
+    <term id="203" lemma="capacity">
+      <span>
+        <target id="203"/>
+      </span>
+    </term>
+    <term id="204" lemma="to">
+      <span>
+        <target id="204"/>
+      </span>
+    </term>
+    <term id="205" lemma="raise">
+      <span>
+        <target id="205"/>
+      </span>
+    </term>
+    <term id="206" lemma="its">
+      <span>
+        <target id="206"/>
+      </span>
+    </term>
+    <term id="207" lemma="offer">
+      <span>
+        <target id="207"/>
+      </span>
+    </term>
+    <term id="208" lemma=".">
+      <span>
+        <target id="208"/>
+      </span>
+    </term>
+    <term id="209" lemma="Any">
+      <span>
+        <target id="209"/>
+      </span>
+    </term>
+    <term id="210" lemma="deal">
+      <span>
+        <target id="210"/>
+      </span>
+    </term>
+    <term id="211" lemma=",">
+      <span>
+        <target id="211"/>
+      </span>
+    </term>
+    <term id="212" lemma="friendly">
+      <span>
+        <target id="212"/>
+      </span>
+    </term>
+    <term id="213" lemma="or">
+      <span>
+        <target id="213"/>
+      </span>
+    </term>
+    <term id="214" lemma="hostile">
+      <span>
+        <target id="214"/>
+      </span>
+    </term>
+    <term id="215" lemma=",">
+      <span>
+        <target id="215"/>
+      </span>
+    </term>
+    <term id="216" lemma="would">
+      <span>
+        <target id="216"/>
+      </span>
+    </term>
+    <term id="217" lemma="almost">
+      <span>
+        <target id="217"/>
+      </span>
+    </term>
+    <term id="218" lemma="assuredly">
+      <span>
+        <target id="218"/>
+      </span>
+    </term>
+    <term id="219" lemma="be">
+      <span>
+        <target id="219"/>
+      </span>
+    </term>
+    <term id="220" lemma="a">
+      <span>
+        <target id="220"/>
+      </span>
+    </term>
+    <term id="221" lemma="stock">
+      <span>
+        <target id="221"/>
+      </span>
+    </term>
+    <term id="222" lemma="swap">
+      <span>
+        <target id="222"/>
+      </span>
+    </term>
+    <term id="223" lemma=",">
+      <span>
+        <target id="223"/>
+      </span>
+    </term>
+    <term id="224" lemma="which">
+      <span>
+        <target id="224"/>
+      </span>
+    </term>
+    <term id="225" lemma="is">
+      <span>
+        <target id="225"/>
+      </span>
+    </term>
+    <term id="226" lemma="necessary">
+      <span>
+        <target id="226"/>
+      </span>
+    </term>
+    <term id="227" lemma="to">
+      <span>
+        <target id="227"/>
+      </span>
+    </term>
+    <term id="228" lemma="preserve">
+      <span>
+        <target id="228"/>
+      </span>
+    </term>
+    <term id="229" lemma="the">
+      <span>
+        <target id="229"/>
+      </span>
+    </term>
+    <term id="230" lemma="tax-free">
+      <span>
+        <target id="230"/>
+      </span>
+    </term>
+    <term id="231" lemma=",">
+      <span>
+        <target id="231"/>
+      </span>
+    </term>
+    <term id="232" lemma="pooling-of-interest">
+      <span>
+        <target id="232"/>
+      </span>
+    </term>
+    <term id="233" lemma="accounting">
+      <span>
+        <target id="233"/>
+      </span>
+    </term>
+    <term id="234" lemma=",">
+      <span>
+        <target id="234"/>
+      </span>
+    </term>
+    <term id="235" lemma="they">
+      <span>
+        <target id="235"/>
+      </span>
+    </term>
+    <term id="236" lemma="said">
+      <span>
+        <target id="236"/>
+      </span>
+    </term>
+    <term id="237" lemma=".">
+      <span>
+        <target id="237"/>
+      </span>
+    </term>
+    <term id="238" lemma="Analysts">
+      <span>
+        <target id="238"/>
+      </span>
+    </term>
+    <term id="239" lemma="and">
+      <span>
+        <target id="239"/>
+      </span>
+    </term>
+    <term id="240" lemma="arbitrageurs">
+      <span>
+        <target id="240"/>
+      </span>
+    </term>
+    <term id="241" lemma="immediately">
+      <span>
+        <target id="241"/>
+      </span>
+    </term>
+    <term id="242" lemma="ruled">
+      <span>
+        <target id="242"/>
+      </span>
+    </term>
+    <term id="243" lemma="out">
+      <span>
+        <target id="243"/>
+      </span>
+    </term>
+    <term id="244" lemma="Barrick">
+      <span>
+        <target id="244"/>
+      </span>
+    </term>
+    <term id="245" lemma="Gold">
+      <span>
+        <target id="245"/>
+      </span>
+    </term>
+    <term id="246" lemma="Corp">
+      <span>
+        <target id="246"/>
+      </span>
+    </term>
+    <term id="247" lemma="and">
+      <span>
+        <target id="247"/>
+      </span>
+    </term>
+    <term id="248" lemma="Bre-X">
+      <span>
+        <target id="248"/>
+      </span>
+    </term>
+    <term id="249" lemma="Minerals">
+      <span>
+        <target id="249"/>
+      </span>
+    </term>
+    <term id="250" lemma="Ltd">
+      <span>
+        <target id="250"/>
+      </span>
+    </term>
+    <term id="251" lemma="as">
+      <span>
+        <target id="251"/>
+      </span>
+    </term>
+    <term id="252" lemma="Santa">
+      <span>
+        <target id="252"/>
+      </span>
+    </term>
+    <term id="253" lemma="Fe">
+      <span>
+        <target id="253"/>
+      </span>
+    </term>
+    <term id="254" lemma="saviors">
+      <span>
+        <target id="254"/>
+      </span>
+    </term>
+    <term id="255" lemma="because">
+      <span>
+        <target id="255"/>
+      </span>
+    </term>
+    <term id="256" lemma="they">
+      <span>
+        <target id="256"/>
+      </span>
+    </term>
+    <term id="257" lemma="are">
+      <span>
+        <target id="257"/>
+      </span>
+    </term>
+    <term id="258" lemma="locked">
+      <span>
+        <target id="258"/>
+      </span>
+    </term>
+    <term id="259" lemma="in">
+      <span>
+        <target id="259"/>
+      </span>
+    </term>
+    <term id="260" lemma="negotiations">
+      <span>
+        <target id="260"/>
+      </span>
+    </term>
+    <term id="261" lemma="over">
+      <span>
+        <target id="261"/>
+      </span>
+    </term>
+    <term id="262" lemma="their">
+      <span>
+        <target id="262"/>
+      </span>
+    </term>
+    <term id="263" lemma="splitting">
+      <span>
+        <target id="263"/>
+      </span>
+    </term>
+    <term id="264" lemma="Indonesia">
+      <span>
+        <target id="264"/>
+      </span>
+    </term>
+    <term id="265" lemma="'s">
+      <span>
+        <target id="265"/>
+      </span>
+    </term>
+    <term id="266" lemma="Busang">
+      <span>
+        <target id="266"/>
+      </span>
+    </term>
+    <term id="267" lemma="vast">
+      <span>
+        <target id="267"/>
+      </span>
+    </term>
+    <term id="268" lemma="gold">
+      <span>
+        <target id="268"/>
+      </span>
+    </term>
+    <term id="269" lemma="deposit">
+      <span>
+        <target id="269"/>
+      </span>
+    </term>
+    <term id="270" lemma=".">
+      <span>
+        <target id="270"/>
+      </span>
+    </term>
+    <term id="271" lemma="Placer">
+      <span>
+        <target id="271"/>
+      </span>
+    </term>
+    <term id="272" lemma="Dome">
+      <span>
+        <target id="272"/>
+      </span>
+    </term>
+    <term id="273" lemma="Inc">
+      <span>
+        <target id="273"/>
+      </span>
+    </term>
+    <term id="274" lemma="too">
+      <span>
+        <target id="274"/>
+      </span>
+    </term>
+    <term id="275" lemma="was">
+      <span>
+        <target id="275"/>
+      </span>
+    </term>
+    <term id="276" lemma="considered">
+      <span>
+        <target id="276"/>
+      </span>
+    </term>
+    <term id="277" lemma="unlikley">
+      <span>
+        <target id="277"/>
+      </span>
+    </term>
+    <term id="278" lemma="because">
+      <span>
+        <target id="278"/>
+      </span>
+    </term>
+    <term id="279" lemma="it">
+      <span>
+        <target id="279"/>
+      </span>
+    </term>
+    <term id="280" lemma="is">
+      <span>
+        <target id="280"/>
+      </span>
+    </term>
+    <term id="281" lemma="focusing">
+      <span>
+        <target id="281"/>
+      </span>
+    </term>
+    <term id="282" lemma="on">
+      <span>
+        <target id="282"/>
+      </span>
+    </term>
+    <term id="283" lemma="geographic">
+      <span>
+        <target id="283"/>
+      </span>
+    </term>
+    <term id="284" lemma="expansion">
+      <span>
+        <target id="284"/>
+      </span>
+    </term>
+    <term id="285" lemma="in">
+      <span>
+        <target id="285"/>
+      </span>
+    </term>
+    <term id="286" lemma="areas">
+      <span>
+        <target id="286"/>
+      </span>
+    </term>
+    <term id="287" lemma="that">
+      <span>
+        <target id="287"/>
+      </span>
+    </term>
+    <term id="288" lemma="do">
+      <span>
+        <target id="288"/>
+      </span>
+    </term>
+    <term id="289" lemma="match">
+      <span>
+        <target id="289"/>
+      </span>
+    </term>
+    <term id="290" lemma="Santa">
+      <span>
+        <target id="290"/>
+      </span>
+    </term>
+    <term id="291" lemma="Fe">
+      <span>
+        <target id="291"/>
+      </span>
+    </term>
+    <term id="292" lemma="'s">
+      <span>
+        <target id="292"/>
+      </span>
+    </term>
+    <term id="293" lemma="Nevada">
+      <span>
+        <target id="293"/>
+      </span>
+    </term>
+    <term id="294" lemma=",">
+      <span>
+        <target id="294"/>
+      </span>
+    </term>
+    <term id="295" lemma="South">
+      <span>
+        <target id="295"/>
+      </span>
+    </term>
+    <term id="296" lemma="America">
+      <span>
+        <target id="296"/>
+      </span>
+    </term>
+    <term id="297" lemma="and">
+      <span>
+        <target id="297"/>
+      </span>
+    </term>
+    <term id="298" lemma="Central">
+      <span>
+        <target id="298"/>
+      </span>
+    </term>
+    <term id="299" lemma="Asia">
+      <span>
+        <target id="299"/>
+      </span>
+    </term>
+    <term id="300" lemma="presence">
+      <span>
+        <target id="300"/>
+      </span>
+    </term>
+    <term id="301" lemma=",">
+      <span>
+        <target id="301"/>
+      </span>
+    </term>
+    <term id="302" lemma="they">
+      <span>
+        <target id="302"/>
+      </span>
+    </term>
+    <term id="303" lemma="said">
+      <span>
+        <target id="303"/>
+      </span>
+    </term>
+    <term id="304" lemma=".">
+      <span>
+        <target id="304"/>
+      </span>
+    </term>
+    <term id="305" lemma="A">
+      <span>
+        <target id="305"/>
+      </span>
+    </term>
+    <term id="306" lemma="Homestake">
+      <span>
+        <target id="306"/>
+      </span>
+    </term>
+    <term id="307" lemma="spokesman">
+      <span>
+        <target id="307"/>
+      </span>
+    </term>
+    <term id="308" lemma="was">
+      <span>
+        <target id="308"/>
+      </span>
+    </term>
+    <term id="309" lemma="not">
+      <span>
+        <target id="309"/>
+      </span>
+    </term>
+    <term id="310" lemma="immediately">
+      <span>
+        <target id="310"/>
+      </span>
+    </term>
+    <term id="311" lemma="available">
+      <span>
+        <target id="311"/>
+      </span>
+    </term>
+    <term id="312" lemma="to">
+      <span>
+        <target id="312"/>
+      </span>
+    </term>
+    <term id="313" lemma="comment">
+      <span>
+        <target id="313"/>
+      </span>
+    </term>
+    <term id="314" lemma="on">
+      <span>
+        <target id="314"/>
+      </span>
+    </term>
+    <term id="315" lemma="speculation">
+      <span>
+        <target id="315"/>
+      </span>
+    </term>
+    <term id="316" lemma="that">
+      <span>
+        <target id="316"/>
+      </span>
+    </term>
+    <term id="317" lemma="it">
+      <span>
+        <target id="317"/>
+      </span>
+    </term>
+    <term id="318" lemma="tops">
+      <span>
+        <target id="318"/>
+      </span>
+    </term>
+    <term id="319" lemma="the">
+      <span>
+        <target id="319"/>
+      </span>
+    </term>
+    <term id="320" lemma="list">
+      <span>
+        <target id="320"/>
+      </span>
+    </term>
+    <term id="321" lemma=".">
+      <span>
+        <target id="321"/>
+      </span>
+    </term>
+    <term id="322" lemma="Homestake">
+      <span>
+        <target id="322"/>
+      </span>
+    </term>
+    <term id="323" lemma=",">
+      <span>
+        <target id="323"/>
+      </span>
+    </term>
+    <term id="324" lemma="based">
+      <span>
+        <target id="324"/>
+      </span>
+    </term>
+    <term id="325" lemma="in">
+      <span>
+        <target id="325"/>
+      </span>
+    </term>
+    <term id="326" lemma="San">
+      <span>
+        <target id="326"/>
+      </span>
+    </term>
+    <term id="327" lemma="Francisco">
+      <span>
+        <target id="327"/>
+      </span>
+    </term>
+    <term id="328" lemma=",">
+      <span>
+        <target id="328"/>
+      </span>
+    </term>
+    <term id="329" lemma="operates">
+      <span>
+        <target id="329"/>
+      </span>
+    </term>
+    <term id="330" lemma="gold">
+      <span>
+        <target id="330"/>
+      </span>
+    </term>
+    <term id="331" lemma="mines">
+      <span>
+        <target id="331"/>
+      </span>
+    </term>
+    <term id="332" lemma="in">
+      <span>
+        <target id="332"/>
+      </span>
+    </term>
+    <term id="333" lemma="the">
+      <span>
+        <target id="333"/>
+      </span>
+    </term>
+    <term id="334" lemma="United">
+      <span>
+        <target id="334"/>
+      </span>
+    </term>
+    <term id="335" lemma="States">
+      <span>
+        <target id="335"/>
+      </span>
+    </term>
+    <term id="336" lemma=",">
+      <span>
+        <target id="336"/>
+      </span>
+    </term>
+    <term id="337" lemma="Australia">
+      <span>
+        <target id="337"/>
+      </span>
+    </term>
+    <term id="338" lemma=",">
+      <span>
+        <target id="338"/>
+      </span>
+    </term>
+    <term id="339" lemma="Chile">
+      <span>
+        <target id="339"/>
+      </span>
+    </term>
+    <term id="340" lemma="and">
+      <span>
+        <target id="340"/>
+      </span>
+    </term>
+    <term id="341" lemma="Canada">
+      <span>
+        <target id="341"/>
+      </span>
+    </term>
+    <term id="342" lemma=".">
+      <span>
+        <target id="342"/>
+      </span>
+    </term>
+    <term id="343" lemma="Earnings">
+      <span>
+        <target id="343"/>
+      </span>
+    </term>
+    <term id="344" lemma="in">
+      <span>
+        <target id="344"/>
+      </span>
+    </term>
+    <term id="345" lemma="1995">
+      <span>
+        <target id="345"/>
+      </span>
+    </term>
+    <term id="346" lemma="were">
+      <span>
+        <target id="346"/>
+      </span>
+    </term>
+    <term id="347" lemma="$">
+      <span>
+        <target id="347"/>
+      </span>
+    </term>
+    <term id="348" lemma="0.22">
+      <span>
+        <target id="348"/>
+      </span>
+    </term>
+    <term id="349" lemma="per">
+      <span>
+        <target id="349"/>
+      </span>
+    </term>
+    <term id="350" lemma="share">
+      <span>
+        <target id="350"/>
+      </span>
+    </term>
+    <term id="351" lemma=",">
+      <span>
+        <target id="351"/>
+      </span>
+    </term>
+    <term id="352" lemma="or">
+      <span>
+        <target id="352"/>
+      </span>
+    </term>
+    <term id="353" lemma="$">
+      <span>
+        <target id="353"/>
+      </span>
+    </term>
+    <term id="354" lemma="30.3">
+      <span>
+        <target id="354"/>
+      </span>
+    </term>
+    <term id="355" lemma="million">
+      <span>
+        <target id="355"/>
+      </span>
+    </term>
+    <term id="356" lemma=",">
+      <span>
+        <target id="356"/>
+      </span>
+    </term>
+    <term id="357" lemma="on">
+      <span>
+        <target id="357"/>
+      </span>
+    </term>
+    <term id="358" lemma="revenues">
+      <span>
+        <target id="358"/>
+      </span>
+    </term>
+    <term id="359" lemma="of">
+      <span>
+        <target id="359"/>
+      </span>
+    </term>
+    <term id="360" lemma="$">
+      <span>
+        <target id="360"/>
+      </span>
+    </term>
+    <term id="361" lemma="746.3">
+      <span>
+        <target id="361"/>
+      </span>
+    </term>
+    <term id="362" lemma="million">
+      <span>
+        <target id="362"/>
+      </span>
+    </term>
+    <term id="363" lemma=".">
+      <span>
+        <target id="363"/>
+      </span>
+    </term>
+    <term id="364" lemma="Santa">
+      <span>
+        <target id="364"/>
+      </span>
+    </term>
+    <term id="365" lemma="Fe">
+      <span>
+        <target id="365"/>
+      </span>
+    </term>
+    <term id="366" lemma="is">
+      <span>
+        <target id="366"/>
+      </span>
+    </term>
+    <term id="367" lemma="headquartered">
+      <span>
+        <target id="367"/>
+      </span>
+    </term>
+    <term id="368" lemma="Albuquerque">
+      <span>
+        <target id="368"/>
+      </span>
+    </term>
+    <term id="369" lemma=",">
+      <span>
+        <target id="369"/>
+      </span>
+    </term>
+    <term id="370" lemma="N.M.">
+      <span>
+        <target id="370"/>
+      </span>
+    </term>
+    <term id="371" lemma="and">
+      <span>
+        <target id="371"/>
+      </span>
+    </term>
+    <term id="372" lemma="reported">
+      <span>
+        <target id="372"/>
+      </span>
+    </term>
+    <term id="373" lemma="1995">
+      <span>
+        <target id="373"/>
+      </span>
+    </term>
+    <term id="374" lemma="earnings">
+      <span>
+        <target id="374"/>
+      </span>
+    </term>
+    <term id="375" lemma="of">
+      <span>
+        <target id="375"/>
+      </span>
+    </term>
+    <term id="376" lemma="$">
+      <span>
+        <target id="376"/>
+      </span>
+    </term>
+    <term id="377" lemma="0.30">
+      <span>
+        <target id="377"/>
+      </span>
+    </term>
+    <term id="378" lemma="per">
+      <span>
+        <target id="378"/>
+      </span>
+    </term>
+    <term id="379" lemma="share">
+      <span>
+        <target id="379"/>
+      </span>
+    </term>
+    <term id="380" lemma=",">
+      <span>
+        <target id="380"/>
+      </span>
+    </term>
+    <term id="381" lemma="or">
+      <span>
+        <target id="381"/>
+      </span>
+    </term>
+    <term id="382" lemma="$">
+      <span>
+        <target id="382"/>
+      </span>
+    </term>
+    <term id="383" lemma="40">
+      <span>
+        <target id="383"/>
+      </span>
+    </term>
+    <term id="384" lemma="million">
+      <span>
+        <target id="384"/>
+      </span>
+    </term>
+    <term id="385" lemma=",">
+      <span>
+        <target id="385"/>
+      </span>
+    </term>
+    <term id="386" lemma="on">
+      <span>
+        <target id="386"/>
+      </span>
+    </term>
+    <term id="387" lemma="revenues">
+      <span>
+        <target id="387"/>
+      </span>
+    </term>
+    <term id="388" lemma="of">
+      <span>
+        <target id="388"/>
+      </span>
+    </term>
+    <term id="389" lemma="$">
+      <span>
+        <target id="389"/>
+      </span>
+    </term>
+    <term id="390" lemma="350">
+      <span>
+        <target id="390"/>
+      </span>
+    </term>
+    <term id="391" lemma="million">
+      <span>
+        <target id="391"/>
+      </span>
+    </term>
+    <term id="392" lemma=".">
+      <span>
+        <target id="392"/>
+      </span>
+    </term>
+    <term id="393" lemma="Santa">
+      <span>
+        <target id="393"/>
+      </span>
+    </term>
+    <term id="394" lemma="Fe">
+      <span>
+        <target id="394"/>
+      </span>
+    </term>
+    <term id="395" lemma="has">
+      <span>
+        <target id="395"/>
+      </span>
+    </term>
+    <term id="396" lemma="mining">
+      <span>
+        <target id="396"/>
+      </span>
+    </term>
+    <term id="397" lemma="and">
+      <span>
+        <target id="397"/>
+      </span>
+    </term>
+    <term id="398" lemma="exploration">
+      <span>
+        <target id="398"/>
+      </span>
+    </term>
+    <term id="399" lemma="operations">
+      <span>
+        <target id="399"/>
+      </span>
+    </term>
+    <term id="400" lemma="in">
+      <span>
+        <target id="400"/>
+      </span>
+    </term>
+    <term id="401" lemma="Nevada">
+      <span>
+        <target id="401"/>
+      </span>
+    </term>
+    <term id="402" lemma=",">
+      <span>
+        <target id="402"/>
+      </span>
+    </term>
+    <term id="403" lemma="California">
+      <span>
+        <target id="403"/>
+      </span>
+    </term>
+    <term id="404" lemma=",">
+      <span>
+        <target id="404"/>
+      </span>
+    </term>
+    <term id="405" lemma="Montana">
+      <span>
+        <target id="405"/>
+      </span>
+    </term>
+    <term id="406" lemma=",">
+      <span>
+        <target id="406"/>
+      </span>
+    </term>
+    <term id="407" lemma="Canada">
+      <span>
+        <target id="407"/>
+      </span>
+    </term>
+    <term id="408" lemma=",">
+      <span>
+        <target id="408"/>
+      </span>
+    </term>
+    <term id="409" lemma="Brazil">
+      <span>
+        <target id="409"/>
+      </span>
+    </term>
+    <term id="410" lemma=",">
+      <span>
+        <target id="410"/>
+      </span>
+    </term>
+    <term id="411" lemma="Australia">
+      <span>
+        <target id="411"/>
+      </span>
+    </term>
+    <term id="412" lemma=",">
+      <span>
+        <target id="412"/>
+      </span>
+    </term>
+    <term id="413" lemma="Chile">
+      <span>
+        <target id="413"/>
+      </span>
+    </term>
+    <term id="414" lemma=",">
+      <span>
+        <target id="414"/>
+      </span>
+    </term>
+    <term id="415" lemma="Kazakstan">
+      <span>
+        <target id="415"/>
+      </span>
+    </term>
+    <term id="416" lemma=",">
+      <span>
+        <target id="416"/>
+      </span>
+    </term>
+    <term id="417" lemma="Mexico">
+      <span>
+        <target id="417"/>
+      </span>
+    </term>
+    <term id="418" lemma="and">
+      <span>
+        <target id="418"/>
+      </span>
+    </term>
+    <term id="419" lemma="Ghana">
+      <span>
+        <target id="419"/>
+      </span>
+    </term>
+    <term id="420" lemma=".">
+      <span>
+        <target id="420"/>
+      </span>
+    </term>
+    <term id="421" lemma="PaineWebber">
+      <span>
+        <target id="421"/>
+      </span>
+    </term>
+    <term id="422" lemma="analyst">
+      <span>
+        <target id="422"/>
+      </span>
+    </term>
+    <term id="423" lemma="Marc">
+      <span>
+        <target id="423"/>
+      </span>
+    </term>
+    <term id="424" lemma="Cohen">
+      <span>
+        <target id="424"/>
+      </span>
+    </term>
+    <term id="425" lemma="said">
+      <span>
+        <target id="425"/>
+      </span>
+    </term>
+    <term id="426" lemma="he">
+      <span>
+        <target id="426"/>
+      </span>
+    </term>
+    <term id="427" lemma="lowered">
+      <span>
+        <target id="427"/>
+      </span>
+    </term>
+    <term id="428" lemma="his">
+      <span>
+        <target id="428"/>
+      </span>
+    </term>
+    <term id="429" lemma="rating">
+      <span>
+        <target id="429"/>
+      </span>
+    </term>
+    <term id="430" lemma="on">
+      <span>
+        <target id="430"/>
+      </span>
+    </term>
+    <term id="431" lemma="Newmont">
+      <span>
+        <target id="431"/>
+      </span>
+    </term>
+    <term id="432" lemma="to">
+      <span>
+        <target id="432"/>
+      </span>
+    </term>
+    <term id="433" lemma="neutral">
+      <span>
+        <target id="433"/>
+      </span>
+    </term>
+    <term id="434" lemma="from">
+      <span>
+        <target id="434"/>
+      </span>
+    </term>
+    <term id="435" lemma="attractive">
+      <span>
+        <target id="435"/>
+      </span>
+    </term>
+    <term id="436" lemma="today">
+      <span>
+        <target id="436"/>
+      </span>
+    </term>
+    <term id="437" lemma="because">
+      <span>
+        <target id="437"/>
+      </span>
+    </term>
+    <term id="438" lemma="if">
+      <span>
+        <target id="438"/>
+      </span>
+    </term>
+    <term id="439" lemma="Newmont">
+      <span>
+        <target id="439"/>
+      </span>
+    </term>
+    <term id="440" lemma="merged">
+      <span>
+        <target id="440"/>
+      </span>
+    </term>
+    <term id="441" lemma="with">
+      <span>
+        <target id="441"/>
+      </span>
+    </term>
+    <term id="442" lemma="Santa">
+      <span>
+        <target id="442"/>
+      </span>
+    </term>
+    <term id="443" lemma="Fe">
+      <span>
+        <target id="443"/>
+      </span>
+    </term>
+    <term id="444" lemma=",">
+      <span>
+        <target id="444"/>
+      </span>
+    </term>
+    <term id="445" lemma="investors">
+      <span>
+        <target id="445"/>
+      </span>
+    </term>
+    <term id="446" lemma="would">
+      <span>
+        <target id="446"/>
+      </span>
+    </term>
+    <term id="447" lemma="have">
+      <span>
+        <target id="447"/>
+      </span>
+    </term>
+    <term id="448" lemma="to">
+      <span>
+        <target id="448"/>
+      </span>
+    </term>
+    <term id="449" lemma="wait">
+      <span>
+        <target id="449"/>
+      </span>
+    </term>
+    <term id="450" lemma="until">
+      <span>
+        <target id="450"/>
+      </span>
+    </term>
+    <term id="451" lemma="the">
+      <span>
+        <target id="451"/>
+      </span>
+    </term>
+    <term id="452" lemma="second">
+      <span>
+        <target id="452"/>
+      </span>
+    </term>
+    <term id="453" lemma="half">
+      <span>
+        <target id="453"/>
+      </span>
+    </term>
+    <term id="454" lemma="of">
+      <span>
+        <target id="454"/>
+      </span>
+    </term>
+    <term id="455" lemma="1998">
+      <span>
+        <target id="455"/>
+      </span>
+    </term>
+    <term id="456" lemma="to">
+      <span>
+        <target id="456"/>
+      </span>
+    </term>
+    <term id="457" lemma="realize">
+      <span>
+        <target id="457"/>
+      </span>
+    </term>
+    <term id="458" lemma="earnings">
+      <span>
+        <target id="458"/>
+      </span>
+    </term>
+    <term id="459" lemma="accretion">
+      <span>
+        <target id="459"/>
+      </span>
+    </term>
+    <term id="460" lemma=".">
+      <span>
+        <target id="460"/>
+      </span>
+    </term>
+    <term id="461" lemma="&quot;">
+      <span>
+        <target id="461"/>
+      </span>
+    </term>
+    <term id="462" lemma="I">
+      <span>
+        <target id="462"/>
+      </span>
+    </term>
+    <term id="463" lemma="think">
+      <span>
+        <target id="463"/>
+      </span>
+    </term>
+    <term id="464" lemma="Homestake">
+      <span>
+        <target id="464"/>
+      </span>
+    </term>
+    <term id="465" lemma="could">
+      <span>
+        <target id="465"/>
+      </span>
+    </term>
+    <term id="466" lemma="come">
+      <span>
+        <target id="466"/>
+      </span>
+    </term>
+    <term id="467" lemma="in">
+      <span>
+        <target id="467"/>
+      </span>
+    </term>
+    <term id="468" lemma="as">
+      <span>
+        <target id="468"/>
+      </span>
+    </term>
+    <term id="469" lemma="a">
+      <span>
+        <target id="469"/>
+      </span>
+    </term>
+    <term id="470" lemma="white">
+      <span>
+        <target id="470"/>
+      </span>
+    </term>
+    <term id="471" lemma="knight">
+      <span>
+        <target id="471"/>
+      </span>
+    </term>
+    <term id="472" lemma=",">
+      <span>
+        <target id="472"/>
+      </span>
+    </term>
+    <term id="473" lemma="but">
+      <span>
+        <target id="473"/>
+      </span>
+    </term>
+    <term id="474" lemma="how">
+      <span>
+        <target id="474"/>
+      </span>
+    </term>
+    <term id="475" lemma="much">
+      <span>
+        <target id="475"/>
+      </span>
+    </term>
+    <term id="476" lemma="is">
+      <span>
+        <target id="476"/>
+      </span>
+    </term>
+    <term id="477" lemma="someone">
+      <span>
+        <target id="477"/>
+      </span>
+    </term>
+    <term id="478" lemma="willing">
+      <span>
+        <target id="478"/>
+      </span>
+    </term>
+    <term id="479" lemma="to">
+      <span>
+        <target id="479"/>
+      </span>
+    </term>
+    <term id="480" lemma="come">
+      <span>
+        <target id="480"/>
+      </span>
+    </term>
+    <term id="481" lemma="in">
+      <span>
+        <target id="481"/>
+      </span>
+    </term>
+    <term id="482" lemma="above">
+      <span>
+        <target id="482"/>
+      </span>
+    </term>
+    <term id="483" lemma="the">
+      <span>
+        <target id="483"/>
+      </span>
+    </term>
+    <term id="484" lemma="Newmont">
+      <span>
+        <target id="484"/>
+      </span>
+    </term>
+    <term id="485" lemma="number">
+      <span>
+        <target id="485"/>
+      </span>
+    </term>
+    <term id="486" lemma=".">
+      <span>
+        <target id="486"/>
+      </span>
+    </term>
+    <term id="487" lemma="One">
+      <span>
+        <target id="487"/>
+      </span>
+    </term>
+    <term id="488" lemma="would">
+      <span>
+        <target id="488"/>
+      </span>
+    </term>
+    <term id="489" lemma="have">
+      <span>
+        <target id="489"/>
+      </span>
+    </term>
+    <term id="490" lemma="to">
+      <span>
+        <target id="490"/>
+      </span>
+    </term>
+    <term id="491" lemma="outbid">
+      <span>
+        <target id="491"/>
+      </span>
+    </term>
+    <term id="492" lemma="by">
+      <span>
+        <target id="492"/>
+      </span>
+    </term>
+    <term id="493" lemma="at">
+      <span>
+        <target id="493"/>
+      </span>
+    </term>
+    <term id="494" lemma="least">
+      <span>
+        <target id="494"/>
+      </span>
+    </term>
+    <term id="495" lemma="15">
+      <span>
+        <target id="495"/>
+      </span>
+    </term>
+    <term id="496" lemma="percent">
+      <span>
+        <target id="496"/>
+      </span>
+    </term>
+    <term id="497" lemma=",">
+      <span>
+        <target id="497"/>
+      </span>
+    </term>
+    <term id="498" lemma="but">
+      <span>
+        <target id="498"/>
+      </span>
+    </term>
+    <term id="499" lemma="there">
+      <span>
+        <target id="499"/>
+      </span>
+    </term>
+    <term id="500" lemma="is">
+      <span>
+        <target id="500"/>
+      </span>
+    </term>
+    <term id="501" lemma="going">
+      <span>
+        <target id="501"/>
+      </span>
+    </term>
+    <term id="502" lemma="to">
+      <span>
+        <target id="502"/>
+      </span>
+    </term>
+    <term id="503" lemma="be">
+      <span>
+        <target id="503"/>
+      </span>
+    </term>
+    <term id="504" lemma="a">
+      <span>
+        <target id="504"/>
+      </span>
+    </term>
+    <term id="505" lemma="(">
+      <span>
+        <target id="505"/>
+      </span>
+    </term>
+    <term id="506" lemma="Santa">
+      <span>
+        <target id="506"/>
+      </span>
+    </term>
+    <term id="507" lemma="Fe">
+      <span>
+        <target id="507"/>
+      </span>
+    </term>
+    <term id="508" lemma=")">
+      <span>
+        <target id="508"/>
+      </span>
+    </term>
+    <term id="509" lemma="deal">
+      <span>
+        <target id="509"/>
+      </span>
+    </term>
+    <term id="510" lemma="with">
+      <span>
+        <target id="510"/>
+      </span>
+    </term>
+    <term id="511" lemma="someone">
+      <span>
+        <target id="511"/>
+      </span>
+    </term>
+    <term id="512" lemma=",">
+      <span>
+        <target id="512"/>
+      </span>
+    </term>
+    <term id="513" lemma="&quot;">
+      <span>
+        <target id="513"/>
+      </span>
+    </term>
+    <term id="514" lemma="he">
+      <span>
+        <target id="514"/>
+      </span>
+    </term>
+    <term id="515" lemma="said">
+      <span>
+        <target id="515"/>
+      </span>
+    </term>
+    <term id="516" lemma=".">
+      <span>
+        <target id="516"/>
+      </span>
+    </term>
+    <term id="517" lemma="&quot;">
+      <span>
+        <target id="517"/>
+      </span>
+    </term>
+    <term id="518" lemma="Longer">
+      <span>
+        <target id="518"/>
+      </span>
+    </term>
+    <term id="519" lemma="term">
+      <span>
+        <target id="519"/>
+      </span>
+    </term>
+    <term id="520" lemma=",">
+      <span>
+        <target id="520"/>
+      </span>
+    </term>
+    <term id="521" lemma="two">
+      <span>
+        <target id="521"/>
+      </span>
+    </term>
+    <term id="522" lemma="to">
+      <span>
+        <target id="522"/>
+      </span>
+    </term>
+    <term id="523" lemma="three">
+      <span>
+        <target id="523"/>
+      </span>
+    </term>
+    <term id="524" lemma="years">
+      <span>
+        <target id="524"/>
+      </span>
+    </term>
+    <term id="525" lemma="out">
+      <span>
+        <target id="525"/>
+      </span>
+    </term>
+    <term id="526" lemma=",">
+      <span>
+        <target id="526"/>
+      </span>
+    </term>
+    <term id="527" lemma="(">
+      <span>
+        <target id="527"/>
+      </span>
+    </term>
+    <term id="528" lemma="a">
+      <span>
+        <target id="528"/>
+      </span>
+    </term>
+    <term id="529" lemma="Newmont-Santa">
+      <span>
+        <target id="529"/>
+      </span>
+    </term>
+    <term id="530" lemma="Fe">
+      <span>
+        <target id="530"/>
+      </span>
+    </term>
+    <term id="531" lemma="deal">
+      <span>
+        <target id="531"/>
+      </span>
+    </term>
+    <term id="532" lemma=")">
+      <span>
+        <target id="532"/>
+      </span>
+    </term>
+    <term id="533" lemma="is">
+      <span>
+        <target id="533"/>
+      </span>
+    </term>
+    <term id="534" lemma="positive">
+      <span>
+        <target id="534"/>
+      </span>
+    </term>
+    <term id="535" lemma=",">
+      <span>
+        <target id="535"/>
+      </span>
+    </term>
+    <term id="536" lemma="it">
+      <span>
+        <target id="536"/>
+      </span>
+    </term>
+    <term id="537" lemma="does">
+      <span>
+        <target id="537"/>
+      </span>
+    </term>
+    <term id="538" lemma="all">
+      <span>
+        <target id="538"/>
+      </span>
+    </term>
+    <term id="539" lemma="the">
+      <span>
+        <target id="539"/>
+      </span>
+    </term>
+    <term id="540" lemma="right">
+      <span>
+        <target id="540"/>
+      </span>
+    </term>
+    <term id="541" lemma="things">
+      <span>
+        <target id="541"/>
+      </span>
+    </term>
+    <term id="542" lemma=".">
+      <span>
+        <target id="542"/>
+      </span>
+    </term>
+    <term id="543" lemma="But">
+      <span>
+        <target id="543"/>
+      </span>
+    </term>
+    <term id="544" lemma="in">
+      <span>
+        <target id="544"/>
+      </span>
+    </term>
+    <term id="545" lemma="the">
+      <span>
+        <target id="545"/>
+      </span>
+    </term>
+    <term id="546" lemma="near-term">
+      <span>
+        <target id="546"/>
+      </span>
+    </term>
+    <term id="547" lemma="it">
+      <span>
+        <target id="547"/>
+      </span>
+    </term>
+    <term id="548" lemma="is">
+      <span>
+        <target id="548"/>
+      </span>
+    </term>
+    <term id="549" lemma=",">
+      <span>
+        <target id="549"/>
+      </span>
+    </term>
+    <term id="550" lemma="at">
+      <span>
+        <target id="550"/>
+      </span>
+    </term>
+    <term id="551" lemma="worst">
+      <span>
+        <target id="551"/>
+      </span>
+    </term>
+    <term id="552" lemma=",">
+      <span>
+        <target id="552"/>
+      </span>
+    </term>
+    <term id="553" lemma="neutral">
+      <span>
+        <target id="553"/>
+      </span>
+    </term>
+    <term id="554" lemma=",">
+      <span>
+        <target id="554"/>
+      </span>
+    </term>
+    <term id="555" lemma="&quot;">
+      <span>
+        <target id="555"/>
+      </span>
+    </term>
+    <term id="556" lemma="the">
+      <span>
+        <target id="556"/>
+      </span>
+    </term>
+    <term id="557" lemma="analyst">
+      <span>
+        <target id="557"/>
+      </span>
+    </term>
+    <term id="558" lemma="added">
+      <span>
+        <target id="558"/>
+      </span>
+    </term>
+    <term id="559" lemma=".">
+      <span>
+        <target id="559"/>
+      </span>
+    </term>
+    <term id="560" lemma="Newmont">
+      <span>
+        <target id="560"/>
+      </span>
+    </term>
+    <term id="561" lemma="proposed">
+      <span>
+        <target id="561"/>
+      </span>
+    </term>
+    <term id="562" lemma="to">
+      <span>
+        <target id="562"/>
+      </span>
+    </term>
+    <term id="563" lemma="Santa">
+      <span>
+        <target id="563"/>
+      </span>
+    </term>
+    <term id="564" lemma="Fe">
+      <span>
+        <target id="564"/>
+      </span>
+    </term>
+    <term id="565" lemma="a">
+      <span>
+        <target id="565"/>
+      </span>
+    </term>
+    <term id="566" lemma="stock-swap">
+      <span>
+        <target id="566"/>
+      </span>
+    </term>
+    <term id="567" lemma="merger">
+      <span>
+        <target id="567"/>
+      </span>
+    </term>
+    <term id="568" lemma="at">
+      <span>
+        <target id="568"/>
+      </span>
+    </term>
+    <term id="569" lemma="a">
+      <span>
+        <target id="569"/>
+      </span>
+    </term>
+    <term id="570" lemma="ratio">
+      <span>
+        <target id="570"/>
+      </span>
+    </term>
+    <term id="571" lemma="of">
+      <span>
+        <target id="571"/>
+      </span>
+    </term>
+    <term id="572" lemma="0.33">
+      <span>
+        <target id="572"/>
+      </span>
+    </term>
+    <term id="573" lemma="Newmont">
+      <span>
+        <target id="573"/>
+      </span>
+    </term>
+    <term id="574" lemma="shares">
+      <span>
+        <target id="574"/>
+      </span>
+    </term>
+    <term id="575" lemma="for">
+      <span>
+        <target id="575"/>
+      </span>
+    </term>
+    <term id="576" lemma="each">
+      <span>
+        <target id="576"/>
+      </span>
+    </term>
+    <term id="577" lemma="Santa">
+      <span>
+        <target id="577"/>
+      </span>
+    </term>
+    <term id="578" lemma="Fe">
+      <span>
+        <target id="578"/>
+      </span>
+    </term>
+    <term id="579" lemma="shares">
+      <span>
+        <target id="579"/>
+      </span>
+    </term>
+    <term id="580" lemma=".">
+      <span>
+        <target id="580"/>
+      </span>
+    </term>
+    <term id="581" lemma="In">
+      <span>
+        <target id="581"/>
+      </span>
+    </term>
+    <term id="582" lemma="Friday">
+      <span>
+        <target id="582"/>
+      </span>
+    </term>
+    <term id="583" lemma="New">
+      <span>
+        <target id="583"/>
+      </span>
+    </term>
+    <term id="584" lemma="York">
+      <span>
+        <target id="584"/>
+      </span>
+    </term>
+    <term id="585" lemma="Stock">
+      <span>
+        <target id="585"/>
+      </span>
+    </term>
+    <term id="586" lemma="Exchange">
+      <span>
+        <target id="586"/>
+      </span>
+    </term>
+    <term id="587" lemma="trade">
+      <span>
+        <target id="587"/>
+      </span>
+    </term>
+    <term id="588" lemma=",">
+      <span>
+        <target id="588"/>
+      </span>
+    </term>
+    <term id="589" lemma="Newmonth">
+      <span>
+        <target id="589"/>
+      </span>
+    </term>
+    <term id="590" lemma="was">
+      <span>
+        <target id="590"/>
+      </span>
+    </term>
+    <term id="591" lemma="off">
+      <span>
+        <target id="591"/>
+      </span>
+    </term>
+    <term id="592" lemma="1/2">
+      <span>
+        <target id="592"/>
+      </span>
+    </term>
+    <term id="593" lemma="to">
+      <span>
+        <target id="593"/>
+      </span>
+    </term>
+    <term id="594" lemma="46-5/8">
+      <span>
+        <target id="594"/>
+      </span>
+    </term>
+    <term id="595" lemma="while">
+      <span>
+        <target id="595"/>
+      </span>
+    </term>
+    <term id="596" lemma="Santa">
+      <span>
+        <target id="596"/>
+      </span>
+    </term>
+    <term id="597" lemma="Fe">
+      <span>
+        <target id="597"/>
+      </span>
+    </term>
+    <term id="598" lemma="added">
+      <span>
+        <target id="598"/>
+      </span>
+    </term>
+    <term id="599" lemma="1/4">
+      <span>
+        <target id="599"/>
+      </span>
+    </term>
+    <term id="600" lemma="to">
+      <span>
+        <target id="600"/>
+      </span>
+    </term>
+    <term id="601" lemma="15-1/8">
+      <span>
+        <target id="601"/>
+      </span>
+    </term>
+    <term id="602" lemma=".">
+      <span>
+        <target id="602"/>
+      </span>
+    </term>
+    <term id="603" lemma="&quot;">
+      <span>
+        <target id="603"/>
+      </span>
+    </term>
+    <term id="604" lemma="Newmont">
+      <span>
+        <target id="604"/>
+      </span>
+    </term>
+    <term id="605" lemma="said">
+      <span>
+        <target id="605"/>
+      </span>
+    </term>
+    <term id="606" lemma="it">
+      <span>
+        <target id="606"/>
+      </span>
+    </term>
+    <term id="607" lemma="wants">
+      <span>
+        <target id="607"/>
+      </span>
+    </term>
+    <term id="608" lemma="to">
+      <span>
+        <target id="608"/>
+      </span>
+    </term>
+    <term id="609" lemma="discuss">
+      <span>
+        <target id="609"/>
+      </span>
+    </term>
+    <term id="610" lemma="a">
+      <span>
+        <target id="610"/>
+      </span>
+    </term>
+    <term id="611" lemma="friendly">
+      <span>
+        <target id="611"/>
+      </span>
+    </term>
+    <term id="612" lemma="deal">
+      <span>
+        <target id="612"/>
+      </span>
+    </term>
+    <term id="613" lemma="with">
+      <span>
+        <target id="613"/>
+      </span>
+    </term>
+    <term id="614" lemma="Santa">
+      <span>
+        <target id="614"/>
+      </span>
+    </term>
+    <term id="615" lemma="Fe">
+      <span>
+        <target id="615"/>
+      </span>
+    </term>
+    <term id="616" lemma=",">
+      <span>
+        <target id="616"/>
+      </span>
+    </term>
+    <term id="617" lemma="which">
+      <span>
+        <target id="617"/>
+      </span>
+    </term>
+    <term id="618" lemma="is">
+      <span>
+        <target id="618"/>
+      </span>
+    </term>
+    <term id="619" lemma="almost">
+      <span>
+        <target id="619"/>
+      </span>
+    </term>
+    <term id="620" lemma="always">
+      <span>
+        <target id="620"/>
+      </span>
+    </term>
+    <term id="621" lemma="a">
+      <span>
+        <target id="621"/>
+      </span>
+    </term>
+    <term id="622" lemma="euphemism">
+      <span>
+        <target id="622"/>
+      </span>
+    </term>
+    <term id="623" lemma="for">
+      <span>
+        <target id="623"/>
+      </span>
+    </term>
+    <term id="624" lemma="'">
+      <span>
+        <target id="624"/>
+      </span>
+    </term>
+    <term id="625" lemma="We">
+      <span>
+        <target id="625"/>
+      </span>
+    </term>
+    <term id="626" lemma="have">
+      <span>
+        <target id="626"/>
+      </span>
+    </term>
+    <term id="627" lemma="more">
+      <span>
+        <target id="627"/>
+      </span>
+    </term>
+    <term id="628" lemma="money">
+      <span>
+        <target id="628"/>
+      </span>
+    </term>
+    <term id="629" lemma="in">
+      <span>
+        <target id="629"/>
+      </span>
+    </term>
+    <term id="630" lemma="our">
+      <span>
+        <target id="630"/>
+      </span>
+    </term>
+    <term id="631" lemma="pocket">
+      <span>
+        <target id="631"/>
+      </span>
+    </term>
+    <term id="632" lemma=",">
+      <span>
+        <target id="632"/>
+      </span>
+    </term>
+    <term id="633" lemma="'">
+      <span>
+        <target id="633"/>
+      </span>
+    </term>
+    <term id="634" lemma="&quot;">
+      <span>
+        <target id="634"/>
+      </span>
+    </term>
+    <term id="635" lemma="said">
+      <span>
+        <target id="635"/>
+      </span>
+    </term>
+    <term id="636" lemma="an">
+      <span>
+        <target id="636"/>
+      </span>
+    </term>
+    <term id="637" lemma="arb">
+      <span>
+        <target id="637"/>
+      </span>
+    </term>
+    <term id="638" lemma=",">
+      <span>
+        <target id="638"/>
+      </span>
+    </term>
+    <term id="639" lemma="referring">
+      <span>
+        <target id="639"/>
+      </span>
+    </term>
+    <term id="640" lemma="to">
+      <span>
+        <target id="640"/>
+      </span>
+    </term>
+    <term id="641" lemma="a">
+      <span>
+        <target id="641"/>
+      </span>
+    </term>
+    <term id="642" lemma="possible">
+      <span>
+        <target id="642"/>
+      </span>
+    </term>
+    <term id="643" lemma="sweetened">
+      <span>
+        <target id="643"/>
+      </span>
+    </term>
+    <term id="644" lemma="bid">
+      <span>
+        <target id="644"/>
+      </span>
+    </term>
+    <term id="645" lemma="from">
+      <span>
+        <target id="645"/>
+      </span>
+    </term>
+    <term id="646" lemma="Newmont">
+      <span>
+        <target id="646"/>
+      </span>
+    </term>
+    <term id="647" lemma=".">
+      <span>
+        <target id="647"/>
+      </span>
+    </term>
+    <term id="648" lemma="Two">
+      <span>
+        <target id="648"/>
+      </span>
+    </term>
+    <term id="649" lemma="other">
+      <span>
+        <target id="649"/>
+      </span>
+    </term>
+    <term id="650" lemma="arbs">
+      <span>
+        <target id="650"/>
+      </span>
+    </term>
+    <term id="651" lemma="called">
+      <span>
+        <target id="651"/>
+      </span>
+    </term>
+    <term id="652" lemma="Newmont">
+      <span>
+        <target id="652"/>
+      </span>
+    </term>
+    <term id="653" lemma="'s">
+      <span>
+        <target id="653"/>
+      </span>
+    </term>
+    <term id="654" lemma="move">
+      <span>
+        <target id="654"/>
+      </span>
+    </term>
+    <term id="655" lemma="a">
+      <span>
+        <target id="655"/>
+      </span>
+    </term>
+    <term id="656" lemma="&quot;">
+      <span>
+        <target id="656"/>
+      </span>
+    </term>
+    <term id="657" lemma="a">
+      <span>
+        <target id="657"/>
+      </span>
+    </term>
+    <term id="658" lemma="32">
+      <span>
+        <target id="658"/>
+      </span>
+    </term>
+    <term id="659" lemma="cent">
+      <span>
+        <target id="659"/>
+      </span>
+    </term>
+    <term id="660" lemma="bid">
+      <span>
+        <target id="660"/>
+      </span>
+    </term>
+    <term id="661" lemma="&quot;">
+      <span>
+        <target id="661"/>
+      </span>
+    </term>
+    <term id="662" lemma="because">
+      <span>
+        <target id="662"/>
+      </span>
+    </term>
+    <term id="663" lemma="there">
+      <span>
+        <target id="663"/>
+      </span>
+    </term>
+    <term id="664" lemma="is">
+      <span>
+        <target id="664"/>
+      </span>
+    </term>
+    <term id="665" lemma="no">
+      <span>
+        <target id="665"/>
+      </span>
+    </term>
+    <term id="666" lemma="formal">
+      <span>
+        <target id="666"/>
+      </span>
+    </term>
+    <term id="667" lemma="tender">
+      <span>
+        <target id="667"/>
+      </span>
+    </term>
+    <term id="668" lemma="offer">
+      <span>
+        <target id="668"/>
+      </span>
+    </term>
+    <term id="669" lemma=",">
+      <span>
+        <target id="669"/>
+      </span>
+    </term>
+    <term id="670" lemma="only">
+      <span>
+        <target id="670"/>
+      </span>
+    </term>
+    <term id="671" lemma="the">
+      <span>
+        <target id="671"/>
+      </span>
+    </term>
+    <term id="672" lemma="proposal">
+      <span>
+        <target id="672"/>
+      </span>
+    </term>
+    <term id="673" lemma="letter">
+      <span>
+        <target id="673"/>
+      </span>
+    </term>
+    <term id="674" lemma="&quot;">
+      <span>
+        <target id="674"/>
+      </span>
+    </term>
+    <term id="675" lemma="mailed">
+      <span>
+        <target id="675"/>
+      </span>
+    </term>
+    <term id="676" lemma="&quot;">
+      <span>
+        <target id="676"/>
+      </span>
+    </term>
+    <term id="677" lemma="to">
+      <span>
+        <target id="677"/>
+      </span>
+    </term>
+    <term id="678" lemma="Santa">
+      <span>
+        <target id="678"/>
+      </span>
+    </term>
+    <term id="679" lemma="Fe">
+      <span>
+        <target id="679"/>
+      </span>
+    </term>
+    <term id="680" lemma="'s">
+      <span>
+        <target id="680"/>
+      </span>
+    </term>
+    <term id="681" lemma="board">
+      <span>
+        <target id="681"/>
+      </span>
+    </term>
+    <term id="682" lemma=".">
+      <span>
+        <target id="682"/>
+      </span>
+    </term>
+    <term id="683" lemma="--">
+      <span>
+        <target id="683"/>
+      </span>
+    </term>
+    <term id="684" lemma="Wall">
+      <span>
+        <target id="684"/>
+      </span>
+    </term>
+    <term id="685" lemma="Street">
+      <span>
+        <target id="685"/>
+      </span>
+    </term>
+    <term id="686" lemma="Desk">
+      <span>
+        <target id="686"/>
+      </span>
+    </term>
+    <term id="687" lemma=",">
+      <span>
+        <target id="687"/>
+      </span>
+    </term>
+    <term id="688" lemma="212-859-1734">
+      <span>
+        <target id="688"/>
+      </span>
+    </term>
+    <term id="689" lemma=".">
+      <span>
+        <target id="689"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="2021">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+          <target id="2"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2022">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="5"/>
+          <target id="6"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2023">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+          <target id="10"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2024">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_York_City" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+          <target id="12"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2025">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="14"/>
+          <target id="15"/>
+          <target id="16"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2026">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_York_Stock_Exchange" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="18"/>
+          <target id="19"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2027">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="30"/>
+          <target id="31"/>
+          <target id="32"/>
+          <target id="33"/>
+          <target id="34"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2028">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="36"/>
+          <target id="37"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2029">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="41"/>
+          <target id="42"/>
+          <target id="43"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2030">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="45"/>
+          <target id="46"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2031">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Newmont_Mining_Corporation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="63"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2032">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_York_Stock_Exchange" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="68"/>
+          <target id="69"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2033">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Newmont_Mining_Corporation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="81"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2034">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="83"/>
+          <target id="84"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2035">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Newmont_Mining_Corporation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="108"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2036">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="126"/>
+          <target id="127"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2037">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Newmont_Mining_Corporation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="144"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2038">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="157"/>
+          <target id="158"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2039">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Nevada" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="164"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2040">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Newmont_Mining_Corporation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="172"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2041">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Newmont_Mining_Corporation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="176"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2042">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="186"/>
+          <target id="187"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2043">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="244"/>
+          <target id="245"/>
+          <target id="246"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2044">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="248"/>
+          <target id="249"/>
+          <target id="250"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2045">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="252"/>
+          <target id="253"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2046">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Indonesia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="264"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2047">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="266"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2048">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="271"/>
+          <target id="272"/>
+          <target id="273"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2049">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="290"/>
+          <target id="291"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2050">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Nevada" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="293"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2051">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/South_America" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="295"/>
+          <target id="296"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2052">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Central_Asia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="298"/>
+          <target id="299"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2053">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="306"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2054">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="322"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2055">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/San_Francisco" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="326"/>
+          <target id="327"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2056">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="334"/>
+          <target id="335"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2057">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Australia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="337"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2058">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chile" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="339"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2059">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Canada" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="341"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2060">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="364"/>
+          <target id="365"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2061">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Albuquerque,_New_Mexico" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="368"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2062">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_Mexico" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="370"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2063">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="393"/>
+          <target id="394"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2064">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Nevada" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="401"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2065">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/California" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="403"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2066">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Montana" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="405"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2067">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Canada" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="407"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2068">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Brazil" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="409"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2069">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Australia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="411"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2070">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chile" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="413"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2071">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Kazakhstan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="415"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2072">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Mexico_City" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="417"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2073">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ghana" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="419"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2074">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Paine_Webber" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="421"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2075">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="423"/>
+          <target id="424"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2076">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Newmont_Mining_Corporation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="431"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2077">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Newmont_Mining_Corporation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="439"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2078">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="442"/>
+          <target id="443"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2079">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="464"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2080">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Newmont_Mining_Corporation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="484"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2081">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="506"/>
+          <target id="507"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2082">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="529"/>
+          <target id="530"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2083">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Newmont_Mining_Corporation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="560"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2084">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="563"/>
+          <target id="564"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2085">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Newmont_Mining_Corporation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="573"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2086">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="577"/>
+          <target id="578"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2087">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_York_Stock_Exchange" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="583"/>
+          <target id="584"/>
+          <target id="585"/>
+          <target id="586"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2088">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="589"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2089">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="596"/>
+          <target id="597"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2090">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Newmont_Mining_Corporation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="604"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2091">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="614"/>
+          <target id="615"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2092">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Newmont_Mining_Corporation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="646"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2093">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Newmont_Mining_Corporation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="652"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2094">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="678"/>
+          <target id="679"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2095">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="684"/>
+          <target id="685"/>
+          <target id="686"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

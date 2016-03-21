@@ -1,0 +1,3171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[ Apple Inc. CEO Steve Jobs on medical leave January 17 , 2011 Steve Jobs , the chief executive officer of Apple Inc., announced Monday in an internal memo that he would be on medical leave for an undetermined period of time . The statement caused a sharp decrease of Apple share prices in foreign markets , while US markets were closed in honor of Martin Luther King . Monday 's email announcement marked the third time in the past decade that Jobs , aged 55 , has taken medical leave . He fought pancreatic cancer in 2004 and took six months off in early 2009 , later revealing he had undergone a liver transplant . Jobs has not yet mentioned what prompted his decision this time around , but said he will still be the company 's CEO . He left current chief operating officer Timothy D. Cook in charge of day-to-day operations , the same move made in Jobs ' last two absences . While no additional comment has been officially made by Apple , The New York Times reported that someone familiar with the situation said Jobs 's health has " ups and downs " due to problems with his immune system , problems frequently experienced by those who have had liver transplants . The insider , who asked to remain anonymous , said that , over the past few weeks , Jobs ' health appeared to be deteriorating and that he was becoming thinner . Lewis W. Teperman , a doctor at New York University , said , " It ’ s very common for transplant patients to have issues that are not life-threatening . " On its website , Apple released the text of Jobs 's email , which reads : Team , At my request , the board of directors has granted me a medical leave of absence so I can focus on my health . I will continue as CEO and be involved in major strategic decisions for the company . I have asked Tim Cook to be responsible for all of Apple 's day to day operations . I have great confidence that Tim and the rest of the executive management team will do a terrific job executing the exciting plans we have in place for 2011 . I love Apple so much and hope to be back as soon as I can . In the meantime , my family and I would deeply appreciate respect for our privacy .]]></raw>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="5"><![CDATA[Apple]]></wf>
+    <wf id="2" sent="1" para="1" offset="5" length="4"><![CDATA[Inc.]]></wf>
+    <wf id="3" sent="1" para="1" offset="9" length="3"><![CDATA[CEO]]></wf>
+    <wf id="4" sent="1" para="1" offset="12" length="5"><![CDATA[Steve]]></wf>
+    <wf id="5" sent="1" para="1" offset="17" length="4"><![CDATA[Jobs]]></wf>
+    <wf id="6" sent="1" para="1" offset="21" length="2"><![CDATA[on]]></wf>
+    <wf id="7" sent="1" para="1" offset="23" length="7"><![CDATA[medical]]></wf>
+    <wf id="8" sent="1" para="1" offset="30" length="5"><![CDATA[leave]]></wf>
+    <wf id="9" sent="2" para="1" offset="35" length="7"><![CDATA[January]]></wf>
+    <wf id="10" sent="2" para="1" offset="42" length="2"><![CDATA[17]]></wf>
+    <wf id="11" sent="2" para="1" offset="44" length="1"><![CDATA[,]]></wf>
+    <wf id="12" sent="2" para="1" offset="45" length="4"><![CDATA[2011]]></wf>
+    <wf id="13" sent="3" para="1" offset="49" length="5"><![CDATA[Steve]]></wf>
+    <wf id="14" sent="3" para="1" offset="54" length="4"><![CDATA[Jobs]]></wf>
+    <wf id="15" sent="3" para="1" offset="58" length="1"><![CDATA[,]]></wf>
+    <wf id="16" sent="3" para="1" offset="59" length="3"><![CDATA[the]]></wf>
+    <wf id="17" sent="3" para="1" offset="62" length="5"><![CDATA[chief]]></wf>
+    <wf id="18" sent="3" para="1" offset="67" length="9"><![CDATA[executive]]></wf>
+    <wf id="19" sent="3" para="1" offset="76" length="7"><![CDATA[officer]]></wf>
+    <wf id="20" sent="3" para="1" offset="83" length="2"><![CDATA[of]]></wf>
+    <wf id="21" sent="3" para="1" offset="85" length="5"><![CDATA[Apple]]></wf>
+    <wf id="22" sent="3" para="1" offset="90" length="5"><![CDATA[Inc.,]]></wf>
+    <wf id="23" sent="3" para="1" offset="95" length="9"><![CDATA[announced]]></wf>
+    <wf id="24" sent="3" para="1" offset="104" length="6"><![CDATA[Monday]]></wf>
+    <wf id="25" sent="3" para="1" offset="110" length="2"><![CDATA[in]]></wf>
+    <wf id="26" sent="3" para="1" offset="112" length="2"><![CDATA[an]]></wf>
+    <wf id="27" sent="3" para="1" offset="114" length="8"><![CDATA[internal]]></wf>
+    <wf id="28" sent="3" para="1" offset="122" length="4"><![CDATA[memo]]></wf>
+    <wf id="29" sent="3" para="1" offset="126" length="4"><![CDATA[that]]></wf>
+    <wf id="30" sent="3" para="1" offset="130" length="2"><![CDATA[he]]></wf>
+    <wf id="31" sent="3" para="1" offset="132" length="5"><![CDATA[would]]></wf>
+    <wf id="32" sent="3" para="1" offset="137" length="2"><![CDATA[be]]></wf>
+    <wf id="33" sent="3" para="1" offset="139" length="2"><![CDATA[on]]></wf>
+    <wf id="34" sent="3" para="1" offset="141" length="7"><![CDATA[medical]]></wf>
+    <wf id="35" sent="3" para="1" offset="148" length="5"><![CDATA[leave]]></wf>
+    <wf id="36" sent="3" para="1" offset="153" length="3"><![CDATA[for]]></wf>
+    <wf id="37" sent="3" para="1" offset="156" length="2"><![CDATA[an]]></wf>
+    <wf id="38" sent="3" para="1" offset="158" length="12"><![CDATA[undetermined]]></wf>
+    <wf id="39" sent="3" para="1" offset="170" length="6"><![CDATA[period]]></wf>
+    <wf id="40" sent="3" para="1" offset="176" length="2"><![CDATA[of]]></wf>
+    <wf id="41" sent="3" para="1" offset="178" length="4"><![CDATA[time]]></wf>
+    <wf id="42" sent="3" para="1" offset="182" length="1"><![CDATA[.]]></wf>
+    <wf id="43" sent="4" para="1" offset="183" length="3"><![CDATA[The]]></wf>
+    <wf id="44" sent="4" para="1" offset="186" length="9"><![CDATA[statement]]></wf>
+    <wf id="45" sent="4" para="1" offset="195" length="6"><![CDATA[caused]]></wf>
+    <wf id="46" sent="4" para="1" offset="201" length="1"><![CDATA[a]]></wf>
+    <wf id="47" sent="4" para="1" offset="202" length="5"><![CDATA[sharp]]></wf>
+    <wf id="48" sent="4" para="1" offset="207" length="8"><![CDATA[decrease]]></wf>
+    <wf id="49" sent="4" para="1" offset="215" length="2"><![CDATA[of]]></wf>
+    <wf id="50" sent="4" para="1" offset="217" length="5"><![CDATA[Apple]]></wf>
+    <wf id="51" sent="4" para="1" offset="222" length="5"><![CDATA[share]]></wf>
+    <wf id="52" sent="4" para="1" offset="227" length="6"><![CDATA[prices]]></wf>
+    <wf id="53" sent="4" para="1" offset="233" length="2"><![CDATA[in]]></wf>
+    <wf id="54" sent="4" para="1" offset="235" length="7"><![CDATA[foreign]]></wf>
+    <wf id="55" sent="4" para="1" offset="242" length="7"><![CDATA[markets]]></wf>
+    <wf id="56" sent="4" para="1" offset="249" length="1"><![CDATA[,]]></wf>
+    <wf id="57" sent="4" para="1" offset="250" length="5"><![CDATA[while]]></wf>
+    <wf id="58" sent="4" para="1" offset="255" length="2"><![CDATA[US]]></wf>
+    <wf id="59" sent="4" para="1" offset="257" length="7"><![CDATA[markets]]></wf>
+    <wf id="60" sent="4" para="1" offset="264" length="4"><![CDATA[were]]></wf>
+    <wf id="61" sent="4" para="1" offset="268" length="6"><![CDATA[closed]]></wf>
+    <wf id="62" sent="4" para="1" offset="274" length="2"><![CDATA[in]]></wf>
+    <wf id="63" sent="4" para="1" offset="276" length="5"><![CDATA[honor]]></wf>
+    <wf id="64" sent="4" para="1" offset="281" length="2"><![CDATA[of]]></wf>
+    <wf id="65" sent="4" para="1" offset="283" length="6"><![CDATA[Martin]]></wf>
+    <wf id="66" sent="4" para="1" offset="289" length="6"><![CDATA[Luther]]></wf>
+    <wf id="67" sent="4" para="1" offset="295" length="4"><![CDATA[King]]></wf>
+    <wf id="68" sent="4" para="1" offset="299" length="1"><![CDATA[.]]></wf>
+    <wf id="69" sent="5" para="1" offset="300" length="6"><![CDATA[Monday]]></wf>
+    <wf id="70" sent="5" para="1" offset="306" length="2"><![CDATA['s]]></wf>
+    <wf id="71" sent="5" para="1" offset="308" length="5"><![CDATA[email]]></wf>
+    <wf id="72" sent="5" para="1" offset="313" length="12"><![CDATA[announcement]]></wf>
+    <wf id="73" sent="5" para="1" offset="325" length="6"><![CDATA[marked]]></wf>
+    <wf id="74" sent="5" para="1" offset="331" length="3"><![CDATA[the]]></wf>
+    <wf id="75" sent="5" para="1" offset="334" length="5"><![CDATA[third]]></wf>
+    <wf id="76" sent="5" para="1" offset="339" length="4"><![CDATA[time]]></wf>
+    <wf id="77" sent="5" para="1" offset="343" length="2"><![CDATA[in]]></wf>
+    <wf id="78" sent="5" para="1" offset="345" length="3"><![CDATA[the]]></wf>
+    <wf id="79" sent="5" para="1" offset="348" length="4"><![CDATA[past]]></wf>
+    <wf id="80" sent="5" para="1" offset="352" length="6"><![CDATA[decade]]></wf>
+    <wf id="81" sent="5" para="1" offset="358" length="4"><![CDATA[that]]></wf>
+    <wf id="82" sent="5" para="1" offset="362" length="4"><![CDATA[Jobs]]></wf>
+    <wf id="83" sent="5" para="1" offset="366" length="1"><![CDATA[,]]></wf>
+    <wf id="84" sent="5" para="1" offset="367" length="4"><![CDATA[aged]]></wf>
+    <wf id="85" sent="5" para="1" offset="371" length="2"><![CDATA[55]]></wf>
+    <wf id="86" sent="5" para="1" offset="373" length="1"><![CDATA[,]]></wf>
+    <wf id="87" sent="5" para="1" offset="374" length="3"><![CDATA[has]]></wf>
+    <wf id="88" sent="5" para="1" offset="377" length="5"><![CDATA[taken]]></wf>
+    <wf id="89" sent="5" para="1" offset="382" length="7"><![CDATA[medical]]></wf>
+    <wf id="90" sent="5" para="1" offset="389" length="5"><![CDATA[leave]]></wf>
+    <wf id="91" sent="5" para="1" offset="394" length="1"><![CDATA[.]]></wf>
+    <wf id="92" sent="6" para="1" offset="395" length="2"><![CDATA[He]]></wf>
+    <wf id="93" sent="6" para="1" offset="397" length="6"><![CDATA[fought]]></wf>
+    <wf id="94" sent="6" para="1" offset="403" length="10"><![CDATA[pancreatic]]></wf>
+    <wf id="95" sent="6" para="1" offset="413" length="6"><![CDATA[cancer]]></wf>
+    <wf id="96" sent="6" para="1" offset="419" length="2"><![CDATA[in]]></wf>
+    <wf id="97" sent="6" para="1" offset="421" length="4"><![CDATA[2004]]></wf>
+    <wf id="98" sent="6" para="1" offset="425" length="3"><![CDATA[and]]></wf>
+    <wf id="99" sent="6" para="1" offset="428" length="4"><![CDATA[took]]></wf>
+    <wf id="100" sent="6" para="1" offset="432" length="3"><![CDATA[six]]></wf>
+    <wf id="101" sent="6" para="1" offset="435" length="6"><![CDATA[months]]></wf>
+    <wf id="102" sent="6" para="1" offset="441" length="3"><![CDATA[off]]></wf>
+    <wf id="103" sent="6" para="1" offset="444" length="2"><![CDATA[in]]></wf>
+    <wf id="104" sent="6" para="1" offset="446" length="5"><![CDATA[early]]></wf>
+    <wf id="105" sent="6" para="1" offset="451" length="4"><![CDATA[2009]]></wf>
+    <wf id="106" sent="6" para="1" offset="455" length="1"><![CDATA[,]]></wf>
+    <wf id="107" sent="6" para="1" offset="456" length="5"><![CDATA[later]]></wf>
+    <wf id="108" sent="6" para="1" offset="461" length="9"><![CDATA[revealing]]></wf>
+    <wf id="109" sent="6" para="1" offset="470" length="2"><![CDATA[he]]></wf>
+    <wf id="110" sent="6" para="1" offset="472" length="3"><![CDATA[had]]></wf>
+    <wf id="111" sent="6" para="1" offset="475" length="9"><![CDATA[undergone]]></wf>
+    <wf id="112" sent="6" para="1" offset="484" length="1"><![CDATA[a]]></wf>
+    <wf id="113" sent="6" para="1" offset="485" length="5"><![CDATA[liver]]></wf>
+    <wf id="114" sent="6" para="1" offset="490" length="10"><![CDATA[transplant]]></wf>
+    <wf id="115" sent="6" para="1" offset="500" length="1"><![CDATA[.]]></wf>
+    <wf id="116" sent="7" para="1" offset="501" length="4"><![CDATA[Jobs]]></wf>
+    <wf id="117" sent="7" para="1" offset="505" length="3"><![CDATA[has]]></wf>
+    <wf id="118" sent="7" para="1" offset="508" length="3"><![CDATA[not]]></wf>
+    <wf id="119" sent="7" para="1" offset="511" length="3"><![CDATA[yet]]></wf>
+    <wf id="120" sent="7" para="1" offset="514" length="9"><![CDATA[mentioned]]></wf>
+    <wf id="121" sent="7" para="1" offset="523" length="4"><![CDATA[what]]></wf>
+    <wf id="122" sent="7" para="1" offset="527" length="8"><![CDATA[prompted]]></wf>
+    <wf id="123" sent="7" para="1" offset="535" length="3"><![CDATA[his]]></wf>
+    <wf id="124" sent="7" para="1" offset="538" length="8"><![CDATA[decision]]></wf>
+    <wf id="125" sent="7" para="1" offset="546" length="4"><![CDATA[this]]></wf>
+    <wf id="126" sent="7" para="1" offset="550" length="4"><![CDATA[time]]></wf>
+    <wf id="127" sent="7" para="1" offset="554" length="6"><![CDATA[around]]></wf>
+    <wf id="128" sent="7" para="1" offset="560" length="1"><![CDATA[,]]></wf>
+    <wf id="129" sent="7" para="1" offset="561" length="3"><![CDATA[but]]></wf>
+    <wf id="130" sent="7" para="1" offset="564" length="4"><![CDATA[said]]></wf>
+    <wf id="131" sent="7" para="1" offset="568" length="2"><![CDATA[he]]></wf>
+    <wf id="132" sent="7" para="1" offset="570" length="4"><![CDATA[will]]></wf>
+    <wf id="133" sent="7" para="1" offset="574" length="5"><![CDATA[still]]></wf>
+    <wf id="134" sent="7" para="1" offset="579" length="2"><![CDATA[be]]></wf>
+    <wf id="135" sent="7" para="1" offset="581" length="3"><![CDATA[the]]></wf>
+    <wf id="136" sent="7" para="1" offset="584" length="7"><![CDATA[company]]></wf>
+    <wf id="137" sent="7" para="1" offset="591" length="2"><![CDATA['s]]></wf>
+    <wf id="138" sent="7" para="1" offset="593" length="3"><![CDATA[CEO]]></wf>
+    <wf id="139" sent="7" para="1" offset="596" length="1"><![CDATA[.]]></wf>
+    <wf id="140" sent="8" para="1" offset="597" length="2"><![CDATA[He]]></wf>
+    <wf id="141" sent="8" para="1" offset="599" length="4"><![CDATA[left]]></wf>
+    <wf id="142" sent="8" para="1" offset="603" length="7"><![CDATA[current]]></wf>
+    <wf id="143" sent="8" para="1" offset="610" length="5"><![CDATA[chief]]></wf>
+    <wf id="144" sent="8" para="1" offset="615" length="9"><![CDATA[operating]]></wf>
+    <wf id="145" sent="8" para="1" offset="624" length="7"><![CDATA[officer]]></wf>
+    <wf id="146" sent="8" para="1" offset="631" length="7"><![CDATA[Timothy]]></wf>
+    <wf id="147" sent="8" para="1" offset="638" length="2"><![CDATA[D.]]></wf>
+    <wf id="148" sent="8" para="1" offset="640" length="4"><![CDATA[Cook]]></wf>
+    <wf id="149" sent="8" para="1" offset="644" length="2"><![CDATA[in]]></wf>
+    <wf id="150" sent="8" para="1" offset="646" length="6"><![CDATA[charge]]></wf>
+    <wf id="151" sent="8" para="1" offset="652" length="2"><![CDATA[of]]></wf>
+    <wf id="152" sent="8" para="1" offset="654" length="10"><![CDATA[day-to-day]]></wf>
+    <wf id="153" sent="8" para="1" offset="664" length="10"><![CDATA[operations]]></wf>
+    <wf id="154" sent="8" para="1" offset="674" length="1"><![CDATA[,]]></wf>
+    <wf id="155" sent="8" para="1" offset="675" length="3"><![CDATA[the]]></wf>
+    <wf id="156" sent="8" para="1" offset="678" length="4"><![CDATA[same]]></wf>
+    <wf id="157" sent="8" para="1" offset="682" length="4"><![CDATA[move]]></wf>
+    <wf id="158" sent="8" para="1" offset="686" length="4"><![CDATA[made]]></wf>
+    <wf id="159" sent="8" para="1" offset="690" length="2"><![CDATA[in]]></wf>
+    <wf id="160" sent="8" para="1" offset="692" length="4"><![CDATA[Jobs]]></wf>
+    <wf id="161" sent="8" para="1" offset="696" length="1"><![CDATA[']]></wf>
+    <wf id="162" sent="8" para="1" offset="697" length="4"><![CDATA[last]]></wf>
+    <wf id="163" sent="8" para="1" offset="701" length="3"><![CDATA[two]]></wf>
+    <wf id="164" sent="8" para="1" offset="704" length="8"><![CDATA[absences]]></wf>
+    <wf id="165" sent="8" para="1" offset="712" length="1"><![CDATA[.]]></wf>
+    <wf id="166" sent="9" para="1" offset="713" length="5"><![CDATA[While]]></wf>
+    <wf id="167" sent="9" para="1" offset="718" length="2"><![CDATA[no]]></wf>
+    <wf id="168" sent="9" para="1" offset="720" length="10"><![CDATA[additional]]></wf>
+    <wf id="169" sent="9" para="1" offset="730" length="7"><![CDATA[comment]]></wf>
+    <wf id="170" sent="9" para="1" offset="737" length="3"><![CDATA[has]]></wf>
+    <wf id="171" sent="9" para="1" offset="740" length="4"><![CDATA[been]]></wf>
+    <wf id="172" sent="9" para="1" offset="744" length="10"><![CDATA[officially]]></wf>
+    <wf id="173" sent="9" para="1" offset="754" length="4"><![CDATA[made]]></wf>
+    <wf id="174" sent="9" para="1" offset="758" length="2"><![CDATA[by]]></wf>
+    <wf id="175" sent="9" para="1" offset="760" length="5"><![CDATA[Apple]]></wf>
+    <wf id="176" sent="9" para="1" offset="765" length="1"><![CDATA[,]]></wf>
+    <wf id="177" sent="9" para="1" offset="766" length="3"><![CDATA[The]]></wf>
+    <wf id="178" sent="9" para="1" offset="769" length="3"><![CDATA[New]]></wf>
+    <wf id="179" sent="9" para="1" offset="772" length="4"><![CDATA[York]]></wf>
+    <wf id="180" sent="9" para="1" offset="776" length="5"><![CDATA[Times]]></wf>
+    <wf id="181" sent="9" para="1" offset="781" length="8"><![CDATA[reported]]></wf>
+    <wf id="182" sent="9" para="1" offset="789" length="4"><![CDATA[that]]></wf>
+    <wf id="183" sent="9" para="1" offset="793" length="7"><![CDATA[someone]]></wf>
+    <wf id="184" sent="9" para="1" offset="800" length="8"><![CDATA[familiar]]></wf>
+    <wf id="185" sent="9" para="1" offset="808" length="4"><![CDATA[with]]></wf>
+    <wf id="186" sent="9" para="1" offset="812" length="3"><![CDATA[the]]></wf>
+    <wf id="187" sent="9" para="1" offset="815" length="9"><![CDATA[situation]]></wf>
+    <wf id="188" sent="9" para="1" offset="824" length="4"><![CDATA[said]]></wf>
+    <wf id="189" sent="9" para="1" offset="828" length="4"><![CDATA[Jobs]]></wf>
+    <wf id="190" sent="9" para="1" offset="832" length="2"><![CDATA['s]]></wf>
+    <wf id="191" sent="9" para="1" offset="834" length="6"><![CDATA[health]]></wf>
+    <wf id="192" sent="9" para="1" offset="840" length="3"><![CDATA[has]]></wf>
+    <wf id="193" sent="9" para="1" offset="843" length="1"><![CDATA["]]></wf>
+    <wf id="194" sent="9" para="1" offset="844" length="3"><![CDATA[ups]]></wf>
+    <wf id="195" sent="9" para="1" offset="847" length="3"><![CDATA[and]]></wf>
+    <wf id="196" sent="9" para="1" offset="850" length="5"><![CDATA[downs]]></wf>
+    <wf id="197" sent="9" para="1" offset="855" length="1"><![CDATA["]]></wf>
+    <wf id="198" sent="9" para="1" offset="856" length="3"><![CDATA[due]]></wf>
+    <wf id="199" sent="9" para="1" offset="859" length="2"><![CDATA[to]]></wf>
+    <wf id="200" sent="9" para="1" offset="861" length="8"><![CDATA[problems]]></wf>
+    <wf id="201" sent="9" para="1" offset="869" length="4"><![CDATA[with]]></wf>
+    <wf id="202" sent="9" para="1" offset="873" length="3"><![CDATA[his]]></wf>
+    <wf id="203" sent="9" para="1" offset="876" length="6"><![CDATA[immune]]></wf>
+    <wf id="204" sent="9" para="1" offset="882" length="6"><![CDATA[system]]></wf>
+    <wf id="205" sent="9" para="1" offset="888" length="1"><![CDATA[,]]></wf>
+    <wf id="206" sent="9" para="1" offset="889" length="8"><![CDATA[problems]]></wf>
+    <wf id="207" sent="9" para="1" offset="897" length="10"><![CDATA[frequently]]></wf>
+    <wf id="208" sent="9" para="1" offset="907" length="11"><![CDATA[experienced]]></wf>
+    <wf id="209" sent="9" para="1" offset="918" length="2"><![CDATA[by]]></wf>
+    <wf id="210" sent="9" para="1" offset="920" length="5"><![CDATA[those]]></wf>
+    <wf id="211" sent="9" para="1" offset="925" length="3"><![CDATA[who]]></wf>
+    <wf id="212" sent="9" para="1" offset="928" length="4"><![CDATA[have]]></wf>
+    <wf id="213" sent="9" para="1" offset="932" length="3"><![CDATA[had]]></wf>
+    <wf id="214" sent="9" para="1" offset="935" length="5"><![CDATA[liver]]></wf>
+    <wf id="215" sent="9" para="1" offset="940" length="11"><![CDATA[transplants]]></wf>
+    <wf id="216" sent="9" para="1" offset="951" length="1"><![CDATA[.]]></wf>
+    <wf id="217" sent="10" para="1" offset="952" length="3"><![CDATA[The]]></wf>
+    <wf id="218" sent="10" para="1" offset="955" length="7"><![CDATA[insider]]></wf>
+    <wf id="219" sent="10" para="1" offset="962" length="1"><![CDATA[,]]></wf>
+    <wf id="220" sent="10" para="1" offset="963" length="3"><![CDATA[who]]></wf>
+    <wf id="221" sent="10" para="1" offset="966" length="5"><![CDATA[asked]]></wf>
+    <wf id="222" sent="10" para="1" offset="971" length="2"><![CDATA[to]]></wf>
+    <wf id="223" sent="10" para="1" offset="973" length="6"><![CDATA[remain]]></wf>
+    <wf id="224" sent="10" para="1" offset="979" length="9"><![CDATA[anonymous]]></wf>
+    <wf id="225" sent="10" para="1" offset="988" length="1"><![CDATA[,]]></wf>
+    <wf id="226" sent="10" para="1" offset="989" length="4"><![CDATA[said]]></wf>
+    <wf id="227" sent="10" para="1" offset="993" length="4"><![CDATA[that]]></wf>
+    <wf id="228" sent="10" para="1" offset="997" length="1"><![CDATA[,]]></wf>
+    <wf id="229" sent="10" para="1" offset="998" length="4"><![CDATA[over]]></wf>
+    <wf id="230" sent="10" para="1" offset="1002" length="3"><![CDATA[the]]></wf>
+    <wf id="231" sent="10" para="1" offset="1005" length="4"><![CDATA[past]]></wf>
+    <wf id="232" sent="10" para="1" offset="1009" length="3"><![CDATA[few]]></wf>
+    <wf id="233" sent="10" para="1" offset="1012" length="5"><![CDATA[weeks]]></wf>
+    <wf id="234" sent="10" para="1" offset="1017" length="1"><![CDATA[,]]></wf>
+    <wf id="235" sent="10" para="1" offset="1018" length="4"><![CDATA[Jobs]]></wf>
+    <wf id="236" sent="10" para="1" offset="1022" length="1"><![CDATA[']]></wf>
+    <wf id="237" sent="10" para="1" offset="1023" length="6"><![CDATA[health]]></wf>
+    <wf id="238" sent="10" para="1" offset="1029" length="8"><![CDATA[appeared]]></wf>
+    <wf id="239" sent="10" para="1" offset="1037" length="2"><![CDATA[to]]></wf>
+    <wf id="240" sent="10" para="1" offset="1039" length="2"><![CDATA[be]]></wf>
+    <wf id="241" sent="10" para="1" offset="1041" length="13"><![CDATA[deteriorating]]></wf>
+    <wf id="242" sent="10" para="1" offset="1054" length="3"><![CDATA[and]]></wf>
+    <wf id="243" sent="10" para="1" offset="1057" length="4"><![CDATA[that]]></wf>
+    <wf id="244" sent="10" para="1" offset="1061" length="2"><![CDATA[he]]></wf>
+    <wf id="245" sent="10" para="1" offset="1063" length="3"><![CDATA[was]]></wf>
+    <wf id="246" sent="10" para="1" offset="1066" length="8"><![CDATA[becoming]]></wf>
+    <wf id="247" sent="10" para="1" offset="1074" length="7"><![CDATA[thinner]]></wf>
+    <wf id="248" sent="10" para="1" offset="1081" length="1"><![CDATA[.]]></wf>
+    <wf id="249" sent="11" para="1" offset="1082" length="5"><![CDATA[Lewis]]></wf>
+    <wf id="250" sent="11" para="1" offset="1087" length="2"><![CDATA[W.]]></wf>
+    <wf id="251" sent="11" para="1" offset="1089" length="8"><![CDATA[Teperman]]></wf>
+    <wf id="252" sent="11" para="1" offset="1097" length="1"><![CDATA[,]]></wf>
+    <wf id="253" sent="11" para="1" offset="1098" length="1"><![CDATA[a]]></wf>
+    <wf id="254" sent="11" para="1" offset="1099" length="6"><![CDATA[doctor]]></wf>
+    <wf id="255" sent="11" para="1" offset="1105" length="2"><![CDATA[at]]></wf>
+    <wf id="256" sent="11" para="1" offset="1107" length="3"><![CDATA[New]]></wf>
+    <wf id="257" sent="11" para="1" offset="1110" length="4"><![CDATA[York]]></wf>
+    <wf id="258" sent="11" para="1" offset="1114" length="10"><![CDATA[University]]></wf>
+    <wf id="259" sent="11" para="1" offset="1124" length="1"><![CDATA[,]]></wf>
+    <wf id="260" sent="11" para="1" offset="1125" length="4"><![CDATA[said]]></wf>
+    <wf id="261" sent="11" para="1" offset="1129" length="1"><![CDATA[,]]></wf>
+    <wf id="262" sent="11" para="1" offset="1130" length="1"><![CDATA["]]></wf>
+    <wf id="263" sent="11" para="1" offset="1131" length="2"><![CDATA[It]]></wf>
+    <wf id="264" sent="11" para="1" offset="1133" length="1"><![CDATA[’]]></wf>
+    <wf id="265" sent="11" para="1" offset="1134" length="1"><![CDATA[s]]></wf>
+    <wf id="266" sent="11" para="1" offset="1135" length="4"><![CDATA[very]]></wf>
+    <wf id="267" sent="11" para="1" offset="1139" length="6"><![CDATA[common]]></wf>
+    <wf id="268" sent="11" para="1" offset="1145" length="3"><![CDATA[for]]></wf>
+    <wf id="269" sent="11" para="1" offset="1148" length="10"><![CDATA[transplant]]></wf>
+    <wf id="270" sent="11" para="1" offset="1158" length="8"><![CDATA[patients]]></wf>
+    <wf id="271" sent="11" para="1" offset="1166" length="2"><![CDATA[to]]></wf>
+    <wf id="272" sent="11" para="1" offset="1168" length="4"><![CDATA[have]]></wf>
+    <wf id="273" sent="11" para="1" offset="1172" length="6"><![CDATA[issues]]></wf>
+    <wf id="274" sent="11" para="1" offset="1178" length="4"><![CDATA[that]]></wf>
+    <wf id="275" sent="11" para="1" offset="1182" length="3"><![CDATA[are]]></wf>
+    <wf id="276" sent="11" para="1" offset="1185" length="3"><![CDATA[not]]></wf>
+    <wf id="277" sent="11" para="1" offset="1188" length="16"><![CDATA[life-threatening]]></wf>
+    <wf id="278" sent="11" para="1" offset="1204" length="1"><![CDATA[.]]></wf>
+    <wf id="279" sent="11" para="1" offset="1205" length="1"><![CDATA["]]></wf>
+    <wf id="280" sent="12" para="1" offset="1206" length="2"><![CDATA[On]]></wf>
+    <wf id="281" sent="12" para="1" offset="1208" length="3"><![CDATA[its]]></wf>
+    <wf id="282" sent="12" para="1" offset="1211" length="7"><![CDATA[website]]></wf>
+    <wf id="283" sent="12" para="1" offset="1218" length="1"><![CDATA[,]]></wf>
+    <wf id="284" sent="12" para="1" offset="1219" length="5"><![CDATA[Apple]]></wf>
+    <wf id="285" sent="12" para="1" offset="1224" length="8"><![CDATA[released]]></wf>
+    <wf id="286" sent="12" para="1" offset="1232" length="3"><![CDATA[the]]></wf>
+    <wf id="287" sent="12" para="1" offset="1235" length="4"><![CDATA[text]]></wf>
+    <wf id="288" sent="12" para="1" offset="1239" length="2"><![CDATA[of]]></wf>
+    <wf id="289" sent="12" para="1" offset="1241" length="4"><![CDATA[Jobs]]></wf>
+    <wf id="290" sent="12" para="1" offset="1245" length="2"><![CDATA['s]]></wf>
+    <wf id="291" sent="12" para="1" offset="1247" length="5"><![CDATA[email]]></wf>
+    <wf id="292" sent="12" para="1" offset="1252" length="1"><![CDATA[,]]></wf>
+    <wf id="293" sent="12" para="1" offset="1253" length="5"><![CDATA[which]]></wf>
+    <wf id="294" sent="12" para="1" offset="1258" length="5"><![CDATA[reads]]></wf>
+    <wf id="295" sent="12" para="1" offset="1263" length="1"><![CDATA[:]]></wf>
+    <wf id="296" sent="12" para="1" offset="1264" length="4"><![CDATA[Team]]></wf>
+    <wf id="297" sent="12" para="1" offset="1268" length="1"><![CDATA[,]]></wf>
+    <wf id="298" sent="12" para="1" offset="1269" length="2"><![CDATA[At]]></wf>
+    <wf id="299" sent="12" para="1" offset="1271" length="2"><![CDATA[my]]></wf>
+    <wf id="300" sent="12" para="1" offset="1273" length="7"><![CDATA[request]]></wf>
+    <wf id="301" sent="12" para="1" offset="1280" length="1"><![CDATA[,]]></wf>
+    <wf id="302" sent="12" para="1" offset="1281" length="3"><![CDATA[the]]></wf>
+    <wf id="303" sent="12" para="1" offset="1284" length="5"><![CDATA[board]]></wf>
+    <wf id="304" sent="12" para="1" offset="1289" length="2"><![CDATA[of]]></wf>
+    <wf id="305" sent="12" para="1" offset="1291" length="9"><![CDATA[directors]]></wf>
+    <wf id="306" sent="12" para="1" offset="1300" length="3"><![CDATA[has]]></wf>
+    <wf id="307" sent="12" para="1" offset="1303" length="7"><![CDATA[granted]]></wf>
+    <wf id="308" sent="12" para="1" offset="1310" length="2"><![CDATA[me]]></wf>
+    <wf id="309" sent="12" para="1" offset="1312" length="1"><![CDATA[a]]></wf>
+    <wf id="310" sent="12" para="1" offset="1313" length="7"><![CDATA[medical]]></wf>
+    <wf id="311" sent="12" para="1" offset="1320" length="5"><![CDATA[leave]]></wf>
+    <wf id="312" sent="12" para="1" offset="1325" length="2"><![CDATA[of]]></wf>
+    <wf id="313" sent="12" para="1" offset="1327" length="7"><![CDATA[absence]]></wf>
+    <wf id="314" sent="12" para="1" offset="1334" length="2"><![CDATA[so]]></wf>
+    <wf id="315" sent="12" para="1" offset="1336" length="1"><![CDATA[I]]></wf>
+    <wf id="316" sent="12" para="1" offset="1337" length="3"><![CDATA[can]]></wf>
+    <wf id="317" sent="12" para="1" offset="1340" length="5"><![CDATA[focus]]></wf>
+    <wf id="318" sent="12" para="1" offset="1345" length="2"><![CDATA[on]]></wf>
+    <wf id="319" sent="12" para="1" offset="1347" length="2"><![CDATA[my]]></wf>
+    <wf id="320" sent="12" para="1" offset="1349" length="6"><![CDATA[health]]></wf>
+    <wf id="321" sent="12" para="1" offset="1355" length="1"><![CDATA[.]]></wf>
+    <wf id="322" sent="13" para="1" offset="1356" length="1"><![CDATA[I]]></wf>
+    <wf id="323" sent="13" para="1" offset="1357" length="4"><![CDATA[will]]></wf>
+    <wf id="324" sent="13" para="1" offset="1361" length="8"><![CDATA[continue]]></wf>
+    <wf id="325" sent="13" para="1" offset="1369" length="2"><![CDATA[as]]></wf>
+    <wf id="326" sent="13" para="1" offset="1371" length="3"><![CDATA[CEO]]></wf>
+    <wf id="327" sent="13" para="1" offset="1374" length="3"><![CDATA[and]]></wf>
+    <wf id="328" sent="13" para="1" offset="1377" length="2"><![CDATA[be]]></wf>
+    <wf id="329" sent="13" para="1" offset="1379" length="8"><![CDATA[involved]]></wf>
+    <wf id="330" sent="13" para="1" offset="1387" length="2"><![CDATA[in]]></wf>
+    <wf id="331" sent="13" para="1" offset="1389" length="5"><![CDATA[major]]></wf>
+    <wf id="332" sent="13" para="1" offset="1394" length="9"><![CDATA[strategic]]></wf>
+    <wf id="333" sent="13" para="1" offset="1403" length="9"><![CDATA[decisions]]></wf>
+    <wf id="334" sent="13" para="1" offset="1412" length="3"><![CDATA[for]]></wf>
+    <wf id="335" sent="13" para="1" offset="1415" length="3"><![CDATA[the]]></wf>
+    <wf id="336" sent="13" para="1" offset="1418" length="7"><![CDATA[company]]></wf>
+    <wf id="337" sent="13" para="1" offset="1425" length="1"><![CDATA[.]]></wf>
+    <wf id="338" sent="14" para="1" offset="1426" length="1"><![CDATA[I]]></wf>
+    <wf id="339" sent="14" para="1" offset="1427" length="4"><![CDATA[have]]></wf>
+    <wf id="340" sent="14" para="1" offset="1431" length="5"><![CDATA[asked]]></wf>
+    <wf id="341" sent="14" para="1" offset="1436" length="3"><![CDATA[Tim]]></wf>
+    <wf id="342" sent="14" para="1" offset="1439" length="4"><![CDATA[Cook]]></wf>
+    <wf id="343" sent="14" para="1" offset="1443" length="2"><![CDATA[to]]></wf>
+    <wf id="344" sent="14" para="1" offset="1445" length="2"><![CDATA[be]]></wf>
+    <wf id="345" sent="14" para="1" offset="1447" length="11"><![CDATA[responsible]]></wf>
+    <wf id="346" sent="14" para="1" offset="1458" length="3"><![CDATA[for]]></wf>
+    <wf id="347" sent="14" para="1" offset="1461" length="3"><![CDATA[all]]></wf>
+    <wf id="348" sent="14" para="1" offset="1464" length="2"><![CDATA[of]]></wf>
+    <wf id="349" sent="14" para="1" offset="1466" length="5"><![CDATA[Apple]]></wf>
+    <wf id="350" sent="14" para="1" offset="1471" length="2"><![CDATA['s]]></wf>
+    <wf id="351" sent="14" para="1" offset="1473" length="3"><![CDATA[day]]></wf>
+    <wf id="352" sent="14" para="1" offset="1476" length="2"><![CDATA[to]]></wf>
+    <wf id="353" sent="14" para="1" offset="1478" length="3"><![CDATA[day]]></wf>
+    <wf id="354" sent="14" para="1" offset="1481" length="10"><![CDATA[operations]]></wf>
+    <wf id="355" sent="14" para="1" offset="1491" length="1"><![CDATA[.]]></wf>
+    <wf id="356" sent="15" para="1" offset="1492" length="1"><![CDATA[I]]></wf>
+    <wf id="357" sent="15" para="1" offset="1493" length="4"><![CDATA[have]]></wf>
+    <wf id="358" sent="15" para="1" offset="1497" length="5"><![CDATA[great]]></wf>
+    <wf id="359" sent="15" para="1" offset="1502" length="10"><![CDATA[confidence]]></wf>
+    <wf id="360" sent="15" para="1" offset="1512" length="4"><![CDATA[that]]></wf>
+    <wf id="361" sent="15" para="1" offset="1516" length="3"><![CDATA[Tim]]></wf>
+    <wf id="362" sent="15" para="1" offset="1519" length="3"><![CDATA[and]]></wf>
+    <wf id="363" sent="15" para="1" offset="1522" length="3"><![CDATA[the]]></wf>
+    <wf id="364" sent="15" para="1" offset="1525" length="4"><![CDATA[rest]]></wf>
+    <wf id="365" sent="15" para="1" offset="1529" length="2"><![CDATA[of]]></wf>
+    <wf id="366" sent="15" para="1" offset="1531" length="3"><![CDATA[the]]></wf>
+    <wf id="367" sent="15" para="1" offset="1534" length="9"><![CDATA[executive]]></wf>
+    <wf id="368" sent="15" para="1" offset="1543" length="10"><![CDATA[management]]></wf>
+    <wf id="369" sent="15" para="1" offset="1553" length="4"><![CDATA[team]]></wf>
+    <wf id="370" sent="15" para="1" offset="1557" length="4"><![CDATA[will]]></wf>
+    <wf id="371" sent="15" para="1" offset="1561" length="2"><![CDATA[do]]></wf>
+    <wf id="372" sent="15" para="1" offset="1563" length="1"><![CDATA[a]]></wf>
+    <wf id="373" sent="15" para="1" offset="1564" length="8"><![CDATA[terrific]]></wf>
+    <wf id="374" sent="15" para="1" offset="1572" length="3"><![CDATA[job]]></wf>
+    <wf id="375" sent="15" para="1" offset="1575" length="9"><![CDATA[executing]]></wf>
+    <wf id="376" sent="15" para="1" offset="1584" length="3"><![CDATA[the]]></wf>
+    <wf id="377" sent="15" para="1" offset="1587" length="8"><![CDATA[exciting]]></wf>
+    <wf id="378" sent="15" para="1" offset="1595" length="5"><![CDATA[plans]]></wf>
+    <wf id="379" sent="15" para="1" offset="1600" length="2"><![CDATA[we]]></wf>
+    <wf id="380" sent="15" para="1" offset="1602" length="4"><![CDATA[have]]></wf>
+    <wf id="381" sent="15" para="1" offset="1606" length="2"><![CDATA[in]]></wf>
+    <wf id="382" sent="15" para="1" offset="1608" length="5"><![CDATA[place]]></wf>
+    <wf id="383" sent="15" para="1" offset="1613" length="3"><![CDATA[for]]></wf>
+    <wf id="384" sent="15" para="1" offset="1616" length="4"><![CDATA[2011]]></wf>
+    <wf id="385" sent="15" para="1" offset="1620" length="1"><![CDATA[.]]></wf>
+    <wf id="386" sent="16" para="1" offset="1621" length="1"><![CDATA[I]]></wf>
+    <wf id="387" sent="16" para="1" offset="1622" length="4"><![CDATA[love]]></wf>
+    <wf id="388" sent="16" para="1" offset="1626" length="5"><![CDATA[Apple]]></wf>
+    <wf id="389" sent="16" para="1" offset="1631" length="2"><![CDATA[so]]></wf>
+    <wf id="390" sent="16" para="1" offset="1633" length="4"><![CDATA[much]]></wf>
+    <wf id="391" sent="16" para="1" offset="1637" length="3"><![CDATA[and]]></wf>
+    <wf id="392" sent="16" para="1" offset="1640" length="4"><![CDATA[hope]]></wf>
+    <wf id="393" sent="16" para="1" offset="1644" length="2"><![CDATA[to]]></wf>
+    <wf id="394" sent="16" para="1" offset="1646" length="2"><![CDATA[be]]></wf>
+    <wf id="395" sent="16" para="1" offset="1648" length="4"><![CDATA[back]]></wf>
+    <wf id="396" sent="16" para="1" offset="1652" length="2"><![CDATA[as]]></wf>
+    <wf id="397" sent="16" para="1" offset="1654" length="4"><![CDATA[soon]]></wf>
+    <wf id="398" sent="16" para="1" offset="1658" length="2"><![CDATA[as]]></wf>
+    <wf id="399" sent="16" para="1" offset="1660" length="1"><![CDATA[I]]></wf>
+    <wf id="400" sent="16" para="1" offset="1661" length="3"><![CDATA[can]]></wf>
+    <wf id="401" sent="16" para="1" offset="1664" length="1"><![CDATA[.]]></wf>
+    <wf id="402" sent="17" para="1" offset="1665" length="2"><![CDATA[In]]></wf>
+    <wf id="403" sent="17" para="1" offset="1667" length="3"><![CDATA[the]]></wf>
+    <wf id="404" sent="17" para="1" offset="1670" length="8"><![CDATA[meantime]]></wf>
+    <wf id="405" sent="17" para="1" offset="1678" length="1"><![CDATA[,]]></wf>
+    <wf id="406" sent="17" para="1" offset="1679" length="2"><![CDATA[my]]></wf>
+    <wf id="407" sent="17" para="1" offset="1681" length="6"><![CDATA[family]]></wf>
+    <wf id="408" sent="17" para="1" offset="1687" length="3"><![CDATA[and]]></wf>
+    <wf id="409" sent="17" para="1" offset="1690" length="1"><![CDATA[I]]></wf>
+    <wf id="410" sent="17" para="1" offset="1691" length="5"><![CDATA[would]]></wf>
+    <wf id="411" sent="17" para="1" offset="1696" length="6"><![CDATA[deeply]]></wf>
+    <wf id="412" sent="17" para="1" offset="1702" length="10"><![CDATA[appreciate]]></wf>
+    <wf id="413" sent="17" para="1" offset="1712" length="7"><![CDATA[respect]]></wf>
+    <wf id="414" sent="17" para="1" offset="1719" length="3"><![CDATA[for]]></wf>
+    <wf id="415" sent="17" para="1" offset="1722" length="3"><![CDATA[our]]></wf>
+    <wf id="416" sent="17" para="1" offset="1725" length="7"><![CDATA[privacy]]></wf>
+    <wf id="417" sent="17" para="1" offset="1732" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="Apple">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="Inc.">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="CEO">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="Steve">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="Jobs">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="on">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="medical">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="leave">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="January">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="17">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma=",">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="2011">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Steve">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="Jobs">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma=",">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="the">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="chief">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="executive">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="officer">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="of">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="Apple">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="Inc.,">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="announced">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="Monday">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="in">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="an">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="internal">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="memo">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="that">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="he">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="would">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="be">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="on">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="medical">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="leave">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="for">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="an">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="undetermined">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="period">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="of">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="time">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma=".">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="The">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="statement">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="caused">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="a">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="sharp">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="decrease">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="of">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="Apple">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="share">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="prices">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="in">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="foreign">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="markets">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma=",">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="while">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="US">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="markets">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="were">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="closed">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="in">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="honor">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="of">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="Martin">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="Luther">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="King">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma=".">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="Monday">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="'s">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="email">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="announcement">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="marked">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="the">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="third">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="time">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="in">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="the">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="past">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="decade">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="that">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="Jobs">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma=",">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="aged">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="55">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma=",">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="has">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="taken">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="medical">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="leave">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma=".">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="He">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="fought">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="pancreatic">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="cancer">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="in">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="2004">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="and">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="took">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="six">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="months">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="off">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="in">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="early">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="2009">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma=",">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="later">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="revealing">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="he">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="had">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="undergone">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="a">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="liver">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="transplant">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma=".">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="Jobs">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="has">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="not">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="yet">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="mentioned">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="what">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="prompted">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="his">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="decision">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="this">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="time">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="around">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma=",">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="but">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="said">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="he">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="will">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="still">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="be">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="the">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="company">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="'s">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="CEO">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma=".">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="He">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="left">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="current">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="chief">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="operating">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="officer">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="Timothy">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="D.">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="Cook">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="in">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="charge">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="of">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="day-to-day">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma="operations">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma=",">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="the">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="same">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="move">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="made">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="in">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="Jobs">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="'">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="last">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="two">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="absences">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma=".">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="While">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="no">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="additional">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="comment">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="has">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="been">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma="officially">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="made">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="by">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma="Apple">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma=",">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma="The">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="New">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="York">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="Times">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="reported">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="that">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="someone">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma="familiar">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="with">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma="the">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="situation">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma="said">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="Jobs">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma="'s">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma="health">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="has">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma="&quot;">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma="ups">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma="and">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma="downs">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="&quot;">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma="due">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma="to">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma="problems">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+    <term id="201" lemma="with">
+      <span>
+        <target id="201"/>
+      </span>
+    </term>
+    <term id="202" lemma="his">
+      <span>
+        <target id="202"/>
+      </span>
+    </term>
+    <term id="203" lemma="immune">
+      <span>
+        <target id="203"/>
+      </span>
+    </term>
+    <term id="204" lemma="system">
+      <span>
+        <target id="204"/>
+      </span>
+    </term>
+    <term id="205" lemma=",">
+      <span>
+        <target id="205"/>
+      </span>
+    </term>
+    <term id="206" lemma="problems">
+      <span>
+        <target id="206"/>
+      </span>
+    </term>
+    <term id="207" lemma="frequently">
+      <span>
+        <target id="207"/>
+      </span>
+    </term>
+    <term id="208" lemma="experienced">
+      <span>
+        <target id="208"/>
+      </span>
+    </term>
+    <term id="209" lemma="by">
+      <span>
+        <target id="209"/>
+      </span>
+    </term>
+    <term id="210" lemma="those">
+      <span>
+        <target id="210"/>
+      </span>
+    </term>
+    <term id="211" lemma="who">
+      <span>
+        <target id="211"/>
+      </span>
+    </term>
+    <term id="212" lemma="have">
+      <span>
+        <target id="212"/>
+      </span>
+    </term>
+    <term id="213" lemma="had">
+      <span>
+        <target id="213"/>
+      </span>
+    </term>
+    <term id="214" lemma="liver">
+      <span>
+        <target id="214"/>
+      </span>
+    </term>
+    <term id="215" lemma="transplants">
+      <span>
+        <target id="215"/>
+      </span>
+    </term>
+    <term id="216" lemma=".">
+      <span>
+        <target id="216"/>
+      </span>
+    </term>
+    <term id="217" lemma="The">
+      <span>
+        <target id="217"/>
+      </span>
+    </term>
+    <term id="218" lemma="insider">
+      <span>
+        <target id="218"/>
+      </span>
+    </term>
+    <term id="219" lemma=",">
+      <span>
+        <target id="219"/>
+      </span>
+    </term>
+    <term id="220" lemma="who">
+      <span>
+        <target id="220"/>
+      </span>
+    </term>
+    <term id="221" lemma="asked">
+      <span>
+        <target id="221"/>
+      </span>
+    </term>
+    <term id="222" lemma="to">
+      <span>
+        <target id="222"/>
+      </span>
+    </term>
+    <term id="223" lemma="remain">
+      <span>
+        <target id="223"/>
+      </span>
+    </term>
+    <term id="224" lemma="anonymous">
+      <span>
+        <target id="224"/>
+      </span>
+    </term>
+    <term id="225" lemma=",">
+      <span>
+        <target id="225"/>
+      </span>
+    </term>
+    <term id="226" lemma="said">
+      <span>
+        <target id="226"/>
+      </span>
+    </term>
+    <term id="227" lemma="that">
+      <span>
+        <target id="227"/>
+      </span>
+    </term>
+    <term id="228" lemma=",">
+      <span>
+        <target id="228"/>
+      </span>
+    </term>
+    <term id="229" lemma="over">
+      <span>
+        <target id="229"/>
+      </span>
+    </term>
+    <term id="230" lemma="the">
+      <span>
+        <target id="230"/>
+      </span>
+    </term>
+    <term id="231" lemma="past">
+      <span>
+        <target id="231"/>
+      </span>
+    </term>
+    <term id="232" lemma="few">
+      <span>
+        <target id="232"/>
+      </span>
+    </term>
+    <term id="233" lemma="weeks">
+      <span>
+        <target id="233"/>
+      </span>
+    </term>
+    <term id="234" lemma=",">
+      <span>
+        <target id="234"/>
+      </span>
+    </term>
+    <term id="235" lemma="Jobs">
+      <span>
+        <target id="235"/>
+      </span>
+    </term>
+    <term id="236" lemma="'">
+      <span>
+        <target id="236"/>
+      </span>
+    </term>
+    <term id="237" lemma="health">
+      <span>
+        <target id="237"/>
+      </span>
+    </term>
+    <term id="238" lemma="appeared">
+      <span>
+        <target id="238"/>
+      </span>
+    </term>
+    <term id="239" lemma="to">
+      <span>
+        <target id="239"/>
+      </span>
+    </term>
+    <term id="240" lemma="be">
+      <span>
+        <target id="240"/>
+      </span>
+    </term>
+    <term id="241" lemma="deteriorating">
+      <span>
+        <target id="241"/>
+      </span>
+    </term>
+    <term id="242" lemma="and">
+      <span>
+        <target id="242"/>
+      </span>
+    </term>
+    <term id="243" lemma="that">
+      <span>
+        <target id="243"/>
+      </span>
+    </term>
+    <term id="244" lemma="he">
+      <span>
+        <target id="244"/>
+      </span>
+    </term>
+    <term id="245" lemma="was">
+      <span>
+        <target id="245"/>
+      </span>
+    </term>
+    <term id="246" lemma="becoming">
+      <span>
+        <target id="246"/>
+      </span>
+    </term>
+    <term id="247" lemma="thinner">
+      <span>
+        <target id="247"/>
+      </span>
+    </term>
+    <term id="248" lemma=".">
+      <span>
+        <target id="248"/>
+      </span>
+    </term>
+    <term id="249" lemma="Lewis">
+      <span>
+        <target id="249"/>
+      </span>
+    </term>
+    <term id="250" lemma="W.">
+      <span>
+        <target id="250"/>
+      </span>
+    </term>
+    <term id="251" lemma="Teperman">
+      <span>
+        <target id="251"/>
+      </span>
+    </term>
+    <term id="252" lemma=",">
+      <span>
+        <target id="252"/>
+      </span>
+    </term>
+    <term id="253" lemma="a">
+      <span>
+        <target id="253"/>
+      </span>
+    </term>
+    <term id="254" lemma="doctor">
+      <span>
+        <target id="254"/>
+      </span>
+    </term>
+    <term id="255" lemma="at">
+      <span>
+        <target id="255"/>
+      </span>
+    </term>
+    <term id="256" lemma="New">
+      <span>
+        <target id="256"/>
+      </span>
+    </term>
+    <term id="257" lemma="York">
+      <span>
+        <target id="257"/>
+      </span>
+    </term>
+    <term id="258" lemma="University">
+      <span>
+        <target id="258"/>
+      </span>
+    </term>
+    <term id="259" lemma=",">
+      <span>
+        <target id="259"/>
+      </span>
+    </term>
+    <term id="260" lemma="said">
+      <span>
+        <target id="260"/>
+      </span>
+    </term>
+    <term id="261" lemma=",">
+      <span>
+        <target id="261"/>
+      </span>
+    </term>
+    <term id="262" lemma="&quot;">
+      <span>
+        <target id="262"/>
+      </span>
+    </term>
+    <term id="263" lemma="It">
+      <span>
+        <target id="263"/>
+      </span>
+    </term>
+    <term id="264" lemma="’">
+      <span>
+        <target id="264"/>
+      </span>
+    </term>
+    <term id="265" lemma="s">
+      <span>
+        <target id="265"/>
+      </span>
+    </term>
+    <term id="266" lemma="very">
+      <span>
+        <target id="266"/>
+      </span>
+    </term>
+    <term id="267" lemma="common">
+      <span>
+        <target id="267"/>
+      </span>
+    </term>
+    <term id="268" lemma="for">
+      <span>
+        <target id="268"/>
+      </span>
+    </term>
+    <term id="269" lemma="transplant">
+      <span>
+        <target id="269"/>
+      </span>
+    </term>
+    <term id="270" lemma="patients">
+      <span>
+        <target id="270"/>
+      </span>
+    </term>
+    <term id="271" lemma="to">
+      <span>
+        <target id="271"/>
+      </span>
+    </term>
+    <term id="272" lemma="have">
+      <span>
+        <target id="272"/>
+      </span>
+    </term>
+    <term id="273" lemma="issues">
+      <span>
+        <target id="273"/>
+      </span>
+    </term>
+    <term id="274" lemma="that">
+      <span>
+        <target id="274"/>
+      </span>
+    </term>
+    <term id="275" lemma="are">
+      <span>
+        <target id="275"/>
+      </span>
+    </term>
+    <term id="276" lemma="not">
+      <span>
+        <target id="276"/>
+      </span>
+    </term>
+    <term id="277" lemma="life-threatening">
+      <span>
+        <target id="277"/>
+      </span>
+    </term>
+    <term id="278" lemma=".">
+      <span>
+        <target id="278"/>
+      </span>
+    </term>
+    <term id="279" lemma="&quot;">
+      <span>
+        <target id="279"/>
+      </span>
+    </term>
+    <term id="280" lemma="On">
+      <span>
+        <target id="280"/>
+      </span>
+    </term>
+    <term id="281" lemma="its">
+      <span>
+        <target id="281"/>
+      </span>
+    </term>
+    <term id="282" lemma="website">
+      <span>
+        <target id="282"/>
+      </span>
+    </term>
+    <term id="283" lemma=",">
+      <span>
+        <target id="283"/>
+      </span>
+    </term>
+    <term id="284" lemma="Apple">
+      <span>
+        <target id="284"/>
+      </span>
+    </term>
+    <term id="285" lemma="released">
+      <span>
+        <target id="285"/>
+      </span>
+    </term>
+    <term id="286" lemma="the">
+      <span>
+        <target id="286"/>
+      </span>
+    </term>
+    <term id="287" lemma="text">
+      <span>
+        <target id="287"/>
+      </span>
+    </term>
+    <term id="288" lemma="of">
+      <span>
+        <target id="288"/>
+      </span>
+    </term>
+    <term id="289" lemma="Jobs">
+      <span>
+        <target id="289"/>
+      </span>
+    </term>
+    <term id="290" lemma="'s">
+      <span>
+        <target id="290"/>
+      </span>
+    </term>
+    <term id="291" lemma="email">
+      <span>
+        <target id="291"/>
+      </span>
+    </term>
+    <term id="292" lemma=",">
+      <span>
+        <target id="292"/>
+      </span>
+    </term>
+    <term id="293" lemma="which">
+      <span>
+        <target id="293"/>
+      </span>
+    </term>
+    <term id="294" lemma="reads">
+      <span>
+        <target id="294"/>
+      </span>
+    </term>
+    <term id="295" lemma=":">
+      <span>
+        <target id="295"/>
+      </span>
+    </term>
+    <term id="296" lemma="Team">
+      <span>
+        <target id="296"/>
+      </span>
+    </term>
+    <term id="297" lemma=",">
+      <span>
+        <target id="297"/>
+      </span>
+    </term>
+    <term id="298" lemma="At">
+      <span>
+        <target id="298"/>
+      </span>
+    </term>
+    <term id="299" lemma="my">
+      <span>
+        <target id="299"/>
+      </span>
+    </term>
+    <term id="300" lemma="request">
+      <span>
+        <target id="300"/>
+      </span>
+    </term>
+    <term id="301" lemma=",">
+      <span>
+        <target id="301"/>
+      </span>
+    </term>
+    <term id="302" lemma="the">
+      <span>
+        <target id="302"/>
+      </span>
+    </term>
+    <term id="303" lemma="board">
+      <span>
+        <target id="303"/>
+      </span>
+    </term>
+    <term id="304" lemma="of">
+      <span>
+        <target id="304"/>
+      </span>
+    </term>
+    <term id="305" lemma="directors">
+      <span>
+        <target id="305"/>
+      </span>
+    </term>
+    <term id="306" lemma="has">
+      <span>
+        <target id="306"/>
+      </span>
+    </term>
+    <term id="307" lemma="granted">
+      <span>
+        <target id="307"/>
+      </span>
+    </term>
+    <term id="308" lemma="me">
+      <span>
+        <target id="308"/>
+      </span>
+    </term>
+    <term id="309" lemma="a">
+      <span>
+        <target id="309"/>
+      </span>
+    </term>
+    <term id="310" lemma="medical">
+      <span>
+        <target id="310"/>
+      </span>
+    </term>
+    <term id="311" lemma="leave">
+      <span>
+        <target id="311"/>
+      </span>
+    </term>
+    <term id="312" lemma="of">
+      <span>
+        <target id="312"/>
+      </span>
+    </term>
+    <term id="313" lemma="absence">
+      <span>
+        <target id="313"/>
+      </span>
+    </term>
+    <term id="314" lemma="so">
+      <span>
+        <target id="314"/>
+      </span>
+    </term>
+    <term id="315" lemma="I">
+      <span>
+        <target id="315"/>
+      </span>
+    </term>
+    <term id="316" lemma="can">
+      <span>
+        <target id="316"/>
+      </span>
+    </term>
+    <term id="317" lemma="focus">
+      <span>
+        <target id="317"/>
+      </span>
+    </term>
+    <term id="318" lemma="on">
+      <span>
+        <target id="318"/>
+      </span>
+    </term>
+    <term id="319" lemma="my">
+      <span>
+        <target id="319"/>
+      </span>
+    </term>
+    <term id="320" lemma="health">
+      <span>
+        <target id="320"/>
+      </span>
+    </term>
+    <term id="321" lemma=".">
+      <span>
+        <target id="321"/>
+      </span>
+    </term>
+    <term id="322" lemma="I">
+      <span>
+        <target id="322"/>
+      </span>
+    </term>
+    <term id="323" lemma="will">
+      <span>
+        <target id="323"/>
+      </span>
+    </term>
+    <term id="324" lemma="continue">
+      <span>
+        <target id="324"/>
+      </span>
+    </term>
+    <term id="325" lemma="as">
+      <span>
+        <target id="325"/>
+      </span>
+    </term>
+    <term id="326" lemma="CEO">
+      <span>
+        <target id="326"/>
+      </span>
+    </term>
+    <term id="327" lemma="and">
+      <span>
+        <target id="327"/>
+      </span>
+    </term>
+    <term id="328" lemma="be">
+      <span>
+        <target id="328"/>
+      </span>
+    </term>
+    <term id="329" lemma="involved">
+      <span>
+        <target id="329"/>
+      </span>
+    </term>
+    <term id="330" lemma="in">
+      <span>
+        <target id="330"/>
+      </span>
+    </term>
+    <term id="331" lemma="major">
+      <span>
+        <target id="331"/>
+      </span>
+    </term>
+    <term id="332" lemma="strategic">
+      <span>
+        <target id="332"/>
+      </span>
+    </term>
+    <term id="333" lemma="decisions">
+      <span>
+        <target id="333"/>
+      </span>
+    </term>
+    <term id="334" lemma="for">
+      <span>
+        <target id="334"/>
+      </span>
+    </term>
+    <term id="335" lemma="the">
+      <span>
+        <target id="335"/>
+      </span>
+    </term>
+    <term id="336" lemma="company">
+      <span>
+        <target id="336"/>
+      </span>
+    </term>
+    <term id="337" lemma=".">
+      <span>
+        <target id="337"/>
+      </span>
+    </term>
+    <term id="338" lemma="I">
+      <span>
+        <target id="338"/>
+      </span>
+    </term>
+    <term id="339" lemma="have">
+      <span>
+        <target id="339"/>
+      </span>
+    </term>
+    <term id="340" lemma="asked">
+      <span>
+        <target id="340"/>
+      </span>
+    </term>
+    <term id="341" lemma="Tim">
+      <span>
+        <target id="341"/>
+      </span>
+    </term>
+    <term id="342" lemma="Cook">
+      <span>
+        <target id="342"/>
+      </span>
+    </term>
+    <term id="343" lemma="to">
+      <span>
+        <target id="343"/>
+      </span>
+    </term>
+    <term id="344" lemma="be">
+      <span>
+        <target id="344"/>
+      </span>
+    </term>
+    <term id="345" lemma="responsible">
+      <span>
+        <target id="345"/>
+      </span>
+    </term>
+    <term id="346" lemma="for">
+      <span>
+        <target id="346"/>
+      </span>
+    </term>
+    <term id="347" lemma="all">
+      <span>
+        <target id="347"/>
+      </span>
+    </term>
+    <term id="348" lemma="of">
+      <span>
+        <target id="348"/>
+      </span>
+    </term>
+    <term id="349" lemma="Apple">
+      <span>
+        <target id="349"/>
+      </span>
+    </term>
+    <term id="350" lemma="'s">
+      <span>
+        <target id="350"/>
+      </span>
+    </term>
+    <term id="351" lemma="day">
+      <span>
+        <target id="351"/>
+      </span>
+    </term>
+    <term id="352" lemma="to">
+      <span>
+        <target id="352"/>
+      </span>
+    </term>
+    <term id="353" lemma="day">
+      <span>
+        <target id="353"/>
+      </span>
+    </term>
+    <term id="354" lemma="operations">
+      <span>
+        <target id="354"/>
+      </span>
+    </term>
+    <term id="355" lemma=".">
+      <span>
+        <target id="355"/>
+      </span>
+    </term>
+    <term id="356" lemma="I">
+      <span>
+        <target id="356"/>
+      </span>
+    </term>
+    <term id="357" lemma="have">
+      <span>
+        <target id="357"/>
+      </span>
+    </term>
+    <term id="358" lemma="great">
+      <span>
+        <target id="358"/>
+      </span>
+    </term>
+    <term id="359" lemma="confidence">
+      <span>
+        <target id="359"/>
+      </span>
+    </term>
+    <term id="360" lemma="that">
+      <span>
+        <target id="360"/>
+      </span>
+    </term>
+    <term id="361" lemma="Tim">
+      <span>
+        <target id="361"/>
+      </span>
+    </term>
+    <term id="362" lemma="and">
+      <span>
+        <target id="362"/>
+      </span>
+    </term>
+    <term id="363" lemma="the">
+      <span>
+        <target id="363"/>
+      </span>
+    </term>
+    <term id="364" lemma="rest">
+      <span>
+        <target id="364"/>
+      </span>
+    </term>
+    <term id="365" lemma="of">
+      <span>
+        <target id="365"/>
+      </span>
+    </term>
+    <term id="366" lemma="the">
+      <span>
+        <target id="366"/>
+      </span>
+    </term>
+    <term id="367" lemma="executive">
+      <span>
+        <target id="367"/>
+      </span>
+    </term>
+    <term id="368" lemma="management">
+      <span>
+        <target id="368"/>
+      </span>
+    </term>
+    <term id="369" lemma="team">
+      <span>
+        <target id="369"/>
+      </span>
+    </term>
+    <term id="370" lemma="will">
+      <span>
+        <target id="370"/>
+      </span>
+    </term>
+    <term id="371" lemma="do">
+      <span>
+        <target id="371"/>
+      </span>
+    </term>
+    <term id="372" lemma="a">
+      <span>
+        <target id="372"/>
+      </span>
+    </term>
+    <term id="373" lemma="terrific">
+      <span>
+        <target id="373"/>
+      </span>
+    </term>
+    <term id="374" lemma="job">
+      <span>
+        <target id="374"/>
+      </span>
+    </term>
+    <term id="375" lemma="executing">
+      <span>
+        <target id="375"/>
+      </span>
+    </term>
+    <term id="376" lemma="the">
+      <span>
+        <target id="376"/>
+      </span>
+    </term>
+    <term id="377" lemma="exciting">
+      <span>
+        <target id="377"/>
+      </span>
+    </term>
+    <term id="378" lemma="plans">
+      <span>
+        <target id="378"/>
+      </span>
+    </term>
+    <term id="379" lemma="we">
+      <span>
+        <target id="379"/>
+      </span>
+    </term>
+    <term id="380" lemma="have">
+      <span>
+        <target id="380"/>
+      </span>
+    </term>
+    <term id="381" lemma="in">
+      <span>
+        <target id="381"/>
+      </span>
+    </term>
+    <term id="382" lemma="place">
+      <span>
+        <target id="382"/>
+      </span>
+    </term>
+    <term id="383" lemma="for">
+      <span>
+        <target id="383"/>
+      </span>
+    </term>
+    <term id="384" lemma="2011">
+      <span>
+        <target id="384"/>
+      </span>
+    </term>
+    <term id="385" lemma=".">
+      <span>
+        <target id="385"/>
+      </span>
+    </term>
+    <term id="386" lemma="I">
+      <span>
+        <target id="386"/>
+      </span>
+    </term>
+    <term id="387" lemma="love">
+      <span>
+        <target id="387"/>
+      </span>
+    </term>
+    <term id="388" lemma="Apple">
+      <span>
+        <target id="388"/>
+      </span>
+    </term>
+    <term id="389" lemma="so">
+      <span>
+        <target id="389"/>
+      </span>
+    </term>
+    <term id="390" lemma="much">
+      <span>
+        <target id="390"/>
+      </span>
+    </term>
+    <term id="391" lemma="and">
+      <span>
+        <target id="391"/>
+      </span>
+    </term>
+    <term id="392" lemma="hope">
+      <span>
+        <target id="392"/>
+      </span>
+    </term>
+    <term id="393" lemma="to">
+      <span>
+        <target id="393"/>
+      </span>
+    </term>
+    <term id="394" lemma="be">
+      <span>
+        <target id="394"/>
+      </span>
+    </term>
+    <term id="395" lemma="back">
+      <span>
+        <target id="395"/>
+      </span>
+    </term>
+    <term id="396" lemma="as">
+      <span>
+        <target id="396"/>
+      </span>
+    </term>
+    <term id="397" lemma="soon">
+      <span>
+        <target id="397"/>
+      </span>
+    </term>
+    <term id="398" lemma="as">
+      <span>
+        <target id="398"/>
+      </span>
+    </term>
+    <term id="399" lemma="I">
+      <span>
+        <target id="399"/>
+      </span>
+    </term>
+    <term id="400" lemma="can">
+      <span>
+        <target id="400"/>
+      </span>
+    </term>
+    <term id="401" lemma=".">
+      <span>
+        <target id="401"/>
+      </span>
+    </term>
+    <term id="402" lemma="In">
+      <span>
+        <target id="402"/>
+      </span>
+    </term>
+    <term id="403" lemma="the">
+      <span>
+        <target id="403"/>
+      </span>
+    </term>
+    <term id="404" lemma="meantime">
+      <span>
+        <target id="404"/>
+      </span>
+    </term>
+    <term id="405" lemma=",">
+      <span>
+        <target id="405"/>
+      </span>
+    </term>
+    <term id="406" lemma="my">
+      <span>
+        <target id="406"/>
+      </span>
+    </term>
+    <term id="407" lemma="family">
+      <span>
+        <target id="407"/>
+      </span>
+    </term>
+    <term id="408" lemma="and">
+      <span>
+        <target id="408"/>
+      </span>
+    </term>
+    <term id="409" lemma="I">
+      <span>
+        <target id="409"/>
+      </span>
+    </term>
+    <term id="410" lemma="would">
+      <span>
+        <target id="410"/>
+      </span>
+    </term>
+    <term id="411" lemma="deeply">
+      <span>
+        <target id="411"/>
+      </span>
+    </term>
+    <term id="412" lemma="appreciate">
+      <span>
+        <target id="412"/>
+      </span>
+    </term>
+    <term id="413" lemma="respect">
+      <span>
+        <target id="413"/>
+      </span>
+    </term>
+    <term id="414" lemma="for">
+      <span>
+        <target id="414"/>
+      </span>
+    </term>
+    <term id="415" lemma="our">
+      <span>
+        <target id="415"/>
+      </span>
+    </term>
+    <term id="416" lemma="privacy">
+      <span>
+        <target id="416"/>
+      </span>
+    </term>
+    <term id="417" lemma=".">
+      <span>
+        <target id="417"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="191" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="299"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="190" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="356"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="193" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="140"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="192" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="399"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="179" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="202"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="178" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="244"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="177" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="386"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="176" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="289"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="175" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="338"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="174" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="116"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="182" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="409"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="180" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="123"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="92"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="183" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="406"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="109"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="13"/>
+          <target id="14"/>
+          <target id="15"/>
+          <target id="16"/>
+          <target id="17"/>
+          <target id="18"/>
+          <target id="19"/>
+          <target id="20"/>
+          <target id="21"/>
+          <target id="22"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="16"/>
+          <target id="17"/>
+          <target id="18"/>
+          <target id="19"/>
+          <target id="20"/>
+          <target id="21"/>
+          <target id="22"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="13"/>
+          <target id="14"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="7" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="30"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="6" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Apple_Inc." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="21"/>
+          <target id="22"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="9" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+          <target id="2"/>
+          <target id="3"/>
+          <target id="4"/>
+          <target id="5"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="8" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Apple_Inc." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+          <target id="2"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="188" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="189"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="189" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="322"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="187" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="131"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="184" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="160"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="185" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="235"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="181" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="308"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="74" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="50"/>
+          <target id="51"/>
+          <target id="52"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="73" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+          <target id="2"/>
+          <target id="3"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="72" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="4"/>
+          <target id="5"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="11" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Apple_Inc." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="50"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="10" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="26"/>
+          <target id="27"/>
+          <target id="28"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="13" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="58"/>
+          <target id="59"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="12" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Stock_market" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="54"/>
+          <target id="55"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="15" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="71"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="14" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="58"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="17" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="82"/>
+          <target id="83"/>
+          <target id="84"/>
+          <target id="85"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="16" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="82"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="186" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Steve_Jobs " confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="315"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="18" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Martin_Luther_King,_Jr." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="65"/>
+          <target id="66"/>
+          <target id="67"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+  <timeExpressions>
+    <timex3 id="48" type="DATE" value="2009">
+      <span>
+        <target id="104"/>
+        <target id="105"/>
+      </span>
+    </timex3>
+    <timex3 id="49" type="DATE" value="XXXX-XX-XX">
+      <span>
+        <target id="107"/>
+      </span>
+    </timex3>
+    <timex3 id="46" type="DATE" value="2004">
+      <span>
+        <target id="97"/>
+      </span>
+    </timex3>
+    <timex3 id="47" type="DURATION" value="P6M">
+      <span>
+        <target id="100"/>
+        <target id="101"/>
+      </span>
+    </timex3>
+    <timex3 id="44" type="DATE" value="2011-01-17">
+      <span>
+        <target id="24"/>
+      </span>
+    </timex3>
+    <timex3 id="45" type="DATE" value="PXD">
+      <span>
+        <target id="37"/>
+        <target id="38"/>
+        <target id="39"/>
+        <target id="40"/>
+        <target id="41"/>
+      </span>
+    </timex3>
+    <timex3 id="42" type="DATE" value="2011-01-17">
+      <span>
+        <target id="9"/>
+        <target id="10"/>
+        <target id="11"/>
+        <target id="12"/>
+      </span>
+    </timex3>
+    <timex3 id="43" type="DATE" value="200">
+      <span>
+        <target id="78"/>
+        <target id="79"/>
+        <target id="80"/>
+      </span>
+    </timex3>
+    <timex3 id="41" type="DATE" value="2011-01-17">
+      <span>
+        <target id="69"/>
+      </span>
+    </timex3>
+  </timeExpressions>
+  <srl>
+    <predicate id="pr24">
+      <span>
+        <target id="90"/>
+      </span>
+      <role id="362239" semRole="Arg0">
+        <span>
+          <target id="82"/>
+          <target id="83"/>
+          <target id="84"/>
+          <target id="85"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr25">
+      <span>
+        <target id="93"/>
+      </span>
+      <role id="362240" semRole="Arg0">
+        <span>
+          <target id="92"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr27">
+      <span>
+        <target id="108"/>
+      </span>
+      <role id="362241" semRole="Arg0">
+        <span>
+          <target id="92"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr20">
+      <span>
+        <target id="61"/>
+      </span>
+      <role id="362234" semRole="Arg1">
+        <span>
+          <target id="58"/>
+          <target id="59"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr21">
+      <span>
+        <target id="72"/>
+      </span>
+      <role id="362237" semRole="Argm-OTHER">
+        <span>
+          <target id="71"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr23">
+      <span>
+        <target id="88"/>
+      </span>
+      <role id="362238" semRole="Arg0">
+        <span>
+          <target id="82"/>
+          <target id="83"/>
+          <target id="84"/>
+          <target id="85"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr33">
+      <span>
+        <target id="35"/>
+      </span>
+      <role id="362229" semRole="Arg0">
+        <span>
+          <target id="30"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr32">
+      <span>
+        <target id="32"/>
+      </span>
+      <role id="362228" semRole="Arg1">
+        <span>
+          <target id="30"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr31">
+      <span>
+        <target id="8"/>
+      </span>
+      <role id="362296" semRole="Arg0">
+        <span>
+          <target id="1"/>
+          <target id="2"/>
+          <target id="3"/>
+          <target id="4"/>
+          <target id="5"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr30">
+      <span>
+        <target id="23"/>
+      </span>
+      <role id="362226" semRole="Arg0">
+        <span>
+          <target id="13"/>
+          <target id="14"/>
+          <target id="15"/>
+          <target id="16"/>
+          <target id="17"/>
+          <target id="18"/>
+          <target id="19"/>
+          <target id="20"/>
+          <target id="21"/>
+          <target id="22"/>
+        </span>
+      </role>
+      <role id="362227" semRole="Argm-OTHER">
+        <span>
+          <target id="26"/>
+          <target id="27"/>
+          <target id="28"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr28">
+      <span>
+        <target id="111"/>
+      </span>
+      <role id="362242" semRole="Arg1">
+        <span>
+          <target id="109"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr19">
+      <span>
+        <target id="48"/>
+      </span>
+      <role id="362232" semRole="Arg1">
+        <span>
+          <target id="50"/>
+        </span>
+      </role>
+      <role id="362233" semRole="Argm-OTHER">
+        <span>
+          <target id="54"/>
+          <target id="55"/>
+        </span>
+      </role>
+    </predicate>
+  </srl>
+</NAF>

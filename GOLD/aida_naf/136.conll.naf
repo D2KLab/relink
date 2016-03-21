@@ -1,0 +1,556 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[UK bookmakers lengthen Conservative victory odds . LONDON 1996-12-06 UK bookmakers William Hill said on Friday they have lengthened the odds of a Conservative victory in the next general election from 9-4 to 5-2 . William Hill said the odds were the longest they had been for six months . The Labour opposition are now 1-4 favourites , it said . The election must be held by May . -- London Newsroom +44 171 542-7768 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1298testb" filename="1298testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="2"><![CDATA[UK]]></wf>
+    <wf id="2" sent="1" para="1" offset="2" length="10"><![CDATA[bookmakers]]></wf>
+    <wf id="3" sent="1" para="1" offset="12" length="8"><![CDATA[lengthen]]></wf>
+    <wf id="4" sent="1" para="1" offset="20" length="12"><![CDATA[Conservative]]></wf>
+    <wf id="5" sent="1" para="1" offset="32" length="7"><![CDATA[victory]]></wf>
+    <wf id="6" sent="1" para="1" offset="39" length="4"><![CDATA[odds]]></wf>
+    <wf id="7" sent="1" para="1" offset="43" length="1"><![CDATA[.]]></wf>
+    <wf id="8" sent="1" para="1" offset="44" length="6"><![CDATA[LONDON]]></wf>
+    <wf id="9" sent="1" para="1" offset="50" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="10" sent="1" para="1" offset="60" length="2"><![CDATA[UK]]></wf>
+    <wf id="11" sent="1" para="1" offset="62" length="10"><![CDATA[bookmakers]]></wf>
+    <wf id="12" sent="1" para="1" offset="72" length="7"><![CDATA[William]]></wf>
+    <wf id="13" sent="1" para="1" offset="79" length="4"><![CDATA[Hill]]></wf>
+    <wf id="14" sent="1" para="1" offset="83" length="4"><![CDATA[said]]></wf>
+    <wf id="15" sent="1" para="1" offset="87" length="2"><![CDATA[on]]></wf>
+    <wf id="16" sent="1" para="1" offset="89" length="6"><![CDATA[Friday]]></wf>
+    <wf id="17" sent="1" para="1" offset="95" length="4"><![CDATA[they]]></wf>
+    <wf id="18" sent="1" para="1" offset="99" length="4"><![CDATA[have]]></wf>
+    <wf id="19" sent="1" para="1" offset="103" length="10"><![CDATA[lengthened]]></wf>
+    <wf id="20" sent="1" para="1" offset="113" length="3"><![CDATA[the]]></wf>
+    <wf id="21" sent="1" para="1" offset="116" length="4"><![CDATA[odds]]></wf>
+    <wf id="22" sent="1" para="1" offset="120" length="2"><![CDATA[of]]></wf>
+    <wf id="23" sent="1" para="1" offset="122" length="1"><![CDATA[a]]></wf>
+    <wf id="24" sent="1" para="1" offset="123" length="12"><![CDATA[Conservative]]></wf>
+    <wf id="25" sent="1" para="1" offset="135" length="7"><![CDATA[victory]]></wf>
+    <wf id="26" sent="1" para="1" offset="142" length="2"><![CDATA[in]]></wf>
+    <wf id="27" sent="1" para="1" offset="144" length="3"><![CDATA[the]]></wf>
+    <wf id="28" sent="1" para="1" offset="147" length="4"><![CDATA[next]]></wf>
+    <wf id="29" sent="1" para="1" offset="151" length="7"><![CDATA[general]]></wf>
+    <wf id="30" sent="1" para="1" offset="158" length="8"><![CDATA[election]]></wf>
+    <wf id="31" sent="1" para="1" offset="166" length="4"><![CDATA[from]]></wf>
+    <wf id="32" sent="1" para="1" offset="170" length="3"><![CDATA[9-4]]></wf>
+    <wf id="33" sent="1" para="1" offset="173" length="2"><![CDATA[to]]></wf>
+    <wf id="34" sent="1" para="1" offset="175" length="3"><![CDATA[5-2]]></wf>
+    <wf id="35" sent="1" para="1" offset="178" length="1"><![CDATA[.]]></wf>
+    <wf id="36" sent="1" para="1" offset="179" length="7"><![CDATA[William]]></wf>
+    <wf id="37" sent="1" para="1" offset="186" length="4"><![CDATA[Hill]]></wf>
+    <wf id="38" sent="1" para="1" offset="190" length="4"><![CDATA[said]]></wf>
+    <wf id="39" sent="1" para="1" offset="194" length="3"><![CDATA[the]]></wf>
+    <wf id="40" sent="1" para="1" offset="197" length="4"><![CDATA[odds]]></wf>
+    <wf id="41" sent="1" para="1" offset="201" length="4"><![CDATA[were]]></wf>
+    <wf id="42" sent="1" para="1" offset="205" length="3"><![CDATA[the]]></wf>
+    <wf id="43" sent="1" para="1" offset="208" length="7"><![CDATA[longest]]></wf>
+    <wf id="44" sent="1" para="1" offset="215" length="4"><![CDATA[they]]></wf>
+    <wf id="45" sent="1" para="1" offset="219" length="3"><![CDATA[had]]></wf>
+    <wf id="46" sent="1" para="1" offset="222" length="4"><![CDATA[been]]></wf>
+    <wf id="47" sent="1" para="1" offset="226" length="3"><![CDATA[for]]></wf>
+    <wf id="48" sent="1" para="1" offset="229" length="3"><![CDATA[six]]></wf>
+    <wf id="49" sent="1" para="1" offset="232" length="6"><![CDATA[months]]></wf>
+    <wf id="50" sent="1" para="1" offset="238" length="1"><![CDATA[.]]></wf>
+    <wf id="51" sent="1" para="1" offset="239" length="3"><![CDATA[The]]></wf>
+    <wf id="52" sent="1" para="1" offset="242" length="6"><![CDATA[Labour]]></wf>
+    <wf id="53" sent="1" para="1" offset="248" length="10"><![CDATA[opposition]]></wf>
+    <wf id="54" sent="1" para="1" offset="258" length="3"><![CDATA[are]]></wf>
+    <wf id="55" sent="1" para="1" offset="261" length="3"><![CDATA[now]]></wf>
+    <wf id="56" sent="1" para="1" offset="264" length="3"><![CDATA[1-4]]></wf>
+    <wf id="57" sent="1" para="1" offset="267" length="10"><![CDATA[favourites]]></wf>
+    <wf id="58" sent="1" para="1" offset="277" length="1"><![CDATA[,]]></wf>
+    <wf id="59" sent="1" para="1" offset="278" length="2"><![CDATA[it]]></wf>
+    <wf id="60" sent="1" para="1" offset="280" length="4"><![CDATA[said]]></wf>
+    <wf id="61" sent="1" para="1" offset="284" length="1"><![CDATA[.]]></wf>
+    <wf id="62" sent="1" para="1" offset="285" length="3"><![CDATA[The]]></wf>
+    <wf id="63" sent="1" para="1" offset="288" length="8"><![CDATA[election]]></wf>
+    <wf id="64" sent="1" para="1" offset="296" length="4"><![CDATA[must]]></wf>
+    <wf id="65" sent="1" para="1" offset="300" length="2"><![CDATA[be]]></wf>
+    <wf id="66" sent="1" para="1" offset="302" length="4"><![CDATA[held]]></wf>
+    <wf id="67" sent="1" para="1" offset="306" length="2"><![CDATA[by]]></wf>
+    <wf id="68" sent="1" para="1" offset="308" length="3"><![CDATA[May]]></wf>
+    <wf id="69" sent="1" para="1" offset="311" length="1"><![CDATA[.]]></wf>
+    <wf id="70" sent="1" para="1" offset="312" length="2"><![CDATA[--]]></wf>
+    <wf id="71" sent="1" para="1" offset="314" length="6"><![CDATA[London]]></wf>
+    <wf id="72" sent="1" para="1" offset="320" length="8"><![CDATA[Newsroom]]></wf>
+    <wf id="73" sent="1" para="1" offset="328" length="3"><![CDATA[+44]]></wf>
+    <wf id="74" sent="1" para="1" offset="331" length="3"><![CDATA[171]]></wf>
+    <wf id="75" sent="1" para="1" offset="334" length="8"><![CDATA[542-7768]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="UK">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="bookmakers">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="lengthen">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="Conservative">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="victory">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="odds">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma=".">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="LONDON">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="1996-12-06">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="UK">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="bookmakers">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="William">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Hill">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="said">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="on">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="Friday">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="they">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="have">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="lengthened">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="the">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="odds">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="of">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="a">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="Conservative">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="victory">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="in">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="the">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="next">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="general">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="election">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="from">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="9-4">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="to">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="5-2">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma=".">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="William">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="Hill">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="said">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="the">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="odds">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="were">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="the">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="longest">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="they">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="had">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="been">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="for">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="six">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="months">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma=".">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="The">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="Labour">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="opposition">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="are">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="now">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="1-4">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="favourites">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma=",">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="it">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="said">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma=".">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="The">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="election">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="must">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="be">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="held">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="by">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="May">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma=".">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="--">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="London">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="Newsroom">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="+44">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="171">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="542-7768">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="3143">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3144">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Conservative_Party_(UK)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="4"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3145">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/London" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="8"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3146">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="10"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3147">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/William_Hill_(bookmaker)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+          <target id="13"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3148">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Conservative_Party_(UK)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="24"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3149">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/William_Hill_(bookmaker)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="36"/>
+          <target id="37"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3150">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Labour_Party_(UK)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="52"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3151">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="71"/>
+          <target id="72"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

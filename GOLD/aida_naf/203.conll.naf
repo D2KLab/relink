@@ -1,0 +1,814 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[RUGBY UNION - BRITISH RESULTS . LONDON 1996-12-07 Results of British rugby union matches on Saturday : Pilkington Cup fourth round Reading 50 Widnes 3 English division one Bath 35 Harlequins 20 Gloucester 29 London Irish 19 Orrell 22 West Hartlepool 15 Wasps 15 Bristol 13 Welsh division one Caerphilly 20 Cardiff 34 Llanelli 97 Newbridge 10 Newport 45 Dunvant 22 Pontypridd 53 Bridgend 9 Swansea 49 Neath 10 Treorchy 13 Ebbw Vale 17 Scottish division one Boroughmuir 31 Watsonians 35 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1365testb" filename="1365testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="5"><![CDATA[RUGBY]]></wf>
+    <wf id="2" sent="1" para="1" offset="5" length="5"><![CDATA[UNION]]></wf>
+    <wf id="3" sent="1" para="1" offset="10" length="1"><![CDATA[-]]></wf>
+    <wf id="4" sent="1" para="1" offset="11" length="7"><![CDATA[BRITISH]]></wf>
+    <wf id="5" sent="1" para="1" offset="18" length="7"><![CDATA[RESULTS]]></wf>
+    <wf id="6" sent="1" para="1" offset="25" length="1"><![CDATA[.]]></wf>
+    <wf id="7" sent="1" para="1" offset="26" length="6"><![CDATA[LONDON]]></wf>
+    <wf id="8" sent="1" para="1" offset="32" length="10"><![CDATA[1996-12-07]]></wf>
+    <wf id="9" sent="1" para="1" offset="42" length="7"><![CDATA[Results]]></wf>
+    <wf id="10" sent="1" para="1" offset="49" length="2"><![CDATA[of]]></wf>
+    <wf id="11" sent="1" para="1" offset="51" length="7"><![CDATA[British]]></wf>
+    <wf id="12" sent="1" para="1" offset="58" length="5"><![CDATA[rugby]]></wf>
+    <wf id="13" sent="1" para="1" offset="63" length="5"><![CDATA[union]]></wf>
+    <wf id="14" sent="1" para="1" offset="68" length="7"><![CDATA[matches]]></wf>
+    <wf id="15" sent="1" para="1" offset="75" length="2"><![CDATA[on]]></wf>
+    <wf id="16" sent="1" para="1" offset="77" length="8"><![CDATA[Saturday]]></wf>
+    <wf id="17" sent="1" para="1" offset="85" length="1"><![CDATA[:]]></wf>
+    <wf id="18" sent="1" para="1" offset="86" length="10"><![CDATA[Pilkington]]></wf>
+    <wf id="19" sent="1" para="1" offset="96" length="3"><![CDATA[Cup]]></wf>
+    <wf id="20" sent="1" para="1" offset="99" length="6"><![CDATA[fourth]]></wf>
+    <wf id="21" sent="1" para="1" offset="105" length="5"><![CDATA[round]]></wf>
+    <wf id="22" sent="1" para="1" offset="110" length="7"><![CDATA[Reading]]></wf>
+    <wf id="23" sent="1" para="1" offset="117" length="2"><![CDATA[50]]></wf>
+    <wf id="24" sent="1" para="1" offset="119" length="6"><![CDATA[Widnes]]></wf>
+    <wf id="25" sent="1" para="1" offset="125" length="1"><![CDATA[3]]></wf>
+    <wf id="26" sent="1" para="1" offset="126" length="7"><![CDATA[English]]></wf>
+    <wf id="27" sent="1" para="1" offset="133" length="8"><![CDATA[division]]></wf>
+    <wf id="28" sent="1" para="1" offset="141" length="3"><![CDATA[one]]></wf>
+    <wf id="29" sent="1" para="1" offset="144" length="4"><![CDATA[Bath]]></wf>
+    <wf id="30" sent="1" para="1" offset="148" length="2"><![CDATA[35]]></wf>
+    <wf id="31" sent="1" para="1" offset="150" length="10"><![CDATA[Harlequins]]></wf>
+    <wf id="32" sent="1" para="1" offset="160" length="2"><![CDATA[20]]></wf>
+    <wf id="33" sent="1" para="1" offset="162" length="10"><![CDATA[Gloucester]]></wf>
+    <wf id="34" sent="1" para="1" offset="172" length="2"><![CDATA[29]]></wf>
+    <wf id="35" sent="1" para="1" offset="174" length="6"><![CDATA[London]]></wf>
+    <wf id="36" sent="1" para="1" offset="180" length="5"><![CDATA[Irish]]></wf>
+    <wf id="37" sent="1" para="1" offset="185" length="2"><![CDATA[19]]></wf>
+    <wf id="38" sent="1" para="1" offset="187" length="6"><![CDATA[Orrell]]></wf>
+    <wf id="39" sent="1" para="1" offset="193" length="2"><![CDATA[22]]></wf>
+    <wf id="40" sent="1" para="1" offset="195" length="4"><![CDATA[West]]></wf>
+    <wf id="41" sent="1" para="1" offset="199" length="10"><![CDATA[Hartlepool]]></wf>
+    <wf id="42" sent="1" para="1" offset="209" length="2"><![CDATA[15]]></wf>
+    <wf id="43" sent="1" para="1" offset="211" length="5"><![CDATA[Wasps]]></wf>
+    <wf id="44" sent="1" para="1" offset="216" length="2"><![CDATA[15]]></wf>
+    <wf id="45" sent="1" para="1" offset="218" length="7"><![CDATA[Bristol]]></wf>
+    <wf id="46" sent="1" para="1" offset="225" length="2"><![CDATA[13]]></wf>
+    <wf id="47" sent="1" para="1" offset="227" length="5"><![CDATA[Welsh]]></wf>
+    <wf id="48" sent="1" para="1" offset="232" length="8"><![CDATA[division]]></wf>
+    <wf id="49" sent="1" para="1" offset="240" length="3"><![CDATA[one]]></wf>
+    <wf id="50" sent="1" para="1" offset="243" length="10"><![CDATA[Caerphilly]]></wf>
+    <wf id="51" sent="1" para="1" offset="253" length="2"><![CDATA[20]]></wf>
+    <wf id="52" sent="1" para="1" offset="255" length="7"><![CDATA[Cardiff]]></wf>
+    <wf id="53" sent="1" para="1" offset="262" length="2"><![CDATA[34]]></wf>
+    <wf id="54" sent="1" para="1" offset="264" length="8"><![CDATA[Llanelli]]></wf>
+    <wf id="55" sent="1" para="1" offset="272" length="2"><![CDATA[97]]></wf>
+    <wf id="56" sent="1" para="1" offset="274" length="9"><![CDATA[Newbridge]]></wf>
+    <wf id="57" sent="1" para="1" offset="283" length="2"><![CDATA[10]]></wf>
+    <wf id="58" sent="1" para="1" offset="285" length="7"><![CDATA[Newport]]></wf>
+    <wf id="59" sent="1" para="1" offset="292" length="2"><![CDATA[45]]></wf>
+    <wf id="60" sent="1" para="1" offset="294" length="7"><![CDATA[Dunvant]]></wf>
+    <wf id="61" sent="1" para="1" offset="301" length="2"><![CDATA[22]]></wf>
+    <wf id="62" sent="1" para="1" offset="303" length="10"><![CDATA[Pontypridd]]></wf>
+    <wf id="63" sent="1" para="1" offset="313" length="2"><![CDATA[53]]></wf>
+    <wf id="64" sent="1" para="1" offset="315" length="8"><![CDATA[Bridgend]]></wf>
+    <wf id="65" sent="1" para="1" offset="323" length="1"><![CDATA[9]]></wf>
+    <wf id="66" sent="1" para="1" offset="324" length="7"><![CDATA[Swansea]]></wf>
+    <wf id="67" sent="1" para="1" offset="331" length="2"><![CDATA[49]]></wf>
+    <wf id="68" sent="1" para="1" offset="333" length="5"><![CDATA[Neath]]></wf>
+    <wf id="69" sent="1" para="1" offset="338" length="2"><![CDATA[10]]></wf>
+    <wf id="70" sent="1" para="1" offset="340" length="8"><![CDATA[Treorchy]]></wf>
+    <wf id="71" sent="1" para="1" offset="348" length="2"><![CDATA[13]]></wf>
+    <wf id="72" sent="1" para="1" offset="350" length="4"><![CDATA[Ebbw]]></wf>
+    <wf id="73" sent="1" para="1" offset="354" length="4"><![CDATA[Vale]]></wf>
+    <wf id="74" sent="1" para="1" offset="358" length="2"><![CDATA[17]]></wf>
+    <wf id="75" sent="1" para="1" offset="360" length="8"><![CDATA[Scottish]]></wf>
+    <wf id="76" sent="1" para="1" offset="368" length="8"><![CDATA[division]]></wf>
+    <wf id="77" sent="1" para="1" offset="376" length="3"><![CDATA[one]]></wf>
+    <wf id="78" sent="1" para="1" offset="379" length="11"><![CDATA[Boroughmuir]]></wf>
+    <wf id="79" sent="1" para="1" offset="390" length="2"><![CDATA[31]]></wf>
+    <wf id="80" sent="1" para="1" offset="392" length="10"><![CDATA[Watsonians]]></wf>
+    <wf id="81" sent="1" para="1" offset="402" length="2"><![CDATA[35]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="RUGBY">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="UNION">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="-">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="BRITISH">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="RESULTS">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma=".">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="LONDON">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="1996-12-07">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="Results">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="of">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="British">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="rugby">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="union">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="matches">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="on">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="Saturday">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma=":">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="Pilkington">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="Cup">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="fourth">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="round">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="Reading">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="50">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="Widnes">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="3">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="English">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="division">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="one">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="Bath">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="35">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="Harlequins">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="20">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="Gloucester">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="29">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="London">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="Irish">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="19">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="Orrell">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="22">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="West">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="Hartlepool">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="15">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="Wasps">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="15">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="Bristol">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="13">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="Welsh">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="division">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="one">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="Caerphilly">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="20">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="Cardiff">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="34">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="Llanelli">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="97">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="Newbridge">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="10">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="Newport">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="45">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="Dunvant">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="22">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="Pontypridd">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="53">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="Bridgend">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="9">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="Swansea">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="49">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="Neath">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="10">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="Treorchy">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="13">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="Ebbw">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="Vale">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="17">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="Scottish">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="division">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="one">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="Boroughmuir">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="31">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="Watsonians">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="35">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="4676">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Rugby_union" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+          <target id="2"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4677">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/London" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="7"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4678">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_Kingdom" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4679">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Anglo-Welsh_Cup" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="18"/>
+          <target id="19"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4680">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Reading_R.F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="22"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4681">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Widnes_Vikings" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="24"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4682">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/England" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="26"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4683">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Bath_Rugby" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="29"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4684">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Harlequin_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="31"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4685">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Gloucester_Rugby" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="33"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4686">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/London_Irish" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="35"/>
+          <target id="36"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4687">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Orrell_R.U.F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="38"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4688">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/West_Hartlepool_R.F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="40"/>
+          <target id="41"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4689">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/London_Wasps" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="43"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4690">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Bristol_Rugby" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="45"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4691">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Wales" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="47"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4692">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Caerphilly_RFC" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="50"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4693">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Cardiff_RFC" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="52"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4694">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Llanelli_RFC" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="54"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4695">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Newbridge_RFC" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="56"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4696">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Newport_Gwent_Dragons" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="58"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4697">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dunvant_RFC" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="60"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4698">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pontypridd_RFC" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="62"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4699">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Bridgend_Ravens" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="64"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4700">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Swansea_RFC" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="66"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4701">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Neath_RFC" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="68"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4702">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Treorchy_RFC" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="70"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4703">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ebbw_Vale_RFC" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="72"/>
+          <target id="73"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4704">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Scotland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="75"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4705">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Boroughmuir_RFC" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="78"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4706">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Watsonians_RFC" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="80"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

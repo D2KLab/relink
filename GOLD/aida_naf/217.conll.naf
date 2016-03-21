@@ -1,0 +1,546 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[CRICKET - SHEFFIELD SHIELD SCORE . HOBART , Australia 1996-12-07 Close of play score on the second day of the four-day Sheffield Shield cricket match between Tasmania and Victoria at Bellerive Oval on Saturday : Tasmania 481 for eight declared ( Michael DiVenuto 119 , David Boon 118 , Shaun Young 113 ) ; Victoria 220 for three ( Dean Jones 130 not out ) . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1379testb" filename="1379testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="7"><![CDATA[CRICKET]]></wf>
+    <wf id="2" sent="1" para="1" offset="7" length="1"><![CDATA[-]]></wf>
+    <wf id="3" sent="1" para="1" offset="8" length="9"><![CDATA[SHEFFIELD]]></wf>
+    <wf id="4" sent="1" para="1" offset="17" length="6"><![CDATA[SHIELD]]></wf>
+    <wf id="5" sent="1" para="1" offset="23" length="5"><![CDATA[SCORE]]></wf>
+    <wf id="6" sent="1" para="1" offset="28" length="1"><![CDATA[.]]></wf>
+    <wf id="7" sent="1" para="1" offset="29" length="6"><![CDATA[HOBART]]></wf>
+    <wf id="8" sent="1" para="1" offset="35" length="1"><![CDATA[,]]></wf>
+    <wf id="9" sent="1" para="1" offset="36" length="9"><![CDATA[Australia]]></wf>
+    <wf id="10" sent="1" para="1" offset="45" length="10"><![CDATA[1996-12-07]]></wf>
+    <wf id="11" sent="1" para="1" offset="55" length="5"><![CDATA[Close]]></wf>
+    <wf id="12" sent="1" para="1" offset="60" length="2"><![CDATA[of]]></wf>
+    <wf id="13" sent="1" para="1" offset="62" length="4"><![CDATA[play]]></wf>
+    <wf id="14" sent="1" para="1" offset="66" length="5"><![CDATA[score]]></wf>
+    <wf id="15" sent="1" para="1" offset="71" length="2"><![CDATA[on]]></wf>
+    <wf id="16" sent="1" para="1" offset="73" length="3"><![CDATA[the]]></wf>
+    <wf id="17" sent="1" para="1" offset="76" length="6"><![CDATA[second]]></wf>
+    <wf id="18" sent="1" para="1" offset="82" length="3"><![CDATA[day]]></wf>
+    <wf id="19" sent="1" para="1" offset="85" length="2"><![CDATA[of]]></wf>
+    <wf id="20" sent="1" para="1" offset="87" length="3"><![CDATA[the]]></wf>
+    <wf id="21" sent="1" para="1" offset="90" length="8"><![CDATA[four-day]]></wf>
+    <wf id="22" sent="1" para="1" offset="98" length="9"><![CDATA[Sheffield]]></wf>
+    <wf id="23" sent="1" para="1" offset="107" length="6"><![CDATA[Shield]]></wf>
+    <wf id="24" sent="1" para="1" offset="113" length="7"><![CDATA[cricket]]></wf>
+    <wf id="25" sent="1" para="1" offset="120" length="5"><![CDATA[match]]></wf>
+    <wf id="26" sent="1" para="1" offset="125" length="7"><![CDATA[between]]></wf>
+    <wf id="27" sent="1" para="1" offset="132" length="8"><![CDATA[Tasmania]]></wf>
+    <wf id="28" sent="1" para="1" offset="140" length="3"><![CDATA[and]]></wf>
+    <wf id="29" sent="1" para="1" offset="143" length="8"><![CDATA[Victoria]]></wf>
+    <wf id="30" sent="1" para="1" offset="151" length="2"><![CDATA[at]]></wf>
+    <wf id="31" sent="1" para="1" offset="153" length="9"><![CDATA[Bellerive]]></wf>
+    <wf id="32" sent="1" para="1" offset="162" length="4"><![CDATA[Oval]]></wf>
+    <wf id="33" sent="1" para="1" offset="166" length="2"><![CDATA[on]]></wf>
+    <wf id="34" sent="1" para="1" offset="168" length="8"><![CDATA[Saturday]]></wf>
+    <wf id="35" sent="1" para="1" offset="176" length="1"><![CDATA[:]]></wf>
+    <wf id="36" sent="1" para="1" offset="177" length="8"><![CDATA[Tasmania]]></wf>
+    <wf id="37" sent="1" para="1" offset="185" length="3"><![CDATA[481]]></wf>
+    <wf id="38" sent="1" para="1" offset="188" length="3"><![CDATA[for]]></wf>
+    <wf id="39" sent="1" para="1" offset="191" length="5"><![CDATA[eight]]></wf>
+    <wf id="40" sent="1" para="1" offset="196" length="8"><![CDATA[declared]]></wf>
+    <wf id="41" sent="1" para="1" offset="204" length="1"><![CDATA[(]]></wf>
+    <wf id="42" sent="1" para="1" offset="205" length="7"><![CDATA[Michael]]></wf>
+    <wf id="43" sent="1" para="1" offset="212" length="8"><![CDATA[DiVenuto]]></wf>
+    <wf id="44" sent="1" para="1" offset="220" length="3"><![CDATA[119]]></wf>
+    <wf id="45" sent="1" para="1" offset="223" length="1"><![CDATA[,]]></wf>
+    <wf id="46" sent="1" para="1" offset="224" length="5"><![CDATA[David]]></wf>
+    <wf id="47" sent="1" para="1" offset="229" length="4"><![CDATA[Boon]]></wf>
+    <wf id="48" sent="1" para="1" offset="233" length="3"><![CDATA[118]]></wf>
+    <wf id="49" sent="1" para="1" offset="236" length="1"><![CDATA[,]]></wf>
+    <wf id="50" sent="1" para="1" offset="237" length="5"><![CDATA[Shaun]]></wf>
+    <wf id="51" sent="1" para="1" offset="242" length="5"><![CDATA[Young]]></wf>
+    <wf id="52" sent="1" para="1" offset="247" length="3"><![CDATA[113]]></wf>
+    <wf id="53" sent="1" para="1" offset="250" length="1"><![CDATA[)]]></wf>
+    <wf id="54" sent="1" para="1" offset="251" length="1"><![CDATA[;]]></wf>
+    <wf id="55" sent="1" para="1" offset="252" length="8"><![CDATA[Victoria]]></wf>
+    <wf id="56" sent="1" para="1" offset="260" length="3"><![CDATA[220]]></wf>
+    <wf id="57" sent="1" para="1" offset="263" length="3"><![CDATA[for]]></wf>
+    <wf id="58" sent="1" para="1" offset="266" length="5"><![CDATA[three]]></wf>
+    <wf id="59" sent="1" para="1" offset="271" length="1"><![CDATA[(]]></wf>
+    <wf id="60" sent="1" para="1" offset="272" length="4"><![CDATA[Dean]]></wf>
+    <wf id="61" sent="1" para="1" offset="276" length="5"><![CDATA[Jones]]></wf>
+    <wf id="62" sent="1" para="1" offset="281" length="3"><![CDATA[130]]></wf>
+    <wf id="63" sent="1" para="1" offset="284" length="3"><![CDATA[not]]></wf>
+    <wf id="64" sent="1" para="1" offset="287" length="3"><![CDATA[out]]></wf>
+    <wf id="65" sent="1" para="1" offset="290" length="1"><![CDATA[)]]></wf>
+    <wf id="66" sent="1" para="1" offset="291" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="CRICKET">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="-">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="SHEFFIELD">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="SHIELD">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="SCORE">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma=".">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="HOBART">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma=",">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="Australia">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="1996-12-07">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="Close">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="of">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="play">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="score">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="on">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="the">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="second">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="day">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="of">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="the">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="four-day">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="Sheffield">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="Shield">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="cricket">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="match">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="between">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="Tasmania">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="and">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="Victoria">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="at">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="Bellerive">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="Oval">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="on">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="Saturday">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma=":">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="Tasmania">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="481">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="for">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="eight">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="declared">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="(">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="Michael">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="DiVenuto">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="119">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma=",">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="David">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="Boon">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="118">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma=",">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="Shaun">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="Young">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="113">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma=")">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma=";">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="Victoria">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="220">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="for">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="three">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="(">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="Dean">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="Jones">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="130">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="not">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="out">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma=")">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma=".">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="5210">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Sheffield_Shield" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="3"/>
+          <target id="4"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5211">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Hobart" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="7"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5212">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Australia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5213">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Sheffield_Shield" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="22"/>
+          <target id="23"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5214">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Tasmanian_Tigers" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="27"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5215">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Victorian_Bushrangers" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="29"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5216">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Bellerive_Oval" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="31"/>
+          <target id="32"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5217">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Tasmanian_Tigers" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="36"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5218">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Michael_Di_Venuto" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="42"/>
+          <target id="43"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5219">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/David_Boon" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="46"/>
+          <target id="47"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5220">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Shaun_Young" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="50"/>
+          <target id="51"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5221">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Victorian_Bushrangers" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="55"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5222">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dean_Jones_(cricketer)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="60"/>
+          <target id="61"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

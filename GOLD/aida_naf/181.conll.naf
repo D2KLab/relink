@@ -1,0 +1,1414 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[Ahold launches Asian food discount stores . ZAANDAM , Netherlands 1996-12-06 Dutch supermarkets group Ahold NV said on Friday it had launched a second food store format for Asian consumers today , opening 16 BILO food discount stores in Malaysia . The BILO stores are located in Malysia 's capital Kuala Lumpur and in the country 's second city Johor Bahru . The discount price format store BILO is to complement Ahold 's full service supermarket TOPS , recently launched in Asia . " In the coming five to ten years , Ahold plans to open many more stores of both formats , making TOPS and BILO household names in the region , " Ahold said in a statement . As well as its activities in Asia , Dutch retail group Ahold has a strong presence in Europe , in the U.S. and the company recently announced a joint venture agreement in Brazil . Ahold has annualised sales of approximately US$ 24 billion , and employs 180,000 people worldwide . -- Amsterdam newsroom +31 20 504 5000 , Fax +31 20 504 504 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1343testb" filename="1343testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="5"><![CDATA[Ahold]]></wf>
+    <wf id="2" sent="1" para="1" offset="5" length="8"><![CDATA[launches]]></wf>
+    <wf id="3" sent="1" para="1" offset="13" length="5"><![CDATA[Asian]]></wf>
+    <wf id="4" sent="1" para="1" offset="18" length="4"><![CDATA[food]]></wf>
+    <wf id="5" sent="1" para="1" offset="22" length="8"><![CDATA[discount]]></wf>
+    <wf id="6" sent="1" para="1" offset="30" length="6"><![CDATA[stores]]></wf>
+    <wf id="7" sent="1" para="1" offset="36" length="1"><![CDATA[.]]></wf>
+    <wf id="8" sent="1" para="1" offset="37" length="7"><![CDATA[ZAANDAM]]></wf>
+    <wf id="9" sent="1" para="1" offset="44" length="1"><![CDATA[,]]></wf>
+    <wf id="10" sent="1" para="1" offset="45" length="11"><![CDATA[Netherlands]]></wf>
+    <wf id="11" sent="1" para="1" offset="56" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="12" sent="1" para="1" offset="66" length="5"><![CDATA[Dutch]]></wf>
+    <wf id="13" sent="1" para="1" offset="71" length="12"><![CDATA[supermarkets]]></wf>
+    <wf id="14" sent="1" para="1" offset="83" length="5"><![CDATA[group]]></wf>
+    <wf id="15" sent="1" para="1" offset="88" length="5"><![CDATA[Ahold]]></wf>
+    <wf id="16" sent="1" para="1" offset="93" length="2"><![CDATA[NV]]></wf>
+    <wf id="17" sent="1" para="1" offset="95" length="4"><![CDATA[said]]></wf>
+    <wf id="18" sent="1" para="1" offset="99" length="2"><![CDATA[on]]></wf>
+    <wf id="19" sent="1" para="1" offset="101" length="6"><![CDATA[Friday]]></wf>
+    <wf id="20" sent="1" para="1" offset="107" length="2"><![CDATA[it]]></wf>
+    <wf id="21" sent="1" para="1" offset="109" length="3"><![CDATA[had]]></wf>
+    <wf id="22" sent="1" para="1" offset="112" length="8"><![CDATA[launched]]></wf>
+    <wf id="23" sent="1" para="1" offset="120" length="1"><![CDATA[a]]></wf>
+    <wf id="24" sent="1" para="1" offset="121" length="6"><![CDATA[second]]></wf>
+    <wf id="25" sent="1" para="1" offset="127" length="4"><![CDATA[food]]></wf>
+    <wf id="26" sent="1" para="1" offset="131" length="5"><![CDATA[store]]></wf>
+    <wf id="27" sent="1" para="1" offset="136" length="6"><![CDATA[format]]></wf>
+    <wf id="28" sent="1" para="1" offset="142" length="3"><![CDATA[for]]></wf>
+    <wf id="29" sent="1" para="1" offset="145" length="5"><![CDATA[Asian]]></wf>
+    <wf id="30" sent="1" para="1" offset="150" length="9"><![CDATA[consumers]]></wf>
+    <wf id="31" sent="1" para="1" offset="159" length="5"><![CDATA[today]]></wf>
+    <wf id="32" sent="1" para="1" offset="164" length="1"><![CDATA[,]]></wf>
+    <wf id="33" sent="1" para="1" offset="165" length="7"><![CDATA[opening]]></wf>
+    <wf id="34" sent="1" para="1" offset="172" length="2"><![CDATA[16]]></wf>
+    <wf id="35" sent="1" para="1" offset="174" length="4"><![CDATA[BILO]]></wf>
+    <wf id="36" sent="1" para="1" offset="178" length="4"><![CDATA[food]]></wf>
+    <wf id="37" sent="1" para="1" offset="182" length="8"><![CDATA[discount]]></wf>
+    <wf id="38" sent="1" para="1" offset="190" length="6"><![CDATA[stores]]></wf>
+    <wf id="39" sent="1" para="1" offset="196" length="2"><![CDATA[in]]></wf>
+    <wf id="40" sent="1" para="1" offset="198" length="8"><![CDATA[Malaysia]]></wf>
+    <wf id="41" sent="1" para="1" offset="206" length="1"><![CDATA[.]]></wf>
+    <wf id="42" sent="1" para="1" offset="207" length="3"><![CDATA[The]]></wf>
+    <wf id="43" sent="1" para="1" offset="210" length="4"><![CDATA[BILO]]></wf>
+    <wf id="44" sent="1" para="1" offset="214" length="6"><![CDATA[stores]]></wf>
+    <wf id="45" sent="1" para="1" offset="220" length="3"><![CDATA[are]]></wf>
+    <wf id="46" sent="1" para="1" offset="223" length="7"><![CDATA[located]]></wf>
+    <wf id="47" sent="1" para="1" offset="230" length="2"><![CDATA[in]]></wf>
+    <wf id="48" sent="1" para="1" offset="232" length="7"><![CDATA[Malysia]]></wf>
+    <wf id="49" sent="1" para="1" offset="239" length="2"><![CDATA['s]]></wf>
+    <wf id="50" sent="1" para="1" offset="241" length="7"><![CDATA[capital]]></wf>
+    <wf id="51" sent="1" para="1" offset="248" length="5"><![CDATA[Kuala]]></wf>
+    <wf id="52" sent="1" para="1" offset="253" length="6"><![CDATA[Lumpur]]></wf>
+    <wf id="53" sent="1" para="1" offset="259" length="3"><![CDATA[and]]></wf>
+    <wf id="54" sent="1" para="1" offset="262" length="2"><![CDATA[in]]></wf>
+    <wf id="55" sent="1" para="1" offset="264" length="3"><![CDATA[the]]></wf>
+    <wf id="56" sent="1" para="1" offset="267" length="7"><![CDATA[country]]></wf>
+    <wf id="57" sent="1" para="1" offset="274" length="2"><![CDATA['s]]></wf>
+    <wf id="58" sent="1" para="1" offset="276" length="6"><![CDATA[second]]></wf>
+    <wf id="59" sent="1" para="1" offset="282" length="4"><![CDATA[city]]></wf>
+    <wf id="60" sent="1" para="1" offset="286" length="5"><![CDATA[Johor]]></wf>
+    <wf id="61" sent="1" para="1" offset="291" length="5"><![CDATA[Bahru]]></wf>
+    <wf id="62" sent="1" para="1" offset="296" length="1"><![CDATA[.]]></wf>
+    <wf id="63" sent="1" para="1" offset="297" length="3"><![CDATA[The]]></wf>
+    <wf id="64" sent="1" para="1" offset="300" length="8"><![CDATA[discount]]></wf>
+    <wf id="65" sent="1" para="1" offset="308" length="5"><![CDATA[price]]></wf>
+    <wf id="66" sent="1" para="1" offset="313" length="6"><![CDATA[format]]></wf>
+    <wf id="67" sent="1" para="1" offset="319" length="5"><![CDATA[store]]></wf>
+    <wf id="68" sent="1" para="1" offset="324" length="4"><![CDATA[BILO]]></wf>
+    <wf id="69" sent="1" para="1" offset="328" length="2"><![CDATA[is]]></wf>
+    <wf id="70" sent="1" para="1" offset="330" length="2"><![CDATA[to]]></wf>
+    <wf id="71" sent="1" para="1" offset="332" length="10"><![CDATA[complement]]></wf>
+    <wf id="72" sent="1" para="1" offset="342" length="5"><![CDATA[Ahold]]></wf>
+    <wf id="73" sent="1" para="1" offset="347" length="2"><![CDATA['s]]></wf>
+    <wf id="74" sent="1" para="1" offset="349" length="4"><![CDATA[full]]></wf>
+    <wf id="75" sent="1" para="1" offset="353" length="7"><![CDATA[service]]></wf>
+    <wf id="76" sent="1" para="1" offset="360" length="11"><![CDATA[supermarket]]></wf>
+    <wf id="77" sent="1" para="1" offset="371" length="4"><![CDATA[TOPS]]></wf>
+    <wf id="78" sent="1" para="1" offset="375" length="1"><![CDATA[,]]></wf>
+    <wf id="79" sent="1" para="1" offset="376" length="8"><![CDATA[recently]]></wf>
+    <wf id="80" sent="1" para="1" offset="384" length="8"><![CDATA[launched]]></wf>
+    <wf id="81" sent="1" para="1" offset="392" length="2"><![CDATA[in]]></wf>
+    <wf id="82" sent="1" para="1" offset="394" length="4"><![CDATA[Asia]]></wf>
+    <wf id="83" sent="1" para="1" offset="398" length="1"><![CDATA[.]]></wf>
+    <wf id="84" sent="1" para="1" offset="399" length="1"><![CDATA["]]></wf>
+    <wf id="85" sent="1" para="1" offset="400" length="2"><![CDATA[In]]></wf>
+    <wf id="86" sent="1" para="1" offset="402" length="3"><![CDATA[the]]></wf>
+    <wf id="87" sent="1" para="1" offset="405" length="6"><![CDATA[coming]]></wf>
+    <wf id="88" sent="1" para="1" offset="411" length="4"><![CDATA[five]]></wf>
+    <wf id="89" sent="1" para="1" offset="415" length="2"><![CDATA[to]]></wf>
+    <wf id="90" sent="1" para="1" offset="417" length="3"><![CDATA[ten]]></wf>
+    <wf id="91" sent="1" para="1" offset="420" length="5"><![CDATA[years]]></wf>
+    <wf id="92" sent="1" para="1" offset="425" length="1"><![CDATA[,]]></wf>
+    <wf id="93" sent="1" para="1" offset="426" length="5"><![CDATA[Ahold]]></wf>
+    <wf id="94" sent="1" para="1" offset="431" length="5"><![CDATA[plans]]></wf>
+    <wf id="95" sent="1" para="1" offset="436" length="2"><![CDATA[to]]></wf>
+    <wf id="96" sent="1" para="1" offset="438" length="4"><![CDATA[open]]></wf>
+    <wf id="97" sent="1" para="1" offset="442" length="4"><![CDATA[many]]></wf>
+    <wf id="98" sent="1" para="1" offset="446" length="4"><![CDATA[more]]></wf>
+    <wf id="99" sent="1" para="1" offset="450" length="6"><![CDATA[stores]]></wf>
+    <wf id="100" sent="1" para="1" offset="456" length="2"><![CDATA[of]]></wf>
+    <wf id="101" sent="1" para="1" offset="458" length="4"><![CDATA[both]]></wf>
+    <wf id="102" sent="1" para="1" offset="462" length="7"><![CDATA[formats]]></wf>
+    <wf id="103" sent="1" para="1" offset="469" length="1"><![CDATA[,]]></wf>
+    <wf id="104" sent="1" para="1" offset="470" length="6"><![CDATA[making]]></wf>
+    <wf id="105" sent="1" para="1" offset="476" length="4"><![CDATA[TOPS]]></wf>
+    <wf id="106" sent="1" para="1" offset="480" length="3"><![CDATA[and]]></wf>
+    <wf id="107" sent="1" para="1" offset="483" length="4"><![CDATA[BILO]]></wf>
+    <wf id="108" sent="1" para="1" offset="487" length="9"><![CDATA[household]]></wf>
+    <wf id="109" sent="1" para="1" offset="496" length="5"><![CDATA[names]]></wf>
+    <wf id="110" sent="1" para="1" offset="501" length="2"><![CDATA[in]]></wf>
+    <wf id="111" sent="1" para="1" offset="503" length="3"><![CDATA[the]]></wf>
+    <wf id="112" sent="1" para="1" offset="506" length="6"><![CDATA[region]]></wf>
+    <wf id="113" sent="1" para="1" offset="512" length="1"><![CDATA[,]]></wf>
+    <wf id="114" sent="1" para="1" offset="513" length="1"><![CDATA["]]></wf>
+    <wf id="115" sent="1" para="1" offset="514" length="5"><![CDATA[Ahold]]></wf>
+    <wf id="116" sent="1" para="1" offset="519" length="4"><![CDATA[said]]></wf>
+    <wf id="117" sent="1" para="1" offset="523" length="2"><![CDATA[in]]></wf>
+    <wf id="118" sent="1" para="1" offset="525" length="1"><![CDATA[a]]></wf>
+    <wf id="119" sent="1" para="1" offset="526" length="9"><![CDATA[statement]]></wf>
+    <wf id="120" sent="1" para="1" offset="535" length="1"><![CDATA[.]]></wf>
+    <wf id="121" sent="1" para="1" offset="536" length="2"><![CDATA[As]]></wf>
+    <wf id="122" sent="1" para="1" offset="538" length="4"><![CDATA[well]]></wf>
+    <wf id="123" sent="1" para="1" offset="542" length="2"><![CDATA[as]]></wf>
+    <wf id="124" sent="1" para="1" offset="544" length="3"><![CDATA[its]]></wf>
+    <wf id="125" sent="1" para="1" offset="547" length="10"><![CDATA[activities]]></wf>
+    <wf id="126" sent="1" para="1" offset="557" length="2"><![CDATA[in]]></wf>
+    <wf id="127" sent="1" para="1" offset="559" length="4"><![CDATA[Asia]]></wf>
+    <wf id="128" sent="1" para="1" offset="563" length="1"><![CDATA[,]]></wf>
+    <wf id="129" sent="1" para="1" offset="564" length="5"><![CDATA[Dutch]]></wf>
+    <wf id="130" sent="1" para="1" offset="569" length="6"><![CDATA[retail]]></wf>
+    <wf id="131" sent="1" para="1" offset="575" length="5"><![CDATA[group]]></wf>
+    <wf id="132" sent="1" para="1" offset="580" length="5"><![CDATA[Ahold]]></wf>
+    <wf id="133" sent="1" para="1" offset="585" length="3"><![CDATA[has]]></wf>
+    <wf id="134" sent="1" para="1" offset="588" length="1"><![CDATA[a]]></wf>
+    <wf id="135" sent="1" para="1" offset="589" length="6"><![CDATA[strong]]></wf>
+    <wf id="136" sent="1" para="1" offset="595" length="8"><![CDATA[presence]]></wf>
+    <wf id="137" sent="1" para="1" offset="603" length="2"><![CDATA[in]]></wf>
+    <wf id="138" sent="1" para="1" offset="605" length="6"><![CDATA[Europe]]></wf>
+    <wf id="139" sent="1" para="1" offset="611" length="1"><![CDATA[,]]></wf>
+    <wf id="140" sent="1" para="1" offset="612" length="2"><![CDATA[in]]></wf>
+    <wf id="141" sent="1" para="1" offset="614" length="3"><![CDATA[the]]></wf>
+    <wf id="142" sent="1" para="1" offset="617" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="143" sent="1" para="1" offset="621" length="3"><![CDATA[and]]></wf>
+    <wf id="144" sent="1" para="1" offset="624" length="3"><![CDATA[the]]></wf>
+    <wf id="145" sent="1" para="1" offset="627" length="7"><![CDATA[company]]></wf>
+    <wf id="146" sent="1" para="1" offset="634" length="8"><![CDATA[recently]]></wf>
+    <wf id="147" sent="1" para="1" offset="642" length="9"><![CDATA[announced]]></wf>
+    <wf id="148" sent="1" para="1" offset="651" length="1"><![CDATA[a]]></wf>
+    <wf id="149" sent="1" para="1" offset="652" length="5"><![CDATA[joint]]></wf>
+    <wf id="150" sent="1" para="1" offset="657" length="7"><![CDATA[venture]]></wf>
+    <wf id="151" sent="1" para="1" offset="664" length="9"><![CDATA[agreement]]></wf>
+    <wf id="152" sent="1" para="1" offset="673" length="2"><![CDATA[in]]></wf>
+    <wf id="153" sent="1" para="1" offset="675" length="6"><![CDATA[Brazil]]></wf>
+    <wf id="154" sent="1" para="1" offset="681" length="1"><![CDATA[.]]></wf>
+    <wf id="155" sent="1" para="1" offset="682" length="5"><![CDATA[Ahold]]></wf>
+    <wf id="156" sent="1" para="1" offset="687" length="3"><![CDATA[has]]></wf>
+    <wf id="157" sent="1" para="1" offset="690" length="10"><![CDATA[annualised]]></wf>
+    <wf id="158" sent="1" para="1" offset="700" length="5"><![CDATA[sales]]></wf>
+    <wf id="159" sent="1" para="1" offset="705" length="2"><![CDATA[of]]></wf>
+    <wf id="160" sent="1" para="1" offset="707" length="13"><![CDATA[approximately]]></wf>
+    <wf id="161" sent="1" para="1" offset="720" length="3"><![CDATA[US$]]></wf>
+    <wf id="162" sent="1" para="1" offset="723" length="2"><![CDATA[24]]></wf>
+    <wf id="163" sent="1" para="1" offset="725" length="7"><![CDATA[billion]]></wf>
+    <wf id="164" sent="1" para="1" offset="732" length="1"><![CDATA[,]]></wf>
+    <wf id="165" sent="1" para="1" offset="733" length="3"><![CDATA[and]]></wf>
+    <wf id="166" sent="1" para="1" offset="736" length="7"><![CDATA[employs]]></wf>
+    <wf id="167" sent="1" para="1" offset="743" length="7"><![CDATA[180,000]]></wf>
+    <wf id="168" sent="1" para="1" offset="750" length="6"><![CDATA[people]]></wf>
+    <wf id="169" sent="1" para="1" offset="756" length="9"><![CDATA[worldwide]]></wf>
+    <wf id="170" sent="1" para="1" offset="765" length="1"><![CDATA[.]]></wf>
+    <wf id="171" sent="1" para="1" offset="766" length="2"><![CDATA[--]]></wf>
+    <wf id="172" sent="1" para="1" offset="768" length="9"><![CDATA[Amsterdam]]></wf>
+    <wf id="173" sent="1" para="1" offset="777" length="8"><![CDATA[newsroom]]></wf>
+    <wf id="174" sent="1" para="1" offset="785" length="3"><![CDATA[+31]]></wf>
+    <wf id="175" sent="1" para="1" offset="788" length="2"><![CDATA[20]]></wf>
+    <wf id="176" sent="1" para="1" offset="790" length="3"><![CDATA[504]]></wf>
+    <wf id="177" sent="1" para="1" offset="793" length="4"><![CDATA[5000]]></wf>
+    <wf id="178" sent="1" para="1" offset="797" length="1"><![CDATA[,]]></wf>
+    <wf id="179" sent="1" para="1" offset="798" length="3"><![CDATA[Fax]]></wf>
+    <wf id="180" sent="1" para="1" offset="801" length="3"><![CDATA[+31]]></wf>
+    <wf id="181" sent="1" para="1" offset="804" length="2"><![CDATA[20]]></wf>
+    <wf id="182" sent="1" para="1" offset="806" length="3"><![CDATA[504]]></wf>
+    <wf id="183" sent="1" para="1" offset="809" length="3"><![CDATA[504]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="Ahold">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="launches">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="Asian">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="food">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="discount">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="stores">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma=".">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="ZAANDAM">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma=",">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="Netherlands">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="1996-12-06">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="Dutch">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="supermarkets">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="group">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="Ahold">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="NV">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="said">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="on">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="Friday">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="it">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="had">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="launched">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="a">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="second">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="food">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="store">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="format">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="for">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="Asian">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="consumers">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="today">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma=",">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="opening">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="16">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="BILO">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="food">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="discount">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="stores">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="in">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="Malaysia">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma=".">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="The">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="BILO">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="stores">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="are">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="located">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="in">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="Malysia">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="'s">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="capital">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="Kuala">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="Lumpur">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="and">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="in">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="the">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="country">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="'s">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="second">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="city">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="Johor">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="Bahru">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma=".">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="The">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="discount">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="price">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="format">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="store">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="BILO">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="is">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="to">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="complement">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="Ahold">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="'s">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="full">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="service">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="supermarket">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="TOPS">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma=",">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="recently">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="launched">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="in">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="Asia">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma=".">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="&quot;">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="In">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="the">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="coming">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="five">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="to">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="ten">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="years">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma=",">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="Ahold">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="plans">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="to">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="open">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="many">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="more">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="stores">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="of">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="both">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="formats">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma=",">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="making">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="TOPS">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="and">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="BILO">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="household">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="names">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="in">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="the">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="region">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma=",">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="&quot;">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="Ahold">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="said">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="in">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="a">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="statement">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma=".">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="As">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="well">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="as">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="its">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="activities">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="in">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="Asia">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma=",">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="Dutch">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="retail">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="group">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="Ahold">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="has">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="a">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="strong">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="presence">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="in">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="Europe">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma=",">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="in">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="the">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="U.S.">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="and">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="the">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="company">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="recently">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="announced">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="a">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="joint">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="venture">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="agreement">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="in">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma="Brazil">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma=".">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="Ahold">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="has">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="annualised">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="sales">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="of">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="approximately">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="US$">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="24">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="billion">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma=",">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="and">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="employs">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="180,000">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="people">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="worldwide">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma=".">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="--">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma="Amsterdam">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="newsroom">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="+31">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma="20">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="504">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma="5000">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma=",">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="Fax">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="+31">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="20">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="504">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="504">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="3881">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ahold" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3882">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Asia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="3"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3883">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Zaandam" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="8"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3884">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Netherlands" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="10"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3885">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Netherlands" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3886">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="15"/>
+          <target id="16"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3887">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Asia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="29"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3888">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="35"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3889">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Malaysia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="40"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3890">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="43"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3891">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="48"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3892">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Kuala_Lumpur" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="51"/>
+          <target id="52"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3893">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Johor_Bahru" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="60"/>
+          <target id="61"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3894">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="68"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3895">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ahold" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="72"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3896">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Tops_Markets_LLC" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="77"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3897">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Asia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="82"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3898">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ahold" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="93"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3899">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Tops_Markets_LLC" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="105"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3900">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="107"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3901">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ahold" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="115"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3902">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Asia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="127"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3903">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Netherlands" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="129"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3904">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ahold" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="132"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3905">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Europe" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="138"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3906">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="142"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3907">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Brazil" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="153"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3908">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ahold" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="155"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3909">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_States_dollar" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="161"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3910">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Amsterdam" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="172"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

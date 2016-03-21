@@ -1,0 +1,857 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[SOCCER - GERMAN FIRST DIVISION SUMMARIES . BONN 1996-12-06 Summaries of matches played in the German first division on Friday : Bochum 2 ( Stickroth 30th pen , Wosz 89th ) Bayer Leverkusen 2 ( Kirsten 18th , Ramelow 56th ) . Halftime 1-1 . Attendance : 24,602 Werder Bremen 1 ( Bode 85th ) 1860 Munich 1 ( Bormirow 8th ) . Halftime 0-1 . Attendance 33,000 Karlsruhe 3 ( Reich 29th , Carl 44th , Dundee 69th ) Freiburg 0 . Halftime 2-0 . Attendance 33,000 Schalke 2 ( Mulder 2nd and 27th ) Hansa Rostock 0 . Halftime 2-0 . Attendance 29,300 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1199testb" filename="1199testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="6"><![CDATA[SOCCER]]></wf>
+    <wf id="1" sent="1" para="1" offset="6" length="1"><![CDATA[-]]></wf>
+    <wf id="2" sent="1" para="1" offset="7" length="6"><![CDATA[GERMAN]]></wf>
+    <wf id="3" sent="1" para="1" offset="13" length="5"><![CDATA[FIRST]]></wf>
+    <wf id="4" sent="1" para="1" offset="18" length="8"><![CDATA[DIVISION]]></wf>
+    <wf id="5" sent="1" para="1" offset="26" length="9"><![CDATA[SUMMARIES]]></wf>
+    <wf id="6" sent="1" para="1" offset="35" length="1"><![CDATA[.]]></wf>
+    <wf id="7" sent="1" para="1" offset="36" length="4"><![CDATA[BONN]]></wf>
+    <wf id="8" sent="1" para="1" offset="40" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="9" sent="1" para="1" offset="50" length="9"><![CDATA[Summaries]]></wf>
+    <wf id="10" sent="1" para="1" offset="59" length="2"><![CDATA[of]]></wf>
+    <wf id="11" sent="1" para="1" offset="61" length="7"><![CDATA[matches]]></wf>
+    <wf id="12" sent="1" para="1" offset="68" length="6"><![CDATA[played]]></wf>
+    <wf id="13" sent="1" para="1" offset="74" length="2"><![CDATA[in]]></wf>
+    <wf id="14" sent="1" para="1" offset="76" length="3"><![CDATA[the]]></wf>
+    <wf id="15" sent="1" para="1" offset="79" length="6"><![CDATA[German]]></wf>
+    <wf id="16" sent="1" para="1" offset="85" length="5"><![CDATA[first]]></wf>
+    <wf id="17" sent="1" para="1" offset="90" length="8"><![CDATA[division]]></wf>
+    <wf id="18" sent="1" para="1" offset="98" length="2"><![CDATA[on]]></wf>
+    <wf id="19" sent="1" para="1" offset="100" length="6"><![CDATA[Friday]]></wf>
+    <wf id="20" sent="1" para="1" offset="106" length="1"><![CDATA[:]]></wf>
+    <wf id="21" sent="1" para="1" offset="107" length="6"><![CDATA[Bochum]]></wf>
+    <wf id="22" sent="1" para="1" offset="113" length="1"><![CDATA[2]]></wf>
+    <wf id="23" sent="1" para="1" offset="114" length="1"><![CDATA[(]]></wf>
+    <wf id="24" sent="1" para="1" offset="115" length="9"><![CDATA[Stickroth]]></wf>
+    <wf id="25" sent="1" para="1" offset="124" length="4"><![CDATA[30th]]></wf>
+    <wf id="26" sent="1" para="1" offset="128" length="3"><![CDATA[pen]]></wf>
+    <wf id="27" sent="1" para="1" offset="131" length="1"><![CDATA[,]]></wf>
+    <wf id="28" sent="1" para="1" offset="132" length="4"><![CDATA[Wosz]]></wf>
+    <wf id="29" sent="1" para="1" offset="136" length="4"><![CDATA[89th]]></wf>
+    <wf id="30" sent="1" para="1" offset="140" length="1"><![CDATA[)]]></wf>
+    <wf id="31" sent="1" para="1" offset="141" length="5"><![CDATA[Bayer]]></wf>
+    <wf id="32" sent="1" para="1" offset="146" length="10"><![CDATA[Leverkusen]]></wf>
+    <wf id="33" sent="1" para="1" offset="156" length="1"><![CDATA[2]]></wf>
+    <wf id="34" sent="1" para="1" offset="157" length="1"><![CDATA[(]]></wf>
+    <wf id="35" sent="1" para="1" offset="158" length="7"><![CDATA[Kirsten]]></wf>
+    <wf id="36" sent="1" para="1" offset="165" length="4"><![CDATA[18th]]></wf>
+    <wf id="37" sent="1" para="1" offset="169" length="1"><![CDATA[,]]></wf>
+    <wf id="38" sent="1" para="1" offset="170" length="7"><![CDATA[Ramelow]]></wf>
+    <wf id="39" sent="1" para="1" offset="177" length="4"><![CDATA[56th]]></wf>
+    <wf id="40" sent="1" para="1" offset="181" length="1"><![CDATA[)]]></wf>
+    <wf id="41" sent="1" para="1" offset="182" length="1"><![CDATA[.]]></wf>
+    <wf id="42" sent="1" para="1" offset="183" length="8"><![CDATA[Halftime]]></wf>
+    <wf id="43" sent="1" para="1" offset="191" length="3"><![CDATA[1-1]]></wf>
+    <wf id="44" sent="1" para="1" offset="194" length="1"><![CDATA[.]]></wf>
+    <wf id="45" sent="1" para="1" offset="195" length="10"><![CDATA[Attendance]]></wf>
+    <wf id="46" sent="1" para="1" offset="205" length="1"><![CDATA[:]]></wf>
+    <wf id="47" sent="1" para="1" offset="206" length="6"><![CDATA[24,602]]></wf>
+    <wf id="48" sent="1" para="1" offset="212" length="6"><![CDATA[Werder]]></wf>
+    <wf id="49" sent="1" para="1" offset="218" length="6"><![CDATA[Bremen]]></wf>
+    <wf id="50" sent="1" para="1" offset="224" length="1"><![CDATA[1]]></wf>
+    <wf id="51" sent="1" para="1" offset="225" length="1"><![CDATA[(]]></wf>
+    <wf id="52" sent="1" para="1" offset="226" length="4"><![CDATA[Bode]]></wf>
+    <wf id="53" sent="1" para="1" offset="230" length="4"><![CDATA[85th]]></wf>
+    <wf id="54" sent="1" para="1" offset="234" length="1"><![CDATA[)]]></wf>
+    <wf id="55" sent="1" para="1" offset="235" length="4"><![CDATA[1860]]></wf>
+    <wf id="56" sent="1" para="1" offset="239" length="6"><![CDATA[Munich]]></wf>
+    <wf id="57" sent="1" para="1" offset="245" length="1"><![CDATA[1]]></wf>
+    <wf id="58" sent="1" para="1" offset="246" length="1"><![CDATA[(]]></wf>
+    <wf id="59" sent="1" para="1" offset="247" length="8"><![CDATA[Bormirow]]></wf>
+    <wf id="60" sent="1" para="1" offset="255" length="3"><![CDATA[8th]]></wf>
+    <wf id="61" sent="1" para="1" offset="258" length="1"><![CDATA[)]]></wf>
+    <wf id="62" sent="1" para="1" offset="259" length="1"><![CDATA[.]]></wf>
+    <wf id="63" sent="1" para="1" offset="260" length="8"><![CDATA[Halftime]]></wf>
+    <wf id="64" sent="1" para="1" offset="268" length="3"><![CDATA[0-1]]></wf>
+    <wf id="65" sent="1" para="1" offset="271" length="1"><![CDATA[.]]></wf>
+    <wf id="66" sent="1" para="1" offset="272" length="10"><![CDATA[Attendance]]></wf>
+    <wf id="67" sent="1" para="1" offset="282" length="6"><![CDATA[33,000]]></wf>
+    <wf id="68" sent="1" para="1" offset="288" length="9"><![CDATA[Karlsruhe]]></wf>
+    <wf id="69" sent="1" para="1" offset="297" length="1"><![CDATA[3]]></wf>
+    <wf id="70" sent="1" para="1" offset="298" length="1"><![CDATA[(]]></wf>
+    <wf id="71" sent="1" para="1" offset="299" length="5"><![CDATA[Reich]]></wf>
+    <wf id="72" sent="1" para="1" offset="304" length="4"><![CDATA[29th]]></wf>
+    <wf id="73" sent="1" para="1" offset="308" length="1"><![CDATA[,]]></wf>
+    <wf id="74" sent="1" para="1" offset="309" length="4"><![CDATA[Carl]]></wf>
+    <wf id="75" sent="1" para="1" offset="313" length="4"><![CDATA[44th]]></wf>
+    <wf id="76" sent="1" para="1" offset="317" length="1"><![CDATA[,]]></wf>
+    <wf id="77" sent="1" para="1" offset="318" length="6"><![CDATA[Dundee]]></wf>
+    <wf id="78" sent="1" para="1" offset="324" length="4"><![CDATA[69th]]></wf>
+    <wf id="79" sent="1" para="1" offset="328" length="1"><![CDATA[)]]></wf>
+    <wf id="80" sent="1" para="1" offset="329" length="8"><![CDATA[Freiburg]]></wf>
+    <wf id="81" sent="1" para="1" offset="337" length="1"><![CDATA[0]]></wf>
+    <wf id="82" sent="1" para="1" offset="338" length="1"><![CDATA[.]]></wf>
+    <wf id="83" sent="1" para="1" offset="339" length="8"><![CDATA[Halftime]]></wf>
+    <wf id="84" sent="1" para="1" offset="347" length="3"><![CDATA[2-0]]></wf>
+    <wf id="85" sent="1" para="1" offset="350" length="1"><![CDATA[.]]></wf>
+    <wf id="86" sent="1" para="1" offset="351" length="10"><![CDATA[Attendance]]></wf>
+    <wf id="87" sent="1" para="1" offset="361" length="6"><![CDATA[33,000]]></wf>
+    <wf id="88" sent="1" para="1" offset="367" length="7"><![CDATA[Schalke]]></wf>
+    <wf id="89" sent="1" para="1" offset="374" length="1"><![CDATA[2]]></wf>
+    <wf id="90" sent="1" para="1" offset="375" length="1"><![CDATA[(]]></wf>
+    <wf id="91" sent="1" para="1" offset="376" length="6"><![CDATA[Mulder]]></wf>
+    <wf id="92" sent="1" para="1" offset="382" length="3"><![CDATA[2nd]]></wf>
+    <wf id="93" sent="1" para="1" offset="385" length="3"><![CDATA[and]]></wf>
+    <wf id="94" sent="1" para="1" offset="388" length="4"><![CDATA[27th]]></wf>
+    <wf id="95" sent="1" para="1" offset="392" length="1"><![CDATA[)]]></wf>
+    <wf id="96" sent="1" para="1" offset="393" length="5"><![CDATA[Hansa]]></wf>
+    <wf id="97" sent="1" para="1" offset="398" length="7"><![CDATA[Rostock]]></wf>
+    <wf id="98" sent="1" para="1" offset="405" length="1"><![CDATA[0]]></wf>
+    <wf id="99" sent="1" para="1" offset="406" length="1"><![CDATA[.]]></wf>
+    <wf id="100" sent="1" para="1" offset="407" length="8"><![CDATA[Halftime]]></wf>
+    <wf id="101" sent="1" para="1" offset="415" length="3"><![CDATA[2-0]]></wf>
+    <wf id="102" sent="1" para="1" offset="418" length="1"><![CDATA[.]]></wf>
+    <wf id="103" sent="1" para="1" offset="419" length="10"><![CDATA[Attendance]]></wf>
+    <wf id="104" sent="1" para="1" offset="429" length="6"><![CDATA[29,300]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="SOCCER">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="-">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="GERMAN">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="FIRST">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="DIVISION">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="SUMMARIES">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma=".">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="BONN">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="1996-12-06">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="Summaries">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="of">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="matches">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="played">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="in">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="the">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="German">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="first">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="division">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="on">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="Friday">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma=":">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="Bochum">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="2">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="(">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="Stickroth">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="30th">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="pen">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma=",">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="Wosz">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="89th">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma=")">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="Bayer">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="Leverkusen">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="2">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="(">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="Kirsten">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="18th">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma=",">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="Ramelow">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="56th">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma=")">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma=".">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="Halftime">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="1-1">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma=".">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="Attendance">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma=":">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="24,602">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="Werder">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="Bremen">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="1">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="(">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="Bode">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="85th">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma=")">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="1860">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="Munich">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="1">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="(">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="Bormirow">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="8th">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma=")">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma=".">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="Halftime">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="0-1">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma=".">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="Attendance">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="33,000">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="Karlsruhe">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="3">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="(">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="Reich">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="29th">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma=",">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="Carl">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="44th">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma=",">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="Dundee">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="69th">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma=")">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="Freiburg">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="0">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma=".">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="Halftime">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="2-0">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma=".">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="Attendance">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="33,000">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="Schalke">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="2">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="(">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="Mulder">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="2nd">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="and">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="27th">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma=")">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="Hansa">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="Rostock">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="0">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma=".">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="Halftime">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="2-0">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma=".">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="Attendance">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="29,300">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="1162">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="2"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1163">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Bonn" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="7"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1164">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="15"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1165">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/VfL_Bochum" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="21"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1166">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Thomas_Stickroth" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="24"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1167">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dariusz_Wosz" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="28"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1168">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Bayer_04_Leverkusen" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="31"/>
+          <target id="32"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1169">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ulf_Kirsten" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="35"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1170">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Carsten_Ramelow" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="38"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1171">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/SV_Werder_Bremen" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="48"/>
+          <target id="49"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1172">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Marco_Bode" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="52"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1173">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="55"/>
+          <target id="56"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1174">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="59"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1175">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Karlsruher_SC" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="68"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1176">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Burkhard_Reich" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="71"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1177">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Eberhard_Carl" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="74"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1178">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Sean_Dundee" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="77"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1179">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/SC_Freiburg" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="80"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1180">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/FC_Schalke_04" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="88"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1181">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Youri_Mulder" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="91"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1182">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/F.C._Hansa_Rostock" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="96"/>
+          <target id="97"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

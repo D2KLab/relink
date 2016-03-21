@@ -1,0 +1,953 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[Munich Re says to split stock . MUNICH , Germany 1996-12-06 Muenchener Rueckversicherungs AG , the world 's largest reinsurer , said on Friday it expected to switch its shares to a lower par value by September 1997 at the earliest . The group , known as Munich Re , plans to seek approval for the move at its shareholders ' meeting today . The company said the switch would probably become effective in September . The planned 10-for-one stock split would reduce the par value of Munich Re 's shares to five marks from 50 , causing their price to drop to around one tenth of the present value . Munich Re 's registered shares , part of the blue-chip DAX index , were trading at 3,710 marks on Friday . -- Frankfurt Newsroom , +49 69 756525 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1321testb" filename="1321testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="6"><![CDATA[Munich]]></wf>
+    <wf id="1" sent="1" para="1" offset="6" length="2"><![CDATA[Re]]></wf>
+    <wf id="2" sent="1" para="1" offset="8" length="4"><![CDATA[says]]></wf>
+    <wf id="3" sent="1" para="1" offset="12" length="2"><![CDATA[to]]></wf>
+    <wf id="4" sent="1" para="1" offset="14" length="5"><![CDATA[split]]></wf>
+    <wf id="5" sent="1" para="1" offset="19" length="5"><![CDATA[stock]]></wf>
+    <wf id="6" sent="1" para="1" offset="24" length="1"><![CDATA[.]]></wf>
+    <wf id="7" sent="1" para="1" offset="25" length="6"><![CDATA[MUNICH]]></wf>
+    <wf id="8" sent="1" para="1" offset="31" length="1"><![CDATA[,]]></wf>
+    <wf id="9" sent="1" para="1" offset="32" length="7"><![CDATA[Germany]]></wf>
+    <wf id="10" sent="1" para="1" offset="39" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="11" sent="1" para="1" offset="49" length="10"><![CDATA[Muenchener]]></wf>
+    <wf id="12" sent="1" para="1" offset="59" length="18"><![CDATA[Rueckversicherungs]]></wf>
+    <wf id="13" sent="1" para="1" offset="77" length="2"><![CDATA[AG]]></wf>
+    <wf id="14" sent="1" para="1" offset="79" length="1"><![CDATA[,]]></wf>
+    <wf id="15" sent="1" para="1" offset="80" length="3"><![CDATA[the]]></wf>
+    <wf id="16" sent="1" para="1" offset="83" length="5"><![CDATA[world]]></wf>
+    <wf id="17" sent="1" para="1" offset="88" length="2"><![CDATA['s]]></wf>
+    <wf id="18" sent="1" para="1" offset="90" length="7"><![CDATA[largest]]></wf>
+    <wf id="19" sent="1" para="1" offset="97" length="9"><![CDATA[reinsurer]]></wf>
+    <wf id="20" sent="1" para="1" offset="106" length="1"><![CDATA[,]]></wf>
+    <wf id="21" sent="1" para="1" offset="107" length="4"><![CDATA[said]]></wf>
+    <wf id="22" sent="1" para="1" offset="111" length="2"><![CDATA[on]]></wf>
+    <wf id="23" sent="1" para="1" offset="113" length="6"><![CDATA[Friday]]></wf>
+    <wf id="24" sent="1" para="1" offset="119" length="2"><![CDATA[it]]></wf>
+    <wf id="25" sent="1" para="1" offset="121" length="8"><![CDATA[expected]]></wf>
+    <wf id="26" sent="1" para="1" offset="129" length="2"><![CDATA[to]]></wf>
+    <wf id="27" sent="1" para="1" offset="131" length="6"><![CDATA[switch]]></wf>
+    <wf id="28" sent="1" para="1" offset="137" length="3"><![CDATA[its]]></wf>
+    <wf id="29" sent="1" para="1" offset="140" length="6"><![CDATA[shares]]></wf>
+    <wf id="30" sent="1" para="1" offset="146" length="2"><![CDATA[to]]></wf>
+    <wf id="31" sent="1" para="1" offset="148" length="1"><![CDATA[a]]></wf>
+    <wf id="32" sent="1" para="1" offset="149" length="5"><![CDATA[lower]]></wf>
+    <wf id="33" sent="1" para="1" offset="154" length="3"><![CDATA[par]]></wf>
+    <wf id="34" sent="1" para="1" offset="157" length="5"><![CDATA[value]]></wf>
+    <wf id="35" sent="1" para="1" offset="162" length="2"><![CDATA[by]]></wf>
+    <wf id="36" sent="1" para="1" offset="164" length="9"><![CDATA[September]]></wf>
+    <wf id="37" sent="1" para="1" offset="173" length="4"><![CDATA[1997]]></wf>
+    <wf id="38" sent="1" para="1" offset="177" length="2"><![CDATA[at]]></wf>
+    <wf id="39" sent="1" para="1" offset="179" length="3"><![CDATA[the]]></wf>
+    <wf id="40" sent="1" para="1" offset="182" length="8"><![CDATA[earliest]]></wf>
+    <wf id="41" sent="1" para="1" offset="190" length="1"><![CDATA[.]]></wf>
+    <wf id="42" sent="1" para="1" offset="191" length="3"><![CDATA[The]]></wf>
+    <wf id="43" sent="1" para="1" offset="194" length="5"><![CDATA[group]]></wf>
+    <wf id="44" sent="1" para="1" offset="199" length="1"><![CDATA[,]]></wf>
+    <wf id="45" sent="1" para="1" offset="200" length="5"><![CDATA[known]]></wf>
+    <wf id="46" sent="1" para="1" offset="205" length="2"><![CDATA[as]]></wf>
+    <wf id="47" sent="1" para="1" offset="207" length="6"><![CDATA[Munich]]></wf>
+    <wf id="48" sent="1" para="1" offset="213" length="2"><![CDATA[Re]]></wf>
+    <wf id="49" sent="1" para="1" offset="215" length="1"><![CDATA[,]]></wf>
+    <wf id="50" sent="1" para="1" offset="216" length="5"><![CDATA[plans]]></wf>
+    <wf id="51" sent="1" para="1" offset="221" length="2"><![CDATA[to]]></wf>
+    <wf id="52" sent="1" para="1" offset="223" length="4"><![CDATA[seek]]></wf>
+    <wf id="53" sent="1" para="1" offset="227" length="8"><![CDATA[approval]]></wf>
+    <wf id="54" sent="1" para="1" offset="235" length="3"><![CDATA[for]]></wf>
+    <wf id="55" sent="1" para="1" offset="238" length="3"><![CDATA[the]]></wf>
+    <wf id="56" sent="1" para="1" offset="241" length="4"><![CDATA[move]]></wf>
+    <wf id="57" sent="1" para="1" offset="245" length="2"><![CDATA[at]]></wf>
+    <wf id="58" sent="1" para="1" offset="247" length="3"><![CDATA[its]]></wf>
+    <wf id="59" sent="1" para="1" offset="250" length="12"><![CDATA[shareholders]]></wf>
+    <wf id="60" sent="1" para="1" offset="262" length="1"><![CDATA[']]></wf>
+    <wf id="61" sent="1" para="1" offset="263" length="7"><![CDATA[meeting]]></wf>
+    <wf id="62" sent="1" para="1" offset="270" length="5"><![CDATA[today]]></wf>
+    <wf id="63" sent="1" para="1" offset="275" length="1"><![CDATA[.]]></wf>
+    <wf id="64" sent="1" para="1" offset="276" length="3"><![CDATA[The]]></wf>
+    <wf id="65" sent="1" para="1" offset="279" length="7"><![CDATA[company]]></wf>
+    <wf id="66" sent="1" para="1" offset="286" length="4"><![CDATA[said]]></wf>
+    <wf id="67" sent="1" para="1" offset="290" length="3"><![CDATA[the]]></wf>
+    <wf id="68" sent="1" para="1" offset="293" length="6"><![CDATA[switch]]></wf>
+    <wf id="69" sent="1" para="1" offset="299" length="5"><![CDATA[would]]></wf>
+    <wf id="70" sent="1" para="1" offset="304" length="8"><![CDATA[probably]]></wf>
+    <wf id="71" sent="1" para="1" offset="312" length="6"><![CDATA[become]]></wf>
+    <wf id="72" sent="1" para="1" offset="318" length="9"><![CDATA[effective]]></wf>
+    <wf id="73" sent="1" para="1" offset="327" length="2"><![CDATA[in]]></wf>
+    <wf id="74" sent="1" para="1" offset="329" length="9"><![CDATA[September]]></wf>
+    <wf id="75" sent="1" para="1" offset="338" length="1"><![CDATA[.]]></wf>
+    <wf id="76" sent="1" para="1" offset="339" length="3"><![CDATA[The]]></wf>
+    <wf id="77" sent="1" para="1" offset="342" length="7"><![CDATA[planned]]></wf>
+    <wf id="78" sent="1" para="1" offset="349" length="10"><![CDATA[10-for-one]]></wf>
+    <wf id="79" sent="1" para="1" offset="359" length="5"><![CDATA[stock]]></wf>
+    <wf id="80" sent="1" para="1" offset="364" length="5"><![CDATA[split]]></wf>
+    <wf id="81" sent="1" para="1" offset="369" length="5"><![CDATA[would]]></wf>
+    <wf id="82" sent="1" para="1" offset="374" length="6"><![CDATA[reduce]]></wf>
+    <wf id="83" sent="1" para="1" offset="380" length="3"><![CDATA[the]]></wf>
+    <wf id="84" sent="1" para="1" offset="383" length="3"><![CDATA[par]]></wf>
+    <wf id="85" sent="1" para="1" offset="386" length="5"><![CDATA[value]]></wf>
+    <wf id="86" sent="1" para="1" offset="391" length="2"><![CDATA[of]]></wf>
+    <wf id="87" sent="1" para="1" offset="393" length="6"><![CDATA[Munich]]></wf>
+    <wf id="88" sent="1" para="1" offset="399" length="2"><![CDATA[Re]]></wf>
+    <wf id="89" sent="1" para="1" offset="401" length="2"><![CDATA['s]]></wf>
+    <wf id="90" sent="1" para="1" offset="403" length="6"><![CDATA[shares]]></wf>
+    <wf id="91" sent="1" para="1" offset="409" length="2"><![CDATA[to]]></wf>
+    <wf id="92" sent="1" para="1" offset="411" length="4"><![CDATA[five]]></wf>
+    <wf id="93" sent="1" para="1" offset="415" length="5"><![CDATA[marks]]></wf>
+    <wf id="94" sent="1" para="1" offset="420" length="4"><![CDATA[from]]></wf>
+    <wf id="95" sent="1" para="1" offset="424" length="2"><![CDATA[50]]></wf>
+    <wf id="96" sent="1" para="1" offset="426" length="1"><![CDATA[,]]></wf>
+    <wf id="97" sent="1" para="1" offset="427" length="7"><![CDATA[causing]]></wf>
+    <wf id="98" sent="1" para="1" offset="434" length="5"><![CDATA[their]]></wf>
+    <wf id="99" sent="1" para="1" offset="439" length="5"><![CDATA[price]]></wf>
+    <wf id="100" sent="1" para="1" offset="444" length="2"><![CDATA[to]]></wf>
+    <wf id="101" sent="1" para="1" offset="446" length="4"><![CDATA[drop]]></wf>
+    <wf id="102" sent="1" para="1" offset="450" length="2"><![CDATA[to]]></wf>
+    <wf id="103" sent="1" para="1" offset="452" length="6"><![CDATA[around]]></wf>
+    <wf id="104" sent="1" para="1" offset="458" length="3"><![CDATA[one]]></wf>
+    <wf id="105" sent="1" para="1" offset="461" length="5"><![CDATA[tenth]]></wf>
+    <wf id="106" sent="1" para="1" offset="466" length="2"><![CDATA[of]]></wf>
+    <wf id="107" sent="1" para="1" offset="468" length="3"><![CDATA[the]]></wf>
+    <wf id="108" sent="1" para="1" offset="471" length="7"><![CDATA[present]]></wf>
+    <wf id="109" sent="1" para="1" offset="478" length="5"><![CDATA[value]]></wf>
+    <wf id="110" sent="1" para="1" offset="483" length="1"><![CDATA[.]]></wf>
+    <wf id="111" sent="1" para="1" offset="484" length="6"><![CDATA[Munich]]></wf>
+    <wf id="112" sent="1" para="1" offset="490" length="2"><![CDATA[Re]]></wf>
+    <wf id="113" sent="1" para="1" offset="492" length="2"><![CDATA['s]]></wf>
+    <wf id="114" sent="1" para="1" offset="494" length="10"><![CDATA[registered]]></wf>
+    <wf id="115" sent="1" para="1" offset="504" length="6"><![CDATA[shares]]></wf>
+    <wf id="116" sent="1" para="1" offset="510" length="1"><![CDATA[,]]></wf>
+    <wf id="117" sent="1" para="1" offset="511" length="4"><![CDATA[part]]></wf>
+    <wf id="118" sent="1" para="1" offset="515" length="2"><![CDATA[of]]></wf>
+    <wf id="119" sent="1" para="1" offset="517" length="3"><![CDATA[the]]></wf>
+    <wf id="120" sent="1" para="1" offset="520" length="9"><![CDATA[blue-chip]]></wf>
+    <wf id="121" sent="1" para="1" offset="529" length="3"><![CDATA[DAX]]></wf>
+    <wf id="122" sent="1" para="1" offset="532" length="5"><![CDATA[index]]></wf>
+    <wf id="123" sent="1" para="1" offset="537" length="1"><![CDATA[,]]></wf>
+    <wf id="124" sent="1" para="1" offset="538" length="4"><![CDATA[were]]></wf>
+    <wf id="125" sent="1" para="1" offset="542" length="7"><![CDATA[trading]]></wf>
+    <wf id="126" sent="1" para="1" offset="549" length="2"><![CDATA[at]]></wf>
+    <wf id="127" sent="1" para="1" offset="551" length="5"><![CDATA[3,710]]></wf>
+    <wf id="128" sent="1" para="1" offset="556" length="5"><![CDATA[marks]]></wf>
+    <wf id="129" sent="1" para="1" offset="561" length="2"><![CDATA[on]]></wf>
+    <wf id="130" sent="1" para="1" offset="563" length="6"><![CDATA[Friday]]></wf>
+    <wf id="131" sent="1" para="1" offset="569" length="1"><![CDATA[.]]></wf>
+    <wf id="132" sent="1" para="1" offset="570" length="2"><![CDATA[--]]></wf>
+    <wf id="133" sent="1" para="1" offset="572" length="9"><![CDATA[Frankfurt]]></wf>
+    <wf id="134" sent="1" para="1" offset="581" length="8"><![CDATA[Newsroom]]></wf>
+    <wf id="135" sent="1" para="1" offset="589" length="1"><![CDATA[,]]></wf>
+    <wf id="136" sent="1" para="1" offset="590" length="3"><![CDATA[+49]]></wf>
+    <wf id="137" sent="1" para="1" offset="593" length="2"><![CDATA[69]]></wf>
+    <wf id="138" sent="1" para="1" offset="595" length="6"><![CDATA[756525]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="Munich">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="Re">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="says">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="to">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="split">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="stock">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma=".">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="MUNICH">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma=",">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="Germany">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="1996-12-06">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="Muenchener">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="Rueckversicherungs">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="AG">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma=",">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="the">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="world">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="'s">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="largest">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="reinsurer">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma=",">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="said">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="on">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="Friday">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="it">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="expected">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="to">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="switch">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="its">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="shares">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="to">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="a">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="lower">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="par">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="value">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="by">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="September">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="1997">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="at">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="the">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="earliest">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma=".">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="The">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="group">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma=",">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="known">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="as">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="Munich">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="Re">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma=",">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="plans">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="to">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="seek">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="approval">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="for">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="the">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="move">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="at">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="its">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="shareholders">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="'">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="meeting">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="today">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma=".">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="The">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="company">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="said">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="the">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="switch">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="would">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="probably">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="become">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="effective">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="in">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="September">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma=".">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="The">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="planned">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="10-for-one">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="stock">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="split">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="would">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="reduce">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="the">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="par">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="value">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="of">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="Munich">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="Re">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="'s">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="shares">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="to">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="five">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="marks">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="from">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="50">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma=",">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="causing">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="their">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="price">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="to">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="drop">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="to">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="around">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="one">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="tenth">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="of">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="the">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="present">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="value">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma=".">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="Munich">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="Re">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="'s">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="registered">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="shares">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma=",">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="part">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="of">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="the">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="blue-chip">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="DAX">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="index">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma=",">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="were">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="trading">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="at">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="3,710">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="marks">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="on">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="Friday">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma=".">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="--">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="Frankfurt">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="Newsroom">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma=",">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="+49">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="69">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="756525">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="3530">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Munich_Re" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="0"/>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3531">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Munich" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="7"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3532">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3533">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3534">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+          <target id="13"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3535">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Munich_Re" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="47"/>
+          <target id="48"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3536">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Munich_Re" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="87"/>
+          <target id="88"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3537">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Munich_Re" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="111"/>
+          <target id="112"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3538">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/DAX" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="121"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3539">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="133"/>
+          <target id="134"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

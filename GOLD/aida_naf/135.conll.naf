@@ -1,0 +1,646 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[London coal / ore fixtures . LONDON 1996-12-06 COAL - Lantau Peak - 120,000 tones coal Hay Point or Newcastle / Kaohsiung 20-30/1 $ 5.25 and $ 5.85 fio respectively 40,000-35,000 / 28,000 shinc China Steel . Royal Clipper - 77,000 tonnes coal Maracaibo / Fos 19/12-2/1 $ 9.90 fio 20,000 shinc / 25,000 shinc Coe and Clerici . ORE - IMC TBN - 70,000 tonnes Dampier / Kaohsiung 20-30/12 $ 5.25 fio 35,000 shinc / 30,000 shinc China Steel . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1297testb" filename="1297testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="6"><![CDATA[London]]></wf>
+    <wf id="2" sent="1" para="1" offset="6" length="4"><![CDATA[coal]]></wf>
+    <wf id="3" sent="1" para="1" offset="10" length="1"><![CDATA[/]]></wf>
+    <wf id="4" sent="1" para="1" offset="11" length="3"><![CDATA[ore]]></wf>
+    <wf id="5" sent="1" para="1" offset="14" length="8"><![CDATA[fixtures]]></wf>
+    <wf id="6" sent="1" para="1" offset="22" length="1"><![CDATA[.]]></wf>
+    <wf id="7" sent="1" para="1" offset="23" length="6"><![CDATA[LONDON]]></wf>
+    <wf id="8" sent="1" para="1" offset="29" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="9" sent="1" para="1" offset="39" length="4"><![CDATA[COAL]]></wf>
+    <wf id="10" sent="1" para="1" offset="43" length="1"><![CDATA[-]]></wf>
+    <wf id="11" sent="1" para="1" offset="44" length="6"><![CDATA[Lantau]]></wf>
+    <wf id="12" sent="1" para="1" offset="50" length="4"><![CDATA[Peak]]></wf>
+    <wf id="13" sent="1" para="1" offset="54" length="1"><![CDATA[-]]></wf>
+    <wf id="14" sent="1" para="1" offset="55" length="7"><![CDATA[120,000]]></wf>
+    <wf id="15" sent="1" para="1" offset="62" length="5"><![CDATA[tones]]></wf>
+    <wf id="16" sent="1" para="1" offset="67" length="4"><![CDATA[coal]]></wf>
+    <wf id="17" sent="1" para="1" offset="71" length="3"><![CDATA[Hay]]></wf>
+    <wf id="18" sent="1" para="1" offset="74" length="5"><![CDATA[Point]]></wf>
+    <wf id="19" sent="1" para="1" offset="79" length="2"><![CDATA[or]]></wf>
+    <wf id="20" sent="1" para="1" offset="81" length="9"><![CDATA[Newcastle]]></wf>
+    <wf id="21" sent="1" para="1" offset="90" length="1"><![CDATA[/]]></wf>
+    <wf id="22" sent="1" para="1" offset="91" length="9"><![CDATA[Kaohsiung]]></wf>
+    <wf id="23" sent="1" para="1" offset="100" length="7"><![CDATA[20-30/1]]></wf>
+    <wf id="24" sent="1" para="1" offset="107" length="1"><![CDATA[$]]></wf>
+    <wf id="25" sent="1" para="1" offset="108" length="4"><![CDATA[5.25]]></wf>
+    <wf id="26" sent="1" para="1" offset="112" length="3"><![CDATA[and]]></wf>
+    <wf id="27" sent="1" para="1" offset="115" length="1"><![CDATA[$]]></wf>
+    <wf id="28" sent="1" para="1" offset="116" length="4"><![CDATA[5.85]]></wf>
+    <wf id="29" sent="1" para="1" offset="120" length="3"><![CDATA[fio]]></wf>
+    <wf id="30" sent="1" para="1" offset="123" length="12"><![CDATA[respectively]]></wf>
+    <wf id="31" sent="1" para="1" offset="135" length="13"><![CDATA[40,000-35,000]]></wf>
+    <wf id="32" sent="1" para="1" offset="148" length="1"><![CDATA[/]]></wf>
+    <wf id="33" sent="1" para="1" offset="149" length="6"><![CDATA[28,000]]></wf>
+    <wf id="34" sent="1" para="1" offset="155" length="5"><![CDATA[shinc]]></wf>
+    <wf id="35" sent="1" para="1" offset="160" length="5"><![CDATA[China]]></wf>
+    <wf id="36" sent="1" para="1" offset="165" length="5"><![CDATA[Steel]]></wf>
+    <wf id="37" sent="1" para="1" offset="170" length="1"><![CDATA[.]]></wf>
+    <wf id="38" sent="1" para="1" offset="171" length="5"><![CDATA[Royal]]></wf>
+    <wf id="39" sent="1" para="1" offset="176" length="7"><![CDATA[Clipper]]></wf>
+    <wf id="40" sent="1" para="1" offset="183" length="1"><![CDATA[-]]></wf>
+    <wf id="41" sent="1" para="1" offset="184" length="6"><![CDATA[77,000]]></wf>
+    <wf id="42" sent="1" para="1" offset="190" length="6"><![CDATA[tonnes]]></wf>
+    <wf id="43" sent="1" para="1" offset="196" length="4"><![CDATA[coal]]></wf>
+    <wf id="44" sent="1" para="1" offset="200" length="9"><![CDATA[Maracaibo]]></wf>
+    <wf id="45" sent="1" para="1" offset="209" length="1"><![CDATA[/]]></wf>
+    <wf id="46" sent="1" para="1" offset="210" length="3"><![CDATA[Fos]]></wf>
+    <wf id="47" sent="1" para="1" offset="213" length="9"><![CDATA[19/12-2/1]]></wf>
+    <wf id="48" sent="1" para="1" offset="222" length="1"><![CDATA[$]]></wf>
+    <wf id="49" sent="1" para="1" offset="223" length="4"><![CDATA[9.90]]></wf>
+    <wf id="50" sent="1" para="1" offset="227" length="3"><![CDATA[fio]]></wf>
+    <wf id="51" sent="1" para="1" offset="230" length="6"><![CDATA[20,000]]></wf>
+    <wf id="52" sent="1" para="1" offset="236" length="5"><![CDATA[shinc]]></wf>
+    <wf id="53" sent="1" para="1" offset="241" length="1"><![CDATA[/]]></wf>
+    <wf id="54" sent="1" para="1" offset="242" length="6"><![CDATA[25,000]]></wf>
+    <wf id="55" sent="1" para="1" offset="248" length="5"><![CDATA[shinc]]></wf>
+    <wf id="56" sent="1" para="1" offset="253" length="3"><![CDATA[Coe]]></wf>
+    <wf id="57" sent="1" para="1" offset="256" length="3"><![CDATA[and]]></wf>
+    <wf id="58" sent="1" para="1" offset="259" length="7"><![CDATA[Clerici]]></wf>
+    <wf id="59" sent="1" para="1" offset="266" length="1"><![CDATA[.]]></wf>
+    <wf id="60" sent="1" para="1" offset="267" length="3"><![CDATA[ORE]]></wf>
+    <wf id="61" sent="1" para="1" offset="270" length="1"><![CDATA[-]]></wf>
+    <wf id="62" sent="1" para="1" offset="271" length="3"><![CDATA[IMC]]></wf>
+    <wf id="63" sent="1" para="1" offset="274" length="3"><![CDATA[TBN]]></wf>
+    <wf id="64" sent="1" para="1" offset="277" length="1"><![CDATA[-]]></wf>
+    <wf id="65" sent="1" para="1" offset="278" length="6"><![CDATA[70,000]]></wf>
+    <wf id="66" sent="1" para="1" offset="284" length="6"><![CDATA[tonnes]]></wf>
+    <wf id="67" sent="1" para="1" offset="290" length="7"><![CDATA[Dampier]]></wf>
+    <wf id="68" sent="1" para="1" offset="297" length="1"><![CDATA[/]]></wf>
+    <wf id="69" sent="1" para="1" offset="298" length="9"><![CDATA[Kaohsiung]]></wf>
+    <wf id="70" sent="1" para="1" offset="307" length="8"><![CDATA[20-30/12]]></wf>
+    <wf id="71" sent="1" para="1" offset="315" length="1"><![CDATA[$]]></wf>
+    <wf id="72" sent="1" para="1" offset="316" length="4"><![CDATA[5.25]]></wf>
+    <wf id="73" sent="1" para="1" offset="320" length="3"><![CDATA[fio]]></wf>
+    <wf id="74" sent="1" para="1" offset="323" length="6"><![CDATA[35,000]]></wf>
+    <wf id="75" sent="1" para="1" offset="329" length="5"><![CDATA[shinc]]></wf>
+    <wf id="76" sent="1" para="1" offset="334" length="1"><![CDATA[/]]></wf>
+    <wf id="77" sent="1" para="1" offset="335" length="6"><![CDATA[30,000]]></wf>
+    <wf id="78" sent="1" para="1" offset="341" length="5"><![CDATA[shinc]]></wf>
+    <wf id="79" sent="1" para="1" offset="346" length="5"><![CDATA[China]]></wf>
+    <wf id="80" sent="1" para="1" offset="351" length="5"><![CDATA[Steel]]></wf>
+    <wf id="81" sent="1" para="1" offset="356" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="London">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="coal">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="/">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="ore">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="fixtures">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma=".">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="LONDON">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="1996-12-06">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="COAL">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="-">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="Lantau">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="Peak">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="-">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="120,000">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="tones">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="coal">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="Hay">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="Point">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="or">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="Newcastle">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="/">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="Kaohsiung">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="20-30/1">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="$">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="5.25">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="and">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="$">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="5.85">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="fio">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="respectively">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="40,000-35,000">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="/">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="28,000">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="shinc">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="China">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="Steel">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma=".">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="Royal">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="Clipper">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="-">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="77,000">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="tonnes">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="coal">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="Maracaibo">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="/">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="Fos">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="19/12-2/1">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="$">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="9.90">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="fio">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="20,000">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="shinc">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="/">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="25,000">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="shinc">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="Coe">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="and">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="Clerici">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma=".">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="ORE">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="-">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="IMC">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="TBN">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="-">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="70,000">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="tonnes">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="Dampier">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="/">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="Kaohsiung">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="20-30/12">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="$">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="5.25">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="fio">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="35,000">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="shinc">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="/">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="30,000">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="shinc">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="China">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="Steel">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma=".">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="3129">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/London" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3130">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/London" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="7"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3131">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Lantau_Peak" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+          <target id="12"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3132">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Hay_Point,_Queensland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="17"/>
+          <target id="18"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3133">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Newcastle_upon_Tyne" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="20"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3134">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Kaohsiung" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="22"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3135">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/China_Steel" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="35"/>
+          <target id="36"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3136">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Royal_Clipper" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="38"/>
+          <target id="39"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3137">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Maracaibo" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="44"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3138">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Fos-sur-Mer" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="46"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3139">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="56"/>
+          <target id="57"/>
+          <target id="58"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3140">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dampier,_Western_Australia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="67"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3141">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Kaohsiung" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="69"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3142">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/China_Steel" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="79"/>
+          <target id="80"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

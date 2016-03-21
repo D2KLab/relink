@@ -1,0 +1,893 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[USDA daily cattle and hog slaughter - Dec 6 . Est daily livestock slaughter under Fed inspection - USDA CATTLE CALVES HOGS Friday 12/06/96 ( est ) 132,000 7,000 359,000 Week ago ( est ) 130,000 6,000 346,000 Year ago ( act ) 132,000 6,000 336,000 Saturday 12/07/96 ( est ) 38,000 0 18,000 Week to date ( est ) 688,000 31,000 1,810,000 Same Period Last Week ( est ) 601,000 26,000 1,547,000 Same Period Last Year* ( act ) 685,000 31,000 1,914,000 1996 Year to date 33,549,000 1,589,000 84,894,000 1995 Year to date* 32,970,000 1,305,000 88,800,000 Percent change 1.8 % 21.8 % - 4.4 % *1995 totals adjusted to reflect NASS revisions 1996 Totals are subject to revision Yearly totals may not add due to rounding . Previous day estimated Steer and Heifer Cow and Bull Thursday 100,000 33,000 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1273testb" filename="1273testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="4"><![CDATA[USDA]]></wf>
+    <wf id="2" sent="1" para="1" offset="4" length="5"><![CDATA[daily]]></wf>
+    <wf id="3" sent="1" para="1" offset="9" length="6"><![CDATA[cattle]]></wf>
+    <wf id="4" sent="1" para="1" offset="15" length="3"><![CDATA[and]]></wf>
+    <wf id="5" sent="1" para="1" offset="18" length="3"><![CDATA[hog]]></wf>
+    <wf id="6" sent="1" para="1" offset="21" length="9"><![CDATA[slaughter]]></wf>
+    <wf id="7" sent="1" para="1" offset="30" length="1"><![CDATA[-]]></wf>
+    <wf id="8" sent="1" para="1" offset="31" length="3"><![CDATA[Dec]]></wf>
+    <wf id="9" sent="1" para="1" offset="34" length="1"><![CDATA[6]]></wf>
+    <wf id="10" sent="1" para="1" offset="35" length="1"><![CDATA[.]]></wf>
+    <wf id="11" sent="1" para="1" offset="36" length="3"><![CDATA[Est]]></wf>
+    <wf id="12" sent="1" para="1" offset="39" length="5"><![CDATA[daily]]></wf>
+    <wf id="13" sent="1" para="1" offset="44" length="9"><![CDATA[livestock]]></wf>
+    <wf id="14" sent="1" para="1" offset="53" length="9"><![CDATA[slaughter]]></wf>
+    <wf id="15" sent="1" para="1" offset="62" length="5"><![CDATA[under]]></wf>
+    <wf id="16" sent="1" para="1" offset="67" length="3"><![CDATA[Fed]]></wf>
+    <wf id="17" sent="1" para="1" offset="70" length="10"><![CDATA[inspection]]></wf>
+    <wf id="18" sent="1" para="1" offset="80" length="1"><![CDATA[-]]></wf>
+    <wf id="19" sent="1" para="1" offset="81" length="4"><![CDATA[USDA]]></wf>
+    <wf id="20" sent="1" para="1" offset="85" length="6"><![CDATA[CATTLE]]></wf>
+    <wf id="21" sent="1" para="1" offset="91" length="6"><![CDATA[CALVES]]></wf>
+    <wf id="22" sent="1" para="1" offset="97" length="4"><![CDATA[HOGS]]></wf>
+    <wf id="23" sent="1" para="1" offset="101" length="6"><![CDATA[Friday]]></wf>
+    <wf id="24" sent="1" para="1" offset="107" length="8"><![CDATA[12/06/96]]></wf>
+    <wf id="25" sent="1" para="1" offset="115" length="1"><![CDATA[(]]></wf>
+    <wf id="26" sent="1" para="1" offset="116" length="3"><![CDATA[est]]></wf>
+    <wf id="27" sent="1" para="1" offset="119" length="1"><![CDATA[)]]></wf>
+    <wf id="28" sent="1" para="1" offset="120" length="7"><![CDATA[132,000]]></wf>
+    <wf id="29" sent="1" para="1" offset="127" length="5"><![CDATA[7,000]]></wf>
+    <wf id="30" sent="1" para="1" offset="132" length="7"><![CDATA[359,000]]></wf>
+    <wf id="31" sent="1" para="1" offset="139" length="4"><![CDATA[Week]]></wf>
+    <wf id="32" sent="1" para="1" offset="143" length="3"><![CDATA[ago]]></wf>
+    <wf id="33" sent="1" para="1" offset="146" length="1"><![CDATA[(]]></wf>
+    <wf id="34" sent="1" para="1" offset="147" length="3"><![CDATA[est]]></wf>
+    <wf id="35" sent="1" para="1" offset="150" length="1"><![CDATA[)]]></wf>
+    <wf id="36" sent="1" para="1" offset="151" length="7"><![CDATA[130,000]]></wf>
+    <wf id="37" sent="1" para="1" offset="158" length="5"><![CDATA[6,000]]></wf>
+    <wf id="38" sent="1" para="1" offset="163" length="7"><![CDATA[346,000]]></wf>
+    <wf id="39" sent="1" para="1" offset="170" length="4"><![CDATA[Year]]></wf>
+    <wf id="40" sent="1" para="1" offset="174" length="3"><![CDATA[ago]]></wf>
+    <wf id="41" sent="1" para="1" offset="177" length="1"><![CDATA[(]]></wf>
+    <wf id="42" sent="1" para="1" offset="178" length="3"><![CDATA[act]]></wf>
+    <wf id="43" sent="1" para="1" offset="181" length="1"><![CDATA[)]]></wf>
+    <wf id="44" sent="1" para="1" offset="182" length="7"><![CDATA[132,000]]></wf>
+    <wf id="45" sent="1" para="1" offset="189" length="5"><![CDATA[6,000]]></wf>
+    <wf id="46" sent="1" para="1" offset="194" length="7"><![CDATA[336,000]]></wf>
+    <wf id="47" sent="1" para="1" offset="201" length="8"><![CDATA[Saturday]]></wf>
+    <wf id="48" sent="1" para="1" offset="209" length="8"><![CDATA[12/07/96]]></wf>
+    <wf id="49" sent="1" para="1" offset="217" length="1"><![CDATA[(]]></wf>
+    <wf id="50" sent="1" para="1" offset="218" length="3"><![CDATA[est]]></wf>
+    <wf id="51" sent="1" para="1" offset="221" length="1"><![CDATA[)]]></wf>
+    <wf id="52" sent="1" para="1" offset="222" length="6"><![CDATA[38,000]]></wf>
+    <wf id="53" sent="1" para="1" offset="228" length="1"><![CDATA[0]]></wf>
+    <wf id="54" sent="1" para="1" offset="229" length="6"><![CDATA[18,000]]></wf>
+    <wf id="55" sent="1" para="1" offset="235" length="4"><![CDATA[Week]]></wf>
+    <wf id="56" sent="1" para="1" offset="239" length="2"><![CDATA[to]]></wf>
+    <wf id="57" sent="1" para="1" offset="241" length="4"><![CDATA[date]]></wf>
+    <wf id="58" sent="1" para="1" offset="245" length="1"><![CDATA[(]]></wf>
+    <wf id="59" sent="1" para="1" offset="246" length="3"><![CDATA[est]]></wf>
+    <wf id="60" sent="1" para="1" offset="249" length="1"><![CDATA[)]]></wf>
+    <wf id="61" sent="1" para="1" offset="250" length="7"><![CDATA[688,000]]></wf>
+    <wf id="62" sent="1" para="1" offset="257" length="6"><![CDATA[31,000]]></wf>
+    <wf id="63" sent="1" para="1" offset="263" length="9"><![CDATA[1,810,000]]></wf>
+    <wf id="64" sent="1" para="1" offset="272" length="4"><![CDATA[Same]]></wf>
+    <wf id="65" sent="1" para="1" offset="276" length="6"><![CDATA[Period]]></wf>
+    <wf id="66" sent="1" para="1" offset="282" length="4"><![CDATA[Last]]></wf>
+    <wf id="67" sent="1" para="1" offset="286" length="4"><![CDATA[Week]]></wf>
+    <wf id="68" sent="1" para="1" offset="290" length="1"><![CDATA[(]]></wf>
+    <wf id="69" sent="1" para="1" offset="291" length="3"><![CDATA[est]]></wf>
+    <wf id="70" sent="1" para="1" offset="294" length="1"><![CDATA[)]]></wf>
+    <wf id="71" sent="1" para="1" offset="295" length="7"><![CDATA[601,000]]></wf>
+    <wf id="72" sent="1" para="1" offset="302" length="6"><![CDATA[26,000]]></wf>
+    <wf id="73" sent="1" para="1" offset="308" length="9"><![CDATA[1,547,000]]></wf>
+    <wf id="74" sent="1" para="1" offset="317" length="4"><![CDATA[Same]]></wf>
+    <wf id="75" sent="1" para="1" offset="321" length="6"><![CDATA[Period]]></wf>
+    <wf id="76" sent="1" para="1" offset="327" length="4"><![CDATA[Last]]></wf>
+    <wf id="77" sent="1" para="1" offset="331" length="5"><![CDATA[Year*]]></wf>
+    <wf id="78" sent="1" para="1" offset="336" length="1"><![CDATA[(]]></wf>
+    <wf id="79" sent="1" para="1" offset="337" length="3"><![CDATA[act]]></wf>
+    <wf id="80" sent="1" para="1" offset="340" length="1"><![CDATA[)]]></wf>
+    <wf id="81" sent="1" para="1" offset="341" length="7"><![CDATA[685,000]]></wf>
+    <wf id="82" sent="1" para="1" offset="348" length="6"><![CDATA[31,000]]></wf>
+    <wf id="83" sent="1" para="1" offset="354" length="9"><![CDATA[1,914,000]]></wf>
+    <wf id="84" sent="1" para="1" offset="363" length="4"><![CDATA[1996]]></wf>
+    <wf id="85" sent="1" para="1" offset="367" length="4"><![CDATA[Year]]></wf>
+    <wf id="86" sent="1" para="1" offset="371" length="2"><![CDATA[to]]></wf>
+    <wf id="87" sent="1" para="1" offset="373" length="4"><![CDATA[date]]></wf>
+    <wf id="88" sent="1" para="1" offset="377" length="10"><![CDATA[33,549,000]]></wf>
+    <wf id="89" sent="1" para="1" offset="387" length="9"><![CDATA[1,589,000]]></wf>
+    <wf id="90" sent="1" para="1" offset="396" length="10"><![CDATA[84,894,000]]></wf>
+    <wf id="91" sent="1" para="1" offset="406" length="4"><![CDATA[1995]]></wf>
+    <wf id="92" sent="1" para="1" offset="410" length="4"><![CDATA[Year]]></wf>
+    <wf id="93" sent="1" para="1" offset="414" length="2"><![CDATA[to]]></wf>
+    <wf id="94" sent="1" para="1" offset="416" length="5"><![CDATA[date*]]></wf>
+    <wf id="95" sent="1" para="1" offset="421" length="10"><![CDATA[32,970,000]]></wf>
+    <wf id="96" sent="1" para="1" offset="431" length="9"><![CDATA[1,305,000]]></wf>
+    <wf id="97" sent="1" para="1" offset="440" length="10"><![CDATA[88,800,000]]></wf>
+    <wf id="98" sent="1" para="1" offset="450" length="7"><![CDATA[Percent]]></wf>
+    <wf id="99" sent="1" para="1" offset="457" length="6"><![CDATA[change]]></wf>
+    <wf id="100" sent="1" para="1" offset="463" length="3"><![CDATA[1.8]]></wf>
+    <wf id="101" sent="1" para="1" offset="466" length="1"><![CDATA[%]]></wf>
+    <wf id="102" sent="1" para="1" offset="467" length="4"><![CDATA[21.8]]></wf>
+    <wf id="103" sent="1" para="1" offset="471" length="1"><![CDATA[%]]></wf>
+    <wf id="104" sent="1" para="1" offset="472" length="1"><![CDATA[-]]></wf>
+    <wf id="105" sent="1" para="1" offset="473" length="3"><![CDATA[4.4]]></wf>
+    <wf id="106" sent="1" para="1" offset="476" length="1"><![CDATA[%]]></wf>
+    <wf id="107" sent="1" para="1" offset="477" length="5"><![CDATA[*1995]]></wf>
+    <wf id="108" sent="1" para="1" offset="482" length="6"><![CDATA[totals]]></wf>
+    <wf id="109" sent="1" para="1" offset="488" length="8"><![CDATA[adjusted]]></wf>
+    <wf id="110" sent="1" para="1" offset="496" length="2"><![CDATA[to]]></wf>
+    <wf id="111" sent="1" para="1" offset="498" length="7"><![CDATA[reflect]]></wf>
+    <wf id="112" sent="1" para="1" offset="505" length="4"><![CDATA[NASS]]></wf>
+    <wf id="113" sent="1" para="1" offset="509" length="9"><![CDATA[revisions]]></wf>
+    <wf id="114" sent="1" para="1" offset="518" length="4"><![CDATA[1996]]></wf>
+    <wf id="115" sent="1" para="1" offset="522" length="6"><![CDATA[Totals]]></wf>
+    <wf id="116" sent="1" para="1" offset="528" length="3"><![CDATA[are]]></wf>
+    <wf id="117" sent="1" para="1" offset="531" length="7"><![CDATA[subject]]></wf>
+    <wf id="118" sent="1" para="1" offset="538" length="2"><![CDATA[to]]></wf>
+    <wf id="119" sent="1" para="1" offset="540" length="8"><![CDATA[revision]]></wf>
+    <wf id="120" sent="1" para="1" offset="548" length="6"><![CDATA[Yearly]]></wf>
+    <wf id="121" sent="1" para="1" offset="554" length="6"><![CDATA[totals]]></wf>
+    <wf id="122" sent="1" para="1" offset="560" length="3"><![CDATA[may]]></wf>
+    <wf id="123" sent="1" para="1" offset="563" length="3"><![CDATA[not]]></wf>
+    <wf id="124" sent="1" para="1" offset="566" length="3"><![CDATA[add]]></wf>
+    <wf id="125" sent="1" para="1" offset="569" length="3"><![CDATA[due]]></wf>
+    <wf id="126" sent="1" para="1" offset="572" length="2"><![CDATA[to]]></wf>
+    <wf id="127" sent="1" para="1" offset="574" length="8"><![CDATA[rounding]]></wf>
+    <wf id="128" sent="1" para="1" offset="582" length="1"><![CDATA[.]]></wf>
+    <wf id="129" sent="1" para="1" offset="583" length="8"><![CDATA[Previous]]></wf>
+    <wf id="130" sent="1" para="1" offset="591" length="3"><![CDATA[day]]></wf>
+    <wf id="131" sent="1" para="1" offset="594" length="9"><![CDATA[estimated]]></wf>
+    <wf id="132" sent="1" para="1" offset="603" length="5"><![CDATA[Steer]]></wf>
+    <wf id="133" sent="1" para="1" offset="608" length="3"><![CDATA[and]]></wf>
+    <wf id="134" sent="1" para="1" offset="611" length="6"><![CDATA[Heifer]]></wf>
+    <wf id="135" sent="1" para="1" offset="617" length="3"><![CDATA[Cow]]></wf>
+    <wf id="136" sent="1" para="1" offset="620" length="3"><![CDATA[and]]></wf>
+    <wf id="137" sent="1" para="1" offset="623" length="4"><![CDATA[Bull]]></wf>
+    <wf id="138" sent="1" para="1" offset="627" length="8"><![CDATA[Thursday]]></wf>
+    <wf id="139" sent="1" para="1" offset="635" length="7"><![CDATA[100,000]]></wf>
+    <wf id="140" sent="1" para="1" offset="642" length="6"><![CDATA[33,000]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="USDA">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="daily">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="cattle">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="and">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="hog">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="slaughter">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="-">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="Dec">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="6">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma=".">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="Est">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="daily">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="livestock">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="slaughter">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="under">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="Fed">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="inspection">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="-">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="USDA">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="CATTLE">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="CALVES">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="HOGS">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="Friday">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="12/06/96">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="(">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="est">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma=")">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="132,000">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="7,000">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="359,000">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="Week">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="ago">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="(">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="est">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma=")">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="130,000">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="6,000">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="346,000">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="Year">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="ago">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="(">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="act">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma=")">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="132,000">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="6,000">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="336,000">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="Saturday">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="12/07/96">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="(">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="est">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma=")">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="38,000">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="0">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="18,000">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="Week">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="to">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="date">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="(">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="est">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma=")">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="688,000">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="31,000">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="1,810,000">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="Same">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="Period">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="Last">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="Week">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="(">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="est">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma=")">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="601,000">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="26,000">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="1,547,000">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="Same">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="Period">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="Last">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="Year*">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="(">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="act">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma=")">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="685,000">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="31,000">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="1,914,000">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="1996">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="Year">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="to">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="date">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="33,549,000">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="1,589,000">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="84,894,000">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="1995">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="Year">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="to">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="date*">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="32,970,000">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="1,305,000">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="88,800,000">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="Percent">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="change">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="1.8">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="%">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="21.8">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="%">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="-">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="4.4">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="%">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="*1995">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="totals">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="adjusted">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="to">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="reflect">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="NASS">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="revisions">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="1996">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="Totals">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="are">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="subject">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="to">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="revision">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="Yearly">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="totals">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="may">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="not">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="add">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="due">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="to">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="rounding">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma=".">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="Previous">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="day">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="estimated">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="Steer">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="and">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="Heifer">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="Cow">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="and">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="Bull">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="Thursday">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="100,000">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="33,000">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="2817">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_States_Department_of_Agriculture" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2818">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Federal_Reserve_System" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="16"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2819">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_States_Department_of_Agriculture" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="19"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2820">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="112"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

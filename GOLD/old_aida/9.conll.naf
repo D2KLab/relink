@@ -1,0 +1,1130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[SOCCER - LEEDS ' BOWYER FINED FOR PART IN FAST-FOOD FRACAS . LONDON 1996-12-06 Leeds ' England under-21 striker Lee Bowyer was fined 4,500 pounds ( $ 7,400 ) on Friday for hurling chairs at restaurant staff during a disturbance at a McDonald 's fast-food restaurant . Bowyer , 19 , who was caught in the act by security cameras , pleaded guilty to a charge of affray at a court in London . He was fined and ordered to pay a total of 175 pounds to two members of staff injured in the fracas in an east London restaurant in October . Leeds had already fined Bowyer 4,000 pounds ( $ 6,600 ) and warned him a repeat of his criminal behaviour could cost him his place in the side . Bowyer , who moved to the Yorkshire club in August for 3.5 million pounds ( $ 5.8 million ) , was expected to play against Middlesbrough on Saturday . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1171testb" filename="1171testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="6"><![CDATA[SOCCER]]></wf>
+    <wf id="1" sent="1" para="1" offset="6" length="1"><![CDATA[-]]></wf>
+    <wf id="2" sent="1" para="1" offset="7" length="5"><![CDATA[LEEDS]]></wf>
+    <wf id="3" sent="1" para="1" offset="12" length="1"><![CDATA[']]></wf>
+    <wf id="4" sent="1" para="1" offset="13" length="6"><![CDATA[BOWYER]]></wf>
+    <wf id="5" sent="1" para="1" offset="19" length="5"><![CDATA[FINED]]></wf>
+    <wf id="6" sent="1" para="1" offset="24" length="3"><![CDATA[FOR]]></wf>
+    <wf id="7" sent="1" para="1" offset="27" length="4"><![CDATA[PART]]></wf>
+    <wf id="8" sent="1" para="1" offset="31" length="2"><![CDATA[IN]]></wf>
+    <wf id="9" sent="1" para="1" offset="33" length="9"><![CDATA[FAST-FOOD]]></wf>
+    <wf id="10" sent="1" para="1" offset="42" length="6"><![CDATA[FRACAS]]></wf>
+    <wf id="11" sent="1" para="1" offset="48" length="1"><![CDATA[.]]></wf>
+    <wf id="12" sent="1" para="1" offset="49" length="6"><![CDATA[LONDON]]></wf>
+    <wf id="13" sent="1" para="1" offset="55" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="14" sent="1" para="1" offset="65" length="5"><![CDATA[Leeds]]></wf>
+    <wf id="15" sent="1" para="1" offset="70" length="1"><![CDATA[']]></wf>
+    <wf id="16" sent="1" para="1" offset="71" length="7"><![CDATA[England]]></wf>
+    <wf id="17" sent="1" para="1" offset="78" length="8"><![CDATA[under-21]]></wf>
+    <wf id="18" sent="1" para="1" offset="86" length="7"><![CDATA[striker]]></wf>
+    <wf id="19" sent="1" para="1" offset="93" length="3"><![CDATA[Lee]]></wf>
+    <wf id="20" sent="1" para="1" offset="96" length="6"><![CDATA[Bowyer]]></wf>
+    <wf id="21" sent="1" para="1" offset="102" length="3"><![CDATA[was]]></wf>
+    <wf id="22" sent="1" para="1" offset="105" length="5"><![CDATA[fined]]></wf>
+    <wf id="23" sent="1" para="1" offset="110" length="5"><![CDATA[4,500]]></wf>
+    <wf id="24" sent="1" para="1" offset="115" length="6"><![CDATA[pounds]]></wf>
+    <wf id="25" sent="1" para="1" offset="121" length="1"><![CDATA[(]]></wf>
+    <wf id="26" sent="1" para="1" offset="122" length="1"><![CDATA[$]]></wf>
+    <wf id="27" sent="1" para="1" offset="123" length="5"><![CDATA[7,400]]></wf>
+    <wf id="28" sent="1" para="1" offset="128" length="1"><![CDATA[)]]></wf>
+    <wf id="29" sent="1" para="1" offset="129" length="2"><![CDATA[on]]></wf>
+    <wf id="30" sent="1" para="1" offset="131" length="6"><![CDATA[Friday]]></wf>
+    <wf id="31" sent="1" para="1" offset="137" length="3"><![CDATA[for]]></wf>
+    <wf id="32" sent="1" para="1" offset="140" length="7"><![CDATA[hurling]]></wf>
+    <wf id="33" sent="1" para="1" offset="147" length="6"><![CDATA[chairs]]></wf>
+    <wf id="34" sent="1" para="1" offset="153" length="2"><![CDATA[at]]></wf>
+    <wf id="35" sent="1" para="1" offset="155" length="10"><![CDATA[restaurant]]></wf>
+    <wf id="36" sent="1" para="1" offset="165" length="5"><![CDATA[staff]]></wf>
+    <wf id="37" sent="1" para="1" offset="170" length="6"><![CDATA[during]]></wf>
+    <wf id="38" sent="1" para="1" offset="176" length="1"><![CDATA[a]]></wf>
+    <wf id="39" sent="1" para="1" offset="177" length="11"><![CDATA[disturbance]]></wf>
+    <wf id="40" sent="1" para="1" offset="188" length="2"><![CDATA[at]]></wf>
+    <wf id="41" sent="1" para="1" offset="190" length="1"><![CDATA[a]]></wf>
+    <wf id="42" sent="1" para="1" offset="191" length="8"><![CDATA[McDonald]]></wf>
+    <wf id="43" sent="1" para="1" offset="199" length="2"><![CDATA['s]]></wf>
+    <wf id="44" sent="1" para="1" offset="201" length="9"><![CDATA[fast-food]]></wf>
+    <wf id="45" sent="1" para="1" offset="210" length="10"><![CDATA[restaurant]]></wf>
+    <wf id="46" sent="1" para="1" offset="220" length="1"><![CDATA[.]]></wf>
+    <wf id="47" sent="1" para="1" offset="221" length="6"><![CDATA[Bowyer]]></wf>
+    <wf id="48" sent="1" para="1" offset="227" length="1"><![CDATA[,]]></wf>
+    <wf id="49" sent="1" para="1" offset="228" length="2"><![CDATA[19]]></wf>
+    <wf id="50" sent="1" para="1" offset="230" length="1"><![CDATA[,]]></wf>
+    <wf id="51" sent="1" para="1" offset="231" length="3"><![CDATA[who]]></wf>
+    <wf id="52" sent="1" para="1" offset="234" length="3"><![CDATA[was]]></wf>
+    <wf id="53" sent="1" para="1" offset="237" length="6"><![CDATA[caught]]></wf>
+    <wf id="54" sent="1" para="1" offset="243" length="2"><![CDATA[in]]></wf>
+    <wf id="55" sent="1" para="1" offset="245" length="3"><![CDATA[the]]></wf>
+    <wf id="56" sent="1" para="1" offset="248" length="3"><![CDATA[act]]></wf>
+    <wf id="57" sent="1" para="1" offset="251" length="2"><![CDATA[by]]></wf>
+    <wf id="58" sent="1" para="1" offset="253" length="8"><![CDATA[security]]></wf>
+    <wf id="59" sent="1" para="1" offset="261" length="7"><![CDATA[cameras]]></wf>
+    <wf id="60" sent="1" para="1" offset="268" length="1"><![CDATA[,]]></wf>
+    <wf id="61" sent="1" para="1" offset="269" length="7"><![CDATA[pleaded]]></wf>
+    <wf id="62" sent="1" para="1" offset="276" length="6"><![CDATA[guilty]]></wf>
+    <wf id="63" sent="1" para="1" offset="282" length="2"><![CDATA[to]]></wf>
+    <wf id="64" sent="1" para="1" offset="284" length="1"><![CDATA[a]]></wf>
+    <wf id="65" sent="1" para="1" offset="285" length="6"><![CDATA[charge]]></wf>
+    <wf id="66" sent="1" para="1" offset="291" length="2"><![CDATA[of]]></wf>
+    <wf id="67" sent="1" para="1" offset="293" length="6"><![CDATA[affray]]></wf>
+    <wf id="68" sent="1" para="1" offset="299" length="2"><![CDATA[at]]></wf>
+    <wf id="69" sent="1" para="1" offset="301" length="1"><![CDATA[a]]></wf>
+    <wf id="70" sent="1" para="1" offset="302" length="5"><![CDATA[court]]></wf>
+    <wf id="71" sent="1" para="1" offset="307" length="2"><![CDATA[in]]></wf>
+    <wf id="72" sent="1" para="1" offset="309" length="6"><![CDATA[London]]></wf>
+    <wf id="73" sent="1" para="1" offset="315" length="1"><![CDATA[.]]></wf>
+    <wf id="74" sent="1" para="1" offset="316" length="2"><![CDATA[He]]></wf>
+    <wf id="75" sent="1" para="1" offset="318" length="3"><![CDATA[was]]></wf>
+    <wf id="76" sent="1" para="1" offset="321" length="5"><![CDATA[fined]]></wf>
+    <wf id="77" sent="1" para="1" offset="326" length="3"><![CDATA[and]]></wf>
+    <wf id="78" sent="1" para="1" offset="329" length="7"><![CDATA[ordered]]></wf>
+    <wf id="79" sent="1" para="1" offset="336" length="2"><![CDATA[to]]></wf>
+    <wf id="80" sent="1" para="1" offset="338" length="3"><![CDATA[pay]]></wf>
+    <wf id="81" sent="1" para="1" offset="341" length="1"><![CDATA[a]]></wf>
+    <wf id="82" sent="1" para="1" offset="342" length="5"><![CDATA[total]]></wf>
+    <wf id="83" sent="1" para="1" offset="347" length="2"><![CDATA[of]]></wf>
+    <wf id="84" sent="1" para="1" offset="349" length="3"><![CDATA[175]]></wf>
+    <wf id="85" sent="1" para="1" offset="352" length="6"><![CDATA[pounds]]></wf>
+    <wf id="86" sent="1" para="1" offset="358" length="2"><![CDATA[to]]></wf>
+    <wf id="87" sent="1" para="1" offset="360" length="3"><![CDATA[two]]></wf>
+    <wf id="88" sent="1" para="1" offset="363" length="7"><![CDATA[members]]></wf>
+    <wf id="89" sent="1" para="1" offset="370" length="2"><![CDATA[of]]></wf>
+    <wf id="90" sent="1" para="1" offset="372" length="5"><![CDATA[staff]]></wf>
+    <wf id="91" sent="1" para="1" offset="377" length="7"><![CDATA[injured]]></wf>
+    <wf id="92" sent="1" para="1" offset="384" length="2"><![CDATA[in]]></wf>
+    <wf id="93" sent="1" para="1" offset="386" length="3"><![CDATA[the]]></wf>
+    <wf id="94" sent="1" para="1" offset="389" length="6"><![CDATA[fracas]]></wf>
+    <wf id="95" sent="1" para="1" offset="395" length="2"><![CDATA[in]]></wf>
+    <wf id="96" sent="1" para="1" offset="397" length="2"><![CDATA[an]]></wf>
+    <wf id="97" sent="1" para="1" offset="399" length="4"><![CDATA[east]]></wf>
+    <wf id="98" sent="1" para="1" offset="403" length="6"><![CDATA[London]]></wf>
+    <wf id="99" sent="1" para="1" offset="409" length="10"><![CDATA[restaurant]]></wf>
+    <wf id="100" sent="1" para="1" offset="419" length="2"><![CDATA[in]]></wf>
+    <wf id="101" sent="1" para="1" offset="421" length="7"><![CDATA[October]]></wf>
+    <wf id="102" sent="1" para="1" offset="428" length="1"><![CDATA[.]]></wf>
+    <wf id="103" sent="1" para="1" offset="429" length="5"><![CDATA[Leeds]]></wf>
+    <wf id="104" sent="1" para="1" offset="434" length="3"><![CDATA[had]]></wf>
+    <wf id="105" sent="1" para="1" offset="437" length="7"><![CDATA[already]]></wf>
+    <wf id="106" sent="1" para="1" offset="444" length="5"><![CDATA[fined]]></wf>
+    <wf id="107" sent="1" para="1" offset="449" length="6"><![CDATA[Bowyer]]></wf>
+    <wf id="108" sent="1" para="1" offset="455" length="5"><![CDATA[4,000]]></wf>
+    <wf id="109" sent="1" para="1" offset="460" length="6"><![CDATA[pounds]]></wf>
+    <wf id="110" sent="1" para="1" offset="466" length="1"><![CDATA[(]]></wf>
+    <wf id="111" sent="1" para="1" offset="467" length="1"><![CDATA[$]]></wf>
+    <wf id="112" sent="1" para="1" offset="468" length="5"><![CDATA[6,600]]></wf>
+    <wf id="113" sent="1" para="1" offset="473" length="1"><![CDATA[)]]></wf>
+    <wf id="114" sent="1" para="1" offset="474" length="3"><![CDATA[and]]></wf>
+    <wf id="115" sent="1" para="1" offset="477" length="6"><![CDATA[warned]]></wf>
+    <wf id="116" sent="1" para="1" offset="483" length="3"><![CDATA[him]]></wf>
+    <wf id="117" sent="1" para="1" offset="486" length="1"><![CDATA[a]]></wf>
+    <wf id="118" sent="1" para="1" offset="487" length="6"><![CDATA[repeat]]></wf>
+    <wf id="119" sent="1" para="1" offset="493" length="2"><![CDATA[of]]></wf>
+    <wf id="120" sent="1" para="1" offset="495" length="3"><![CDATA[his]]></wf>
+    <wf id="121" sent="1" para="1" offset="498" length="8"><![CDATA[criminal]]></wf>
+    <wf id="122" sent="1" para="1" offset="506" length="9"><![CDATA[behaviour]]></wf>
+    <wf id="123" sent="1" para="1" offset="515" length="5"><![CDATA[could]]></wf>
+    <wf id="124" sent="1" para="1" offset="520" length="4"><![CDATA[cost]]></wf>
+    <wf id="125" sent="1" para="1" offset="524" length="3"><![CDATA[him]]></wf>
+    <wf id="126" sent="1" para="1" offset="527" length="3"><![CDATA[his]]></wf>
+    <wf id="127" sent="1" para="1" offset="530" length="5"><![CDATA[place]]></wf>
+    <wf id="128" sent="1" para="1" offset="535" length="2"><![CDATA[in]]></wf>
+    <wf id="129" sent="1" para="1" offset="537" length="3"><![CDATA[the]]></wf>
+    <wf id="130" sent="1" para="1" offset="540" length="4"><![CDATA[side]]></wf>
+    <wf id="131" sent="1" para="1" offset="544" length="1"><![CDATA[.]]></wf>
+    <wf id="132" sent="1" para="1" offset="545" length="6"><![CDATA[Bowyer]]></wf>
+    <wf id="133" sent="1" para="1" offset="551" length="1"><![CDATA[,]]></wf>
+    <wf id="134" sent="1" para="1" offset="552" length="3"><![CDATA[who]]></wf>
+    <wf id="135" sent="1" para="1" offset="555" length="5"><![CDATA[moved]]></wf>
+    <wf id="136" sent="1" para="1" offset="560" length="2"><![CDATA[to]]></wf>
+    <wf id="137" sent="1" para="1" offset="562" length="3"><![CDATA[the]]></wf>
+    <wf id="138" sent="1" para="1" offset="565" length="9"><![CDATA[Yorkshire]]></wf>
+    <wf id="139" sent="1" para="1" offset="574" length="4"><![CDATA[club]]></wf>
+    <wf id="140" sent="1" para="1" offset="578" length="2"><![CDATA[in]]></wf>
+    <wf id="141" sent="1" para="1" offset="580" length="6"><![CDATA[August]]></wf>
+    <wf id="142" sent="1" para="1" offset="586" length="3"><![CDATA[for]]></wf>
+    <wf id="143" sent="1" para="1" offset="589" length="3"><![CDATA[3.5]]></wf>
+    <wf id="144" sent="1" para="1" offset="592" length="7"><![CDATA[million]]></wf>
+    <wf id="145" sent="1" para="1" offset="599" length="6"><![CDATA[pounds]]></wf>
+    <wf id="146" sent="1" para="1" offset="605" length="1"><![CDATA[(]]></wf>
+    <wf id="147" sent="1" para="1" offset="606" length="1"><![CDATA[$]]></wf>
+    <wf id="148" sent="1" para="1" offset="607" length="3"><![CDATA[5.8]]></wf>
+    <wf id="149" sent="1" para="1" offset="610" length="7"><![CDATA[million]]></wf>
+    <wf id="150" sent="1" para="1" offset="617" length="1"><![CDATA[)]]></wf>
+    <wf id="151" sent="1" para="1" offset="618" length="1"><![CDATA[,]]></wf>
+    <wf id="152" sent="1" para="1" offset="619" length="3"><![CDATA[was]]></wf>
+    <wf id="153" sent="1" para="1" offset="622" length="8"><![CDATA[expected]]></wf>
+    <wf id="154" sent="1" para="1" offset="630" length="2"><![CDATA[to]]></wf>
+    <wf id="155" sent="1" para="1" offset="632" length="4"><![CDATA[play]]></wf>
+    <wf id="156" sent="1" para="1" offset="636" length="7"><![CDATA[against]]></wf>
+    <wf id="157" sent="1" para="1" offset="643" length="13"><![CDATA[Middlesbrough]]></wf>
+    <wf id="158" sent="1" para="1" offset="656" length="2"><![CDATA[on]]></wf>
+    <wf id="159" sent="1" para="1" offset="658" length="8"><![CDATA[Saturday]]></wf>
+    <wf id="160" sent="1" para="1" offset="666" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="SOCCER">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="-">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="LEEDS">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="'">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="BOWYER">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="FINED">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="FOR">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="PART">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="IN">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="FAST-FOOD">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="FRACAS">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma=".">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="LONDON">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="1996-12-06">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="Leeds">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="'">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="England">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="under-21">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="striker">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="Lee">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="Bowyer">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="was">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="fined">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="4,500">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="pounds">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="(">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="$">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="7,400">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma=")">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="on">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="Friday">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="for">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="hurling">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="chairs">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="at">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="restaurant">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="staff">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="during">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="a">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="disturbance">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="at">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="a">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="McDonald">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="'s">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="fast-food">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="restaurant">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma=".">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="Bowyer">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma=",">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="19">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma=",">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="who">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="was">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="caught">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="in">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="the">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="act">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="by">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="security">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="cameras">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma=",">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="pleaded">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="guilty">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="to">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="a">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="charge">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="of">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="affray">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="at">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="a">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="court">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="in">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="London">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma=".">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="He">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="was">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="fined">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="and">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="ordered">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="to">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="pay">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="a">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="total">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="of">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="175">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="pounds">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="to">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="two">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="members">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="of">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="staff">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="injured">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="in">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="the">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="fracas">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="in">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="an">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="east">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="London">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="restaurant">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="in">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="October">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma=".">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="Leeds">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="had">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="already">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="fined">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="Bowyer">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="4,000">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="pounds">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="(">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="$">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="6,600">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma=")">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="and">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="warned">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="him">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="a">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="repeat">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="of">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="his">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="criminal">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="behaviour">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="could">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="cost">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="him">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="his">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="place">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="in">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="the">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="side">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma=".">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="Bowyer">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma=",">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="who">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="moved">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="to">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="the">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="Yorkshire">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="club">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="in">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="August">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="for">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="3.5">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="million">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="pounds">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="(">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="$">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="5.8">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="million">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma=")">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma=",">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="was">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma="expected">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="to">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="play">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="against">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="Middlesbrough">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="on">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="Saturday">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma=".">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="306">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Leeds_United_A.F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="2"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="307">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Lee_Bowyer" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="4"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="308">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/London" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="309">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Leeds_United_A.F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="14"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="310">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/England" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="16"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="311">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Lee_Bowyer" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="19"/>
+          <target id="20"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="312">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="42"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="313">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Lee_Bowyer" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="47"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="314">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/London" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="72"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="315">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/London" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="98"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="316">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Leeds_United_A.F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="103"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="317">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Lee_Bowyer" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="107"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="318">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Lee_Bowyer" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="132"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="319">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="138"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="320">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Middlesbrough_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="157"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

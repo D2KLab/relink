@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[NFL AMERICAN FOOTBALL-THURSDAY 'S RESULT . NEW YORK 1996-12-05 Result of National Football League game on Thursday ( home team in CAPS ) : INDIANAPOLIS 37 Philadelphia 10 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1191testb" filename="1191testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="3"><![CDATA[NFL]]></wf>
+    <wf id="2" sent="1" para="1" offset="3" length="8"><![CDATA[AMERICAN]]></wf>
+    <wf id="3" sent="1" para="1" offset="11" length="17"><![CDATA[FOOTBALL-THURSDAY]]></wf>
+    <wf id="4" sent="1" para="1" offset="28" length="2"><![CDATA['S]]></wf>
+    <wf id="5" sent="1" para="1" offset="30" length="6"><![CDATA[RESULT]]></wf>
+    <wf id="6" sent="1" para="1" offset="36" length="1"><![CDATA[.]]></wf>
+    <wf id="7" sent="1" para="1" offset="37" length="3"><![CDATA[NEW]]></wf>
+    <wf id="8" sent="1" para="1" offset="40" length="4"><![CDATA[YORK]]></wf>
+    <wf id="9" sent="1" para="1" offset="44" length="10"><![CDATA[1996-12-05]]></wf>
+    <wf id="10" sent="1" para="1" offset="54" length="6"><![CDATA[Result]]></wf>
+    <wf id="11" sent="1" para="1" offset="60" length="2"><![CDATA[of]]></wf>
+    <wf id="12" sent="1" para="1" offset="62" length="8"><![CDATA[National]]></wf>
+    <wf id="13" sent="1" para="1" offset="70" length="8"><![CDATA[Football]]></wf>
+    <wf id="14" sent="1" para="1" offset="78" length="6"><![CDATA[League]]></wf>
+    <wf id="15" sent="1" para="1" offset="84" length="4"><![CDATA[game]]></wf>
+    <wf id="16" sent="1" para="1" offset="88" length="2"><![CDATA[on]]></wf>
+    <wf id="17" sent="1" para="1" offset="90" length="8"><![CDATA[Thursday]]></wf>
+    <wf id="18" sent="1" para="1" offset="98" length="1"><![CDATA[(]]></wf>
+    <wf id="19" sent="1" para="1" offset="99" length="4"><![CDATA[home]]></wf>
+    <wf id="20" sent="1" para="1" offset="103" length="4"><![CDATA[team]]></wf>
+    <wf id="21" sent="1" para="1" offset="107" length="2"><![CDATA[in]]></wf>
+    <wf id="22" sent="1" para="1" offset="109" length="4"><![CDATA[CAPS]]></wf>
+    <wf id="23" sent="1" para="1" offset="113" length="1"><![CDATA[)]]></wf>
+    <wf id="24" sent="1" para="1" offset="114" length="1"><![CDATA[:]]></wf>
+    <wf id="25" sent="1" para="1" offset="115" length="12"><![CDATA[INDIANAPOLIS]]></wf>
+    <wf id="26" sent="1" para="1" offset="127" length="2"><![CDATA[37]]></wf>
+    <wf id="27" sent="1" para="1" offset="129" length="12"><![CDATA[Philadelphia]]></wf>
+    <wf id="28" sent="1" para="1" offset="141" length="2"><![CDATA[10]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="NFL">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="AMERICAN">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="FOOTBALL-THURSDAY">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="'S">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="RESULT">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma=".">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="NEW">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="YORK">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="1996-12-05">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="Result">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="of">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="National">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Football">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="League">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="game">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="on">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="Thursday">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="(">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="home">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="team">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="in">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="CAPS">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma=")">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma=":">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="INDIANAPOLIS">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="37">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="Philadelphia">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="10">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="1028">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/National_Football_League" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1029">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_York" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="7"/>
+          <target id="8"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1030">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/National_Football_League" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1031">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="13"/>
+          <target id="14"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1032">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Indianapolis_Colts" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="25"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1033">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Philadelphia_Eagles" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="27"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

@@ -1,0 +1,1371 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[EU , Poland agree on oil import tariffs . BRUSSELS 1996-12-06 The European Union and Poland have resolved disagreements over a new Polish oil import regime , the European Commission said on Friday . The EU had objected to increases in Polish tariffs on imports of gasoline and gasoil products introduced on January 1 , 1996 , saying they contravened levels envisaged in the so-called Europe Agreement between the EU and Poland . The increases were aimed at protecting the Polish market while helping to modernise the local oil industry . " The EU and Poland have now reached a final settlement regarding issues related to the Polish import regime in the oils sector , " the Commission said in a statement . Under the agreement , Poland will abolish all oil import tariffs by 2001 , remove all oil price controls and end quantitative restrictions on imports by January 1 , 1997 . The agreement includes the early privatisation and modernisation of Polish oil refineries , which will be obliged to offer equal treatment to all buyers . The EU and Poland will monitor the settlement at six-monthly meetings . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1293testb" filename="1293testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="2"><![CDATA[EU]]></wf>
+    <wf id="1" sent="1" para="1" offset="2" length="1"><![CDATA[,]]></wf>
+    <wf id="2" sent="1" para="1" offset="3" length="6"><![CDATA[Poland]]></wf>
+    <wf id="3" sent="1" para="1" offset="9" length="5"><![CDATA[agree]]></wf>
+    <wf id="4" sent="1" para="1" offset="14" length="2"><![CDATA[on]]></wf>
+    <wf id="5" sent="1" para="1" offset="16" length="3"><![CDATA[oil]]></wf>
+    <wf id="6" sent="1" para="1" offset="19" length="6"><![CDATA[import]]></wf>
+    <wf id="7" sent="1" para="1" offset="25" length="7"><![CDATA[tariffs]]></wf>
+    <wf id="8" sent="1" para="1" offset="32" length="1"><![CDATA[.]]></wf>
+    <wf id="9" sent="1" para="1" offset="33" length="8"><![CDATA[BRUSSELS]]></wf>
+    <wf id="10" sent="1" para="1" offset="41" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="11" sent="1" para="1" offset="51" length="3"><![CDATA[The]]></wf>
+    <wf id="12" sent="1" para="1" offset="54" length="8"><![CDATA[European]]></wf>
+    <wf id="13" sent="1" para="1" offset="62" length="5"><![CDATA[Union]]></wf>
+    <wf id="14" sent="1" para="1" offset="67" length="3"><![CDATA[and]]></wf>
+    <wf id="15" sent="1" para="1" offset="70" length="6"><![CDATA[Poland]]></wf>
+    <wf id="16" sent="1" para="1" offset="76" length="4"><![CDATA[have]]></wf>
+    <wf id="17" sent="1" para="1" offset="80" length="8"><![CDATA[resolved]]></wf>
+    <wf id="18" sent="1" para="1" offset="88" length="13"><![CDATA[disagreements]]></wf>
+    <wf id="19" sent="1" para="1" offset="101" length="4"><![CDATA[over]]></wf>
+    <wf id="20" sent="1" para="1" offset="105" length="1"><![CDATA[a]]></wf>
+    <wf id="21" sent="1" para="1" offset="106" length="3"><![CDATA[new]]></wf>
+    <wf id="22" sent="1" para="1" offset="109" length="6"><![CDATA[Polish]]></wf>
+    <wf id="23" sent="1" para="1" offset="115" length="3"><![CDATA[oil]]></wf>
+    <wf id="24" sent="1" para="1" offset="118" length="6"><![CDATA[import]]></wf>
+    <wf id="25" sent="1" para="1" offset="124" length="6"><![CDATA[regime]]></wf>
+    <wf id="26" sent="1" para="1" offset="130" length="1"><![CDATA[,]]></wf>
+    <wf id="27" sent="1" para="1" offset="131" length="3"><![CDATA[the]]></wf>
+    <wf id="28" sent="1" para="1" offset="134" length="8"><![CDATA[European]]></wf>
+    <wf id="29" sent="1" para="1" offset="142" length="10"><![CDATA[Commission]]></wf>
+    <wf id="30" sent="1" para="1" offset="152" length="4"><![CDATA[said]]></wf>
+    <wf id="31" sent="1" para="1" offset="156" length="2"><![CDATA[on]]></wf>
+    <wf id="32" sent="1" para="1" offset="158" length="6"><![CDATA[Friday]]></wf>
+    <wf id="33" sent="1" para="1" offset="164" length="1"><![CDATA[.]]></wf>
+    <wf id="34" sent="1" para="1" offset="165" length="3"><![CDATA[The]]></wf>
+    <wf id="35" sent="1" para="1" offset="168" length="2"><![CDATA[EU]]></wf>
+    <wf id="36" sent="1" para="1" offset="170" length="3"><![CDATA[had]]></wf>
+    <wf id="37" sent="1" para="1" offset="173" length="8"><![CDATA[objected]]></wf>
+    <wf id="38" sent="1" para="1" offset="181" length="2"><![CDATA[to]]></wf>
+    <wf id="39" sent="1" para="1" offset="183" length="9"><![CDATA[increases]]></wf>
+    <wf id="40" sent="1" para="1" offset="192" length="2"><![CDATA[in]]></wf>
+    <wf id="41" sent="1" para="1" offset="194" length="6"><![CDATA[Polish]]></wf>
+    <wf id="42" sent="1" para="1" offset="200" length="7"><![CDATA[tariffs]]></wf>
+    <wf id="43" sent="1" para="1" offset="207" length="2"><![CDATA[on]]></wf>
+    <wf id="44" sent="1" para="1" offset="209" length="7"><![CDATA[imports]]></wf>
+    <wf id="45" sent="1" para="1" offset="216" length="2"><![CDATA[of]]></wf>
+    <wf id="46" sent="1" para="1" offset="218" length="8"><![CDATA[gasoline]]></wf>
+    <wf id="47" sent="1" para="1" offset="226" length="3"><![CDATA[and]]></wf>
+    <wf id="48" sent="1" para="1" offset="229" length="6"><![CDATA[gasoil]]></wf>
+    <wf id="49" sent="1" para="1" offset="235" length="8"><![CDATA[products]]></wf>
+    <wf id="50" sent="1" para="1" offset="243" length="10"><![CDATA[introduced]]></wf>
+    <wf id="51" sent="1" para="1" offset="253" length="2"><![CDATA[on]]></wf>
+    <wf id="52" sent="1" para="1" offset="255" length="7"><![CDATA[January]]></wf>
+    <wf id="53" sent="1" para="1" offset="262" length="1"><![CDATA[1]]></wf>
+    <wf id="54" sent="1" para="1" offset="263" length="1"><![CDATA[,]]></wf>
+    <wf id="55" sent="1" para="1" offset="264" length="4"><![CDATA[1996]]></wf>
+    <wf id="56" sent="1" para="1" offset="268" length="1"><![CDATA[,]]></wf>
+    <wf id="57" sent="1" para="1" offset="269" length="6"><![CDATA[saying]]></wf>
+    <wf id="58" sent="1" para="1" offset="275" length="4"><![CDATA[they]]></wf>
+    <wf id="59" sent="1" para="1" offset="279" length="11"><![CDATA[contravened]]></wf>
+    <wf id="60" sent="1" para="1" offset="290" length="6"><![CDATA[levels]]></wf>
+    <wf id="61" sent="1" para="1" offset="296" length="9"><![CDATA[envisaged]]></wf>
+    <wf id="62" sent="1" para="1" offset="305" length="2"><![CDATA[in]]></wf>
+    <wf id="63" sent="1" para="1" offset="307" length="3"><![CDATA[the]]></wf>
+    <wf id="64" sent="1" para="1" offset="310" length="9"><![CDATA[so-called]]></wf>
+    <wf id="65" sent="1" para="1" offset="319" length="6"><![CDATA[Europe]]></wf>
+    <wf id="66" sent="1" para="1" offset="325" length="9"><![CDATA[Agreement]]></wf>
+    <wf id="67" sent="1" para="1" offset="334" length="7"><![CDATA[between]]></wf>
+    <wf id="68" sent="1" para="1" offset="341" length="3"><![CDATA[the]]></wf>
+    <wf id="69" sent="1" para="1" offset="344" length="2"><![CDATA[EU]]></wf>
+    <wf id="70" sent="1" para="1" offset="346" length="3"><![CDATA[and]]></wf>
+    <wf id="71" sent="1" para="1" offset="349" length="6"><![CDATA[Poland]]></wf>
+    <wf id="72" sent="1" para="1" offset="355" length="1"><![CDATA[.]]></wf>
+    <wf id="73" sent="1" para="1" offset="356" length="3"><![CDATA[The]]></wf>
+    <wf id="74" sent="1" para="1" offset="359" length="9"><![CDATA[increases]]></wf>
+    <wf id="75" sent="1" para="1" offset="368" length="4"><![CDATA[were]]></wf>
+    <wf id="76" sent="1" para="1" offset="372" length="5"><![CDATA[aimed]]></wf>
+    <wf id="77" sent="1" para="1" offset="377" length="2"><![CDATA[at]]></wf>
+    <wf id="78" sent="1" para="1" offset="379" length="10"><![CDATA[protecting]]></wf>
+    <wf id="79" sent="1" para="1" offset="389" length="3"><![CDATA[the]]></wf>
+    <wf id="80" sent="1" para="1" offset="392" length="6"><![CDATA[Polish]]></wf>
+    <wf id="81" sent="1" para="1" offset="398" length="6"><![CDATA[market]]></wf>
+    <wf id="82" sent="1" para="1" offset="404" length="5"><![CDATA[while]]></wf>
+    <wf id="83" sent="1" para="1" offset="409" length="7"><![CDATA[helping]]></wf>
+    <wf id="84" sent="1" para="1" offset="416" length="2"><![CDATA[to]]></wf>
+    <wf id="85" sent="1" para="1" offset="418" length="9"><![CDATA[modernise]]></wf>
+    <wf id="86" sent="1" para="1" offset="427" length="3"><![CDATA[the]]></wf>
+    <wf id="87" sent="1" para="1" offset="430" length="5"><![CDATA[local]]></wf>
+    <wf id="88" sent="1" para="1" offset="435" length="3"><![CDATA[oil]]></wf>
+    <wf id="89" sent="1" para="1" offset="438" length="8"><![CDATA[industry]]></wf>
+    <wf id="90" sent="1" para="1" offset="446" length="1"><![CDATA[.]]></wf>
+    <wf id="91" sent="1" para="1" offset="447" length="1"><![CDATA["]]></wf>
+    <wf id="92" sent="1" para="1" offset="448" length="3"><![CDATA[The]]></wf>
+    <wf id="93" sent="1" para="1" offset="451" length="2"><![CDATA[EU]]></wf>
+    <wf id="94" sent="1" para="1" offset="453" length="3"><![CDATA[and]]></wf>
+    <wf id="95" sent="1" para="1" offset="456" length="6"><![CDATA[Poland]]></wf>
+    <wf id="96" sent="1" para="1" offset="462" length="4"><![CDATA[have]]></wf>
+    <wf id="97" sent="1" para="1" offset="466" length="3"><![CDATA[now]]></wf>
+    <wf id="98" sent="1" para="1" offset="469" length="7"><![CDATA[reached]]></wf>
+    <wf id="99" sent="1" para="1" offset="476" length="1"><![CDATA[a]]></wf>
+    <wf id="100" sent="1" para="1" offset="477" length="5"><![CDATA[final]]></wf>
+    <wf id="101" sent="1" para="1" offset="482" length="10"><![CDATA[settlement]]></wf>
+    <wf id="102" sent="1" para="1" offset="492" length="9"><![CDATA[regarding]]></wf>
+    <wf id="103" sent="1" para="1" offset="501" length="6"><![CDATA[issues]]></wf>
+    <wf id="104" sent="1" para="1" offset="507" length="7"><![CDATA[related]]></wf>
+    <wf id="105" sent="1" para="1" offset="514" length="2"><![CDATA[to]]></wf>
+    <wf id="106" sent="1" para="1" offset="516" length="3"><![CDATA[the]]></wf>
+    <wf id="107" sent="1" para="1" offset="519" length="6"><![CDATA[Polish]]></wf>
+    <wf id="108" sent="1" para="1" offset="525" length="6"><![CDATA[import]]></wf>
+    <wf id="109" sent="1" para="1" offset="531" length="6"><![CDATA[regime]]></wf>
+    <wf id="110" sent="1" para="1" offset="537" length="2"><![CDATA[in]]></wf>
+    <wf id="111" sent="1" para="1" offset="539" length="3"><![CDATA[the]]></wf>
+    <wf id="112" sent="1" para="1" offset="542" length="4"><![CDATA[oils]]></wf>
+    <wf id="113" sent="1" para="1" offset="546" length="6"><![CDATA[sector]]></wf>
+    <wf id="114" sent="1" para="1" offset="552" length="1"><![CDATA[,]]></wf>
+    <wf id="115" sent="1" para="1" offset="553" length="1"><![CDATA["]]></wf>
+    <wf id="116" sent="1" para="1" offset="554" length="3"><![CDATA[the]]></wf>
+    <wf id="117" sent="1" para="1" offset="557" length="10"><![CDATA[Commission]]></wf>
+    <wf id="118" sent="1" para="1" offset="567" length="4"><![CDATA[said]]></wf>
+    <wf id="119" sent="1" para="1" offset="571" length="2"><![CDATA[in]]></wf>
+    <wf id="120" sent="1" para="1" offset="573" length="1"><![CDATA[a]]></wf>
+    <wf id="121" sent="1" para="1" offset="574" length="9"><![CDATA[statement]]></wf>
+    <wf id="122" sent="1" para="1" offset="583" length="1"><![CDATA[.]]></wf>
+    <wf id="123" sent="1" para="1" offset="584" length="5"><![CDATA[Under]]></wf>
+    <wf id="124" sent="1" para="1" offset="589" length="3"><![CDATA[the]]></wf>
+    <wf id="125" sent="1" para="1" offset="592" length="9"><![CDATA[agreement]]></wf>
+    <wf id="126" sent="1" para="1" offset="601" length="1"><![CDATA[,]]></wf>
+    <wf id="127" sent="1" para="1" offset="602" length="6"><![CDATA[Poland]]></wf>
+    <wf id="128" sent="1" para="1" offset="608" length="4"><![CDATA[will]]></wf>
+    <wf id="129" sent="1" para="1" offset="612" length="7"><![CDATA[abolish]]></wf>
+    <wf id="130" sent="1" para="1" offset="619" length="3"><![CDATA[all]]></wf>
+    <wf id="131" sent="1" para="1" offset="622" length="3"><![CDATA[oil]]></wf>
+    <wf id="132" sent="1" para="1" offset="625" length="6"><![CDATA[import]]></wf>
+    <wf id="133" sent="1" para="1" offset="631" length="7"><![CDATA[tariffs]]></wf>
+    <wf id="134" sent="1" para="1" offset="638" length="2"><![CDATA[by]]></wf>
+    <wf id="135" sent="1" para="1" offset="640" length="4"><![CDATA[2001]]></wf>
+    <wf id="136" sent="1" para="1" offset="644" length="1"><![CDATA[,]]></wf>
+    <wf id="137" sent="1" para="1" offset="645" length="6"><![CDATA[remove]]></wf>
+    <wf id="138" sent="1" para="1" offset="651" length="3"><![CDATA[all]]></wf>
+    <wf id="139" sent="1" para="1" offset="654" length="3"><![CDATA[oil]]></wf>
+    <wf id="140" sent="1" para="1" offset="657" length="5"><![CDATA[price]]></wf>
+    <wf id="141" sent="1" para="1" offset="662" length="8"><![CDATA[controls]]></wf>
+    <wf id="142" sent="1" para="1" offset="670" length="3"><![CDATA[and]]></wf>
+    <wf id="143" sent="1" para="1" offset="673" length="3"><![CDATA[end]]></wf>
+    <wf id="144" sent="1" para="1" offset="676" length="12"><![CDATA[quantitative]]></wf>
+    <wf id="145" sent="1" para="1" offset="688" length="12"><![CDATA[restrictions]]></wf>
+    <wf id="146" sent="1" para="1" offset="700" length="2"><![CDATA[on]]></wf>
+    <wf id="147" sent="1" para="1" offset="702" length="7"><![CDATA[imports]]></wf>
+    <wf id="148" sent="1" para="1" offset="709" length="2"><![CDATA[by]]></wf>
+    <wf id="149" sent="1" para="1" offset="711" length="7"><![CDATA[January]]></wf>
+    <wf id="150" sent="1" para="1" offset="718" length="1"><![CDATA[1]]></wf>
+    <wf id="151" sent="1" para="1" offset="719" length="1"><![CDATA[,]]></wf>
+    <wf id="152" sent="1" para="1" offset="720" length="4"><![CDATA[1997]]></wf>
+    <wf id="153" sent="1" para="1" offset="724" length="1"><![CDATA[.]]></wf>
+    <wf id="154" sent="1" para="1" offset="725" length="3"><![CDATA[The]]></wf>
+    <wf id="155" sent="1" para="1" offset="728" length="9"><![CDATA[agreement]]></wf>
+    <wf id="156" sent="1" para="1" offset="737" length="8"><![CDATA[includes]]></wf>
+    <wf id="157" sent="1" para="1" offset="745" length="3"><![CDATA[the]]></wf>
+    <wf id="158" sent="1" para="1" offset="748" length="5"><![CDATA[early]]></wf>
+    <wf id="159" sent="1" para="1" offset="753" length="13"><![CDATA[privatisation]]></wf>
+    <wf id="160" sent="1" para="1" offset="766" length="3"><![CDATA[and]]></wf>
+    <wf id="161" sent="1" para="1" offset="769" length="13"><![CDATA[modernisation]]></wf>
+    <wf id="162" sent="1" para="1" offset="782" length="2"><![CDATA[of]]></wf>
+    <wf id="163" sent="1" para="1" offset="784" length="6"><![CDATA[Polish]]></wf>
+    <wf id="164" sent="1" para="1" offset="790" length="3"><![CDATA[oil]]></wf>
+    <wf id="165" sent="1" para="1" offset="793" length="10"><![CDATA[refineries]]></wf>
+    <wf id="166" sent="1" para="1" offset="803" length="1"><![CDATA[,]]></wf>
+    <wf id="167" sent="1" para="1" offset="804" length="5"><![CDATA[which]]></wf>
+    <wf id="168" sent="1" para="1" offset="809" length="4"><![CDATA[will]]></wf>
+    <wf id="169" sent="1" para="1" offset="813" length="2"><![CDATA[be]]></wf>
+    <wf id="170" sent="1" para="1" offset="815" length="7"><![CDATA[obliged]]></wf>
+    <wf id="171" sent="1" para="1" offset="822" length="2"><![CDATA[to]]></wf>
+    <wf id="172" sent="1" para="1" offset="824" length="5"><![CDATA[offer]]></wf>
+    <wf id="173" sent="1" para="1" offset="829" length="5"><![CDATA[equal]]></wf>
+    <wf id="174" sent="1" para="1" offset="834" length="9"><![CDATA[treatment]]></wf>
+    <wf id="175" sent="1" para="1" offset="843" length="2"><![CDATA[to]]></wf>
+    <wf id="176" sent="1" para="1" offset="845" length="3"><![CDATA[all]]></wf>
+    <wf id="177" sent="1" para="1" offset="848" length="6"><![CDATA[buyers]]></wf>
+    <wf id="178" sent="1" para="1" offset="854" length="1"><![CDATA[.]]></wf>
+    <wf id="179" sent="1" para="1" offset="855" length="3"><![CDATA[The]]></wf>
+    <wf id="180" sent="1" para="1" offset="858" length="2"><![CDATA[EU]]></wf>
+    <wf id="181" sent="1" para="1" offset="860" length="3"><![CDATA[and]]></wf>
+    <wf id="182" sent="1" para="1" offset="863" length="6"><![CDATA[Poland]]></wf>
+    <wf id="183" sent="1" para="1" offset="869" length="4"><![CDATA[will]]></wf>
+    <wf id="184" sent="1" para="1" offset="873" length="7"><![CDATA[monitor]]></wf>
+    <wf id="185" sent="1" para="1" offset="880" length="3"><![CDATA[the]]></wf>
+    <wf id="186" sent="1" para="1" offset="883" length="10"><![CDATA[settlement]]></wf>
+    <wf id="187" sent="1" para="1" offset="893" length="2"><![CDATA[at]]></wf>
+    <wf id="188" sent="1" para="1" offset="895" length="11"><![CDATA[six-monthly]]></wf>
+    <wf id="189" sent="1" para="1" offset="906" length="8"><![CDATA[meetings]]></wf>
+    <wf id="190" sent="1" para="1" offset="914" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="EU">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma=",">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="Poland">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="agree">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="on">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="oil">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="import">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="tariffs">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma=".">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="BRUSSELS">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="1996-12-06">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="The">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="European">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Union">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="and">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="Poland">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="have">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="resolved">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="disagreements">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="over">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="a">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="new">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="Polish">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="oil">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="import">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="regime">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma=",">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="the">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="European">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="Commission">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="said">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="on">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="Friday">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma=".">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="The">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="EU">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="had">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="objected">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="to">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="increases">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="in">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="Polish">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="tariffs">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="on">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="imports">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="of">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="gasoline">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="and">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="gasoil">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="products">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="introduced">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="on">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="January">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="1">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma=",">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="1996">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma=",">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="saying">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="they">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="contravened">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="levels">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="envisaged">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="in">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="the">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="so-called">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="Europe">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="Agreement">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="between">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="the">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="EU">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="and">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="Poland">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma=".">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="The">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="increases">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="were">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="aimed">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="at">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="protecting">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="the">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="Polish">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="market">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="while">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="helping">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="to">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="modernise">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="the">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="local">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="oil">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="industry">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma=".">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="&quot;">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="The">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="EU">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="and">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="Poland">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="have">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="now">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="reached">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="a">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="final">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="settlement">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="regarding">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="issues">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="related">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="to">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="the">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="Polish">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="import">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="regime">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="in">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="the">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="oils">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="sector">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma=",">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="&quot;">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="the">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="Commission">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="said">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="in">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="a">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="statement">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma=".">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="Under">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="the">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="agreement">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma=",">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="Poland">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="will">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="abolish">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="all">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="oil">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="import">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="tariffs">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="by">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="2001">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma=",">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="remove">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="all">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="oil">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="price">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="controls">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="and">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="end">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="quantitative">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="restrictions">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="on">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="imports">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="by">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="January">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="1">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma=",">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="1997">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma=".">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="The">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="agreement">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="includes">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="the">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="early">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="privatisation">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="and">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="modernisation">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="of">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="Polish">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="oil">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="refineries">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma=",">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="which">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="will">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="be">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="obliged">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="to">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma="offer">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="equal">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="treatment">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma="to">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="all">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma="buyers">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma=".">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="The">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="EU">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="and">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="Poland">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="will">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma="monitor">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="the">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma="settlement">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="at">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma="six-monthly">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="meetings">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma=".">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="3077">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="0"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3078">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Poland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="2"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3079">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Brussels" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3080">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/European_Union" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+          <target id="13"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3081">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Poland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="15"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3082">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Poland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="22"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3083">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/European_Commission" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="28"/>
+          <target id="29"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3084">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="35"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3085">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Poland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="41"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3086">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Europe" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="65"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3087">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="69"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3088">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Poland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="71"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3089">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Poland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="80"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3090">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="93"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3091">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Poland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="95"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3092">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Poland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="107"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3093">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/European_Commission" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="117"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3094">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Poland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="127"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3095">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Poland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="163"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3096">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="180"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3097">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Poland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="182"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

@@ -1,0 +1,1627 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[BOBSLEIGH-WORLD CUP TWO-MAN RESULTS . IGLS , Austria 1996-12-07 Results of a World Cup two-man bobsleigh event on Saturday : 1. United States III ( Brian Shimer , Randy Jones ) one minute 45.91 seconds ( 52.90 / 53.01 ) 2. Italy I ( Guenther Huber , Antonio Tartaglia ) 1:45.93 ( 52.74 / 53.19 ) 3. Canada I ( Pierre Lueders , Dave MacEachern ) 1:45.94 ( 52.76 / 53.18 ) 4. German I ( Sepp Dostthaler , Thomas Lebsa ) 1:45.95 ( 52.82 / 53.13 ) 5. Switzerland I ( Reto Goetschi , Guido Acklin ) 1:45.98 ( 52.91 / 53.07 ) 6. Germany III ( Dirk Wiese , Jakobs Marco ) 1:46.02 ( 52.89 / 53.13 ) 7. Czech Republic I ( Jiri Dzmura , Pavel Polomsky ) 1:46.06 ( 53.01 / 53.05 ) 8. Austria I ( Hubert Schoesser , Erwin Arnold ) 1:46.13 ( 52.92 / 53.21 ) 9. Britain I ( Sean Olsson , Dean Ward ) 1:46.26 ( 52.97/ 53.29 ) 10 equal . United States I ( Jim Herberich , Garrett Hines ) 1:46.34 ( 53.14 / 53.20 ) and Austria III ( Hannes Conti , Georg Kuttner ) 1:46.34 ( 53.30/ 53.04). ]]></raw>
+  <nafHeader>
+    <fileDesc title="1355testb" filename="1355testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="15"><![CDATA[BOBSLEIGH-WORLD]]></wf>
+    <wf id="1" sent="1" para="1" offset="15" length="3"><![CDATA[CUP]]></wf>
+    <wf id="2" sent="1" para="1" offset="18" length="7"><![CDATA[TWO-MAN]]></wf>
+    <wf id="3" sent="1" para="1" offset="25" length="7"><![CDATA[RESULTS]]></wf>
+    <wf id="4" sent="1" para="1" offset="32" length="1"><![CDATA[.]]></wf>
+    <wf id="5" sent="1" para="1" offset="33" length="4"><![CDATA[IGLS]]></wf>
+    <wf id="6" sent="1" para="1" offset="37" length="1"><![CDATA[,]]></wf>
+    <wf id="7" sent="1" para="1" offset="38" length="7"><![CDATA[Austria]]></wf>
+    <wf id="8" sent="1" para="1" offset="45" length="10"><![CDATA[1996-12-07]]></wf>
+    <wf id="9" sent="1" para="1" offset="55" length="7"><![CDATA[Results]]></wf>
+    <wf id="10" sent="1" para="1" offset="62" length="2"><![CDATA[of]]></wf>
+    <wf id="11" sent="1" para="1" offset="64" length="1"><![CDATA[a]]></wf>
+    <wf id="12" sent="1" para="1" offset="65" length="5"><![CDATA[World]]></wf>
+    <wf id="13" sent="1" para="1" offset="70" length="3"><![CDATA[Cup]]></wf>
+    <wf id="14" sent="1" para="1" offset="73" length="7"><![CDATA[two-man]]></wf>
+    <wf id="15" sent="1" para="1" offset="80" length="9"><![CDATA[bobsleigh]]></wf>
+    <wf id="16" sent="1" para="1" offset="89" length="5"><![CDATA[event]]></wf>
+    <wf id="17" sent="1" para="1" offset="94" length="2"><![CDATA[on]]></wf>
+    <wf id="18" sent="1" para="1" offset="96" length="8"><![CDATA[Saturday]]></wf>
+    <wf id="19" sent="1" para="1" offset="104" length="1"><![CDATA[:]]></wf>
+    <wf id="20" sent="1" para="1" offset="105" length="2"><![CDATA[1.]]></wf>
+    <wf id="21" sent="1" para="1" offset="107" length="6"><![CDATA[United]]></wf>
+    <wf id="22" sent="1" para="1" offset="113" length="6"><![CDATA[States]]></wf>
+    <wf id="23" sent="1" para="1" offset="119" length="3"><![CDATA[III]]></wf>
+    <wf id="24" sent="1" para="1" offset="122" length="1"><![CDATA[(]]></wf>
+    <wf id="25" sent="1" para="1" offset="123" length="5"><![CDATA[Brian]]></wf>
+    <wf id="26" sent="1" para="1" offset="128" length="6"><![CDATA[Shimer]]></wf>
+    <wf id="27" sent="1" para="1" offset="134" length="1"><![CDATA[,]]></wf>
+    <wf id="28" sent="1" para="1" offset="135" length="5"><![CDATA[Randy]]></wf>
+    <wf id="29" sent="1" para="1" offset="140" length="5"><![CDATA[Jones]]></wf>
+    <wf id="30" sent="1" para="1" offset="145" length="1"><![CDATA[)]]></wf>
+    <wf id="31" sent="1" para="1" offset="146" length="3"><![CDATA[one]]></wf>
+    <wf id="32" sent="1" para="1" offset="149" length="6"><![CDATA[minute]]></wf>
+    <wf id="33" sent="1" para="1" offset="155" length="5"><![CDATA[45.91]]></wf>
+    <wf id="34" sent="1" para="1" offset="160" length="7"><![CDATA[seconds]]></wf>
+    <wf id="35" sent="1" para="1" offset="167" length="1"><![CDATA[(]]></wf>
+    <wf id="36" sent="1" para="1" offset="168" length="5"><![CDATA[52.90]]></wf>
+    <wf id="37" sent="1" para="1" offset="173" length="1"><![CDATA[/]]></wf>
+    <wf id="38" sent="1" para="1" offset="174" length="5"><![CDATA[53.01]]></wf>
+    <wf id="39" sent="1" para="1" offset="179" length="1"><![CDATA[)]]></wf>
+    <wf id="40" sent="1" para="1" offset="180" length="2"><![CDATA[2.]]></wf>
+    <wf id="41" sent="1" para="1" offset="182" length="5"><![CDATA[Italy]]></wf>
+    <wf id="42" sent="1" para="1" offset="187" length="1"><![CDATA[I]]></wf>
+    <wf id="43" sent="1" para="1" offset="188" length="1"><![CDATA[(]]></wf>
+    <wf id="44" sent="1" para="1" offset="189" length="8"><![CDATA[Guenther]]></wf>
+    <wf id="45" sent="1" para="1" offset="197" length="5"><![CDATA[Huber]]></wf>
+    <wf id="46" sent="1" para="1" offset="202" length="1"><![CDATA[,]]></wf>
+    <wf id="47" sent="1" para="1" offset="203" length="7"><![CDATA[Antonio]]></wf>
+    <wf id="48" sent="1" para="1" offset="210" length="9"><![CDATA[Tartaglia]]></wf>
+    <wf id="49" sent="1" para="1" offset="219" length="1"><![CDATA[)]]></wf>
+    <wf id="50" sent="1" para="1" offset="220" length="7"><![CDATA[1:45.93]]></wf>
+    <wf id="51" sent="1" para="1" offset="227" length="1"><![CDATA[(]]></wf>
+    <wf id="52" sent="1" para="1" offset="228" length="5"><![CDATA[52.74]]></wf>
+    <wf id="53" sent="1" para="1" offset="233" length="1"><![CDATA[/]]></wf>
+    <wf id="54" sent="1" para="1" offset="234" length="5"><![CDATA[53.19]]></wf>
+    <wf id="55" sent="1" para="1" offset="239" length="1"><![CDATA[)]]></wf>
+    <wf id="56" sent="1" para="1" offset="240" length="2"><![CDATA[3.]]></wf>
+    <wf id="57" sent="1" para="1" offset="242" length="6"><![CDATA[Canada]]></wf>
+    <wf id="58" sent="1" para="1" offset="248" length="1"><![CDATA[I]]></wf>
+    <wf id="59" sent="1" para="1" offset="249" length="1"><![CDATA[(]]></wf>
+    <wf id="60" sent="1" para="1" offset="250" length="6"><![CDATA[Pierre]]></wf>
+    <wf id="61" sent="1" para="1" offset="256" length="7"><![CDATA[Lueders]]></wf>
+    <wf id="62" sent="1" para="1" offset="263" length="1"><![CDATA[,]]></wf>
+    <wf id="63" sent="1" para="1" offset="264" length="4"><![CDATA[Dave]]></wf>
+    <wf id="64" sent="1" para="1" offset="268" length="10"><![CDATA[MacEachern]]></wf>
+    <wf id="65" sent="1" para="1" offset="278" length="1"><![CDATA[)]]></wf>
+    <wf id="66" sent="1" para="1" offset="279" length="7"><![CDATA[1:45.94]]></wf>
+    <wf id="67" sent="1" para="1" offset="286" length="1"><![CDATA[(]]></wf>
+    <wf id="68" sent="1" para="1" offset="287" length="5"><![CDATA[52.76]]></wf>
+    <wf id="69" sent="1" para="1" offset="292" length="1"><![CDATA[/]]></wf>
+    <wf id="70" sent="1" para="1" offset="293" length="5"><![CDATA[53.18]]></wf>
+    <wf id="71" sent="1" para="1" offset="298" length="1"><![CDATA[)]]></wf>
+    <wf id="72" sent="1" para="1" offset="299" length="2"><![CDATA[4.]]></wf>
+    <wf id="73" sent="1" para="1" offset="301" length="6"><![CDATA[German]]></wf>
+    <wf id="74" sent="1" para="1" offset="307" length="1"><![CDATA[I]]></wf>
+    <wf id="75" sent="1" para="1" offset="308" length="1"><![CDATA[(]]></wf>
+    <wf id="76" sent="1" para="1" offset="309" length="4"><![CDATA[Sepp]]></wf>
+    <wf id="77" sent="1" para="1" offset="313" length="10"><![CDATA[Dostthaler]]></wf>
+    <wf id="78" sent="1" para="1" offset="323" length="1"><![CDATA[,]]></wf>
+    <wf id="79" sent="1" para="1" offset="324" length="6"><![CDATA[Thomas]]></wf>
+    <wf id="80" sent="1" para="1" offset="330" length="5"><![CDATA[Lebsa]]></wf>
+    <wf id="81" sent="1" para="1" offset="335" length="1"><![CDATA[)]]></wf>
+    <wf id="82" sent="1" para="1" offset="336" length="7"><![CDATA[1:45.95]]></wf>
+    <wf id="83" sent="1" para="1" offset="343" length="1"><![CDATA[(]]></wf>
+    <wf id="84" sent="1" para="1" offset="344" length="5"><![CDATA[52.82]]></wf>
+    <wf id="85" sent="1" para="1" offset="349" length="1"><![CDATA[/]]></wf>
+    <wf id="86" sent="1" para="1" offset="350" length="5"><![CDATA[53.13]]></wf>
+    <wf id="87" sent="1" para="1" offset="355" length="1"><![CDATA[)]]></wf>
+    <wf id="88" sent="1" para="1" offset="356" length="2"><![CDATA[5.]]></wf>
+    <wf id="89" sent="1" para="1" offset="358" length="11"><![CDATA[Switzerland]]></wf>
+    <wf id="90" sent="1" para="1" offset="369" length="1"><![CDATA[I]]></wf>
+    <wf id="91" sent="1" para="1" offset="370" length="1"><![CDATA[(]]></wf>
+    <wf id="92" sent="1" para="1" offset="371" length="4"><![CDATA[Reto]]></wf>
+    <wf id="93" sent="1" para="1" offset="375" length="8"><![CDATA[Goetschi]]></wf>
+    <wf id="94" sent="1" para="1" offset="383" length="1"><![CDATA[,]]></wf>
+    <wf id="95" sent="1" para="1" offset="384" length="5"><![CDATA[Guido]]></wf>
+    <wf id="96" sent="1" para="1" offset="389" length="6"><![CDATA[Acklin]]></wf>
+    <wf id="97" sent="1" para="1" offset="395" length="1"><![CDATA[)]]></wf>
+    <wf id="98" sent="1" para="1" offset="396" length="7"><![CDATA[1:45.98]]></wf>
+    <wf id="99" sent="1" para="1" offset="403" length="1"><![CDATA[(]]></wf>
+    <wf id="100" sent="1" para="1" offset="404" length="5"><![CDATA[52.91]]></wf>
+    <wf id="101" sent="1" para="1" offset="409" length="1"><![CDATA[/]]></wf>
+    <wf id="102" sent="1" para="1" offset="410" length="5"><![CDATA[53.07]]></wf>
+    <wf id="103" sent="1" para="1" offset="415" length="1"><![CDATA[)]]></wf>
+    <wf id="104" sent="1" para="1" offset="416" length="2"><![CDATA[6.]]></wf>
+    <wf id="105" sent="1" para="1" offset="418" length="7"><![CDATA[Germany]]></wf>
+    <wf id="106" sent="1" para="1" offset="425" length="3"><![CDATA[III]]></wf>
+    <wf id="107" sent="1" para="1" offset="428" length="1"><![CDATA[(]]></wf>
+    <wf id="108" sent="1" para="1" offset="429" length="4"><![CDATA[Dirk]]></wf>
+    <wf id="109" sent="1" para="1" offset="433" length="5"><![CDATA[Wiese]]></wf>
+    <wf id="110" sent="1" para="1" offset="438" length="1"><![CDATA[,]]></wf>
+    <wf id="111" sent="1" para="1" offset="439" length="6"><![CDATA[Jakobs]]></wf>
+    <wf id="112" sent="1" para="1" offset="445" length="5"><![CDATA[Marco]]></wf>
+    <wf id="113" sent="1" para="1" offset="450" length="1"><![CDATA[)]]></wf>
+    <wf id="114" sent="1" para="1" offset="451" length="7"><![CDATA[1:46.02]]></wf>
+    <wf id="115" sent="1" para="1" offset="458" length="1"><![CDATA[(]]></wf>
+    <wf id="116" sent="1" para="1" offset="459" length="5"><![CDATA[52.89]]></wf>
+    <wf id="117" sent="1" para="1" offset="464" length="1"><![CDATA[/]]></wf>
+    <wf id="118" sent="1" para="1" offset="465" length="5"><![CDATA[53.13]]></wf>
+    <wf id="119" sent="1" para="1" offset="470" length="1"><![CDATA[)]]></wf>
+    <wf id="120" sent="1" para="1" offset="471" length="2"><![CDATA[7.]]></wf>
+    <wf id="121" sent="1" para="1" offset="473" length="5"><![CDATA[Czech]]></wf>
+    <wf id="122" sent="1" para="1" offset="478" length="8"><![CDATA[Republic]]></wf>
+    <wf id="123" sent="1" para="1" offset="486" length="1"><![CDATA[I]]></wf>
+    <wf id="124" sent="1" para="1" offset="487" length="1"><![CDATA[(]]></wf>
+    <wf id="125" sent="1" para="1" offset="488" length="4"><![CDATA[Jiri]]></wf>
+    <wf id="126" sent="1" para="1" offset="492" length="6"><![CDATA[Dzmura]]></wf>
+    <wf id="127" sent="1" para="1" offset="498" length="1"><![CDATA[,]]></wf>
+    <wf id="128" sent="1" para="1" offset="499" length="5"><![CDATA[Pavel]]></wf>
+    <wf id="129" sent="1" para="1" offset="504" length="8"><![CDATA[Polomsky]]></wf>
+    <wf id="130" sent="1" para="1" offset="512" length="1"><![CDATA[)]]></wf>
+    <wf id="131" sent="1" para="1" offset="513" length="7"><![CDATA[1:46.06]]></wf>
+    <wf id="132" sent="1" para="1" offset="520" length="1"><![CDATA[(]]></wf>
+    <wf id="133" sent="1" para="1" offset="521" length="5"><![CDATA[53.01]]></wf>
+    <wf id="134" sent="1" para="1" offset="526" length="1"><![CDATA[/]]></wf>
+    <wf id="135" sent="1" para="1" offset="527" length="5"><![CDATA[53.05]]></wf>
+    <wf id="136" sent="1" para="1" offset="532" length="1"><![CDATA[)]]></wf>
+    <wf id="137" sent="1" para="1" offset="533" length="2"><![CDATA[8.]]></wf>
+    <wf id="138" sent="1" para="1" offset="535" length="7"><![CDATA[Austria]]></wf>
+    <wf id="139" sent="1" para="1" offset="542" length="1"><![CDATA[I]]></wf>
+    <wf id="140" sent="1" para="1" offset="543" length="1"><![CDATA[(]]></wf>
+    <wf id="141" sent="1" para="1" offset="544" length="6"><![CDATA[Hubert]]></wf>
+    <wf id="142" sent="1" para="1" offset="550" length="9"><![CDATA[Schoesser]]></wf>
+    <wf id="143" sent="1" para="1" offset="559" length="1"><![CDATA[,]]></wf>
+    <wf id="144" sent="1" para="1" offset="560" length="5"><![CDATA[Erwin]]></wf>
+    <wf id="145" sent="1" para="1" offset="565" length="6"><![CDATA[Arnold]]></wf>
+    <wf id="146" sent="1" para="1" offset="571" length="1"><![CDATA[)]]></wf>
+    <wf id="147" sent="1" para="1" offset="572" length="7"><![CDATA[1:46.13]]></wf>
+    <wf id="148" sent="1" para="1" offset="579" length="1"><![CDATA[(]]></wf>
+    <wf id="149" sent="1" para="1" offset="580" length="5"><![CDATA[52.92]]></wf>
+    <wf id="150" sent="1" para="1" offset="585" length="1"><![CDATA[/]]></wf>
+    <wf id="151" sent="1" para="1" offset="586" length="5"><![CDATA[53.21]]></wf>
+    <wf id="152" sent="1" para="1" offset="591" length="1"><![CDATA[)]]></wf>
+    <wf id="153" sent="1" para="1" offset="592" length="2"><![CDATA[9.]]></wf>
+    <wf id="154" sent="1" para="1" offset="594" length="7"><![CDATA[Britain]]></wf>
+    <wf id="155" sent="1" para="1" offset="601" length="1"><![CDATA[I]]></wf>
+    <wf id="156" sent="1" para="1" offset="602" length="1"><![CDATA[(]]></wf>
+    <wf id="157" sent="1" para="1" offset="603" length="4"><![CDATA[Sean]]></wf>
+    <wf id="158" sent="1" para="1" offset="607" length="6"><![CDATA[Olsson]]></wf>
+    <wf id="159" sent="1" para="1" offset="613" length="1"><![CDATA[,]]></wf>
+    <wf id="160" sent="1" para="1" offset="614" length="4"><![CDATA[Dean]]></wf>
+    <wf id="161" sent="1" para="1" offset="618" length="4"><![CDATA[Ward]]></wf>
+    <wf id="162" sent="1" para="1" offset="622" length="1"><![CDATA[)]]></wf>
+    <wf id="163" sent="1" para="1" offset="623" length="7"><![CDATA[1:46.26]]></wf>
+    <wf id="164" sent="1" para="1" offset="630" length="1"><![CDATA[(]]></wf>
+    <wf id="165" sent="1" para="1" offset="631" length="6"><![CDATA[52.97/]]></wf>
+    <wf id="166" sent="1" para="1" offset="637" length="5"><![CDATA[53.29]]></wf>
+    <wf id="167" sent="1" para="1" offset="642" length="1"><![CDATA[)]]></wf>
+    <wf id="168" sent="1" para="1" offset="643" length="2"><![CDATA[10]]></wf>
+    <wf id="169" sent="1" para="1" offset="645" length="5"><![CDATA[equal]]></wf>
+    <wf id="170" sent="1" para="1" offset="650" length="1"><![CDATA[.]]></wf>
+    <wf id="171" sent="1" para="1" offset="651" length="6"><![CDATA[United]]></wf>
+    <wf id="172" sent="1" para="1" offset="657" length="6"><![CDATA[States]]></wf>
+    <wf id="173" sent="1" para="1" offset="663" length="1"><![CDATA[I]]></wf>
+    <wf id="174" sent="1" para="1" offset="664" length="1"><![CDATA[(]]></wf>
+    <wf id="175" sent="1" para="1" offset="665" length="3"><![CDATA[Jim]]></wf>
+    <wf id="176" sent="1" para="1" offset="668" length="9"><![CDATA[Herberich]]></wf>
+    <wf id="177" sent="1" para="1" offset="677" length="1"><![CDATA[,]]></wf>
+    <wf id="178" sent="1" para="1" offset="678" length="7"><![CDATA[Garrett]]></wf>
+    <wf id="179" sent="1" para="1" offset="685" length="5"><![CDATA[Hines]]></wf>
+    <wf id="180" sent="1" para="1" offset="690" length="1"><![CDATA[)]]></wf>
+    <wf id="181" sent="1" para="1" offset="691" length="7"><![CDATA[1:46.34]]></wf>
+    <wf id="182" sent="1" para="1" offset="698" length="1"><![CDATA[(]]></wf>
+    <wf id="183" sent="1" para="1" offset="699" length="5"><![CDATA[53.14]]></wf>
+    <wf id="184" sent="1" para="1" offset="704" length="1"><![CDATA[/]]></wf>
+    <wf id="185" sent="1" para="1" offset="705" length="5"><![CDATA[53.20]]></wf>
+    <wf id="186" sent="1" para="1" offset="710" length="1"><![CDATA[)]]></wf>
+    <wf id="187" sent="1" para="1" offset="711" length="3"><![CDATA[and]]></wf>
+    <wf id="188" sent="1" para="1" offset="714" length="7"><![CDATA[Austria]]></wf>
+    <wf id="189" sent="1" para="1" offset="721" length="3"><![CDATA[III]]></wf>
+    <wf id="190" sent="1" para="1" offset="724" length="1"><![CDATA[(]]></wf>
+    <wf id="191" sent="1" para="1" offset="725" length="6"><![CDATA[Hannes]]></wf>
+    <wf id="192" sent="1" para="1" offset="731" length="5"><![CDATA[Conti]]></wf>
+    <wf id="193" sent="1" para="1" offset="736" length="1"><![CDATA[,]]></wf>
+    <wf id="194" sent="1" para="1" offset="737" length="5"><![CDATA[Georg]]></wf>
+    <wf id="195" sent="1" para="1" offset="742" length="7"><![CDATA[Kuttner]]></wf>
+    <wf id="196" sent="1" para="1" offset="749" length="1"><![CDATA[)]]></wf>
+    <wf id="197" sent="1" para="1" offset="750" length="7"><![CDATA[1:46.34]]></wf>
+    <wf id="198" sent="1" para="1" offset="757" length="1"><![CDATA[(]]></wf>
+    <wf id="199" sent="1" para="1" offset="758" length="6"><![CDATA[53.30/]]></wf>
+    <wf id="200" sent="1" para="1" offset="764" length="7"><![CDATA[53.04).]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="BOBSLEIGH-WORLD">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="CUP">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="TWO-MAN">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="RESULTS">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma=".">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="IGLS">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma=",">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="Austria">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="1996-12-07">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="Results">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="of">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="a">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="World">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Cup">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="two-man">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="bobsleigh">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="event">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="on">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="Saturday">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma=":">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="1.">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="United">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="States">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="III">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="(">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="Brian">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="Shimer">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma=",">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="Randy">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="Jones">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma=")">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="one">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="minute">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="45.91">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="seconds">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="(">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="52.90">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="/">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="53.01">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma=")">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="2.">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="Italy">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="I">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="(">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="Guenther">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="Huber">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma=",">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="Antonio">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="Tartaglia">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma=")">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="1:45.93">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="(">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="52.74">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="/">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="53.19">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma=")">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="3.">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="Canada">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="I">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="(">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="Pierre">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="Lueders">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma=",">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="Dave">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="MacEachern">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma=")">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="1:45.94">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="(">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="52.76">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="/">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="53.18">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma=")">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="4.">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="German">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="I">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="(">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="Sepp">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="Dostthaler">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma=",">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="Thomas">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="Lebsa">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma=")">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="1:45.95">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="(">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="52.82">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="/">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="53.13">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma=")">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="5.">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="Switzerland">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="I">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="(">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="Reto">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="Goetschi">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma=",">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="Guido">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="Acklin">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma=")">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="1:45.98">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="(">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="52.91">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="/">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="53.07">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma=")">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="6.">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="Germany">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="III">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="(">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="Dirk">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="Wiese">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma=",">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="Jakobs">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="Marco">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma=")">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="1:46.02">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="(">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="52.89">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="/">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="53.13">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma=")">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="7.">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="Czech">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="Republic">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="I">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="(">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="Jiri">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="Dzmura">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma=",">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="Pavel">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="Polomsky">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma=")">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="1:46.06">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="(">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="53.01">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="/">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="53.05">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma=")">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="8.">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="Austria">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="I">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="(">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="Hubert">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="Schoesser">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma=",">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="Erwin">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="Arnold">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma=")">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="1:46.13">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="(">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="52.92">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="/">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="53.21">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma=")">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma="9.">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="Britain">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="I">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="(">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="Sean">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="Olsson">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma=",">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="Dean">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="Ward">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma=")">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="1:46.26">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="(">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="52.97/">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="53.29">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma=")">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="10">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="equal">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma=".">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="United">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma="States">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="I">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="(">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma="Jim">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="Herberich">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma=",">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="Garrett">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="Hines">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma=")">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="1:46.34">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="(">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="53.14">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma="/">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="53.20">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma=")">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="and">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma="Austria">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="III">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma="(">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma="Hannes">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="Conti">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma=",">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma="Georg">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma="Kuttner">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma=")">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="1:46.34">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma="(">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma="53.30/">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma="53.04).">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="4329">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="0"/>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4330">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="5"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4331">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Austria" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="7"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4332">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+          <target id="13"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4333">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="21"/>
+          <target id="22"/>
+          <target id="23"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4334">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Brian_Shimer" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="25"/>
+          <target id="26"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4335">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Randy_Jones_(bobsleigh)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="28"/>
+          <target id="29"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4336">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="41"/>
+          <target id="42"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4337">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="44"/>
+          <target id="45"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4338">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Antonio_Tartaglia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="47"/>
+          <target id="48"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4339">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="57"/>
+          <target id="58"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4340">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pierre_Lueders" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="60"/>
+          <target id="61"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4341">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/David_MacEachern" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="63"/>
+          <target id="64"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4342">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="73"/>
+          <target id="74"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4343">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Sepp_Dostthaler" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="76"/>
+          <target id="77"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4344">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="79"/>
+          <target id="80"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4345">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="89"/>
+          <target id="90"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4346">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="92"/>
+          <target id="93"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4347">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Guido_Acklin" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="95"/>
+          <target id="96"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4348">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="105"/>
+          <target id="106"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4349">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dirk_Wiese" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="108"/>
+          <target id="109"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4350">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="111"/>
+          <target id="112"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4351">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="121"/>
+          <target id="122"/>
+          <target id="123"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4352">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="125"/>
+          <target id="126"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4353">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="128"/>
+          <target id="129"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4354">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="138"/>
+          <target id="139"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4355">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="141"/>
+          <target id="142"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4356">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="144"/>
+          <target id="145"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4357">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="154"/>
+          <target id="155"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4358">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Sean_Olsson" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="157"/>
+          <target id="158"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4359">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dean_Ward" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="160"/>
+          <target id="161"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4360">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="171"/>
+          <target id="172"/>
+          <target id="173"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4361">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="175"/>
+          <target id="176"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4362">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Garrett_Hines" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="178"/>
+          <target id="179"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4363">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="188"/>
+          <target id="189"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4364">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="191"/>
+          <target id="192"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4365">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="194"/>
+          <target id="195"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

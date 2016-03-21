@@ -1,0 +1,831 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[Bomb explodes at mosque in central Bulgaria . SOFIA 1996-12-06 A bomb exploded on Friday at a mosque in the central Bulgarian town of Kazanluk , causing damage but no injuries , state radio said . Violent crime has soared since the collapse of communism in 1989 as Bulgaria moves to a market economy . Bombings are often carried out by criminals to settle scores but the motive in this case was not immediately clear . Some residents of the Kazanluk area are Moslems who converted to Islam during Ottoman Turkish rule . The majority in Bulgaria are Christians . The radio quoted police as saying the blast broke windows and shattered the door of the mosque . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1256testb" filename="1256testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="4"><![CDATA[Bomb]]></wf>
+    <wf id="1" sent="1" para="1" offset="4" length="8"><![CDATA[explodes]]></wf>
+    <wf id="2" sent="1" para="1" offset="12" length="2"><![CDATA[at]]></wf>
+    <wf id="3" sent="1" para="1" offset="14" length="6"><![CDATA[mosque]]></wf>
+    <wf id="4" sent="1" para="1" offset="20" length="2"><![CDATA[in]]></wf>
+    <wf id="5" sent="1" para="1" offset="22" length="7"><![CDATA[central]]></wf>
+    <wf id="6" sent="1" para="1" offset="29" length="8"><![CDATA[Bulgaria]]></wf>
+    <wf id="7" sent="1" para="1" offset="37" length="1"><![CDATA[.]]></wf>
+    <wf id="8" sent="1" para="1" offset="38" length="5"><![CDATA[SOFIA]]></wf>
+    <wf id="9" sent="1" para="1" offset="43" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="10" sent="1" para="1" offset="53" length="1"><![CDATA[A]]></wf>
+    <wf id="11" sent="1" para="1" offset="54" length="4"><![CDATA[bomb]]></wf>
+    <wf id="12" sent="1" para="1" offset="58" length="8"><![CDATA[exploded]]></wf>
+    <wf id="13" sent="1" para="1" offset="66" length="2"><![CDATA[on]]></wf>
+    <wf id="14" sent="1" para="1" offset="68" length="6"><![CDATA[Friday]]></wf>
+    <wf id="15" sent="1" para="1" offset="74" length="2"><![CDATA[at]]></wf>
+    <wf id="16" sent="1" para="1" offset="76" length="1"><![CDATA[a]]></wf>
+    <wf id="17" sent="1" para="1" offset="77" length="6"><![CDATA[mosque]]></wf>
+    <wf id="18" sent="1" para="1" offset="83" length="2"><![CDATA[in]]></wf>
+    <wf id="19" sent="1" para="1" offset="85" length="3"><![CDATA[the]]></wf>
+    <wf id="20" sent="1" para="1" offset="88" length="7"><![CDATA[central]]></wf>
+    <wf id="21" sent="1" para="1" offset="95" length="9"><![CDATA[Bulgarian]]></wf>
+    <wf id="22" sent="1" para="1" offset="104" length="4"><![CDATA[town]]></wf>
+    <wf id="23" sent="1" para="1" offset="108" length="2"><![CDATA[of]]></wf>
+    <wf id="24" sent="1" para="1" offset="110" length="8"><![CDATA[Kazanluk]]></wf>
+    <wf id="25" sent="1" para="1" offset="118" length="1"><![CDATA[,]]></wf>
+    <wf id="26" sent="1" para="1" offset="119" length="7"><![CDATA[causing]]></wf>
+    <wf id="27" sent="1" para="1" offset="126" length="6"><![CDATA[damage]]></wf>
+    <wf id="28" sent="1" para="1" offset="132" length="3"><![CDATA[but]]></wf>
+    <wf id="29" sent="1" para="1" offset="135" length="2"><![CDATA[no]]></wf>
+    <wf id="30" sent="1" para="1" offset="137" length="8"><![CDATA[injuries]]></wf>
+    <wf id="31" sent="1" para="1" offset="145" length="1"><![CDATA[,]]></wf>
+    <wf id="32" sent="1" para="1" offset="146" length="5"><![CDATA[state]]></wf>
+    <wf id="33" sent="1" para="1" offset="151" length="5"><![CDATA[radio]]></wf>
+    <wf id="34" sent="1" para="1" offset="156" length="4"><![CDATA[said]]></wf>
+    <wf id="35" sent="1" para="1" offset="160" length="1"><![CDATA[.]]></wf>
+    <wf id="36" sent="1" para="1" offset="161" length="7"><![CDATA[Violent]]></wf>
+    <wf id="37" sent="1" para="1" offset="168" length="5"><![CDATA[crime]]></wf>
+    <wf id="38" sent="1" para="1" offset="173" length="3"><![CDATA[has]]></wf>
+    <wf id="39" sent="1" para="1" offset="176" length="6"><![CDATA[soared]]></wf>
+    <wf id="40" sent="1" para="1" offset="182" length="5"><![CDATA[since]]></wf>
+    <wf id="41" sent="1" para="1" offset="187" length="3"><![CDATA[the]]></wf>
+    <wf id="42" sent="1" para="1" offset="190" length="8"><![CDATA[collapse]]></wf>
+    <wf id="43" sent="1" para="1" offset="198" length="2"><![CDATA[of]]></wf>
+    <wf id="44" sent="1" para="1" offset="200" length="9"><![CDATA[communism]]></wf>
+    <wf id="45" sent="1" para="1" offset="209" length="2"><![CDATA[in]]></wf>
+    <wf id="46" sent="1" para="1" offset="211" length="4"><![CDATA[1989]]></wf>
+    <wf id="47" sent="1" para="1" offset="215" length="2"><![CDATA[as]]></wf>
+    <wf id="48" sent="1" para="1" offset="217" length="8"><![CDATA[Bulgaria]]></wf>
+    <wf id="49" sent="1" para="1" offset="225" length="5"><![CDATA[moves]]></wf>
+    <wf id="50" sent="1" para="1" offset="230" length="2"><![CDATA[to]]></wf>
+    <wf id="51" sent="1" para="1" offset="232" length="1"><![CDATA[a]]></wf>
+    <wf id="52" sent="1" para="1" offset="233" length="6"><![CDATA[market]]></wf>
+    <wf id="53" sent="1" para="1" offset="239" length="7"><![CDATA[economy]]></wf>
+    <wf id="54" sent="1" para="1" offset="246" length="1"><![CDATA[.]]></wf>
+    <wf id="55" sent="1" para="1" offset="247" length="8"><![CDATA[Bombings]]></wf>
+    <wf id="56" sent="1" para="1" offset="255" length="3"><![CDATA[are]]></wf>
+    <wf id="57" sent="1" para="1" offset="258" length="5"><![CDATA[often]]></wf>
+    <wf id="58" sent="1" para="1" offset="263" length="7"><![CDATA[carried]]></wf>
+    <wf id="59" sent="1" para="1" offset="270" length="3"><![CDATA[out]]></wf>
+    <wf id="60" sent="1" para="1" offset="273" length="2"><![CDATA[by]]></wf>
+    <wf id="61" sent="1" para="1" offset="275" length="9"><![CDATA[criminals]]></wf>
+    <wf id="62" sent="1" para="1" offset="284" length="2"><![CDATA[to]]></wf>
+    <wf id="63" sent="1" para="1" offset="286" length="6"><![CDATA[settle]]></wf>
+    <wf id="64" sent="1" para="1" offset="292" length="6"><![CDATA[scores]]></wf>
+    <wf id="65" sent="1" para="1" offset="298" length="3"><![CDATA[but]]></wf>
+    <wf id="66" sent="1" para="1" offset="301" length="3"><![CDATA[the]]></wf>
+    <wf id="67" sent="1" para="1" offset="304" length="6"><![CDATA[motive]]></wf>
+    <wf id="68" sent="1" para="1" offset="310" length="2"><![CDATA[in]]></wf>
+    <wf id="69" sent="1" para="1" offset="312" length="4"><![CDATA[this]]></wf>
+    <wf id="70" sent="1" para="1" offset="316" length="4"><![CDATA[case]]></wf>
+    <wf id="71" sent="1" para="1" offset="320" length="3"><![CDATA[was]]></wf>
+    <wf id="72" sent="1" para="1" offset="323" length="3"><![CDATA[not]]></wf>
+    <wf id="73" sent="1" para="1" offset="326" length="11"><![CDATA[immediately]]></wf>
+    <wf id="74" sent="1" para="1" offset="337" length="5"><![CDATA[clear]]></wf>
+    <wf id="75" sent="1" para="1" offset="342" length="1"><![CDATA[.]]></wf>
+    <wf id="76" sent="1" para="1" offset="343" length="4"><![CDATA[Some]]></wf>
+    <wf id="77" sent="1" para="1" offset="347" length="9"><![CDATA[residents]]></wf>
+    <wf id="78" sent="1" para="1" offset="356" length="2"><![CDATA[of]]></wf>
+    <wf id="79" sent="1" para="1" offset="358" length="3"><![CDATA[the]]></wf>
+    <wf id="80" sent="1" para="1" offset="361" length="8"><![CDATA[Kazanluk]]></wf>
+    <wf id="81" sent="1" para="1" offset="369" length="4"><![CDATA[area]]></wf>
+    <wf id="82" sent="1" para="1" offset="373" length="3"><![CDATA[are]]></wf>
+    <wf id="83" sent="1" para="1" offset="376" length="7"><![CDATA[Moslems]]></wf>
+    <wf id="84" sent="1" para="1" offset="383" length="3"><![CDATA[who]]></wf>
+    <wf id="85" sent="1" para="1" offset="386" length="9"><![CDATA[converted]]></wf>
+    <wf id="86" sent="1" para="1" offset="395" length="2"><![CDATA[to]]></wf>
+    <wf id="87" sent="1" para="1" offset="397" length="5"><![CDATA[Islam]]></wf>
+    <wf id="88" sent="1" para="1" offset="402" length="6"><![CDATA[during]]></wf>
+    <wf id="89" sent="1" para="1" offset="408" length="7"><![CDATA[Ottoman]]></wf>
+    <wf id="90" sent="1" para="1" offset="415" length="7"><![CDATA[Turkish]]></wf>
+    <wf id="91" sent="1" para="1" offset="422" length="4"><![CDATA[rule]]></wf>
+    <wf id="92" sent="1" para="1" offset="426" length="1"><![CDATA[.]]></wf>
+    <wf id="93" sent="1" para="1" offset="427" length="3"><![CDATA[The]]></wf>
+    <wf id="94" sent="1" para="1" offset="430" length="8"><![CDATA[majority]]></wf>
+    <wf id="95" sent="1" para="1" offset="438" length="2"><![CDATA[in]]></wf>
+    <wf id="96" sent="1" para="1" offset="440" length="8"><![CDATA[Bulgaria]]></wf>
+    <wf id="97" sent="1" para="1" offset="448" length="3"><![CDATA[are]]></wf>
+    <wf id="98" sent="1" para="1" offset="451" length="10"><![CDATA[Christians]]></wf>
+    <wf id="99" sent="1" para="1" offset="461" length="1"><![CDATA[.]]></wf>
+    <wf id="100" sent="1" para="1" offset="462" length="3"><![CDATA[The]]></wf>
+    <wf id="101" sent="1" para="1" offset="465" length="5"><![CDATA[radio]]></wf>
+    <wf id="102" sent="1" para="1" offset="470" length="6"><![CDATA[quoted]]></wf>
+    <wf id="103" sent="1" para="1" offset="476" length="6"><![CDATA[police]]></wf>
+    <wf id="104" sent="1" para="1" offset="482" length="2"><![CDATA[as]]></wf>
+    <wf id="105" sent="1" para="1" offset="484" length="6"><![CDATA[saying]]></wf>
+    <wf id="106" sent="1" para="1" offset="490" length="3"><![CDATA[the]]></wf>
+    <wf id="107" sent="1" para="1" offset="493" length="5"><![CDATA[blast]]></wf>
+    <wf id="108" sent="1" para="1" offset="498" length="5"><![CDATA[broke]]></wf>
+    <wf id="109" sent="1" para="1" offset="503" length="7"><![CDATA[windows]]></wf>
+    <wf id="110" sent="1" para="1" offset="510" length="3"><![CDATA[and]]></wf>
+    <wf id="111" sent="1" para="1" offset="513" length="9"><![CDATA[shattered]]></wf>
+    <wf id="112" sent="1" para="1" offset="522" length="3"><![CDATA[the]]></wf>
+    <wf id="113" sent="1" para="1" offset="525" length="4"><![CDATA[door]]></wf>
+    <wf id="114" sent="1" para="1" offset="529" length="2"><![CDATA[of]]></wf>
+    <wf id="115" sent="1" para="1" offset="531" length="3"><![CDATA[the]]></wf>
+    <wf id="116" sent="1" para="1" offset="534" length="6"><![CDATA[mosque]]></wf>
+    <wf id="117" sent="1" para="1" offset="540" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="Bomb">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="explodes">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="at">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="mosque">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="in">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="central">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="Bulgaria">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma=".">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="SOFIA">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="1996-12-06">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="A">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="bomb">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="exploded">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="on">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="Friday">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="at">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="a">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="mosque">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="in">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="the">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="central">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="Bulgarian">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="town">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="of">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="Kazanluk">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma=",">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="causing">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="damage">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="but">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="no">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="injuries">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma=",">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="state">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="radio">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="said">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma=".">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="Violent">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="crime">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="has">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="soared">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="since">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="the">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="collapse">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="of">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="communism">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="in">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="1989">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="as">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="Bulgaria">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="moves">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="to">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="a">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="market">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="economy">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma=".">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="Bombings">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="are">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="often">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="carried">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="out">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="by">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="criminals">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="to">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="settle">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="scores">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="but">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="the">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="motive">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="in">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="this">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="case">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="was">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="not">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="immediately">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="clear">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma=".">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="Some">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="residents">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="of">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="the">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="Kazanluk">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="area">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="are">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="Moslems">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="who">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="converted">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="to">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="Islam">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="during">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="Ottoman">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="Turkish">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="rule">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma=".">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="The">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="majority">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="in">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="Bulgaria">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="are">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="Christians">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma=".">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="The">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="radio">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="quoted">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="police">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="as">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="saying">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="the">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="blast">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="broke">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="windows">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="and">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="shattered">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="the">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="door">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="of">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="the">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="mosque">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma=".">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="2402">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Bulgaria" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="6"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2403">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Sofia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="8"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2404">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Bulgaria" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="21"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2405">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Kazanlak" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="24"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2406">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Bulgaria" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="48"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2407">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Kazanlak" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="80"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2408">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Islam" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="83"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2409">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Islam" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="87"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2410">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ottoman_Empire" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="90"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2411">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Bulgaria" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="96"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2412">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="98"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

@@ -1,0 +1,1271 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[SOCCER - SCOTTISH LEAGUE AND CUP RESULTS . GLASGOW 1996-12-07 Results of Scottish league and cup matches played on Saturday : Premier division Dunfermline 2 Aberdeen 3 Hearts 0 Raith 0 Kilmarnock 0 Dundee United 2 Motherwell 2 Celtic 1 Rangers 4 Hibernian 3 Division one Dundee 2 Falkirk 0 Greenock Morton 0 St Johnstone 2 Postponed : Airdrieonians v Clydebank ( to Wednesday ) , East Fife v Partick , Stirling v St Mirren ( to Tuesday ) Division two Livingston 2 Stenhousemuir 1 Stranraer 0 Brechin 1 Division three Ross County 4 Montrose 4 Postponed : Forfar v Alloa , Inverness Thistle v Queen 's Park Scottish Cup first round Alloa 3 Hawick 1 Elgin City 0 Whitehill 3 Postponed : Albion v Forfar , Huntly v Clyde ( both now play on December 14 ) ]]></raw>
+  <nafHeader>
+    <fileDesc title="1372testb" filename="1372testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="6"><![CDATA[SOCCER]]></wf>
+    <wf id="1" sent="1" para="1" offset="6" length="1"><![CDATA[-]]></wf>
+    <wf id="2" sent="1" para="1" offset="7" length="8"><![CDATA[SCOTTISH]]></wf>
+    <wf id="3" sent="1" para="1" offset="15" length="6"><![CDATA[LEAGUE]]></wf>
+    <wf id="4" sent="1" para="1" offset="21" length="3"><![CDATA[AND]]></wf>
+    <wf id="5" sent="1" para="1" offset="24" length="3"><![CDATA[CUP]]></wf>
+    <wf id="6" sent="1" para="1" offset="27" length="7"><![CDATA[RESULTS]]></wf>
+    <wf id="7" sent="1" para="1" offset="34" length="1"><![CDATA[.]]></wf>
+    <wf id="8" sent="1" para="1" offset="35" length="7"><![CDATA[GLASGOW]]></wf>
+    <wf id="9" sent="1" para="1" offset="42" length="10"><![CDATA[1996-12-07]]></wf>
+    <wf id="10" sent="1" para="1" offset="52" length="7"><![CDATA[Results]]></wf>
+    <wf id="11" sent="1" para="1" offset="59" length="2"><![CDATA[of]]></wf>
+    <wf id="12" sent="1" para="1" offset="61" length="8"><![CDATA[Scottish]]></wf>
+    <wf id="13" sent="1" para="1" offset="69" length="6"><![CDATA[league]]></wf>
+    <wf id="14" sent="1" para="1" offset="75" length="3"><![CDATA[and]]></wf>
+    <wf id="15" sent="1" para="1" offset="78" length="3"><![CDATA[cup]]></wf>
+    <wf id="16" sent="1" para="1" offset="81" length="7"><![CDATA[matches]]></wf>
+    <wf id="17" sent="1" para="1" offset="88" length="6"><![CDATA[played]]></wf>
+    <wf id="18" sent="1" para="1" offset="94" length="2"><![CDATA[on]]></wf>
+    <wf id="19" sent="1" para="1" offset="96" length="8"><![CDATA[Saturday]]></wf>
+    <wf id="20" sent="1" para="1" offset="104" length="1"><![CDATA[:]]></wf>
+    <wf id="21" sent="1" para="1" offset="105" length="7"><![CDATA[Premier]]></wf>
+    <wf id="22" sent="1" para="1" offset="112" length="8"><![CDATA[division]]></wf>
+    <wf id="23" sent="1" para="1" offset="120" length="11"><![CDATA[Dunfermline]]></wf>
+    <wf id="24" sent="1" para="1" offset="131" length="1"><![CDATA[2]]></wf>
+    <wf id="25" sent="1" para="1" offset="132" length="8"><![CDATA[Aberdeen]]></wf>
+    <wf id="26" sent="1" para="1" offset="140" length="1"><![CDATA[3]]></wf>
+    <wf id="27" sent="1" para="1" offset="141" length="6"><![CDATA[Hearts]]></wf>
+    <wf id="28" sent="1" para="1" offset="147" length="1"><![CDATA[0]]></wf>
+    <wf id="29" sent="1" para="1" offset="148" length="5"><![CDATA[Raith]]></wf>
+    <wf id="30" sent="1" para="1" offset="153" length="1"><![CDATA[0]]></wf>
+    <wf id="31" sent="1" para="1" offset="154" length="10"><![CDATA[Kilmarnock]]></wf>
+    <wf id="32" sent="1" para="1" offset="164" length="1"><![CDATA[0]]></wf>
+    <wf id="33" sent="1" para="1" offset="165" length="6"><![CDATA[Dundee]]></wf>
+    <wf id="34" sent="1" para="1" offset="171" length="6"><![CDATA[United]]></wf>
+    <wf id="35" sent="1" para="1" offset="177" length="1"><![CDATA[2]]></wf>
+    <wf id="36" sent="1" para="1" offset="178" length="10"><![CDATA[Motherwell]]></wf>
+    <wf id="37" sent="1" para="1" offset="188" length="1"><![CDATA[2]]></wf>
+    <wf id="38" sent="1" para="1" offset="189" length="6"><![CDATA[Celtic]]></wf>
+    <wf id="39" sent="1" para="1" offset="195" length="1"><![CDATA[1]]></wf>
+    <wf id="40" sent="1" para="1" offset="196" length="7"><![CDATA[Rangers]]></wf>
+    <wf id="41" sent="1" para="1" offset="203" length="1"><![CDATA[4]]></wf>
+    <wf id="42" sent="1" para="1" offset="204" length="9"><![CDATA[Hibernian]]></wf>
+    <wf id="43" sent="1" para="1" offset="213" length="1"><![CDATA[3]]></wf>
+    <wf id="44" sent="1" para="1" offset="214" length="8"><![CDATA[Division]]></wf>
+    <wf id="45" sent="1" para="1" offset="222" length="3"><![CDATA[one]]></wf>
+    <wf id="46" sent="1" para="1" offset="225" length="6"><![CDATA[Dundee]]></wf>
+    <wf id="47" sent="1" para="1" offset="231" length="1"><![CDATA[2]]></wf>
+    <wf id="48" sent="1" para="1" offset="232" length="7"><![CDATA[Falkirk]]></wf>
+    <wf id="49" sent="1" para="1" offset="239" length="1"><![CDATA[0]]></wf>
+    <wf id="50" sent="1" para="1" offset="240" length="8"><![CDATA[Greenock]]></wf>
+    <wf id="51" sent="1" para="1" offset="248" length="6"><![CDATA[Morton]]></wf>
+    <wf id="52" sent="1" para="1" offset="254" length="1"><![CDATA[0]]></wf>
+    <wf id="53" sent="1" para="1" offset="255" length="2"><![CDATA[St]]></wf>
+    <wf id="54" sent="1" para="1" offset="257" length="9"><![CDATA[Johnstone]]></wf>
+    <wf id="55" sent="1" para="1" offset="266" length="1"><![CDATA[2]]></wf>
+    <wf id="56" sent="1" para="1" offset="267" length="9"><![CDATA[Postponed]]></wf>
+    <wf id="57" sent="1" para="1" offset="276" length="1"><![CDATA[:]]></wf>
+    <wf id="58" sent="1" para="1" offset="277" length="13"><![CDATA[Airdrieonians]]></wf>
+    <wf id="59" sent="1" para="1" offset="290" length="1"><![CDATA[v]]></wf>
+    <wf id="60" sent="1" para="1" offset="291" length="9"><![CDATA[Clydebank]]></wf>
+    <wf id="61" sent="1" para="1" offset="300" length="1"><![CDATA[(]]></wf>
+    <wf id="62" sent="1" para="1" offset="301" length="2"><![CDATA[to]]></wf>
+    <wf id="63" sent="1" para="1" offset="303" length="9"><![CDATA[Wednesday]]></wf>
+    <wf id="64" sent="1" para="1" offset="312" length="1"><![CDATA[)]]></wf>
+    <wf id="65" sent="1" para="1" offset="313" length="1"><![CDATA[,]]></wf>
+    <wf id="66" sent="1" para="1" offset="314" length="4"><![CDATA[East]]></wf>
+    <wf id="67" sent="1" para="1" offset="318" length="4"><![CDATA[Fife]]></wf>
+    <wf id="68" sent="1" para="1" offset="322" length="1"><![CDATA[v]]></wf>
+    <wf id="69" sent="1" para="1" offset="323" length="7"><![CDATA[Partick]]></wf>
+    <wf id="70" sent="1" para="1" offset="330" length="1"><![CDATA[,]]></wf>
+    <wf id="71" sent="1" para="1" offset="331" length="8"><![CDATA[Stirling]]></wf>
+    <wf id="72" sent="1" para="1" offset="339" length="1"><![CDATA[v]]></wf>
+    <wf id="73" sent="1" para="1" offset="340" length="2"><![CDATA[St]]></wf>
+    <wf id="74" sent="1" para="1" offset="342" length="6"><![CDATA[Mirren]]></wf>
+    <wf id="75" sent="1" para="1" offset="348" length="1"><![CDATA[(]]></wf>
+    <wf id="76" sent="1" para="1" offset="349" length="2"><![CDATA[to]]></wf>
+    <wf id="77" sent="1" para="1" offset="351" length="7"><![CDATA[Tuesday]]></wf>
+    <wf id="78" sent="1" para="1" offset="358" length="1"><![CDATA[)]]></wf>
+    <wf id="79" sent="1" para="1" offset="359" length="8"><![CDATA[Division]]></wf>
+    <wf id="80" sent="1" para="1" offset="367" length="3"><![CDATA[two]]></wf>
+    <wf id="81" sent="1" para="1" offset="370" length="10"><![CDATA[Livingston]]></wf>
+    <wf id="82" sent="1" para="1" offset="380" length="1"><![CDATA[2]]></wf>
+    <wf id="83" sent="1" para="1" offset="381" length="13"><![CDATA[Stenhousemuir]]></wf>
+    <wf id="84" sent="1" para="1" offset="394" length="1"><![CDATA[1]]></wf>
+    <wf id="85" sent="1" para="1" offset="395" length="9"><![CDATA[Stranraer]]></wf>
+    <wf id="86" sent="1" para="1" offset="404" length="1"><![CDATA[0]]></wf>
+    <wf id="87" sent="1" para="1" offset="405" length="7"><![CDATA[Brechin]]></wf>
+    <wf id="88" sent="1" para="1" offset="412" length="1"><![CDATA[1]]></wf>
+    <wf id="89" sent="1" para="1" offset="413" length="8"><![CDATA[Division]]></wf>
+    <wf id="90" sent="1" para="1" offset="421" length="5"><![CDATA[three]]></wf>
+    <wf id="91" sent="1" para="1" offset="426" length="4"><![CDATA[Ross]]></wf>
+    <wf id="92" sent="1" para="1" offset="430" length="6"><![CDATA[County]]></wf>
+    <wf id="93" sent="1" para="1" offset="436" length="1"><![CDATA[4]]></wf>
+    <wf id="94" sent="1" para="1" offset="437" length="8"><![CDATA[Montrose]]></wf>
+    <wf id="95" sent="1" para="1" offset="445" length="1"><![CDATA[4]]></wf>
+    <wf id="96" sent="1" para="1" offset="446" length="9"><![CDATA[Postponed]]></wf>
+    <wf id="97" sent="1" para="1" offset="455" length="1"><![CDATA[:]]></wf>
+    <wf id="98" sent="1" para="1" offset="456" length="6"><![CDATA[Forfar]]></wf>
+    <wf id="99" sent="1" para="1" offset="462" length="1"><![CDATA[v]]></wf>
+    <wf id="100" sent="1" para="1" offset="463" length="5"><![CDATA[Alloa]]></wf>
+    <wf id="101" sent="1" para="1" offset="468" length="1"><![CDATA[,]]></wf>
+    <wf id="102" sent="1" para="1" offset="469" length="9"><![CDATA[Inverness]]></wf>
+    <wf id="103" sent="1" para="1" offset="478" length="7"><![CDATA[Thistle]]></wf>
+    <wf id="104" sent="1" para="1" offset="485" length="1"><![CDATA[v]]></wf>
+    <wf id="105" sent="1" para="1" offset="486" length="5"><![CDATA[Queen]]></wf>
+    <wf id="106" sent="1" para="1" offset="491" length="2"><![CDATA['s]]></wf>
+    <wf id="107" sent="1" para="1" offset="493" length="4"><![CDATA[Park]]></wf>
+    <wf id="108" sent="1" para="1" offset="497" length="8"><![CDATA[Scottish]]></wf>
+    <wf id="109" sent="1" para="1" offset="505" length="3"><![CDATA[Cup]]></wf>
+    <wf id="110" sent="1" para="1" offset="508" length="5"><![CDATA[first]]></wf>
+    <wf id="111" sent="1" para="1" offset="513" length="5"><![CDATA[round]]></wf>
+    <wf id="112" sent="1" para="1" offset="518" length="5"><![CDATA[Alloa]]></wf>
+    <wf id="113" sent="1" para="1" offset="523" length="1"><![CDATA[3]]></wf>
+    <wf id="114" sent="1" para="1" offset="524" length="6"><![CDATA[Hawick]]></wf>
+    <wf id="115" sent="1" para="1" offset="530" length="1"><![CDATA[1]]></wf>
+    <wf id="116" sent="1" para="1" offset="531" length="5"><![CDATA[Elgin]]></wf>
+    <wf id="117" sent="1" para="1" offset="536" length="4"><![CDATA[City]]></wf>
+    <wf id="118" sent="1" para="1" offset="540" length="1"><![CDATA[0]]></wf>
+    <wf id="119" sent="1" para="1" offset="541" length="9"><![CDATA[Whitehill]]></wf>
+    <wf id="120" sent="1" para="1" offset="550" length="1"><![CDATA[3]]></wf>
+    <wf id="121" sent="1" para="1" offset="551" length="9"><![CDATA[Postponed]]></wf>
+    <wf id="122" sent="1" para="1" offset="560" length="1"><![CDATA[:]]></wf>
+    <wf id="123" sent="1" para="1" offset="561" length="6"><![CDATA[Albion]]></wf>
+    <wf id="124" sent="1" para="1" offset="567" length="1"><![CDATA[v]]></wf>
+    <wf id="125" sent="1" para="1" offset="568" length="6"><![CDATA[Forfar]]></wf>
+    <wf id="126" sent="1" para="1" offset="574" length="1"><![CDATA[,]]></wf>
+    <wf id="127" sent="1" para="1" offset="575" length="6"><![CDATA[Huntly]]></wf>
+    <wf id="128" sent="1" para="1" offset="581" length="1"><![CDATA[v]]></wf>
+    <wf id="129" sent="1" para="1" offset="582" length="5"><![CDATA[Clyde]]></wf>
+    <wf id="130" sent="1" para="1" offset="587" length="1"><![CDATA[(]]></wf>
+    <wf id="131" sent="1" para="1" offset="588" length="4"><![CDATA[both]]></wf>
+    <wf id="132" sent="1" para="1" offset="592" length="3"><![CDATA[now]]></wf>
+    <wf id="133" sent="1" para="1" offset="595" length="4"><![CDATA[play]]></wf>
+    <wf id="134" sent="1" para="1" offset="599" length="2"><![CDATA[on]]></wf>
+    <wf id="135" sent="1" para="1" offset="601" length="8"><![CDATA[December]]></wf>
+    <wf id="136" sent="1" para="1" offset="609" length="2"><![CDATA[14]]></wf>
+    <wf id="137" sent="1" para="1" offset="611" length="1"><![CDATA[)]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="SOCCER">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="-">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="SCOTTISH">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="LEAGUE">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="AND">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="CUP">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="RESULTS">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma=".">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="GLASGOW">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="1996-12-07">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="Results">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="of">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="Scottish">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="league">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="and">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="cup">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="matches">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="played">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="on">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="Saturday">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma=":">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="Premier">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="division">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="Dunfermline">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="2">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="Aberdeen">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="3">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="Hearts">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="0">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="Raith">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="0">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="Kilmarnock">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="0">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="Dundee">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="United">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="2">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="Motherwell">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="2">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="Celtic">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="1">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="Rangers">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="4">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="Hibernian">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="3">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="Division">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="one">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="Dundee">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="2">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="Falkirk">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="0">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="Greenock">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="Morton">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="0">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="St">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="Johnstone">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="2">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="Postponed">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma=":">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="Airdrieonians">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="v">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="Clydebank">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="(">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="to">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="Wednesday">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma=")">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma=",">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="East">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="Fife">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="v">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="Partick">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma=",">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="Stirling">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="v">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="St">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="Mirren">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="(">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="to">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="Tuesday">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma=")">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="Division">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="two">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="Livingston">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="2">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="Stenhousemuir">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="1">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="Stranraer">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="0">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="Brechin">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="1">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="Division">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="three">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="Ross">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="County">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="4">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="Montrose">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="4">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="Postponed">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma=":">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="Forfar">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="v">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="Alloa">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma=",">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="Inverness">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="Thistle">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="v">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="Queen">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="'s">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="Park">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="Scottish">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="Cup">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="first">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="round">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="Alloa">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="3">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="Hawick">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="1">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="Elgin">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="City">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="0">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="Whitehill">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="3">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="Postponed">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma=":">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="Albion">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="v">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="Forfar">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma=",">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="Huntly">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="v">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="Clyde">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="(">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="both">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="now">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="play">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="on">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="December">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="14">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma=")">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="4952">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Scotland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="2"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4953">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Glasgow" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="8"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4954">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Scotland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4955">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dunfermline_Athletic_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="23"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4956">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Aberdeen_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="25"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4957">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Heart_of_Midlothian_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="27"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4958">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Raith_Rovers_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="29"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4959">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Kilmarnock_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="31"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4960">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dundee_United_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="33"/>
+          <target id="34"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4961">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Motherwell_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="36"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4962">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Celtic_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="38"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4963">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Rangers_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="40"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4964">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Hibernian_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="42"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4965">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dundee_United_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="46"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4966">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Falkirk_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="48"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4967">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Greenock_Morton_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="50"/>
+          <target id="51"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4968">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/St._Johnstone_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="53"/>
+          <target id="54"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4969">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Airdrieonians_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="58"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4970">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Clydebank_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="60"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4971">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/East_Fife_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="66"/>
+          <target id="67"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4972">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Partick_Thistle_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="69"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4973">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Stirling_Albion_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="71"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4974">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/St._Mirren_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="73"/>
+          <target id="74"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4975">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Livingston_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="81"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4976">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Stenhousemuir_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="83"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4977">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Stranraer_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="85"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4978">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Brechin_City_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="87"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4979">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ross_County_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="91"/>
+          <target id="92"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4980">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Montrose_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="94"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4981">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Forfar_Athletic_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="98"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4982">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Alloa_Athletic_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="100"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4983">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Inverness_Thistle_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="102"/>
+          <target id="103"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4984">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="105"/>
+          <target id="106"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4985">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Scottish_Cup" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="108"/>
+          <target id="109"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4986">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Alloa_Athletic_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="112"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4987">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Hawick_RFC" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="114"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4988">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Elgin_City_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="116"/>
+          <target id="117"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4989">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Whitehill_Welfare_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="119"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4990">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/West_Bromwich_Albion_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="123"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4991">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Forfar_Athletic_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="125"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4992">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Huntly_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="127"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4993">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Clyde_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="129"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

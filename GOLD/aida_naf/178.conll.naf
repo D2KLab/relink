@@ -1,0 +1,545 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[Honda RV exceeds sales target . TOKYO 1996-12-06 Honda Motor Co Ltd said on Friday that it had received 15,000 domestic orders for its S-MX recreational vehicle in the first two weeks after its launch . Honda launched the S-MX light minivan , featuring cubic body styling , on November 22 with a monthly sales target of 5,000 units . A version with lower road clearance and front and rear spoilers accounted for two-thirds of the sales . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1340testb" filename="1340testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="5"><![CDATA[Honda]]></wf>
+    <wf id="2" sent="1" para="1" offset="5" length="2"><![CDATA[RV]]></wf>
+    <wf id="3" sent="1" para="1" offset="7" length="7"><![CDATA[exceeds]]></wf>
+    <wf id="4" sent="1" para="1" offset="14" length="5"><![CDATA[sales]]></wf>
+    <wf id="5" sent="1" para="1" offset="19" length="6"><![CDATA[target]]></wf>
+    <wf id="6" sent="1" para="1" offset="25" length="1"><![CDATA[.]]></wf>
+    <wf id="7" sent="1" para="1" offset="26" length="5"><![CDATA[TOKYO]]></wf>
+    <wf id="8" sent="1" para="1" offset="31" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="9" sent="1" para="1" offset="41" length="5"><![CDATA[Honda]]></wf>
+    <wf id="10" sent="1" para="1" offset="46" length="5"><![CDATA[Motor]]></wf>
+    <wf id="11" sent="1" para="1" offset="51" length="2"><![CDATA[Co]]></wf>
+    <wf id="12" sent="1" para="1" offset="53" length="3"><![CDATA[Ltd]]></wf>
+    <wf id="13" sent="1" para="1" offset="56" length="4"><![CDATA[said]]></wf>
+    <wf id="14" sent="1" para="1" offset="60" length="2"><![CDATA[on]]></wf>
+    <wf id="15" sent="1" para="1" offset="62" length="6"><![CDATA[Friday]]></wf>
+    <wf id="16" sent="1" para="1" offset="68" length="4"><![CDATA[that]]></wf>
+    <wf id="17" sent="1" para="1" offset="72" length="2"><![CDATA[it]]></wf>
+    <wf id="18" sent="1" para="1" offset="74" length="3"><![CDATA[had]]></wf>
+    <wf id="19" sent="1" para="1" offset="77" length="8"><![CDATA[received]]></wf>
+    <wf id="20" sent="1" para="1" offset="85" length="6"><![CDATA[15,000]]></wf>
+    <wf id="21" sent="1" para="1" offset="91" length="8"><![CDATA[domestic]]></wf>
+    <wf id="22" sent="1" para="1" offset="99" length="6"><![CDATA[orders]]></wf>
+    <wf id="23" sent="1" para="1" offset="105" length="3"><![CDATA[for]]></wf>
+    <wf id="24" sent="1" para="1" offset="108" length="3"><![CDATA[its]]></wf>
+    <wf id="25" sent="1" para="1" offset="111" length="4"><![CDATA[S-MX]]></wf>
+    <wf id="26" sent="1" para="1" offset="115" length="12"><![CDATA[recreational]]></wf>
+    <wf id="27" sent="1" para="1" offset="127" length="7"><![CDATA[vehicle]]></wf>
+    <wf id="28" sent="1" para="1" offset="134" length="2"><![CDATA[in]]></wf>
+    <wf id="29" sent="1" para="1" offset="136" length="3"><![CDATA[the]]></wf>
+    <wf id="30" sent="1" para="1" offset="139" length="5"><![CDATA[first]]></wf>
+    <wf id="31" sent="1" para="1" offset="144" length="3"><![CDATA[two]]></wf>
+    <wf id="32" sent="1" para="1" offset="147" length="5"><![CDATA[weeks]]></wf>
+    <wf id="33" sent="1" para="1" offset="152" length="5"><![CDATA[after]]></wf>
+    <wf id="34" sent="1" para="1" offset="157" length="3"><![CDATA[its]]></wf>
+    <wf id="35" sent="1" para="1" offset="160" length="6"><![CDATA[launch]]></wf>
+    <wf id="36" sent="1" para="1" offset="166" length="1"><![CDATA[.]]></wf>
+    <wf id="37" sent="1" para="1" offset="167" length="5"><![CDATA[Honda]]></wf>
+    <wf id="38" sent="1" para="1" offset="172" length="8"><![CDATA[launched]]></wf>
+    <wf id="39" sent="1" para="1" offset="180" length="3"><![CDATA[the]]></wf>
+    <wf id="40" sent="1" para="1" offset="183" length="4"><![CDATA[S-MX]]></wf>
+    <wf id="41" sent="1" para="1" offset="187" length="5"><![CDATA[light]]></wf>
+    <wf id="42" sent="1" para="1" offset="192" length="7"><![CDATA[minivan]]></wf>
+    <wf id="43" sent="1" para="1" offset="199" length="1"><![CDATA[,]]></wf>
+    <wf id="44" sent="1" para="1" offset="200" length="9"><![CDATA[featuring]]></wf>
+    <wf id="45" sent="1" para="1" offset="209" length="5"><![CDATA[cubic]]></wf>
+    <wf id="46" sent="1" para="1" offset="214" length="4"><![CDATA[body]]></wf>
+    <wf id="47" sent="1" para="1" offset="218" length="7"><![CDATA[styling]]></wf>
+    <wf id="48" sent="1" para="1" offset="225" length="1"><![CDATA[,]]></wf>
+    <wf id="49" sent="1" para="1" offset="226" length="2"><![CDATA[on]]></wf>
+    <wf id="50" sent="1" para="1" offset="228" length="8"><![CDATA[November]]></wf>
+    <wf id="51" sent="1" para="1" offset="236" length="2"><![CDATA[22]]></wf>
+    <wf id="52" sent="1" para="1" offset="238" length="4"><![CDATA[with]]></wf>
+    <wf id="53" sent="1" para="1" offset="242" length="1"><![CDATA[a]]></wf>
+    <wf id="54" sent="1" para="1" offset="243" length="7"><![CDATA[monthly]]></wf>
+    <wf id="55" sent="1" para="1" offset="250" length="5"><![CDATA[sales]]></wf>
+    <wf id="56" sent="1" para="1" offset="255" length="6"><![CDATA[target]]></wf>
+    <wf id="57" sent="1" para="1" offset="261" length="2"><![CDATA[of]]></wf>
+    <wf id="58" sent="1" para="1" offset="263" length="5"><![CDATA[5,000]]></wf>
+    <wf id="59" sent="1" para="1" offset="268" length="5"><![CDATA[units]]></wf>
+    <wf id="60" sent="1" para="1" offset="273" length="1"><![CDATA[.]]></wf>
+    <wf id="61" sent="1" para="1" offset="274" length="1"><![CDATA[A]]></wf>
+    <wf id="62" sent="1" para="1" offset="275" length="7"><![CDATA[version]]></wf>
+    <wf id="63" sent="1" para="1" offset="282" length="4"><![CDATA[with]]></wf>
+    <wf id="64" sent="1" para="1" offset="286" length="5"><![CDATA[lower]]></wf>
+    <wf id="65" sent="1" para="1" offset="291" length="4"><![CDATA[road]]></wf>
+    <wf id="66" sent="1" para="1" offset="295" length="9"><![CDATA[clearance]]></wf>
+    <wf id="67" sent="1" para="1" offset="304" length="3"><![CDATA[and]]></wf>
+    <wf id="68" sent="1" para="1" offset="307" length="5"><![CDATA[front]]></wf>
+    <wf id="69" sent="1" para="1" offset="312" length="3"><![CDATA[and]]></wf>
+    <wf id="70" sent="1" para="1" offset="315" length="4"><![CDATA[rear]]></wf>
+    <wf id="71" sent="1" para="1" offset="319" length="8"><![CDATA[spoilers]]></wf>
+    <wf id="72" sent="1" para="1" offset="327" length="9"><![CDATA[accounted]]></wf>
+    <wf id="73" sent="1" para="1" offset="336" length="3"><![CDATA[for]]></wf>
+    <wf id="74" sent="1" para="1" offset="339" length="10"><![CDATA[two-thirds]]></wf>
+    <wf id="75" sent="1" para="1" offset="349" length="2"><![CDATA[of]]></wf>
+    <wf id="76" sent="1" para="1" offset="351" length="3"><![CDATA[the]]></wf>
+    <wf id="77" sent="1" para="1" offset="354" length="5"><![CDATA[sales]]></wf>
+    <wf id="78" sent="1" para="1" offset="359" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="Honda">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="RV">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="exceeds">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="sales">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="target">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma=".">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="TOKYO">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="1996-12-06">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="Honda">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="Motor">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="Co">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="Ltd">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="said">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="on">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="Friday">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="that">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="it">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="had">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="received">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="15,000">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="domestic">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="orders">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="for">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="its">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="S-MX">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="recreational">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="vehicle">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="in">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="the">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="first">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="two">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="weeks">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="after">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="its">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="launch">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma=".">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="Honda">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="launched">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="the">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="S-MX">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="light">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="minivan">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma=",">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="featuring">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="cubic">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="body">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="styling">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma=",">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="on">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="November">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="22">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="with">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="a">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="monthly">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="sales">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="target">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="of">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="5,000">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="units">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma=".">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="A">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="version">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="with">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="lower">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="road">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="clearance">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="and">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="front">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="and">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="rear">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="spoilers">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="accounted">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="for">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="two-thirds">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="of">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="the">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="sales">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma=".">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="3810">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+          <target id="2"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3811">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Tokyo" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="7"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3812">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+          <target id="10"/>
+          <target id="11"/>
+          <target id="12"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3813">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="25"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3814">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Honda" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="37"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3815">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="40"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

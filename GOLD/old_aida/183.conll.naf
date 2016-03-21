@@ -1,0 +1,2162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[ALPINE SKIING-WOMEN 'S WORLD CUP SUPER G RESULTS . VAIL , Colorado 1996-12-07 Provisional results from Saturday 's women 's World Cup super G race : 1. Svetlana Gladishiva ( Russia ) one minute 17.76 seconds 2. Pernila Wiberg ( Sweden ) 1:17.97 3. Carole Montillet ( France ) 1:18.11 4. Hilde Gerg ( Germany ) 1:18.15 5. Isolde Kostner ( Italy ) 1:18.19 6. Warwara Zelenskaja ( Russia ) 1:18.21 7. Madlen Brigger-Summermatter ( Switzerland ) 1:18.23 8. Florence Masnada ( France ) 1:18.31 9. Katja Seizinger ( Germany ) 1:18.32 10= Martina Ertl ( Germany ) 1:18.48 10= Stefanie Schuster ( Austria ) 1:18.48 12. Bibiana Perez ( Italy ) 1:18.52 13. Barbara Merlin ( Italy ) 1:18.67 14. Sybille Brauner ( Germany ) 1:18.81 15. Katharina Gutensohn ( Germany ) 1:18.92 16. Leatitia Dalloz ( France ) 1:18.96 17. Renate Goetschl ( Austria ) 1:18.98 18. Marianne Brechu ( France ) 1:19.02 19. Heidi Zurbriggen ( Switzerland ) 1:19.03 20. Spela Bracun ( Slovenia ) 1:19.07 21. Shannon Nobis ( U.S. ) 1:19.08 22= Regine Cavagnoud ( France ) 1:19.21 22= Anita Wachter ( Austria ) 1:19.21 24. Megan Gerety ( U.S. ) 1:19.39 25. Hilary Lindh ( U.S. ) 1:19.41 26= Catherine Borghi ( Switzerland ) 1:19.44 26= Michaela Dorfmeister ( Austria ) 1:19.44 28. Alexandra Meissnitzer ( Austria ) 1:19.53 29. Ingeborg Helen Marken ( Norway ) 1:19.54 30. Monika Tschirky ( Switzerland ) 1:19.60 The results were declared official . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1345testb" filename="1345testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="6"><![CDATA[ALPINE]]></wf>
+    <wf id="1" sent="1" para="1" offset="6" length="12"><![CDATA[SKIING-WOMEN]]></wf>
+    <wf id="2" sent="1" para="1" offset="18" length="2"><![CDATA['S]]></wf>
+    <wf id="3" sent="1" para="1" offset="20" length="5"><![CDATA[WORLD]]></wf>
+    <wf id="4" sent="1" para="1" offset="25" length="3"><![CDATA[CUP]]></wf>
+    <wf id="5" sent="1" para="1" offset="28" length="5"><![CDATA[SUPER]]></wf>
+    <wf id="6" sent="1" para="1" offset="33" length="1"><![CDATA[G]]></wf>
+    <wf id="7" sent="1" para="1" offset="34" length="7"><![CDATA[RESULTS]]></wf>
+    <wf id="8" sent="1" para="1" offset="41" length="1"><![CDATA[.]]></wf>
+    <wf id="9" sent="1" para="1" offset="42" length="4"><![CDATA[VAIL]]></wf>
+    <wf id="10" sent="1" para="1" offset="46" length="1"><![CDATA[,]]></wf>
+    <wf id="11" sent="1" para="1" offset="47" length="8"><![CDATA[Colorado]]></wf>
+    <wf id="12" sent="1" para="1" offset="55" length="10"><![CDATA[1996-12-07]]></wf>
+    <wf id="13" sent="1" para="1" offset="65" length="11"><![CDATA[Provisional]]></wf>
+    <wf id="14" sent="1" para="1" offset="76" length="7"><![CDATA[results]]></wf>
+    <wf id="15" sent="1" para="1" offset="83" length="4"><![CDATA[from]]></wf>
+    <wf id="16" sent="1" para="1" offset="87" length="8"><![CDATA[Saturday]]></wf>
+    <wf id="17" sent="1" para="1" offset="95" length="2"><![CDATA['s]]></wf>
+    <wf id="18" sent="1" para="1" offset="97" length="5"><![CDATA[women]]></wf>
+    <wf id="19" sent="1" para="1" offset="102" length="2"><![CDATA['s]]></wf>
+    <wf id="20" sent="1" para="1" offset="104" length="5"><![CDATA[World]]></wf>
+    <wf id="21" sent="1" para="1" offset="109" length="3"><![CDATA[Cup]]></wf>
+    <wf id="22" sent="1" para="1" offset="112" length="5"><![CDATA[super]]></wf>
+    <wf id="23" sent="1" para="1" offset="117" length="1"><![CDATA[G]]></wf>
+    <wf id="24" sent="1" para="1" offset="118" length="4"><![CDATA[race]]></wf>
+    <wf id="25" sent="1" para="1" offset="122" length="1"><![CDATA[:]]></wf>
+    <wf id="26" sent="1" para="1" offset="123" length="2"><![CDATA[1.]]></wf>
+    <wf id="27" sent="1" para="1" offset="125" length="8"><![CDATA[Svetlana]]></wf>
+    <wf id="28" sent="1" para="1" offset="133" length="10"><![CDATA[Gladishiva]]></wf>
+    <wf id="29" sent="1" para="1" offset="143" length="1"><![CDATA[(]]></wf>
+    <wf id="30" sent="1" para="1" offset="144" length="6"><![CDATA[Russia]]></wf>
+    <wf id="31" sent="1" para="1" offset="150" length="1"><![CDATA[)]]></wf>
+    <wf id="32" sent="1" para="1" offset="151" length="3"><![CDATA[one]]></wf>
+    <wf id="33" sent="1" para="1" offset="154" length="6"><![CDATA[minute]]></wf>
+    <wf id="34" sent="1" para="1" offset="160" length="5"><![CDATA[17.76]]></wf>
+    <wf id="35" sent="1" para="1" offset="165" length="7"><![CDATA[seconds]]></wf>
+    <wf id="36" sent="1" para="1" offset="172" length="2"><![CDATA[2.]]></wf>
+    <wf id="37" sent="1" para="1" offset="174" length="7"><![CDATA[Pernila]]></wf>
+    <wf id="38" sent="1" para="1" offset="181" length="6"><![CDATA[Wiberg]]></wf>
+    <wf id="39" sent="1" para="1" offset="187" length="1"><![CDATA[(]]></wf>
+    <wf id="40" sent="1" para="1" offset="188" length="6"><![CDATA[Sweden]]></wf>
+    <wf id="41" sent="1" para="1" offset="194" length="1"><![CDATA[)]]></wf>
+    <wf id="42" sent="1" para="1" offset="195" length="7"><![CDATA[1:17.97]]></wf>
+    <wf id="43" sent="1" para="1" offset="202" length="2"><![CDATA[3.]]></wf>
+    <wf id="44" sent="1" para="1" offset="204" length="6"><![CDATA[Carole]]></wf>
+    <wf id="45" sent="1" para="1" offset="210" length="9"><![CDATA[Montillet]]></wf>
+    <wf id="46" sent="1" para="1" offset="219" length="1"><![CDATA[(]]></wf>
+    <wf id="47" sent="1" para="1" offset="220" length="6"><![CDATA[France]]></wf>
+    <wf id="48" sent="1" para="1" offset="226" length="1"><![CDATA[)]]></wf>
+    <wf id="49" sent="1" para="1" offset="227" length="7"><![CDATA[1:18.11]]></wf>
+    <wf id="50" sent="1" para="1" offset="234" length="2"><![CDATA[4.]]></wf>
+    <wf id="51" sent="1" para="1" offset="236" length="5"><![CDATA[Hilde]]></wf>
+    <wf id="52" sent="1" para="1" offset="241" length="4"><![CDATA[Gerg]]></wf>
+    <wf id="53" sent="1" para="1" offset="245" length="1"><![CDATA[(]]></wf>
+    <wf id="54" sent="1" para="1" offset="246" length="7"><![CDATA[Germany]]></wf>
+    <wf id="55" sent="1" para="1" offset="253" length="1"><![CDATA[)]]></wf>
+    <wf id="56" sent="1" para="1" offset="254" length="7"><![CDATA[1:18.15]]></wf>
+    <wf id="57" sent="1" para="1" offset="261" length="2"><![CDATA[5.]]></wf>
+    <wf id="58" sent="1" para="1" offset="263" length="6"><![CDATA[Isolde]]></wf>
+    <wf id="59" sent="1" para="1" offset="269" length="7"><![CDATA[Kostner]]></wf>
+    <wf id="60" sent="1" para="1" offset="276" length="1"><![CDATA[(]]></wf>
+    <wf id="61" sent="1" para="1" offset="277" length="5"><![CDATA[Italy]]></wf>
+    <wf id="62" sent="1" para="1" offset="282" length="1"><![CDATA[)]]></wf>
+    <wf id="63" sent="1" para="1" offset="283" length="7"><![CDATA[1:18.19]]></wf>
+    <wf id="64" sent="1" para="1" offset="290" length="2"><![CDATA[6.]]></wf>
+    <wf id="65" sent="1" para="1" offset="292" length="7"><![CDATA[Warwara]]></wf>
+    <wf id="66" sent="1" para="1" offset="299" length="10"><![CDATA[Zelenskaja]]></wf>
+    <wf id="67" sent="1" para="1" offset="309" length="1"><![CDATA[(]]></wf>
+    <wf id="68" sent="1" para="1" offset="310" length="6"><![CDATA[Russia]]></wf>
+    <wf id="69" sent="1" para="1" offset="316" length="1"><![CDATA[)]]></wf>
+    <wf id="70" sent="1" para="1" offset="317" length="7"><![CDATA[1:18.21]]></wf>
+    <wf id="71" sent="1" para="1" offset="324" length="2"><![CDATA[7.]]></wf>
+    <wf id="72" sent="1" para="1" offset="326" length="6"><![CDATA[Madlen]]></wf>
+    <wf id="73" sent="1" para="1" offset="332" length="20"><![CDATA[Brigger-Summermatter]]></wf>
+    <wf id="74" sent="1" para="1" offset="352" length="1"><![CDATA[(]]></wf>
+    <wf id="75" sent="1" para="1" offset="353" length="11"><![CDATA[Switzerland]]></wf>
+    <wf id="76" sent="1" para="1" offset="364" length="1"><![CDATA[)]]></wf>
+    <wf id="77" sent="1" para="1" offset="365" length="7"><![CDATA[1:18.23]]></wf>
+    <wf id="78" sent="1" para="1" offset="372" length="2"><![CDATA[8.]]></wf>
+    <wf id="79" sent="1" para="1" offset="374" length="8"><![CDATA[Florence]]></wf>
+    <wf id="80" sent="1" para="1" offset="382" length="7"><![CDATA[Masnada]]></wf>
+    <wf id="81" sent="1" para="1" offset="389" length="1"><![CDATA[(]]></wf>
+    <wf id="82" sent="1" para="1" offset="390" length="6"><![CDATA[France]]></wf>
+    <wf id="83" sent="1" para="1" offset="396" length="1"><![CDATA[)]]></wf>
+    <wf id="84" sent="1" para="1" offset="397" length="7"><![CDATA[1:18.31]]></wf>
+    <wf id="85" sent="1" para="1" offset="404" length="2"><![CDATA[9.]]></wf>
+    <wf id="86" sent="1" para="1" offset="406" length="5"><![CDATA[Katja]]></wf>
+    <wf id="87" sent="1" para="1" offset="411" length="9"><![CDATA[Seizinger]]></wf>
+    <wf id="88" sent="1" para="1" offset="420" length="1"><![CDATA[(]]></wf>
+    <wf id="89" sent="1" para="1" offset="421" length="7"><![CDATA[Germany]]></wf>
+    <wf id="90" sent="1" para="1" offset="428" length="1"><![CDATA[)]]></wf>
+    <wf id="91" sent="1" para="1" offset="429" length="7"><![CDATA[1:18.32]]></wf>
+    <wf id="92" sent="1" para="1" offset="436" length="3"><![CDATA[10=]]></wf>
+    <wf id="93" sent="1" para="1" offset="439" length="7"><![CDATA[Martina]]></wf>
+    <wf id="94" sent="1" para="1" offset="446" length="4"><![CDATA[Ertl]]></wf>
+    <wf id="95" sent="1" para="1" offset="450" length="1"><![CDATA[(]]></wf>
+    <wf id="96" sent="1" para="1" offset="451" length="7"><![CDATA[Germany]]></wf>
+    <wf id="97" sent="1" para="1" offset="458" length="1"><![CDATA[)]]></wf>
+    <wf id="98" sent="1" para="1" offset="459" length="7"><![CDATA[1:18.48]]></wf>
+    <wf id="99" sent="1" para="1" offset="466" length="3"><![CDATA[10=]]></wf>
+    <wf id="100" sent="1" para="1" offset="469" length="8"><![CDATA[Stefanie]]></wf>
+    <wf id="101" sent="1" para="1" offset="477" length="8"><![CDATA[Schuster]]></wf>
+    <wf id="102" sent="1" para="1" offset="485" length="1"><![CDATA[(]]></wf>
+    <wf id="103" sent="1" para="1" offset="486" length="7"><![CDATA[Austria]]></wf>
+    <wf id="104" sent="1" para="1" offset="493" length="1"><![CDATA[)]]></wf>
+    <wf id="105" sent="1" para="1" offset="494" length="7"><![CDATA[1:18.48]]></wf>
+    <wf id="106" sent="1" para="1" offset="501" length="3"><![CDATA[12.]]></wf>
+    <wf id="107" sent="1" para="1" offset="504" length="7"><![CDATA[Bibiana]]></wf>
+    <wf id="108" sent="1" para="1" offset="511" length="5"><![CDATA[Perez]]></wf>
+    <wf id="109" sent="1" para="1" offset="516" length="1"><![CDATA[(]]></wf>
+    <wf id="110" sent="1" para="1" offset="517" length="5"><![CDATA[Italy]]></wf>
+    <wf id="111" sent="1" para="1" offset="522" length="1"><![CDATA[)]]></wf>
+    <wf id="112" sent="1" para="1" offset="523" length="7"><![CDATA[1:18.52]]></wf>
+    <wf id="113" sent="1" para="1" offset="530" length="3"><![CDATA[13.]]></wf>
+    <wf id="114" sent="1" para="1" offset="533" length="7"><![CDATA[Barbara]]></wf>
+    <wf id="115" sent="1" para="1" offset="540" length="6"><![CDATA[Merlin]]></wf>
+    <wf id="116" sent="1" para="1" offset="546" length="1"><![CDATA[(]]></wf>
+    <wf id="117" sent="1" para="1" offset="547" length="5"><![CDATA[Italy]]></wf>
+    <wf id="118" sent="1" para="1" offset="552" length="1"><![CDATA[)]]></wf>
+    <wf id="119" sent="1" para="1" offset="553" length="7"><![CDATA[1:18.67]]></wf>
+    <wf id="120" sent="1" para="1" offset="560" length="3"><![CDATA[14.]]></wf>
+    <wf id="121" sent="1" para="1" offset="563" length="7"><![CDATA[Sybille]]></wf>
+    <wf id="122" sent="1" para="1" offset="570" length="7"><![CDATA[Brauner]]></wf>
+    <wf id="123" sent="1" para="1" offset="577" length="1"><![CDATA[(]]></wf>
+    <wf id="124" sent="1" para="1" offset="578" length="7"><![CDATA[Germany]]></wf>
+    <wf id="125" sent="1" para="1" offset="585" length="1"><![CDATA[)]]></wf>
+    <wf id="126" sent="1" para="1" offset="586" length="7"><![CDATA[1:18.81]]></wf>
+    <wf id="127" sent="1" para="1" offset="593" length="3"><![CDATA[15.]]></wf>
+    <wf id="128" sent="1" para="1" offset="596" length="9"><![CDATA[Katharina]]></wf>
+    <wf id="129" sent="1" para="1" offset="605" length="9"><![CDATA[Gutensohn]]></wf>
+    <wf id="130" sent="1" para="1" offset="614" length="1"><![CDATA[(]]></wf>
+    <wf id="131" sent="1" para="1" offset="615" length="7"><![CDATA[Germany]]></wf>
+    <wf id="132" sent="1" para="1" offset="622" length="1"><![CDATA[)]]></wf>
+    <wf id="133" sent="1" para="1" offset="623" length="7"><![CDATA[1:18.92]]></wf>
+    <wf id="134" sent="1" para="1" offset="630" length="3"><![CDATA[16.]]></wf>
+    <wf id="135" sent="1" para="1" offset="633" length="8"><![CDATA[Leatitia]]></wf>
+    <wf id="136" sent="1" para="1" offset="641" length="6"><![CDATA[Dalloz]]></wf>
+    <wf id="137" sent="1" para="1" offset="647" length="1"><![CDATA[(]]></wf>
+    <wf id="138" sent="1" para="1" offset="648" length="6"><![CDATA[France]]></wf>
+    <wf id="139" sent="1" para="1" offset="654" length="1"><![CDATA[)]]></wf>
+    <wf id="140" sent="1" para="1" offset="655" length="7"><![CDATA[1:18.96]]></wf>
+    <wf id="141" sent="1" para="1" offset="662" length="3"><![CDATA[17.]]></wf>
+    <wf id="142" sent="1" para="1" offset="665" length="6"><![CDATA[Renate]]></wf>
+    <wf id="143" sent="1" para="1" offset="671" length="8"><![CDATA[Goetschl]]></wf>
+    <wf id="144" sent="1" para="1" offset="679" length="1"><![CDATA[(]]></wf>
+    <wf id="145" sent="1" para="1" offset="680" length="7"><![CDATA[Austria]]></wf>
+    <wf id="146" sent="1" para="1" offset="687" length="1"><![CDATA[)]]></wf>
+    <wf id="147" sent="1" para="1" offset="688" length="7"><![CDATA[1:18.98]]></wf>
+    <wf id="148" sent="1" para="1" offset="695" length="3"><![CDATA[18.]]></wf>
+    <wf id="149" sent="1" para="1" offset="698" length="8"><![CDATA[Marianne]]></wf>
+    <wf id="150" sent="1" para="1" offset="706" length="6"><![CDATA[Brechu]]></wf>
+    <wf id="151" sent="1" para="1" offset="712" length="1"><![CDATA[(]]></wf>
+    <wf id="152" sent="1" para="1" offset="713" length="6"><![CDATA[France]]></wf>
+    <wf id="153" sent="1" para="1" offset="719" length="1"><![CDATA[)]]></wf>
+    <wf id="154" sent="1" para="1" offset="720" length="7"><![CDATA[1:19.02]]></wf>
+    <wf id="155" sent="1" para="1" offset="727" length="3"><![CDATA[19.]]></wf>
+    <wf id="156" sent="1" para="1" offset="730" length="5"><![CDATA[Heidi]]></wf>
+    <wf id="157" sent="1" para="1" offset="735" length="10"><![CDATA[Zurbriggen]]></wf>
+    <wf id="158" sent="1" para="1" offset="745" length="1"><![CDATA[(]]></wf>
+    <wf id="159" sent="1" para="1" offset="746" length="11"><![CDATA[Switzerland]]></wf>
+    <wf id="160" sent="1" para="1" offset="757" length="1"><![CDATA[)]]></wf>
+    <wf id="161" sent="1" para="1" offset="758" length="7"><![CDATA[1:19.03]]></wf>
+    <wf id="162" sent="1" para="1" offset="765" length="3"><![CDATA[20.]]></wf>
+    <wf id="163" sent="1" para="1" offset="768" length="5"><![CDATA[Spela]]></wf>
+    <wf id="164" sent="1" para="1" offset="773" length="6"><![CDATA[Bracun]]></wf>
+    <wf id="165" sent="1" para="1" offset="779" length="1"><![CDATA[(]]></wf>
+    <wf id="166" sent="1" para="1" offset="780" length="8"><![CDATA[Slovenia]]></wf>
+    <wf id="167" sent="1" para="1" offset="788" length="1"><![CDATA[)]]></wf>
+    <wf id="168" sent="1" para="1" offset="789" length="7"><![CDATA[1:19.07]]></wf>
+    <wf id="169" sent="1" para="1" offset="796" length="3"><![CDATA[21.]]></wf>
+    <wf id="170" sent="1" para="1" offset="799" length="7"><![CDATA[Shannon]]></wf>
+    <wf id="171" sent="1" para="1" offset="806" length="5"><![CDATA[Nobis]]></wf>
+    <wf id="172" sent="1" para="1" offset="811" length="1"><![CDATA[(]]></wf>
+    <wf id="173" sent="1" para="1" offset="812" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="174" sent="1" para="1" offset="816" length="1"><![CDATA[)]]></wf>
+    <wf id="175" sent="1" para="1" offset="817" length="7"><![CDATA[1:19.08]]></wf>
+    <wf id="176" sent="1" para="1" offset="824" length="3"><![CDATA[22=]]></wf>
+    <wf id="177" sent="1" para="1" offset="827" length="6"><![CDATA[Regine]]></wf>
+    <wf id="178" sent="1" para="1" offset="833" length="9"><![CDATA[Cavagnoud]]></wf>
+    <wf id="179" sent="1" para="1" offset="842" length="1"><![CDATA[(]]></wf>
+    <wf id="180" sent="1" para="1" offset="843" length="6"><![CDATA[France]]></wf>
+    <wf id="181" sent="1" para="1" offset="849" length="1"><![CDATA[)]]></wf>
+    <wf id="182" sent="1" para="1" offset="850" length="7"><![CDATA[1:19.21]]></wf>
+    <wf id="183" sent="1" para="1" offset="857" length="3"><![CDATA[22=]]></wf>
+    <wf id="184" sent="1" para="1" offset="860" length="5"><![CDATA[Anita]]></wf>
+    <wf id="185" sent="1" para="1" offset="865" length="7"><![CDATA[Wachter]]></wf>
+    <wf id="186" sent="1" para="1" offset="872" length="1"><![CDATA[(]]></wf>
+    <wf id="187" sent="1" para="1" offset="873" length="7"><![CDATA[Austria]]></wf>
+    <wf id="188" sent="1" para="1" offset="880" length="1"><![CDATA[)]]></wf>
+    <wf id="189" sent="1" para="1" offset="881" length="7"><![CDATA[1:19.21]]></wf>
+    <wf id="190" sent="1" para="1" offset="888" length="3"><![CDATA[24.]]></wf>
+    <wf id="191" sent="1" para="1" offset="891" length="5"><![CDATA[Megan]]></wf>
+    <wf id="192" sent="1" para="1" offset="896" length="6"><![CDATA[Gerety]]></wf>
+    <wf id="193" sent="1" para="1" offset="902" length="1"><![CDATA[(]]></wf>
+    <wf id="194" sent="1" para="1" offset="903" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="195" sent="1" para="1" offset="907" length="1"><![CDATA[)]]></wf>
+    <wf id="196" sent="1" para="1" offset="908" length="7"><![CDATA[1:19.39]]></wf>
+    <wf id="197" sent="1" para="1" offset="915" length="3"><![CDATA[25.]]></wf>
+    <wf id="198" sent="1" para="1" offset="918" length="6"><![CDATA[Hilary]]></wf>
+    <wf id="199" sent="1" para="1" offset="924" length="5"><![CDATA[Lindh]]></wf>
+    <wf id="200" sent="1" para="1" offset="929" length="1"><![CDATA[(]]></wf>
+    <wf id="201" sent="1" para="1" offset="930" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="202" sent="1" para="1" offset="934" length="1"><![CDATA[)]]></wf>
+    <wf id="203" sent="1" para="1" offset="935" length="7"><![CDATA[1:19.41]]></wf>
+    <wf id="204" sent="1" para="1" offset="942" length="3"><![CDATA[26=]]></wf>
+    <wf id="205" sent="1" para="1" offset="945" length="9"><![CDATA[Catherine]]></wf>
+    <wf id="206" sent="1" para="1" offset="954" length="6"><![CDATA[Borghi]]></wf>
+    <wf id="207" sent="1" para="1" offset="960" length="1"><![CDATA[(]]></wf>
+    <wf id="208" sent="1" para="1" offset="961" length="11"><![CDATA[Switzerland]]></wf>
+    <wf id="209" sent="1" para="1" offset="972" length="1"><![CDATA[)]]></wf>
+    <wf id="210" sent="1" para="1" offset="973" length="7"><![CDATA[1:19.44]]></wf>
+    <wf id="211" sent="1" para="1" offset="980" length="3"><![CDATA[26=]]></wf>
+    <wf id="212" sent="1" para="1" offset="983" length="8"><![CDATA[Michaela]]></wf>
+    <wf id="213" sent="1" para="1" offset="991" length="11"><![CDATA[Dorfmeister]]></wf>
+    <wf id="214" sent="1" para="1" offset="1002" length="1"><![CDATA[(]]></wf>
+    <wf id="215" sent="1" para="1" offset="1003" length="7"><![CDATA[Austria]]></wf>
+    <wf id="216" sent="1" para="1" offset="1010" length="1"><![CDATA[)]]></wf>
+    <wf id="217" sent="1" para="1" offset="1011" length="7"><![CDATA[1:19.44]]></wf>
+    <wf id="218" sent="1" para="1" offset="1018" length="3"><![CDATA[28.]]></wf>
+    <wf id="219" sent="1" para="1" offset="1021" length="9"><![CDATA[Alexandra]]></wf>
+    <wf id="220" sent="1" para="1" offset="1030" length="11"><![CDATA[Meissnitzer]]></wf>
+    <wf id="221" sent="1" para="1" offset="1041" length="1"><![CDATA[(]]></wf>
+    <wf id="222" sent="1" para="1" offset="1042" length="7"><![CDATA[Austria]]></wf>
+    <wf id="223" sent="1" para="1" offset="1049" length="1"><![CDATA[)]]></wf>
+    <wf id="224" sent="1" para="1" offset="1050" length="7"><![CDATA[1:19.53]]></wf>
+    <wf id="225" sent="1" para="1" offset="1057" length="3"><![CDATA[29.]]></wf>
+    <wf id="226" sent="1" para="1" offset="1060" length="8"><![CDATA[Ingeborg]]></wf>
+    <wf id="227" sent="1" para="1" offset="1068" length="5"><![CDATA[Helen]]></wf>
+    <wf id="228" sent="1" para="1" offset="1073" length="6"><![CDATA[Marken]]></wf>
+    <wf id="229" sent="1" para="1" offset="1079" length="1"><![CDATA[(]]></wf>
+    <wf id="230" sent="1" para="1" offset="1080" length="6"><![CDATA[Norway]]></wf>
+    <wf id="231" sent="1" para="1" offset="1086" length="1"><![CDATA[)]]></wf>
+    <wf id="232" sent="1" para="1" offset="1087" length="7"><![CDATA[1:19.54]]></wf>
+    <wf id="233" sent="1" para="1" offset="1094" length="3"><![CDATA[30.]]></wf>
+    <wf id="234" sent="1" para="1" offset="1097" length="6"><![CDATA[Monika]]></wf>
+    <wf id="235" sent="1" para="1" offset="1103" length="8"><![CDATA[Tschirky]]></wf>
+    <wf id="236" sent="1" para="1" offset="1111" length="1"><![CDATA[(]]></wf>
+    <wf id="237" sent="1" para="1" offset="1112" length="11"><![CDATA[Switzerland]]></wf>
+    <wf id="238" sent="1" para="1" offset="1123" length="1"><![CDATA[)]]></wf>
+    <wf id="239" sent="1" para="1" offset="1124" length="7"><![CDATA[1:19.60]]></wf>
+    <wf id="240" sent="1" para="1" offset="1131" length="3"><![CDATA[The]]></wf>
+    <wf id="241" sent="1" para="1" offset="1134" length="7"><![CDATA[results]]></wf>
+    <wf id="242" sent="1" para="1" offset="1141" length="4"><![CDATA[were]]></wf>
+    <wf id="243" sent="1" para="1" offset="1145" length="8"><![CDATA[declared]]></wf>
+    <wf id="244" sent="1" para="1" offset="1153" length="8"><![CDATA[official]]></wf>
+    <wf id="245" sent="1" para="1" offset="1161" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="ALPINE">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="SKIING-WOMEN">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="'S">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="WORLD">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="CUP">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="SUPER">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="G">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="RESULTS">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma=".">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="VAIL">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma=",">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="Colorado">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="1996-12-07">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Provisional">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="results">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="from">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="Saturday">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="'s">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="women">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="'s">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="World">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="Cup">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="super">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="G">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="race">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma=":">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="1.">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="Svetlana">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="Gladishiva">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="(">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="Russia">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma=")">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="one">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="minute">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="17.76">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="seconds">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="2.">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="Pernila">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="Wiberg">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="(">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="Sweden">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma=")">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="1:17.97">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="3.">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="Carole">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="Montillet">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="(">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="France">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma=")">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="1:18.11">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="4.">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="Hilde">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="Gerg">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="(">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="Germany">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma=")">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="1:18.15">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="5.">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="Isolde">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="Kostner">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="(">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="Italy">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma=")">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="1:18.19">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="6.">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="Warwara">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="Zelenskaja">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="(">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="Russia">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma=")">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="1:18.21">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="7.">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="Madlen">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="Brigger-Summermatter">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="(">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="Switzerland">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma=")">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="1:18.23">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="8.">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="Florence">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="Masnada">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="(">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="France">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma=")">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="1:18.31">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="9.">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="Katja">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="Seizinger">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="(">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="Germany">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma=")">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="1:18.32">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="10=">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="Martina">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="Ertl">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="(">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="Germany">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma=")">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="1:18.48">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="10=">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="Stefanie">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="Schuster">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="(">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="Austria">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma=")">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="1:18.48">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="12.">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="Bibiana">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="Perez">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="(">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="Italy">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma=")">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="1:18.52">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="13.">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="Barbara">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="Merlin">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="(">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="Italy">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma=")">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="1:18.67">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="14.">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="Sybille">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="Brauner">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="(">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="Germany">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma=")">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="1:18.81">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="15.">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="Katharina">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="Gutensohn">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="(">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="Germany">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma=")">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="1:18.92">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="16.">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="Leatitia">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="Dalloz">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="(">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="France">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma=")">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="1:18.96">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="17.">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="Renate">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="Goetschl">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="(">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="Austria">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma=")">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="1:18.98">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="18.">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="Marianne">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="Brechu">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="(">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="France">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma=")">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="1:19.02">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="19.">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="Heidi">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="Zurbriggen">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="(">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="Switzerland">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma=")">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="1:19.03">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="20.">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="Spela">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="Bracun">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="(">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="Slovenia">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma=")">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="1:19.07">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="21.">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="Shannon">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="Nobis">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma="(">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="U.S.">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma=")">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma="1:19.08">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="22=">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma="Regine">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="Cavagnoud">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="(">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="France">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma=")">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="1:19.21">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="22=">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma="Anita">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="Wachter">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma="(">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="Austria">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma=")">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="1:19.21">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma="24.">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma="Megan">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="Gerety">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma="(">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma="U.S.">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma=")">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma="1:19.39">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="25.">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma="Hilary">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma="Lindh">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma="(">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+    <term id="201" lemma="U.S.">
+      <span>
+        <target id="201"/>
+      </span>
+    </term>
+    <term id="202" lemma=")">
+      <span>
+        <target id="202"/>
+      </span>
+    </term>
+    <term id="203" lemma="1:19.41">
+      <span>
+        <target id="203"/>
+      </span>
+    </term>
+    <term id="204" lemma="26=">
+      <span>
+        <target id="204"/>
+      </span>
+    </term>
+    <term id="205" lemma="Catherine">
+      <span>
+        <target id="205"/>
+      </span>
+    </term>
+    <term id="206" lemma="Borghi">
+      <span>
+        <target id="206"/>
+      </span>
+    </term>
+    <term id="207" lemma="(">
+      <span>
+        <target id="207"/>
+      </span>
+    </term>
+    <term id="208" lemma="Switzerland">
+      <span>
+        <target id="208"/>
+      </span>
+    </term>
+    <term id="209" lemma=")">
+      <span>
+        <target id="209"/>
+      </span>
+    </term>
+    <term id="210" lemma="1:19.44">
+      <span>
+        <target id="210"/>
+      </span>
+    </term>
+    <term id="211" lemma="26=">
+      <span>
+        <target id="211"/>
+      </span>
+    </term>
+    <term id="212" lemma="Michaela">
+      <span>
+        <target id="212"/>
+      </span>
+    </term>
+    <term id="213" lemma="Dorfmeister">
+      <span>
+        <target id="213"/>
+      </span>
+    </term>
+    <term id="214" lemma="(">
+      <span>
+        <target id="214"/>
+      </span>
+    </term>
+    <term id="215" lemma="Austria">
+      <span>
+        <target id="215"/>
+      </span>
+    </term>
+    <term id="216" lemma=")">
+      <span>
+        <target id="216"/>
+      </span>
+    </term>
+    <term id="217" lemma="1:19.44">
+      <span>
+        <target id="217"/>
+      </span>
+    </term>
+    <term id="218" lemma="28.">
+      <span>
+        <target id="218"/>
+      </span>
+    </term>
+    <term id="219" lemma="Alexandra">
+      <span>
+        <target id="219"/>
+      </span>
+    </term>
+    <term id="220" lemma="Meissnitzer">
+      <span>
+        <target id="220"/>
+      </span>
+    </term>
+    <term id="221" lemma="(">
+      <span>
+        <target id="221"/>
+      </span>
+    </term>
+    <term id="222" lemma="Austria">
+      <span>
+        <target id="222"/>
+      </span>
+    </term>
+    <term id="223" lemma=")">
+      <span>
+        <target id="223"/>
+      </span>
+    </term>
+    <term id="224" lemma="1:19.53">
+      <span>
+        <target id="224"/>
+      </span>
+    </term>
+    <term id="225" lemma="29.">
+      <span>
+        <target id="225"/>
+      </span>
+    </term>
+    <term id="226" lemma="Ingeborg">
+      <span>
+        <target id="226"/>
+      </span>
+    </term>
+    <term id="227" lemma="Helen">
+      <span>
+        <target id="227"/>
+      </span>
+    </term>
+    <term id="228" lemma="Marken">
+      <span>
+        <target id="228"/>
+      </span>
+    </term>
+    <term id="229" lemma="(">
+      <span>
+        <target id="229"/>
+      </span>
+    </term>
+    <term id="230" lemma="Norway">
+      <span>
+        <target id="230"/>
+      </span>
+    </term>
+    <term id="231" lemma=")">
+      <span>
+        <target id="231"/>
+      </span>
+    </term>
+    <term id="232" lemma="1:19.54">
+      <span>
+        <target id="232"/>
+      </span>
+    </term>
+    <term id="233" lemma="30.">
+      <span>
+        <target id="233"/>
+      </span>
+    </term>
+    <term id="234" lemma="Monika">
+      <span>
+        <target id="234"/>
+      </span>
+    </term>
+    <term id="235" lemma="Tschirky">
+      <span>
+        <target id="235"/>
+      </span>
+    </term>
+    <term id="236" lemma="(">
+      <span>
+        <target id="236"/>
+      </span>
+    </term>
+    <term id="237" lemma="Switzerland">
+      <span>
+        <target id="237"/>
+      </span>
+    </term>
+    <term id="238" lemma=")">
+      <span>
+        <target id="238"/>
+      </span>
+    </term>
+    <term id="239" lemma="1:19.60">
+      <span>
+        <target id="239"/>
+      </span>
+    </term>
+    <term id="240" lemma="The">
+      <span>
+        <target id="240"/>
+      </span>
+    </term>
+    <term id="241" lemma="results">
+      <span>
+        <target id="241"/>
+      </span>
+    </term>
+    <term id="242" lemma="were">
+      <span>
+        <target id="242"/>
+      </span>
+    </term>
+    <term id="243" lemma="declared">
+      <span>
+        <target id="243"/>
+      </span>
+    </term>
+    <term id="244" lemma="official">
+      <span>
+        <target id="244"/>
+      </span>
+    </term>
+    <term id="245" lemma=".">
+      <span>
+        <target id="245"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="3922">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="3"/>
+          <target id="4"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3923">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Vail,_Colorado" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3924">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Colorado" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3925">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="20"/>
+          <target id="21"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3926">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="27"/>
+          <target id="28"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3927">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Russia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="30"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3928">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="37"/>
+          <target id="38"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3929">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Sweden" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="40"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3930">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Carole_Montillet" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="44"/>
+          <target id="45"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3931">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/France" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="47"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3932">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Hilde_Gerg" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="51"/>
+          <target id="52"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3933">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="54"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3934">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Isolde_Kostner" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="58"/>
+          <target id="59"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3935">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Italy" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="61"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3936">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="65"/>
+          <target id="66"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3937">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Russia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="68"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3938">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="72"/>
+          <target id="73"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3939">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Switzerland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="75"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3940">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Florence_Masnada" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="79"/>
+          <target id="80"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3941">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/France" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="82"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3942">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Katja_Seizinger" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="86"/>
+          <target id="87"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3943">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="89"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3944">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Martina_Ertl-Renz" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="93"/>
+          <target id="94"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3945">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="96"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3946">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="100"/>
+          <target id="101"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3947">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Austria" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="103"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3948">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="107"/>
+          <target id="108"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3949">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Italy" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="110"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3950">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="114"/>
+          <target id="115"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3951">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Italy" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="117"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3952">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="121"/>
+          <target id="122"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3953">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="124"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3954">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Katharina_Gutensohn" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="128"/>
+          <target id="129"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3955">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="131"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3956">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="135"/>
+          <target id="136"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3957">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/France" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="138"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3958">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="142"/>
+          <target id="143"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3959">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Austria" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="145"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3960">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="149"/>
+          <target id="150"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3961">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/France" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="152"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3962">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Heidi_Zurbriggen" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="156"/>
+          <target id="157"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3963">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Switzerland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="159"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3964">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="163"/>
+          <target id="164"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3965">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Slovenia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="166"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3966">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="170"/>
+          <target id="171"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3967">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="173"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3968">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="177"/>
+          <target id="178"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3969">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/France" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="180"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3970">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Anita_Wachter" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="184"/>
+          <target id="185"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3971">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Austria" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="187"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3972">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="191"/>
+          <target id="192"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3973">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="194"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3974">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Hilary_Lindh" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="198"/>
+          <target id="199"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3975">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="201"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3976">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="205"/>
+          <target id="206"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3977">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Switzerland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="208"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3978">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Michaela_Dorfmeister" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="212"/>
+          <target id="213"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3979">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Austria" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="215"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3980">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Alexandra_Meissnitzer" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="219"/>
+          <target id="220"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3981">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Austria" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="222"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3982">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="226"/>
+          <target id="227"/>
+          <target id="228"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3983">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Norway" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="230"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3984">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="234"/>
+          <target id="235"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3985">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Switzerland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="237"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

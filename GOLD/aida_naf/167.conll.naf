@@ -1,0 +1,482 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[NZ 's Bolger says Nats to meet NZ First on Sunday . WELLINGTON 1996-12-06 New Zealand Prime Minister Jim Bolger , emerging from coalition talks with the nationalist New Zealand First party on Friday afternoon , said National and NZ First would meet again on Sunday . Bolger said he expected a government to be formed by Thursday . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1329testb" filename="1329testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="2"><![CDATA[NZ]]></wf>
+    <wf id="2" sent="1" para="1" offset="2" length="2"><![CDATA['s]]></wf>
+    <wf id="3" sent="1" para="1" offset="4" length="6"><![CDATA[Bolger]]></wf>
+    <wf id="4" sent="1" para="1" offset="10" length="4"><![CDATA[says]]></wf>
+    <wf id="5" sent="1" para="1" offset="14" length="4"><![CDATA[Nats]]></wf>
+    <wf id="6" sent="1" para="1" offset="18" length="2"><![CDATA[to]]></wf>
+    <wf id="7" sent="1" para="1" offset="20" length="4"><![CDATA[meet]]></wf>
+    <wf id="8" sent="1" para="1" offset="24" length="2"><![CDATA[NZ]]></wf>
+    <wf id="9" sent="1" para="1" offset="26" length="5"><![CDATA[First]]></wf>
+    <wf id="10" sent="1" para="1" offset="31" length="2"><![CDATA[on]]></wf>
+    <wf id="11" sent="1" para="1" offset="33" length="6"><![CDATA[Sunday]]></wf>
+    <wf id="12" sent="1" para="1" offset="39" length="1"><![CDATA[.]]></wf>
+    <wf id="13" sent="1" para="1" offset="40" length="10"><![CDATA[WELLINGTON]]></wf>
+    <wf id="14" sent="1" para="1" offset="50" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="15" sent="1" para="1" offset="60" length="3"><![CDATA[New]]></wf>
+    <wf id="16" sent="1" para="1" offset="63" length="7"><![CDATA[Zealand]]></wf>
+    <wf id="17" sent="1" para="1" offset="70" length="5"><![CDATA[Prime]]></wf>
+    <wf id="18" sent="1" para="1" offset="75" length="8"><![CDATA[Minister]]></wf>
+    <wf id="19" sent="1" para="1" offset="83" length="3"><![CDATA[Jim]]></wf>
+    <wf id="20" sent="1" para="1" offset="86" length="6"><![CDATA[Bolger]]></wf>
+    <wf id="21" sent="1" para="1" offset="92" length="1"><![CDATA[,]]></wf>
+    <wf id="22" sent="1" para="1" offset="93" length="8"><![CDATA[emerging]]></wf>
+    <wf id="23" sent="1" para="1" offset="101" length="4"><![CDATA[from]]></wf>
+    <wf id="24" sent="1" para="1" offset="105" length="9"><![CDATA[coalition]]></wf>
+    <wf id="25" sent="1" para="1" offset="114" length="5"><![CDATA[talks]]></wf>
+    <wf id="26" sent="1" para="1" offset="119" length="4"><![CDATA[with]]></wf>
+    <wf id="27" sent="1" para="1" offset="123" length="3"><![CDATA[the]]></wf>
+    <wf id="28" sent="1" para="1" offset="126" length="11"><![CDATA[nationalist]]></wf>
+    <wf id="29" sent="1" para="1" offset="137" length="3"><![CDATA[New]]></wf>
+    <wf id="30" sent="1" para="1" offset="140" length="7"><![CDATA[Zealand]]></wf>
+    <wf id="31" sent="1" para="1" offset="147" length="5"><![CDATA[First]]></wf>
+    <wf id="32" sent="1" para="1" offset="152" length="5"><![CDATA[party]]></wf>
+    <wf id="33" sent="1" para="1" offset="157" length="2"><![CDATA[on]]></wf>
+    <wf id="34" sent="1" para="1" offset="159" length="6"><![CDATA[Friday]]></wf>
+    <wf id="35" sent="1" para="1" offset="165" length="9"><![CDATA[afternoon]]></wf>
+    <wf id="36" sent="1" para="1" offset="174" length="1"><![CDATA[,]]></wf>
+    <wf id="37" sent="1" para="1" offset="175" length="4"><![CDATA[said]]></wf>
+    <wf id="38" sent="1" para="1" offset="179" length="8"><![CDATA[National]]></wf>
+    <wf id="39" sent="1" para="1" offset="187" length="3"><![CDATA[and]]></wf>
+    <wf id="40" sent="1" para="1" offset="190" length="2"><![CDATA[NZ]]></wf>
+    <wf id="41" sent="1" para="1" offset="192" length="5"><![CDATA[First]]></wf>
+    <wf id="42" sent="1" para="1" offset="197" length="5"><![CDATA[would]]></wf>
+    <wf id="43" sent="1" para="1" offset="202" length="4"><![CDATA[meet]]></wf>
+    <wf id="44" sent="1" para="1" offset="206" length="5"><![CDATA[again]]></wf>
+    <wf id="45" sent="1" para="1" offset="211" length="2"><![CDATA[on]]></wf>
+    <wf id="46" sent="1" para="1" offset="213" length="6"><![CDATA[Sunday]]></wf>
+    <wf id="47" sent="1" para="1" offset="219" length="1"><![CDATA[.]]></wf>
+    <wf id="48" sent="1" para="1" offset="220" length="6"><![CDATA[Bolger]]></wf>
+    <wf id="49" sent="1" para="1" offset="226" length="4"><![CDATA[said]]></wf>
+    <wf id="50" sent="1" para="1" offset="230" length="2"><![CDATA[he]]></wf>
+    <wf id="51" sent="1" para="1" offset="232" length="8"><![CDATA[expected]]></wf>
+    <wf id="52" sent="1" para="1" offset="240" length="1"><![CDATA[a]]></wf>
+    <wf id="53" sent="1" para="1" offset="241" length="10"><![CDATA[government]]></wf>
+    <wf id="54" sent="1" para="1" offset="251" length="2"><![CDATA[to]]></wf>
+    <wf id="55" sent="1" para="1" offset="253" length="2"><![CDATA[be]]></wf>
+    <wf id="56" sent="1" para="1" offset="255" length="6"><![CDATA[formed]]></wf>
+    <wf id="57" sent="1" para="1" offset="261" length="2"><![CDATA[by]]></wf>
+    <wf id="58" sent="1" para="1" offset="263" length="8"><![CDATA[Thursday]]></wf>
+    <wf id="59" sent="1" para="1" offset="271" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="NZ">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="'s">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="Bolger">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="says">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="Nats">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="to">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="meet">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="NZ">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="First">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="on">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="Sunday">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma=".">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="WELLINGTON">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="1996-12-06">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="New">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="Zealand">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="Prime">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="Minister">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="Jim">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="Bolger">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma=",">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="emerging">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="from">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="coalition">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="talks">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="with">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="the">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="nationalist">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="New">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="Zealand">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="First">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="party">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="on">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="Friday">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="afternoon">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma=",">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="said">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="National">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="and">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="NZ">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="First">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="would">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="meet">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="again">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="on">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="Sunday">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma=".">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="Bolger">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="said">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="he">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="expected">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="a">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="government">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="to">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="be">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="formed">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="by">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="Thursday">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma=".">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="3620">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3621">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Jim_Bolger" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="3"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3622">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="5"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3623">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="8"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3624">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Wellington" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="13"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3625">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_Zealand" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="15"/>
+          <target id="16"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3626">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Jim_Bolger" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="19"/>
+          <target id="20"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3627">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_Zealand_First" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="29"/>
+          <target id="30"/>
+          <target id="31"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3628">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_Zealand_National_Party" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="38"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3629">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_Zealand_First" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="40"/>
+          <target id="41"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3630">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Jim_Bolger" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="48"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

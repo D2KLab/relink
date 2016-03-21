@@ -1,0 +1,460 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[Tambang Timah at $ 15.575 in London . LONDON 1996-12-07 PT Tambang Timah closed at $ 15.575 per GDR in London on Friday . It recorded the day 's low of $ 15.475 and the day 's high of $ 15.725 . It closed at $ 15.80 on Thursday . One Global Depository Receipt represents 10 common shares . -- Jakarta newsroom +6221 384-6364 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1220testb" filename="1220testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="7"><![CDATA[Tambang]]></wf>
+    <wf id="2" sent="1" para="1" offset="7" length="5"><![CDATA[Timah]]></wf>
+    <wf id="3" sent="1" para="1" offset="12" length="2"><![CDATA[at]]></wf>
+    <wf id="4" sent="1" para="1" offset="14" length="1"><![CDATA[$]]></wf>
+    <wf id="5" sent="1" para="1" offset="15" length="6"><![CDATA[15.575]]></wf>
+    <wf id="6" sent="1" para="1" offset="21" length="2"><![CDATA[in]]></wf>
+    <wf id="7" sent="1" para="1" offset="23" length="6"><![CDATA[London]]></wf>
+    <wf id="8" sent="1" para="1" offset="29" length="1"><![CDATA[.]]></wf>
+    <wf id="9" sent="1" para="1" offset="30" length="6"><![CDATA[LONDON]]></wf>
+    <wf id="10" sent="1" para="1" offset="36" length="10"><![CDATA[1996-12-07]]></wf>
+    <wf id="11" sent="1" para="1" offset="46" length="2"><![CDATA[PT]]></wf>
+    <wf id="12" sent="1" para="1" offset="48" length="7"><![CDATA[Tambang]]></wf>
+    <wf id="13" sent="1" para="1" offset="55" length="5"><![CDATA[Timah]]></wf>
+    <wf id="14" sent="1" para="1" offset="60" length="6"><![CDATA[closed]]></wf>
+    <wf id="15" sent="1" para="1" offset="66" length="2"><![CDATA[at]]></wf>
+    <wf id="16" sent="1" para="1" offset="68" length="1"><![CDATA[$]]></wf>
+    <wf id="17" sent="1" para="1" offset="69" length="6"><![CDATA[15.575]]></wf>
+    <wf id="18" sent="1" para="1" offset="75" length="3"><![CDATA[per]]></wf>
+    <wf id="19" sent="1" para="1" offset="78" length="3"><![CDATA[GDR]]></wf>
+    <wf id="20" sent="1" para="1" offset="81" length="2"><![CDATA[in]]></wf>
+    <wf id="21" sent="1" para="1" offset="83" length="6"><![CDATA[London]]></wf>
+    <wf id="22" sent="1" para="1" offset="89" length="2"><![CDATA[on]]></wf>
+    <wf id="23" sent="1" para="1" offset="91" length="6"><![CDATA[Friday]]></wf>
+    <wf id="24" sent="1" para="1" offset="97" length="1"><![CDATA[.]]></wf>
+    <wf id="25" sent="1" para="1" offset="98" length="2"><![CDATA[It]]></wf>
+    <wf id="26" sent="1" para="1" offset="100" length="8"><![CDATA[recorded]]></wf>
+    <wf id="27" sent="1" para="1" offset="108" length="3"><![CDATA[the]]></wf>
+    <wf id="28" sent="1" para="1" offset="111" length="3"><![CDATA[day]]></wf>
+    <wf id="29" sent="1" para="1" offset="114" length="2"><![CDATA['s]]></wf>
+    <wf id="30" sent="1" para="1" offset="116" length="3"><![CDATA[low]]></wf>
+    <wf id="31" sent="1" para="1" offset="119" length="2"><![CDATA[of]]></wf>
+    <wf id="32" sent="1" para="1" offset="121" length="1"><![CDATA[$]]></wf>
+    <wf id="33" sent="1" para="1" offset="122" length="6"><![CDATA[15.475]]></wf>
+    <wf id="34" sent="1" para="1" offset="128" length="3"><![CDATA[and]]></wf>
+    <wf id="35" sent="1" para="1" offset="131" length="3"><![CDATA[the]]></wf>
+    <wf id="36" sent="1" para="1" offset="134" length="3"><![CDATA[day]]></wf>
+    <wf id="37" sent="1" para="1" offset="137" length="2"><![CDATA['s]]></wf>
+    <wf id="38" sent="1" para="1" offset="139" length="4"><![CDATA[high]]></wf>
+    <wf id="39" sent="1" para="1" offset="143" length="2"><![CDATA[of]]></wf>
+    <wf id="40" sent="1" para="1" offset="145" length="1"><![CDATA[$]]></wf>
+    <wf id="41" sent="1" para="1" offset="146" length="6"><![CDATA[15.725]]></wf>
+    <wf id="42" sent="1" para="1" offset="152" length="1"><![CDATA[.]]></wf>
+    <wf id="43" sent="1" para="1" offset="153" length="2"><![CDATA[It]]></wf>
+    <wf id="44" sent="1" para="1" offset="155" length="6"><![CDATA[closed]]></wf>
+    <wf id="45" sent="1" para="1" offset="161" length="2"><![CDATA[at]]></wf>
+    <wf id="46" sent="1" para="1" offset="163" length="1"><![CDATA[$]]></wf>
+    <wf id="47" sent="1" para="1" offset="164" length="5"><![CDATA[15.80]]></wf>
+    <wf id="48" sent="1" para="1" offset="169" length="2"><![CDATA[on]]></wf>
+    <wf id="49" sent="1" para="1" offset="171" length="8"><![CDATA[Thursday]]></wf>
+    <wf id="50" sent="1" para="1" offset="179" length="1"><![CDATA[.]]></wf>
+    <wf id="51" sent="1" para="1" offset="180" length="3"><![CDATA[One]]></wf>
+    <wf id="52" sent="1" para="1" offset="183" length="6"><![CDATA[Global]]></wf>
+    <wf id="53" sent="1" para="1" offset="189" length="10"><![CDATA[Depository]]></wf>
+    <wf id="54" sent="1" para="1" offset="199" length="7"><![CDATA[Receipt]]></wf>
+    <wf id="55" sent="1" para="1" offset="206" length="10"><![CDATA[represents]]></wf>
+    <wf id="56" sent="1" para="1" offset="216" length="2"><![CDATA[10]]></wf>
+    <wf id="57" sent="1" para="1" offset="218" length="6"><![CDATA[common]]></wf>
+    <wf id="58" sent="1" para="1" offset="224" length="6"><![CDATA[shares]]></wf>
+    <wf id="59" sent="1" para="1" offset="230" length="1"><![CDATA[.]]></wf>
+    <wf id="60" sent="1" para="1" offset="231" length="2"><![CDATA[--]]></wf>
+    <wf id="61" sent="1" para="1" offset="233" length="7"><![CDATA[Jakarta]]></wf>
+    <wf id="62" sent="1" para="1" offset="240" length="8"><![CDATA[newsroom]]></wf>
+    <wf id="63" sent="1" para="1" offset="248" length="5"><![CDATA[+6221]]></wf>
+    <wf id="64" sent="1" para="1" offset="253" length="8"><![CDATA[384-6364]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="Tambang">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="Timah">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="at">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="$">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="15.575">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="in">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="London">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma=".">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="LONDON">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="1996-12-07">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="PT">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="Tambang">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Timah">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="closed">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="at">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="$">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="15.575">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="per">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="GDR">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="in">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="London">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="on">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="Friday">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma=".">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="It">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="recorded">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="the">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="day">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="'s">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="low">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="of">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="$">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="15.475">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="and">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="the">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="day">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="'s">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="high">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="of">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="$">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="15.725">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma=".">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="It">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="closed">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="at">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="$">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="15.80">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="on">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="Thursday">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma=".">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="One">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="Global">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="Depository">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="Receipt">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="represents">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="10">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="common">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="shares">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma=".">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="--">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="Jakarta">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="newsroom">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="+6221">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="384-6364">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="1809">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+          <target id="2"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1810">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/London" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="7"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1811">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/London" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1812">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+          <target id="12"/>
+          <target id="13"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1813">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/London" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="21"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1814">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Jakarta" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="61"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

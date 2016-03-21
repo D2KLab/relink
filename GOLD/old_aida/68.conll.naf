@@ -1,0 +1,1056 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[Manitoba Pork forward contract PM prices - Dec 6 . WINNIPEG 1996-12-06 Manitoba Pork closing forward contract prices in Canadian dollars per hundred lbs ( Cwt ) for Dec 6 including minimum guaranteed price -- CONTRACT PREVIOUS CLOSE PM CLOSE PM CLOSING RANGE DATE PM CLOSE FIXED MINIMUM AT 1230 CST Feb 97 79.94 79.67 75.55 77.01-81.80 Mar 97 76.37 76.12 72.02 73.47-78.24 Apr 97 74.13 74.69 70.59 72.04-76.81 May 97 76.51 77.07 72.97 74.42-79.19 Jun 97 77.53 77.24 73.17 74.62-79.35 Jul 97 74.45 74.01 69.95 71.39-76.12 Aug 97 72.41 72.07 68.01 69.45-74.18 Sep 97 69.18 69.24 65.17 66.61-71.34 Oct 97 68.00 68.05 63.98 65.43-70.16 Nov 97 68.00 68.05 63.98 65.43-70.16 Note : Manitoba Government Price Index ( C$ per cwt ) - Dec 4 87.16 Manitoba 's Hog Price Range : 84.00-86.00 per cwt CAN / U.S. DOLLAR EXCHANGE RATE : 1.3570 Source : Manitoba Pork . ( ( Winnipeg bureau 204-947-3548 ) ) ]]></raw>
+  <nafHeader>
+    <fileDesc title="1230testb" filename="1230testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="8"><![CDATA[Manitoba]]></wf>
+    <wf id="1" sent="1" para="1" offset="8" length="4"><![CDATA[Pork]]></wf>
+    <wf id="2" sent="1" para="1" offset="12" length="7"><![CDATA[forward]]></wf>
+    <wf id="3" sent="1" para="1" offset="19" length="8"><![CDATA[contract]]></wf>
+    <wf id="4" sent="1" para="1" offset="27" length="2"><![CDATA[PM]]></wf>
+    <wf id="5" sent="1" para="1" offset="29" length="6"><![CDATA[prices]]></wf>
+    <wf id="6" sent="1" para="1" offset="35" length="1"><![CDATA[-]]></wf>
+    <wf id="7" sent="1" para="1" offset="36" length="3"><![CDATA[Dec]]></wf>
+    <wf id="8" sent="1" para="1" offset="39" length="1"><![CDATA[6]]></wf>
+    <wf id="9" sent="1" para="1" offset="40" length="1"><![CDATA[.]]></wf>
+    <wf id="10" sent="1" para="1" offset="41" length="8"><![CDATA[WINNIPEG]]></wf>
+    <wf id="11" sent="1" para="1" offset="49" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="12" sent="1" para="1" offset="59" length="8"><![CDATA[Manitoba]]></wf>
+    <wf id="13" sent="1" para="1" offset="67" length="4"><![CDATA[Pork]]></wf>
+    <wf id="14" sent="1" para="1" offset="71" length="7"><![CDATA[closing]]></wf>
+    <wf id="15" sent="1" para="1" offset="78" length="7"><![CDATA[forward]]></wf>
+    <wf id="16" sent="1" para="1" offset="85" length="8"><![CDATA[contract]]></wf>
+    <wf id="17" sent="1" para="1" offset="93" length="6"><![CDATA[prices]]></wf>
+    <wf id="18" sent="1" para="1" offset="99" length="2"><![CDATA[in]]></wf>
+    <wf id="19" sent="1" para="1" offset="101" length="8"><![CDATA[Canadian]]></wf>
+    <wf id="20" sent="1" para="1" offset="109" length="7"><![CDATA[dollars]]></wf>
+    <wf id="21" sent="1" para="1" offset="116" length="3"><![CDATA[per]]></wf>
+    <wf id="22" sent="1" para="1" offset="119" length="7"><![CDATA[hundred]]></wf>
+    <wf id="23" sent="1" para="1" offset="126" length="3"><![CDATA[lbs]]></wf>
+    <wf id="24" sent="1" para="1" offset="129" length="1"><![CDATA[(]]></wf>
+    <wf id="25" sent="1" para="1" offset="130" length="3"><![CDATA[Cwt]]></wf>
+    <wf id="26" sent="1" para="1" offset="133" length="1"><![CDATA[)]]></wf>
+    <wf id="27" sent="1" para="1" offset="134" length="3"><![CDATA[for]]></wf>
+    <wf id="28" sent="1" para="1" offset="137" length="3"><![CDATA[Dec]]></wf>
+    <wf id="29" sent="1" para="1" offset="140" length="1"><![CDATA[6]]></wf>
+    <wf id="30" sent="1" para="1" offset="141" length="9"><![CDATA[including]]></wf>
+    <wf id="31" sent="1" para="1" offset="150" length="7"><![CDATA[minimum]]></wf>
+    <wf id="32" sent="1" para="1" offset="157" length="10"><![CDATA[guaranteed]]></wf>
+    <wf id="33" sent="1" para="1" offset="167" length="5"><![CDATA[price]]></wf>
+    <wf id="34" sent="1" para="1" offset="172" length="2"><![CDATA[--]]></wf>
+    <wf id="35" sent="1" para="1" offset="174" length="8"><![CDATA[CONTRACT]]></wf>
+    <wf id="36" sent="1" para="1" offset="182" length="8"><![CDATA[PREVIOUS]]></wf>
+    <wf id="37" sent="1" para="1" offset="190" length="5"><![CDATA[CLOSE]]></wf>
+    <wf id="38" sent="1" para="1" offset="195" length="2"><![CDATA[PM]]></wf>
+    <wf id="39" sent="1" para="1" offset="197" length="5"><![CDATA[CLOSE]]></wf>
+    <wf id="40" sent="1" para="1" offset="202" length="2"><![CDATA[PM]]></wf>
+    <wf id="41" sent="1" para="1" offset="204" length="7"><![CDATA[CLOSING]]></wf>
+    <wf id="42" sent="1" para="1" offset="211" length="5"><![CDATA[RANGE]]></wf>
+    <wf id="43" sent="1" para="1" offset="216" length="4"><![CDATA[DATE]]></wf>
+    <wf id="44" sent="1" para="1" offset="220" length="2"><![CDATA[PM]]></wf>
+    <wf id="45" sent="1" para="1" offset="222" length="5"><![CDATA[CLOSE]]></wf>
+    <wf id="46" sent="1" para="1" offset="227" length="5"><![CDATA[FIXED]]></wf>
+    <wf id="47" sent="1" para="1" offset="232" length="7"><![CDATA[MINIMUM]]></wf>
+    <wf id="48" sent="1" para="1" offset="239" length="2"><![CDATA[AT]]></wf>
+    <wf id="49" sent="1" para="1" offset="241" length="4"><![CDATA[1230]]></wf>
+    <wf id="50" sent="1" para="1" offset="245" length="3"><![CDATA[CST]]></wf>
+    <wf id="51" sent="1" para="1" offset="248" length="3"><![CDATA[Feb]]></wf>
+    <wf id="52" sent="1" para="1" offset="251" length="2"><![CDATA[97]]></wf>
+    <wf id="53" sent="1" para="1" offset="253" length="5"><![CDATA[79.94]]></wf>
+    <wf id="54" sent="1" para="1" offset="258" length="5"><![CDATA[79.67]]></wf>
+    <wf id="55" sent="1" para="1" offset="263" length="5"><![CDATA[75.55]]></wf>
+    <wf id="56" sent="1" para="1" offset="268" length="11"><![CDATA[77.01-81.80]]></wf>
+    <wf id="57" sent="1" para="1" offset="279" length="3"><![CDATA[Mar]]></wf>
+    <wf id="58" sent="1" para="1" offset="282" length="2"><![CDATA[97]]></wf>
+    <wf id="59" sent="1" para="1" offset="284" length="5"><![CDATA[76.37]]></wf>
+    <wf id="60" sent="1" para="1" offset="289" length="5"><![CDATA[76.12]]></wf>
+    <wf id="61" sent="1" para="1" offset="294" length="5"><![CDATA[72.02]]></wf>
+    <wf id="62" sent="1" para="1" offset="299" length="11"><![CDATA[73.47-78.24]]></wf>
+    <wf id="63" sent="1" para="1" offset="310" length="3"><![CDATA[Apr]]></wf>
+    <wf id="64" sent="1" para="1" offset="313" length="2"><![CDATA[97]]></wf>
+    <wf id="65" sent="1" para="1" offset="315" length="5"><![CDATA[74.13]]></wf>
+    <wf id="66" sent="1" para="1" offset="320" length="5"><![CDATA[74.69]]></wf>
+    <wf id="67" sent="1" para="1" offset="325" length="5"><![CDATA[70.59]]></wf>
+    <wf id="68" sent="1" para="1" offset="330" length="11"><![CDATA[72.04-76.81]]></wf>
+    <wf id="69" sent="1" para="1" offset="341" length="3"><![CDATA[May]]></wf>
+    <wf id="70" sent="1" para="1" offset="344" length="2"><![CDATA[97]]></wf>
+    <wf id="71" sent="1" para="1" offset="346" length="5"><![CDATA[76.51]]></wf>
+    <wf id="72" sent="1" para="1" offset="351" length="5"><![CDATA[77.07]]></wf>
+    <wf id="73" sent="1" para="1" offset="356" length="5"><![CDATA[72.97]]></wf>
+    <wf id="74" sent="1" para="1" offset="361" length="11"><![CDATA[74.42-79.19]]></wf>
+    <wf id="75" sent="1" para="1" offset="372" length="3"><![CDATA[Jun]]></wf>
+    <wf id="76" sent="1" para="1" offset="375" length="2"><![CDATA[97]]></wf>
+    <wf id="77" sent="1" para="1" offset="377" length="5"><![CDATA[77.53]]></wf>
+    <wf id="78" sent="1" para="1" offset="382" length="5"><![CDATA[77.24]]></wf>
+    <wf id="79" sent="1" para="1" offset="387" length="5"><![CDATA[73.17]]></wf>
+    <wf id="80" sent="1" para="1" offset="392" length="11"><![CDATA[74.62-79.35]]></wf>
+    <wf id="81" sent="1" para="1" offset="403" length="3"><![CDATA[Jul]]></wf>
+    <wf id="82" sent="1" para="1" offset="406" length="2"><![CDATA[97]]></wf>
+    <wf id="83" sent="1" para="1" offset="408" length="5"><![CDATA[74.45]]></wf>
+    <wf id="84" sent="1" para="1" offset="413" length="5"><![CDATA[74.01]]></wf>
+    <wf id="85" sent="1" para="1" offset="418" length="5"><![CDATA[69.95]]></wf>
+    <wf id="86" sent="1" para="1" offset="423" length="11"><![CDATA[71.39-76.12]]></wf>
+    <wf id="87" sent="1" para="1" offset="434" length="3"><![CDATA[Aug]]></wf>
+    <wf id="88" sent="1" para="1" offset="437" length="2"><![CDATA[97]]></wf>
+    <wf id="89" sent="1" para="1" offset="439" length="5"><![CDATA[72.41]]></wf>
+    <wf id="90" sent="1" para="1" offset="444" length="5"><![CDATA[72.07]]></wf>
+    <wf id="91" sent="1" para="1" offset="449" length="5"><![CDATA[68.01]]></wf>
+    <wf id="92" sent="1" para="1" offset="454" length="11"><![CDATA[69.45-74.18]]></wf>
+    <wf id="93" sent="1" para="1" offset="465" length="3"><![CDATA[Sep]]></wf>
+    <wf id="94" sent="1" para="1" offset="468" length="2"><![CDATA[97]]></wf>
+    <wf id="95" sent="1" para="1" offset="470" length="5"><![CDATA[69.18]]></wf>
+    <wf id="96" sent="1" para="1" offset="475" length="5"><![CDATA[69.24]]></wf>
+    <wf id="97" sent="1" para="1" offset="480" length="5"><![CDATA[65.17]]></wf>
+    <wf id="98" sent="1" para="1" offset="485" length="11"><![CDATA[66.61-71.34]]></wf>
+    <wf id="99" sent="1" para="1" offset="496" length="3"><![CDATA[Oct]]></wf>
+    <wf id="100" sent="1" para="1" offset="499" length="2"><![CDATA[97]]></wf>
+    <wf id="101" sent="1" para="1" offset="501" length="5"><![CDATA[68.00]]></wf>
+    <wf id="102" sent="1" para="1" offset="506" length="5"><![CDATA[68.05]]></wf>
+    <wf id="103" sent="1" para="1" offset="511" length="5"><![CDATA[63.98]]></wf>
+    <wf id="104" sent="1" para="1" offset="516" length="11"><![CDATA[65.43-70.16]]></wf>
+    <wf id="105" sent="1" para="1" offset="527" length="3"><![CDATA[Nov]]></wf>
+    <wf id="106" sent="1" para="1" offset="530" length="2"><![CDATA[97]]></wf>
+    <wf id="107" sent="1" para="1" offset="532" length="5"><![CDATA[68.00]]></wf>
+    <wf id="108" sent="1" para="1" offset="537" length="5"><![CDATA[68.05]]></wf>
+    <wf id="109" sent="1" para="1" offset="542" length="5"><![CDATA[63.98]]></wf>
+    <wf id="110" sent="1" para="1" offset="547" length="11"><![CDATA[65.43-70.16]]></wf>
+    <wf id="111" sent="1" para="1" offset="558" length="4"><![CDATA[Note]]></wf>
+    <wf id="112" sent="1" para="1" offset="562" length="1"><![CDATA[:]]></wf>
+    <wf id="113" sent="1" para="1" offset="563" length="8"><![CDATA[Manitoba]]></wf>
+    <wf id="114" sent="1" para="1" offset="571" length="10"><![CDATA[Government]]></wf>
+    <wf id="115" sent="1" para="1" offset="581" length="5"><![CDATA[Price]]></wf>
+    <wf id="116" sent="1" para="1" offset="586" length="5"><![CDATA[Index]]></wf>
+    <wf id="117" sent="1" para="1" offset="591" length="1"><![CDATA[(]]></wf>
+    <wf id="118" sent="1" para="1" offset="592" length="2"><![CDATA[C$]]></wf>
+    <wf id="119" sent="1" para="1" offset="594" length="3"><![CDATA[per]]></wf>
+    <wf id="120" sent="1" para="1" offset="597" length="3"><![CDATA[cwt]]></wf>
+    <wf id="121" sent="1" para="1" offset="600" length="1"><![CDATA[)]]></wf>
+    <wf id="122" sent="1" para="1" offset="601" length="1"><![CDATA[-]]></wf>
+    <wf id="123" sent="1" para="1" offset="602" length="3"><![CDATA[Dec]]></wf>
+    <wf id="124" sent="1" para="1" offset="605" length="1"><![CDATA[4]]></wf>
+    <wf id="125" sent="1" para="1" offset="606" length="5"><![CDATA[87.16]]></wf>
+    <wf id="126" sent="1" para="1" offset="611" length="8"><![CDATA[Manitoba]]></wf>
+    <wf id="127" sent="1" para="1" offset="619" length="2"><![CDATA['s]]></wf>
+    <wf id="128" sent="1" para="1" offset="621" length="3"><![CDATA[Hog]]></wf>
+    <wf id="129" sent="1" para="1" offset="624" length="5"><![CDATA[Price]]></wf>
+    <wf id="130" sent="1" para="1" offset="629" length="5"><![CDATA[Range]]></wf>
+    <wf id="131" sent="1" para="1" offset="634" length="1"><![CDATA[:]]></wf>
+    <wf id="132" sent="1" para="1" offset="635" length="11"><![CDATA[84.00-86.00]]></wf>
+    <wf id="133" sent="1" para="1" offset="646" length="3"><![CDATA[per]]></wf>
+    <wf id="134" sent="1" para="1" offset="649" length="3"><![CDATA[cwt]]></wf>
+    <wf id="135" sent="1" para="1" offset="652" length="3"><![CDATA[CAN]]></wf>
+    <wf id="136" sent="1" para="1" offset="655" length="1"><![CDATA[/]]></wf>
+    <wf id="137" sent="1" para="1" offset="656" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="138" sent="1" para="1" offset="660" length="6"><![CDATA[DOLLAR]]></wf>
+    <wf id="139" sent="1" para="1" offset="666" length="8"><![CDATA[EXCHANGE]]></wf>
+    <wf id="140" sent="1" para="1" offset="674" length="4"><![CDATA[RATE]]></wf>
+    <wf id="141" sent="1" para="1" offset="678" length="1"><![CDATA[:]]></wf>
+    <wf id="142" sent="1" para="1" offset="679" length="6"><![CDATA[1.3570]]></wf>
+    <wf id="143" sent="1" para="1" offset="685" length="6"><![CDATA[Source]]></wf>
+    <wf id="144" sent="1" para="1" offset="691" length="1"><![CDATA[:]]></wf>
+    <wf id="145" sent="1" para="1" offset="692" length="8"><![CDATA[Manitoba]]></wf>
+    <wf id="146" sent="1" para="1" offset="700" length="4"><![CDATA[Pork]]></wf>
+    <wf id="147" sent="1" para="1" offset="704" length="1"><![CDATA[.]]></wf>
+    <wf id="148" sent="1" para="1" offset="705" length="1"><![CDATA[(]]></wf>
+    <wf id="149" sent="1" para="1" offset="706" length="1"><![CDATA[(]]></wf>
+    <wf id="150" sent="1" para="1" offset="707" length="8"><![CDATA[Winnipeg]]></wf>
+    <wf id="151" sent="1" para="1" offset="715" length="6"><![CDATA[bureau]]></wf>
+    <wf id="152" sent="1" para="1" offset="721" length="12"><![CDATA[204-947-3548]]></wf>
+    <wf id="153" sent="1" para="1" offset="733" length="1"><![CDATA[)]]></wf>
+    <wf id="154" sent="1" para="1" offset="734" length="1"><![CDATA[)]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="Manitoba">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="Pork">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="forward">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="contract">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="PM">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="prices">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="-">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="Dec">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="6">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma=".">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="WINNIPEG">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="1996-12-06">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="Manitoba">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Pork">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="closing">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="forward">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="contract">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="prices">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="in">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="Canadian">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="dollars">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="per">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="hundred">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="lbs">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="(">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="Cwt">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma=")">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="for">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="Dec">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="6">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="including">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="minimum">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="guaranteed">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="price">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="--">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="CONTRACT">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="PREVIOUS">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="CLOSE">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="PM">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="CLOSE">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="PM">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="CLOSING">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="RANGE">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="DATE">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="PM">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="CLOSE">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="FIXED">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="MINIMUM">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="AT">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="1230">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="CST">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="Feb">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="97">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="79.94">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="79.67">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="75.55">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="77.01-81.80">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="Mar">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="97">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="76.37">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="76.12">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="72.02">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="73.47-78.24">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="Apr">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="97">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="74.13">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="74.69">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="70.59">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="72.04-76.81">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="May">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="97">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="76.51">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="77.07">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="72.97">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="74.42-79.19">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="Jun">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="97">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="77.53">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="77.24">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="73.17">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="74.62-79.35">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="Jul">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="97">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="74.45">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="74.01">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="69.95">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="71.39-76.12">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="Aug">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="97">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="72.41">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="72.07">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="68.01">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="69.45-74.18">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="Sep">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="97">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="69.18">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="69.24">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="65.17">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="66.61-71.34">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="Oct">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="97">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="68.00">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="68.05">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="63.98">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="65.43-70.16">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="Nov">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="97">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="68.00">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="68.05">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="63.98">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="65.43-70.16">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="Note">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma=":">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="Manitoba">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="Government">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="Price">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="Index">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="(">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="C$">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="per">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="cwt">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma=")">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="-">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="Dec">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="4">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="87.16">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="Manitoba">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="'s">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="Hog">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="Price">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="Range">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma=":">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="84.00-86.00">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="per">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="cwt">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="CAN">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="/">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="U.S.">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="DOLLAR">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="EXCHANGE">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="RATE">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma=":">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="1.3570">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="Source">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma=":">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="Manitoba">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="Pork">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma=".">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="(">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="(">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="Winnipeg">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="bureau">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="204-947-3548">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma=")">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma=")">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="1949">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="0"/>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1950">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Winnipeg" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="10"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1951">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+          <target id="13"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1952">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Canada" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="19"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1953">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="113"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1954">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="118"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1955">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="126"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1956">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Canada" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="135"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1957">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="137"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1958">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="145"/>
+          <target id="146"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1959">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Winnipeg" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="150"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

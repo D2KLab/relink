@@ -1,0 +1,1309 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[SOCCER - ENGLISH PREMIER LEAGUE SUMMARIES . LONDON 1996-12-07 Summaries of English premier lealgue matches on Saturday : Arsenal 2 ( Adams 45 , Vieira 90 ) Derby 2 ( Sturridge 62 , Powell 71 ) . Halftime 1-0 . Attendance : 38,018 Chelsea 2 ( Zola 12 , Vialli 55 ) Everton 2 ( Branch 17 , Kanchelskis 28 ) . 1-2 . 28,418 Coventry 1 ( Whelan 60 ) Tottenham 2 ( Sheringham 27 , Sinton 75 ) . 0-1 . 19,675 Leicester 1 ( Marshall 78 ) Blackburn 1 ( Sutton 34 ) . 0-1 . 19,306 Liverpool 0 Sheffield Wednesday 1 ( Whittingham 22 ) . 0-1 . 39,507 Middlesbrough 0 Leeds 0 . 30,018 Southampton 0 Aston Villa 1 ( Townsend 34 ) . 0-1 . 15,232 Sunderland 1 ( Melville 83 ) Wimbledon 3 ( Ekoku 8 , 29 , Holdsworth 89 ) . 0-2 . 19,672 . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1368testb" filename="1368testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="6"><![CDATA[SOCCER]]></wf>
+    <wf id="1" sent="1" para="1" offset="6" length="1"><![CDATA[-]]></wf>
+    <wf id="2" sent="1" para="1" offset="7" length="7"><![CDATA[ENGLISH]]></wf>
+    <wf id="3" sent="1" para="1" offset="14" length="7"><![CDATA[PREMIER]]></wf>
+    <wf id="4" sent="1" para="1" offset="21" length="6"><![CDATA[LEAGUE]]></wf>
+    <wf id="5" sent="1" para="1" offset="27" length="9"><![CDATA[SUMMARIES]]></wf>
+    <wf id="6" sent="1" para="1" offset="36" length="1"><![CDATA[.]]></wf>
+    <wf id="7" sent="1" para="1" offset="37" length="6"><![CDATA[LONDON]]></wf>
+    <wf id="8" sent="1" para="1" offset="43" length="10"><![CDATA[1996-12-07]]></wf>
+    <wf id="9" sent="1" para="1" offset="53" length="9"><![CDATA[Summaries]]></wf>
+    <wf id="10" sent="1" para="1" offset="62" length="2"><![CDATA[of]]></wf>
+    <wf id="11" sent="1" para="1" offset="64" length="7"><![CDATA[English]]></wf>
+    <wf id="12" sent="1" para="1" offset="71" length="7"><![CDATA[premier]]></wf>
+    <wf id="13" sent="1" para="1" offset="78" length="7"><![CDATA[lealgue]]></wf>
+    <wf id="14" sent="1" para="1" offset="85" length="7"><![CDATA[matches]]></wf>
+    <wf id="15" sent="1" para="1" offset="92" length="2"><![CDATA[on]]></wf>
+    <wf id="16" sent="1" para="1" offset="94" length="8"><![CDATA[Saturday]]></wf>
+    <wf id="17" sent="1" para="1" offset="102" length="1"><![CDATA[:]]></wf>
+    <wf id="18" sent="1" para="1" offset="103" length="7"><![CDATA[Arsenal]]></wf>
+    <wf id="19" sent="1" para="1" offset="110" length="1"><![CDATA[2]]></wf>
+    <wf id="20" sent="1" para="1" offset="111" length="1"><![CDATA[(]]></wf>
+    <wf id="21" sent="1" para="1" offset="112" length="5"><![CDATA[Adams]]></wf>
+    <wf id="22" sent="1" para="1" offset="117" length="2"><![CDATA[45]]></wf>
+    <wf id="23" sent="1" para="1" offset="119" length="1"><![CDATA[,]]></wf>
+    <wf id="24" sent="1" para="1" offset="120" length="6"><![CDATA[Vieira]]></wf>
+    <wf id="25" sent="1" para="1" offset="126" length="2"><![CDATA[90]]></wf>
+    <wf id="26" sent="1" para="1" offset="128" length="1"><![CDATA[)]]></wf>
+    <wf id="27" sent="1" para="1" offset="129" length="5"><![CDATA[Derby]]></wf>
+    <wf id="28" sent="1" para="1" offset="134" length="1"><![CDATA[2]]></wf>
+    <wf id="29" sent="1" para="1" offset="135" length="1"><![CDATA[(]]></wf>
+    <wf id="30" sent="1" para="1" offset="136" length="9"><![CDATA[Sturridge]]></wf>
+    <wf id="31" sent="1" para="1" offset="145" length="2"><![CDATA[62]]></wf>
+    <wf id="32" sent="1" para="1" offset="147" length="1"><![CDATA[,]]></wf>
+    <wf id="33" sent="1" para="1" offset="148" length="6"><![CDATA[Powell]]></wf>
+    <wf id="34" sent="1" para="1" offset="154" length="2"><![CDATA[71]]></wf>
+    <wf id="35" sent="1" para="1" offset="156" length="1"><![CDATA[)]]></wf>
+    <wf id="36" sent="1" para="1" offset="157" length="1"><![CDATA[.]]></wf>
+    <wf id="37" sent="1" para="1" offset="158" length="8"><![CDATA[Halftime]]></wf>
+    <wf id="38" sent="1" para="1" offset="166" length="3"><![CDATA[1-0]]></wf>
+    <wf id="39" sent="1" para="1" offset="169" length="1"><![CDATA[.]]></wf>
+    <wf id="40" sent="1" para="1" offset="170" length="10"><![CDATA[Attendance]]></wf>
+    <wf id="41" sent="1" para="1" offset="180" length="1"><![CDATA[:]]></wf>
+    <wf id="42" sent="1" para="1" offset="181" length="6"><![CDATA[38,018]]></wf>
+    <wf id="43" sent="1" para="1" offset="187" length="7"><![CDATA[Chelsea]]></wf>
+    <wf id="44" sent="1" para="1" offset="194" length="1"><![CDATA[2]]></wf>
+    <wf id="45" sent="1" para="1" offset="195" length="1"><![CDATA[(]]></wf>
+    <wf id="46" sent="1" para="1" offset="196" length="4"><![CDATA[Zola]]></wf>
+    <wf id="47" sent="1" para="1" offset="200" length="2"><![CDATA[12]]></wf>
+    <wf id="48" sent="1" para="1" offset="202" length="1"><![CDATA[,]]></wf>
+    <wf id="49" sent="1" para="1" offset="203" length="6"><![CDATA[Vialli]]></wf>
+    <wf id="50" sent="1" para="1" offset="209" length="2"><![CDATA[55]]></wf>
+    <wf id="51" sent="1" para="1" offset="211" length="1"><![CDATA[)]]></wf>
+    <wf id="52" sent="1" para="1" offset="212" length="7"><![CDATA[Everton]]></wf>
+    <wf id="53" sent="1" para="1" offset="219" length="1"><![CDATA[2]]></wf>
+    <wf id="54" sent="1" para="1" offset="220" length="1"><![CDATA[(]]></wf>
+    <wf id="55" sent="1" para="1" offset="221" length="6"><![CDATA[Branch]]></wf>
+    <wf id="56" sent="1" para="1" offset="227" length="2"><![CDATA[17]]></wf>
+    <wf id="57" sent="1" para="1" offset="229" length="1"><![CDATA[,]]></wf>
+    <wf id="58" sent="1" para="1" offset="230" length="11"><![CDATA[Kanchelskis]]></wf>
+    <wf id="59" sent="1" para="1" offset="241" length="2"><![CDATA[28]]></wf>
+    <wf id="60" sent="1" para="1" offset="243" length="1"><![CDATA[)]]></wf>
+    <wf id="61" sent="1" para="1" offset="244" length="1"><![CDATA[.]]></wf>
+    <wf id="62" sent="1" para="1" offset="245" length="3"><![CDATA[1-2]]></wf>
+    <wf id="63" sent="1" para="1" offset="248" length="1"><![CDATA[.]]></wf>
+    <wf id="64" sent="1" para="1" offset="249" length="6"><![CDATA[28,418]]></wf>
+    <wf id="65" sent="1" para="1" offset="255" length="8"><![CDATA[Coventry]]></wf>
+    <wf id="66" sent="1" para="1" offset="263" length="1"><![CDATA[1]]></wf>
+    <wf id="67" sent="1" para="1" offset="264" length="1"><![CDATA[(]]></wf>
+    <wf id="68" sent="1" para="1" offset="265" length="6"><![CDATA[Whelan]]></wf>
+    <wf id="69" sent="1" para="1" offset="271" length="2"><![CDATA[60]]></wf>
+    <wf id="70" sent="1" para="1" offset="273" length="1"><![CDATA[)]]></wf>
+    <wf id="71" sent="1" para="1" offset="274" length="9"><![CDATA[Tottenham]]></wf>
+    <wf id="72" sent="1" para="1" offset="283" length="1"><![CDATA[2]]></wf>
+    <wf id="73" sent="1" para="1" offset="284" length="1"><![CDATA[(]]></wf>
+    <wf id="74" sent="1" para="1" offset="285" length="10"><![CDATA[Sheringham]]></wf>
+    <wf id="75" sent="1" para="1" offset="295" length="2"><![CDATA[27]]></wf>
+    <wf id="76" sent="1" para="1" offset="297" length="1"><![CDATA[,]]></wf>
+    <wf id="77" sent="1" para="1" offset="298" length="6"><![CDATA[Sinton]]></wf>
+    <wf id="78" sent="1" para="1" offset="304" length="2"><![CDATA[75]]></wf>
+    <wf id="79" sent="1" para="1" offset="306" length="1"><![CDATA[)]]></wf>
+    <wf id="80" sent="1" para="1" offset="307" length="1"><![CDATA[.]]></wf>
+    <wf id="81" sent="1" para="1" offset="308" length="3"><![CDATA[0-1]]></wf>
+    <wf id="82" sent="1" para="1" offset="311" length="1"><![CDATA[.]]></wf>
+    <wf id="83" sent="1" para="1" offset="312" length="6"><![CDATA[19,675]]></wf>
+    <wf id="84" sent="1" para="1" offset="318" length="9"><![CDATA[Leicester]]></wf>
+    <wf id="85" sent="1" para="1" offset="327" length="1"><![CDATA[1]]></wf>
+    <wf id="86" sent="1" para="1" offset="328" length="1"><![CDATA[(]]></wf>
+    <wf id="87" sent="1" para="1" offset="329" length="8"><![CDATA[Marshall]]></wf>
+    <wf id="88" sent="1" para="1" offset="337" length="2"><![CDATA[78]]></wf>
+    <wf id="89" sent="1" para="1" offset="339" length="1"><![CDATA[)]]></wf>
+    <wf id="90" sent="1" para="1" offset="340" length="9"><![CDATA[Blackburn]]></wf>
+    <wf id="91" sent="1" para="1" offset="349" length="1"><![CDATA[1]]></wf>
+    <wf id="92" sent="1" para="1" offset="350" length="1"><![CDATA[(]]></wf>
+    <wf id="93" sent="1" para="1" offset="351" length="6"><![CDATA[Sutton]]></wf>
+    <wf id="94" sent="1" para="1" offset="357" length="2"><![CDATA[34]]></wf>
+    <wf id="95" sent="1" para="1" offset="359" length="1"><![CDATA[)]]></wf>
+    <wf id="96" sent="1" para="1" offset="360" length="1"><![CDATA[.]]></wf>
+    <wf id="97" sent="1" para="1" offset="361" length="3"><![CDATA[0-1]]></wf>
+    <wf id="98" sent="1" para="1" offset="364" length="1"><![CDATA[.]]></wf>
+    <wf id="99" sent="1" para="1" offset="365" length="6"><![CDATA[19,306]]></wf>
+    <wf id="100" sent="1" para="1" offset="371" length="9"><![CDATA[Liverpool]]></wf>
+    <wf id="101" sent="1" para="1" offset="380" length="1"><![CDATA[0]]></wf>
+    <wf id="102" sent="1" para="1" offset="381" length="9"><![CDATA[Sheffield]]></wf>
+    <wf id="103" sent="1" para="1" offset="390" length="9"><![CDATA[Wednesday]]></wf>
+    <wf id="104" sent="1" para="1" offset="399" length="1"><![CDATA[1]]></wf>
+    <wf id="105" sent="1" para="1" offset="400" length="1"><![CDATA[(]]></wf>
+    <wf id="106" sent="1" para="1" offset="401" length="11"><![CDATA[Whittingham]]></wf>
+    <wf id="107" sent="1" para="1" offset="412" length="2"><![CDATA[22]]></wf>
+    <wf id="108" sent="1" para="1" offset="414" length="1"><![CDATA[)]]></wf>
+    <wf id="109" sent="1" para="1" offset="415" length="1"><![CDATA[.]]></wf>
+    <wf id="110" sent="1" para="1" offset="416" length="3"><![CDATA[0-1]]></wf>
+    <wf id="111" sent="1" para="1" offset="419" length="1"><![CDATA[.]]></wf>
+    <wf id="112" sent="1" para="1" offset="420" length="6"><![CDATA[39,507]]></wf>
+    <wf id="113" sent="1" para="1" offset="426" length="13"><![CDATA[Middlesbrough]]></wf>
+    <wf id="114" sent="1" para="1" offset="439" length="1"><![CDATA[0]]></wf>
+    <wf id="115" sent="1" para="1" offset="440" length="5"><![CDATA[Leeds]]></wf>
+    <wf id="116" sent="1" para="1" offset="445" length="1"><![CDATA[0]]></wf>
+    <wf id="117" sent="1" para="1" offset="446" length="1"><![CDATA[.]]></wf>
+    <wf id="118" sent="1" para="1" offset="447" length="6"><![CDATA[30,018]]></wf>
+    <wf id="119" sent="1" para="1" offset="453" length="11"><![CDATA[Southampton]]></wf>
+    <wf id="120" sent="1" para="1" offset="464" length="1"><![CDATA[0]]></wf>
+    <wf id="121" sent="1" para="1" offset="465" length="5"><![CDATA[Aston]]></wf>
+    <wf id="122" sent="1" para="1" offset="470" length="5"><![CDATA[Villa]]></wf>
+    <wf id="123" sent="1" para="1" offset="475" length="1"><![CDATA[1]]></wf>
+    <wf id="124" sent="1" para="1" offset="476" length="1"><![CDATA[(]]></wf>
+    <wf id="125" sent="1" para="1" offset="477" length="8"><![CDATA[Townsend]]></wf>
+    <wf id="126" sent="1" para="1" offset="485" length="2"><![CDATA[34]]></wf>
+    <wf id="127" sent="1" para="1" offset="487" length="1"><![CDATA[)]]></wf>
+    <wf id="128" sent="1" para="1" offset="488" length="1"><![CDATA[.]]></wf>
+    <wf id="129" sent="1" para="1" offset="489" length="3"><![CDATA[0-1]]></wf>
+    <wf id="130" sent="1" para="1" offset="492" length="1"><![CDATA[.]]></wf>
+    <wf id="131" sent="1" para="1" offset="493" length="6"><![CDATA[15,232]]></wf>
+    <wf id="132" sent="1" para="1" offset="499" length="10"><![CDATA[Sunderland]]></wf>
+    <wf id="133" sent="1" para="1" offset="509" length="1"><![CDATA[1]]></wf>
+    <wf id="134" sent="1" para="1" offset="510" length="1"><![CDATA[(]]></wf>
+    <wf id="135" sent="1" para="1" offset="511" length="8"><![CDATA[Melville]]></wf>
+    <wf id="136" sent="1" para="1" offset="519" length="2"><![CDATA[83]]></wf>
+    <wf id="137" sent="1" para="1" offset="521" length="1"><![CDATA[)]]></wf>
+    <wf id="138" sent="1" para="1" offset="522" length="9"><![CDATA[Wimbledon]]></wf>
+    <wf id="139" sent="1" para="1" offset="531" length="1"><![CDATA[3]]></wf>
+    <wf id="140" sent="1" para="1" offset="532" length="1"><![CDATA[(]]></wf>
+    <wf id="141" sent="1" para="1" offset="533" length="5"><![CDATA[Ekoku]]></wf>
+    <wf id="142" sent="1" para="1" offset="538" length="1"><![CDATA[8]]></wf>
+    <wf id="143" sent="1" para="1" offset="539" length="1"><![CDATA[,]]></wf>
+    <wf id="144" sent="1" para="1" offset="540" length="2"><![CDATA[29]]></wf>
+    <wf id="145" sent="1" para="1" offset="542" length="1"><![CDATA[,]]></wf>
+    <wf id="146" sent="1" para="1" offset="543" length="10"><![CDATA[Holdsworth]]></wf>
+    <wf id="147" sent="1" para="1" offset="553" length="2"><![CDATA[89]]></wf>
+    <wf id="148" sent="1" para="1" offset="555" length="1"><![CDATA[)]]></wf>
+    <wf id="149" sent="1" para="1" offset="556" length="1"><![CDATA[.]]></wf>
+    <wf id="150" sent="1" para="1" offset="557" length="3"><![CDATA[0-2]]></wf>
+    <wf id="151" sent="1" para="1" offset="560" length="1"><![CDATA[.]]></wf>
+    <wf id="152" sent="1" para="1" offset="561" length="6"><![CDATA[19,672]]></wf>
+    <wf id="153" sent="1" para="1" offset="567" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="SOCCER">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="-">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="ENGLISH">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="PREMIER">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="LEAGUE">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="SUMMARIES">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma=".">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="LONDON">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="1996-12-07">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="Summaries">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="of">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="English">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="premier">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="lealgue">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="matches">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="on">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="Saturday">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma=":">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="Arsenal">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="2">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="(">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="Adams">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="45">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma=",">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="Vieira">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="90">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma=")">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="Derby">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="2">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="(">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="Sturridge">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="62">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma=",">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="Powell">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="71">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma=")">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma=".">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="Halftime">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="1-0">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma=".">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="Attendance">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma=":">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="38,018">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="Chelsea">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="2">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="(">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="Zola">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="12">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma=",">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="Vialli">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="55">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma=")">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="Everton">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="2">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="(">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="Branch">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="17">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma=",">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="Kanchelskis">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="28">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma=")">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma=".">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="1-2">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma=".">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="28,418">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="Coventry">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="1">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="(">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="Whelan">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="60">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma=")">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="Tottenham">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="2">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="(">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="Sheringham">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="27">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma=",">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="Sinton">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="75">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma=")">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma=".">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="0-1">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma=".">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="19,675">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="Leicester">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="1">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="(">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="Marshall">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="78">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma=")">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="Blackburn">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="1">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="(">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="Sutton">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="34">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma=")">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma=".">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="0-1">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma=".">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="19,306">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="Liverpool">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="0">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="Sheffield">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="Wednesday">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="1">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="(">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="Whittingham">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="22">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma=")">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma=".">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="0-1">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma=".">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="39,507">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="Middlesbrough">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="0">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="Leeds">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="0">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma=".">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="30,018">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="Southampton">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="0">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="Aston">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="Villa">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="1">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="(">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="Townsend">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="34">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma=")">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma=".">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="0-1">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma=".">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="15,232">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="Sunderland">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="1">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="(">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="Melville">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="83">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma=")">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="Wimbledon">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="3">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="(">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="Ekoku">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="8">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma=",">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="29">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma=",">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="Holdsworth">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="89">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma=")">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma=".">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="0-2">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma=".">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="19,672">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma=".">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="4753">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/England" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="2"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4754">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/London" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="7"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4755">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/England" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4756">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Arsenal_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="18"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4757">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Tony_Adams_(footballer)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="21"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4758">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Patrick_Vieira" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="24"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4759">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Derby_County_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="27"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4760">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dean_Sturridge" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="30"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4761">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chris_Powell" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="33"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4762">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chelsea_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="43"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4763">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Gianfranco_Zola" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="46"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4764">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Gianluca_Vialli" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="49"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4765">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Everton_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="52"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4766">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Michael_Branch" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="55"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4767">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Andrei_Kanchelskis" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="58"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4768">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Coventry_City_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="65"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4769">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Noel_Whelan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="68"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4770">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="71"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4771">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Teddy_Sheringham" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="74"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4772">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Andy_Sinton" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="77"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4773">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Leicester_City_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="84"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4774">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="87"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4775">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Blackburn_Rovers_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="90"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4776">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chris_Sutton" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="93"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4777">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Liverpool_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="100"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4778">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Sheffield_Wednesday_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="102"/>
+          <target id="103"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4779">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Guy_Whittingham" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="106"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4780">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Middlesbrough_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="113"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4781">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Leeds_United_A.F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="115"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4782">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Southampton_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="119"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4783">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Aston_Villa_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="121"/>
+          <target id="122"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4784">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Andy_Townsend" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="125"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4785">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Sunderland_A.F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="132"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4786">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Andy_Melville" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="135"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4787">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Wimbledon_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="138"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4788">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Efan_Ekoku" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="141"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4789">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dean_Holdsworth" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="146"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

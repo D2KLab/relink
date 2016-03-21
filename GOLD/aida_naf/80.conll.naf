@@ -1,0 +1,982 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[Mauritius put on cyclone alert . PORT LOUIS 1996-12-06 Mauritian authorities put the Indian Ocean island on cyclone alert on Friday . The weather services office said the centre of the intense tropical cyclone Daniella was 570 km ( 310 miles ) north by northwest of the island on Friday afternoon and was moving south by southwest at eight km an hour ( four knots ) . Although not threatening Mauritius directly , it is coming closer to the island and could change direction , it added . Winds up to 75 km an hour ( 40 knots ) could blow over Mauritius during the night of Friday to Saturday , it said . The weather in the capital Port Louis was heavily cloudy on Friday afternoon with occasional showers . The northeastern coast of the nearby island of Madagascar has also gone on alert . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1242testb" filename="1242testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="9"><![CDATA[Mauritius]]></wf>
+    <wf id="2" sent="1" para="1" offset="9" length="3"><![CDATA[put]]></wf>
+    <wf id="3" sent="1" para="1" offset="12" length="2"><![CDATA[on]]></wf>
+    <wf id="4" sent="1" para="1" offset="14" length="7"><![CDATA[cyclone]]></wf>
+    <wf id="5" sent="1" para="1" offset="21" length="5"><![CDATA[alert]]></wf>
+    <wf id="6" sent="1" para="1" offset="26" length="1"><![CDATA[.]]></wf>
+    <wf id="7" sent="1" para="1" offset="27" length="4"><![CDATA[PORT]]></wf>
+    <wf id="8" sent="1" para="1" offset="31" length="5"><![CDATA[LOUIS]]></wf>
+    <wf id="9" sent="1" para="1" offset="36" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="10" sent="1" para="1" offset="46" length="9"><![CDATA[Mauritian]]></wf>
+    <wf id="11" sent="1" para="1" offset="55" length="11"><![CDATA[authorities]]></wf>
+    <wf id="12" sent="1" para="1" offset="66" length="3"><![CDATA[put]]></wf>
+    <wf id="13" sent="1" para="1" offset="69" length="3"><![CDATA[the]]></wf>
+    <wf id="14" sent="1" para="1" offset="72" length="6"><![CDATA[Indian]]></wf>
+    <wf id="15" sent="1" para="1" offset="78" length="5"><![CDATA[Ocean]]></wf>
+    <wf id="16" sent="1" para="1" offset="83" length="6"><![CDATA[island]]></wf>
+    <wf id="17" sent="1" para="1" offset="89" length="2"><![CDATA[on]]></wf>
+    <wf id="18" sent="1" para="1" offset="91" length="7"><![CDATA[cyclone]]></wf>
+    <wf id="19" sent="1" para="1" offset="98" length="5"><![CDATA[alert]]></wf>
+    <wf id="20" sent="1" para="1" offset="103" length="2"><![CDATA[on]]></wf>
+    <wf id="21" sent="1" para="1" offset="105" length="6"><![CDATA[Friday]]></wf>
+    <wf id="22" sent="1" para="1" offset="111" length="1"><![CDATA[.]]></wf>
+    <wf id="23" sent="1" para="1" offset="112" length="3"><![CDATA[The]]></wf>
+    <wf id="24" sent="1" para="1" offset="115" length="7"><![CDATA[weather]]></wf>
+    <wf id="25" sent="1" para="1" offset="122" length="8"><![CDATA[services]]></wf>
+    <wf id="26" sent="1" para="1" offset="130" length="6"><![CDATA[office]]></wf>
+    <wf id="27" sent="1" para="1" offset="136" length="4"><![CDATA[said]]></wf>
+    <wf id="28" sent="1" para="1" offset="140" length="3"><![CDATA[the]]></wf>
+    <wf id="29" sent="1" para="1" offset="143" length="6"><![CDATA[centre]]></wf>
+    <wf id="30" sent="1" para="1" offset="149" length="2"><![CDATA[of]]></wf>
+    <wf id="31" sent="1" para="1" offset="151" length="3"><![CDATA[the]]></wf>
+    <wf id="32" sent="1" para="1" offset="154" length="7"><![CDATA[intense]]></wf>
+    <wf id="33" sent="1" para="1" offset="161" length="8"><![CDATA[tropical]]></wf>
+    <wf id="34" sent="1" para="1" offset="169" length="7"><![CDATA[cyclone]]></wf>
+    <wf id="35" sent="1" para="1" offset="176" length="8"><![CDATA[Daniella]]></wf>
+    <wf id="36" sent="1" para="1" offset="184" length="3"><![CDATA[was]]></wf>
+    <wf id="37" sent="1" para="1" offset="187" length="3"><![CDATA[570]]></wf>
+    <wf id="38" sent="1" para="1" offset="190" length="2"><![CDATA[km]]></wf>
+    <wf id="39" sent="1" para="1" offset="192" length="1"><![CDATA[(]]></wf>
+    <wf id="40" sent="1" para="1" offset="193" length="3"><![CDATA[310]]></wf>
+    <wf id="41" sent="1" para="1" offset="196" length="5"><![CDATA[miles]]></wf>
+    <wf id="42" sent="1" para="1" offset="201" length="1"><![CDATA[)]]></wf>
+    <wf id="43" sent="1" para="1" offset="202" length="5"><![CDATA[north]]></wf>
+    <wf id="44" sent="1" para="1" offset="207" length="2"><![CDATA[by]]></wf>
+    <wf id="45" sent="1" para="1" offset="209" length="9"><![CDATA[northwest]]></wf>
+    <wf id="46" sent="1" para="1" offset="218" length="2"><![CDATA[of]]></wf>
+    <wf id="47" sent="1" para="1" offset="220" length="3"><![CDATA[the]]></wf>
+    <wf id="48" sent="1" para="1" offset="223" length="6"><![CDATA[island]]></wf>
+    <wf id="49" sent="1" para="1" offset="229" length="2"><![CDATA[on]]></wf>
+    <wf id="50" sent="1" para="1" offset="231" length="6"><![CDATA[Friday]]></wf>
+    <wf id="51" sent="1" para="1" offset="237" length="9"><![CDATA[afternoon]]></wf>
+    <wf id="52" sent="1" para="1" offset="246" length="3"><![CDATA[and]]></wf>
+    <wf id="53" sent="1" para="1" offset="249" length="3"><![CDATA[was]]></wf>
+    <wf id="54" sent="1" para="1" offset="252" length="6"><![CDATA[moving]]></wf>
+    <wf id="55" sent="1" para="1" offset="258" length="5"><![CDATA[south]]></wf>
+    <wf id="56" sent="1" para="1" offset="263" length="2"><![CDATA[by]]></wf>
+    <wf id="57" sent="1" para="1" offset="265" length="9"><![CDATA[southwest]]></wf>
+    <wf id="58" sent="1" para="1" offset="274" length="2"><![CDATA[at]]></wf>
+    <wf id="59" sent="1" para="1" offset="276" length="5"><![CDATA[eight]]></wf>
+    <wf id="60" sent="1" para="1" offset="281" length="2"><![CDATA[km]]></wf>
+    <wf id="61" sent="1" para="1" offset="283" length="2"><![CDATA[an]]></wf>
+    <wf id="62" sent="1" para="1" offset="285" length="4"><![CDATA[hour]]></wf>
+    <wf id="63" sent="1" para="1" offset="289" length="1"><![CDATA[(]]></wf>
+    <wf id="64" sent="1" para="1" offset="290" length="4"><![CDATA[four]]></wf>
+    <wf id="65" sent="1" para="1" offset="294" length="5"><![CDATA[knots]]></wf>
+    <wf id="66" sent="1" para="1" offset="299" length="1"><![CDATA[)]]></wf>
+    <wf id="67" sent="1" para="1" offset="300" length="1"><![CDATA[.]]></wf>
+    <wf id="68" sent="1" para="1" offset="301" length="8"><![CDATA[Although]]></wf>
+    <wf id="69" sent="1" para="1" offset="309" length="3"><![CDATA[not]]></wf>
+    <wf id="70" sent="1" para="1" offset="312" length="11"><![CDATA[threatening]]></wf>
+    <wf id="71" sent="1" para="1" offset="323" length="9"><![CDATA[Mauritius]]></wf>
+    <wf id="72" sent="1" para="1" offset="332" length="8"><![CDATA[directly]]></wf>
+    <wf id="73" sent="1" para="1" offset="340" length="1"><![CDATA[,]]></wf>
+    <wf id="74" sent="1" para="1" offset="341" length="2"><![CDATA[it]]></wf>
+    <wf id="75" sent="1" para="1" offset="343" length="2"><![CDATA[is]]></wf>
+    <wf id="76" sent="1" para="1" offset="345" length="6"><![CDATA[coming]]></wf>
+    <wf id="77" sent="1" para="1" offset="351" length="6"><![CDATA[closer]]></wf>
+    <wf id="78" sent="1" para="1" offset="357" length="2"><![CDATA[to]]></wf>
+    <wf id="79" sent="1" para="1" offset="359" length="3"><![CDATA[the]]></wf>
+    <wf id="80" sent="1" para="1" offset="362" length="6"><![CDATA[island]]></wf>
+    <wf id="81" sent="1" para="1" offset="368" length="3"><![CDATA[and]]></wf>
+    <wf id="82" sent="1" para="1" offset="371" length="5"><![CDATA[could]]></wf>
+    <wf id="83" sent="1" para="1" offset="376" length="6"><![CDATA[change]]></wf>
+    <wf id="84" sent="1" para="1" offset="382" length="9"><![CDATA[direction]]></wf>
+    <wf id="85" sent="1" para="1" offset="391" length="1"><![CDATA[,]]></wf>
+    <wf id="86" sent="1" para="1" offset="392" length="2"><![CDATA[it]]></wf>
+    <wf id="87" sent="1" para="1" offset="394" length="5"><![CDATA[added]]></wf>
+    <wf id="88" sent="1" para="1" offset="399" length="1"><![CDATA[.]]></wf>
+    <wf id="89" sent="1" para="1" offset="400" length="5"><![CDATA[Winds]]></wf>
+    <wf id="90" sent="1" para="1" offset="405" length="2"><![CDATA[up]]></wf>
+    <wf id="91" sent="1" para="1" offset="407" length="2"><![CDATA[to]]></wf>
+    <wf id="92" sent="1" para="1" offset="409" length="2"><![CDATA[75]]></wf>
+    <wf id="93" sent="1" para="1" offset="411" length="2"><![CDATA[km]]></wf>
+    <wf id="94" sent="1" para="1" offset="413" length="2"><![CDATA[an]]></wf>
+    <wf id="95" sent="1" para="1" offset="415" length="4"><![CDATA[hour]]></wf>
+    <wf id="96" sent="1" para="1" offset="419" length="1"><![CDATA[(]]></wf>
+    <wf id="97" sent="1" para="1" offset="420" length="2"><![CDATA[40]]></wf>
+    <wf id="98" sent="1" para="1" offset="422" length="5"><![CDATA[knots]]></wf>
+    <wf id="99" sent="1" para="1" offset="427" length="1"><![CDATA[)]]></wf>
+    <wf id="100" sent="1" para="1" offset="428" length="5"><![CDATA[could]]></wf>
+    <wf id="101" sent="1" para="1" offset="433" length="4"><![CDATA[blow]]></wf>
+    <wf id="102" sent="1" para="1" offset="437" length="4"><![CDATA[over]]></wf>
+    <wf id="103" sent="1" para="1" offset="441" length="9"><![CDATA[Mauritius]]></wf>
+    <wf id="104" sent="1" para="1" offset="450" length="6"><![CDATA[during]]></wf>
+    <wf id="105" sent="1" para="1" offset="456" length="3"><![CDATA[the]]></wf>
+    <wf id="106" sent="1" para="1" offset="459" length="5"><![CDATA[night]]></wf>
+    <wf id="107" sent="1" para="1" offset="464" length="2"><![CDATA[of]]></wf>
+    <wf id="108" sent="1" para="1" offset="466" length="6"><![CDATA[Friday]]></wf>
+    <wf id="109" sent="1" para="1" offset="472" length="2"><![CDATA[to]]></wf>
+    <wf id="110" sent="1" para="1" offset="474" length="8"><![CDATA[Saturday]]></wf>
+    <wf id="111" sent="1" para="1" offset="482" length="1"><![CDATA[,]]></wf>
+    <wf id="112" sent="1" para="1" offset="483" length="2"><![CDATA[it]]></wf>
+    <wf id="113" sent="1" para="1" offset="485" length="4"><![CDATA[said]]></wf>
+    <wf id="114" sent="1" para="1" offset="489" length="1"><![CDATA[.]]></wf>
+    <wf id="115" sent="1" para="1" offset="490" length="3"><![CDATA[The]]></wf>
+    <wf id="116" sent="1" para="1" offset="493" length="7"><![CDATA[weather]]></wf>
+    <wf id="117" sent="1" para="1" offset="500" length="2"><![CDATA[in]]></wf>
+    <wf id="118" sent="1" para="1" offset="502" length="3"><![CDATA[the]]></wf>
+    <wf id="119" sent="1" para="1" offset="505" length="7"><![CDATA[capital]]></wf>
+    <wf id="120" sent="1" para="1" offset="512" length="4"><![CDATA[Port]]></wf>
+    <wf id="121" sent="1" para="1" offset="516" length="5"><![CDATA[Louis]]></wf>
+    <wf id="122" sent="1" para="1" offset="521" length="3"><![CDATA[was]]></wf>
+    <wf id="123" sent="1" para="1" offset="524" length="7"><![CDATA[heavily]]></wf>
+    <wf id="124" sent="1" para="1" offset="531" length="6"><![CDATA[cloudy]]></wf>
+    <wf id="125" sent="1" para="1" offset="537" length="2"><![CDATA[on]]></wf>
+    <wf id="126" sent="1" para="1" offset="539" length="6"><![CDATA[Friday]]></wf>
+    <wf id="127" sent="1" para="1" offset="545" length="9"><![CDATA[afternoon]]></wf>
+    <wf id="128" sent="1" para="1" offset="554" length="4"><![CDATA[with]]></wf>
+    <wf id="129" sent="1" para="1" offset="558" length="10"><![CDATA[occasional]]></wf>
+    <wf id="130" sent="1" para="1" offset="568" length="7"><![CDATA[showers]]></wf>
+    <wf id="131" sent="1" para="1" offset="575" length="1"><![CDATA[.]]></wf>
+    <wf id="132" sent="1" para="1" offset="576" length="3"><![CDATA[The]]></wf>
+    <wf id="133" sent="1" para="1" offset="579" length="12"><![CDATA[northeastern]]></wf>
+    <wf id="134" sent="1" para="1" offset="591" length="5"><![CDATA[coast]]></wf>
+    <wf id="135" sent="1" para="1" offset="596" length="2"><![CDATA[of]]></wf>
+    <wf id="136" sent="1" para="1" offset="598" length="3"><![CDATA[the]]></wf>
+    <wf id="137" sent="1" para="1" offset="601" length="6"><![CDATA[nearby]]></wf>
+    <wf id="138" sent="1" para="1" offset="607" length="6"><![CDATA[island]]></wf>
+    <wf id="139" sent="1" para="1" offset="613" length="2"><![CDATA[of]]></wf>
+    <wf id="140" sent="1" para="1" offset="615" length="10"><![CDATA[Madagascar]]></wf>
+    <wf id="141" sent="1" para="1" offset="625" length="3"><![CDATA[has]]></wf>
+    <wf id="142" sent="1" para="1" offset="628" length="4"><![CDATA[also]]></wf>
+    <wf id="143" sent="1" para="1" offset="632" length="4"><![CDATA[gone]]></wf>
+    <wf id="144" sent="1" para="1" offset="636" length="2"><![CDATA[on]]></wf>
+    <wf id="145" sent="1" para="1" offset="638" length="5"><![CDATA[alert]]></wf>
+    <wf id="146" sent="1" para="1" offset="643" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="Mauritius">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="put">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="on">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="cyclone">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="alert">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma=".">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="PORT">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="LOUIS">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="1996-12-06">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="Mauritian">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="authorities">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="put">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="the">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="Indian">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="Ocean">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="island">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="on">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="cyclone">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="alert">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="on">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="Friday">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma=".">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="The">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="weather">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="services">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="office">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="said">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="the">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="centre">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="of">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="the">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="intense">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="tropical">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="cyclone">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="Daniella">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="was">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="570">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="km">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="(">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="310">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="miles">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma=")">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="north">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="by">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="northwest">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="of">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="the">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="island">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="on">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="Friday">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="afternoon">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="and">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="was">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="moving">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="south">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="by">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="southwest">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="at">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="eight">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="km">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="an">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="hour">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="(">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="four">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="knots">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma=")">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma=".">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="Although">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="not">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="threatening">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="Mauritius">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="directly">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma=",">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="it">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="is">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="coming">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="closer">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="to">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="the">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="island">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="and">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="could">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="change">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="direction">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma=",">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="it">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="added">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma=".">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="Winds">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="up">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="to">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="75">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="km">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="an">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="hour">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="(">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="40">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="knots">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma=")">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="could">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="blow">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="over">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="Mauritius">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="during">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="the">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="night">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="of">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="Friday">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="to">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="Saturday">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma=",">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="it">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="said">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma=".">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="The">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="weather">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="in">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="the">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="capital">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="Port">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="Louis">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="was">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="heavily">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="cloudy">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="on">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="Friday">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="afternoon">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="with">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="occasional">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="showers">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma=".">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="The">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="northeastern">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="coast">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="of">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="the">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="nearby">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="island">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="of">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="Madagascar">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="has">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="also">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="gone">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="on">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="alert">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma=".">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="2150">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Mauritius" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2151">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Port_Louis" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="7"/>
+          <target id="8"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2152">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Mauritius" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="10"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2153">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="14"/>
+          <target id="15"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2154">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="35"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2155">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Mauritius" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="71"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2156">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Mauritius" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="103"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2157">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Port_Louis" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="120"/>
+          <target id="121"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2158">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Madagascar" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="140"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

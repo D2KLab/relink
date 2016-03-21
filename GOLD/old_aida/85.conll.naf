@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[WEATHER - Conditions at CIS airports - Dec 6 . MOSCOW 1996-12-06 No weather-related closures of CIS airports are expected on December 7 and 8 , the Russian Weather Service said on Friday . -- Moscow Newsroom +7095 941 8520 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1247testb" filename="1247testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="7"><![CDATA[WEATHER]]></wf>
+    <wf id="1" sent="1" para="1" offset="7" length="1"><![CDATA[-]]></wf>
+    <wf id="2" sent="1" para="1" offset="8" length="10"><![CDATA[Conditions]]></wf>
+    <wf id="3" sent="1" para="1" offset="18" length="2"><![CDATA[at]]></wf>
+    <wf id="4" sent="1" para="1" offset="20" length="3"><![CDATA[CIS]]></wf>
+    <wf id="5" sent="1" para="1" offset="23" length="8"><![CDATA[airports]]></wf>
+    <wf id="6" sent="1" para="1" offset="31" length="1"><![CDATA[-]]></wf>
+    <wf id="7" sent="1" para="1" offset="32" length="3"><![CDATA[Dec]]></wf>
+    <wf id="8" sent="1" para="1" offset="35" length="1"><![CDATA[6]]></wf>
+    <wf id="9" sent="1" para="1" offset="36" length="1"><![CDATA[.]]></wf>
+    <wf id="10" sent="1" para="1" offset="37" length="6"><![CDATA[MOSCOW]]></wf>
+    <wf id="11" sent="1" para="1" offset="43" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="12" sent="1" para="1" offset="53" length="2"><![CDATA[No]]></wf>
+    <wf id="13" sent="1" para="1" offset="55" length="15"><![CDATA[weather-related]]></wf>
+    <wf id="14" sent="1" para="1" offset="70" length="8"><![CDATA[closures]]></wf>
+    <wf id="15" sent="1" para="1" offset="78" length="2"><![CDATA[of]]></wf>
+    <wf id="16" sent="1" para="1" offset="80" length="3"><![CDATA[CIS]]></wf>
+    <wf id="17" sent="1" para="1" offset="83" length="8"><![CDATA[airports]]></wf>
+    <wf id="18" sent="1" para="1" offset="91" length="3"><![CDATA[are]]></wf>
+    <wf id="19" sent="1" para="1" offset="94" length="8"><![CDATA[expected]]></wf>
+    <wf id="20" sent="1" para="1" offset="102" length="2"><![CDATA[on]]></wf>
+    <wf id="21" sent="1" para="1" offset="104" length="8"><![CDATA[December]]></wf>
+    <wf id="22" sent="1" para="1" offset="112" length="1"><![CDATA[7]]></wf>
+    <wf id="23" sent="1" para="1" offset="113" length="3"><![CDATA[and]]></wf>
+    <wf id="24" sent="1" para="1" offset="116" length="1"><![CDATA[8]]></wf>
+    <wf id="25" sent="1" para="1" offset="117" length="1"><![CDATA[,]]></wf>
+    <wf id="26" sent="1" para="1" offset="118" length="3"><![CDATA[the]]></wf>
+    <wf id="27" sent="1" para="1" offset="121" length="7"><![CDATA[Russian]]></wf>
+    <wf id="28" sent="1" para="1" offset="128" length="7"><![CDATA[Weather]]></wf>
+    <wf id="29" sent="1" para="1" offset="135" length="7"><![CDATA[Service]]></wf>
+    <wf id="30" sent="1" para="1" offset="142" length="4"><![CDATA[said]]></wf>
+    <wf id="31" sent="1" para="1" offset="146" length="2"><![CDATA[on]]></wf>
+    <wf id="32" sent="1" para="1" offset="148" length="6"><![CDATA[Friday]]></wf>
+    <wf id="33" sent="1" para="1" offset="154" length="1"><![CDATA[.]]></wf>
+    <wf id="34" sent="1" para="1" offset="155" length="2"><![CDATA[--]]></wf>
+    <wf id="35" sent="1" para="1" offset="157" length="6"><![CDATA[Moscow]]></wf>
+    <wf id="36" sent="1" para="1" offset="163" length="8"><![CDATA[Newsroom]]></wf>
+    <wf id="37" sent="1" para="1" offset="171" length="5"><![CDATA[+7095]]></wf>
+    <wf id="38" sent="1" para="1" offset="176" length="3"><![CDATA[941]]></wf>
+    <wf id="39" sent="1" para="1" offset="179" length="4"><![CDATA[8520]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="WEATHER">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="-">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="Conditions">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="at">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="CIS">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="airports">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="-">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="Dec">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="6">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma=".">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="MOSCOW">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="1996-12-06">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="No">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="weather-related">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="closures">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="of">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="CIS">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="airports">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="are">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="expected">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="on">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="December">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="7">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="and">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="8">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma=",">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="the">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="Russian">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="Weather">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="Service">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="said">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="on">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="Friday">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma=".">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="--">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="Moscow">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="Newsroom">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="+7095">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="941">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="8520">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="2243">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="4"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2244">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Moscow" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="10"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2245">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="16"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2246">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="27"/>
+          <target id="28"/>
+          <target id="29"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2247">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="35"/>
+          <target id="36"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

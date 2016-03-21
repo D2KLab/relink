@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[Frankfurt dollar fix 1.5338 marks . FRANKFURT 1996-12-06 The dollar was fixed at 1.5338 marks in Frankfurt on Friday , after 1.5607 marks on Thursday . There was no Bundesbank intervention . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1323testb" filename="1323testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="9"><![CDATA[Frankfurt]]></wf>
+    <wf id="2" sent="1" para="1" offset="9" length="6"><![CDATA[dollar]]></wf>
+    <wf id="3" sent="1" para="1" offset="15" length="3"><![CDATA[fix]]></wf>
+    <wf id="4" sent="1" para="1" offset="18" length="6"><![CDATA[1.5338]]></wf>
+    <wf id="5" sent="1" para="1" offset="24" length="5"><![CDATA[marks]]></wf>
+    <wf id="6" sent="1" para="1" offset="29" length="1"><![CDATA[.]]></wf>
+    <wf id="7" sent="1" para="1" offset="30" length="9"><![CDATA[FRANKFURT]]></wf>
+    <wf id="8" sent="1" para="1" offset="39" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="9" sent="1" para="1" offset="49" length="3"><![CDATA[The]]></wf>
+    <wf id="10" sent="1" para="1" offset="52" length="6"><![CDATA[dollar]]></wf>
+    <wf id="11" sent="1" para="1" offset="58" length="3"><![CDATA[was]]></wf>
+    <wf id="12" sent="1" para="1" offset="61" length="5"><![CDATA[fixed]]></wf>
+    <wf id="13" sent="1" para="1" offset="66" length="2"><![CDATA[at]]></wf>
+    <wf id="14" sent="1" para="1" offset="68" length="6"><![CDATA[1.5338]]></wf>
+    <wf id="15" sent="1" para="1" offset="74" length="5"><![CDATA[marks]]></wf>
+    <wf id="16" sent="1" para="1" offset="79" length="2"><![CDATA[in]]></wf>
+    <wf id="17" sent="1" para="1" offset="81" length="9"><![CDATA[Frankfurt]]></wf>
+    <wf id="18" sent="1" para="1" offset="90" length="2"><![CDATA[on]]></wf>
+    <wf id="19" sent="1" para="1" offset="92" length="6"><![CDATA[Friday]]></wf>
+    <wf id="20" sent="1" para="1" offset="98" length="1"><![CDATA[,]]></wf>
+    <wf id="21" sent="1" para="1" offset="99" length="5"><![CDATA[after]]></wf>
+    <wf id="22" sent="1" para="1" offset="104" length="6"><![CDATA[1.5607]]></wf>
+    <wf id="23" sent="1" para="1" offset="110" length="5"><![CDATA[marks]]></wf>
+    <wf id="24" sent="1" para="1" offset="115" length="2"><![CDATA[on]]></wf>
+    <wf id="25" sent="1" para="1" offset="117" length="8"><![CDATA[Thursday]]></wf>
+    <wf id="26" sent="1" para="1" offset="125" length="1"><![CDATA[.]]></wf>
+    <wf id="27" sent="1" para="1" offset="126" length="5"><![CDATA[There]]></wf>
+    <wf id="28" sent="1" para="1" offset="131" length="3"><![CDATA[was]]></wf>
+    <wf id="29" sent="1" para="1" offset="134" length="2"><![CDATA[no]]></wf>
+    <wf id="30" sent="1" para="1" offset="136" length="10"><![CDATA[Bundesbank]]></wf>
+    <wf id="31" sent="1" para="1" offset="146" length="12"><![CDATA[intervention]]></wf>
+    <wf id="32" sent="1" para="1" offset="158" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="Frankfurt">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="dollar">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="fix">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="1.5338">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="marks">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma=".">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="FRANKFURT">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="1996-12-06">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="The">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="dollar">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="was">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="fixed">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="at">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="1.5338">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="marks">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="in">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="Frankfurt">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="on">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="Friday">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma=",">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="after">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="1.5607">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="marks">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="on">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="Thursday">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma=".">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="There">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="was">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="no">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="Bundesbank">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="intervention">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma=".">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="3547">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Frankfurt_Stock_Exchange" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3548">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Frankfurt_am_Main" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="7"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3549">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Frankfurt_Stock_Exchange" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="17"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3550">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Deutsche_Bundesbank" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="30"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

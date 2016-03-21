@@ -1,0 +1,1019 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[Third Paris blast victim was Moroccan student . PARIS 1996-12-06 Moroccan Mohamed Benchaou , the third person to die after a bombing on a Paris train , was a 25-year-old student about to submit a mathematics doctorate , the Moroccan embassy said on Friday . Benchaou died of his injuries on Thursday night , two days after the blast . A newly-married Canadian woman and a man from New Caledonia died instantly in the bomb that injured 90 others in the rush-hour train . An embassy spokesman said Benchaou , the son of a Moroccan army colonel , had been due to take his doctorate in March and hoped to become a teacher . Investigators have said the explosion bore the hallmarks of Algerian Moslem fundamentalists who staged a series of bombings last year which killed eight people and injured more than 160 . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1314testb" filename="1314testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="5"><![CDATA[Third]]></wf>
+    <wf id="2" sent="1" para="1" offset="5" length="5"><![CDATA[Paris]]></wf>
+    <wf id="3" sent="1" para="1" offset="10" length="5"><![CDATA[blast]]></wf>
+    <wf id="4" sent="1" para="1" offset="15" length="6"><![CDATA[victim]]></wf>
+    <wf id="5" sent="1" para="1" offset="21" length="3"><![CDATA[was]]></wf>
+    <wf id="6" sent="1" para="1" offset="24" length="8"><![CDATA[Moroccan]]></wf>
+    <wf id="7" sent="1" para="1" offset="32" length="7"><![CDATA[student]]></wf>
+    <wf id="8" sent="1" para="1" offset="39" length="1"><![CDATA[.]]></wf>
+    <wf id="9" sent="1" para="1" offset="40" length="5"><![CDATA[PARIS]]></wf>
+    <wf id="10" sent="1" para="1" offset="45" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="11" sent="1" para="1" offset="55" length="8"><![CDATA[Moroccan]]></wf>
+    <wf id="12" sent="1" para="1" offset="63" length="7"><![CDATA[Mohamed]]></wf>
+    <wf id="13" sent="1" para="1" offset="70" length="8"><![CDATA[Benchaou]]></wf>
+    <wf id="14" sent="1" para="1" offset="78" length="1"><![CDATA[,]]></wf>
+    <wf id="15" sent="1" para="1" offset="79" length="3"><![CDATA[the]]></wf>
+    <wf id="16" sent="1" para="1" offset="82" length="5"><![CDATA[third]]></wf>
+    <wf id="17" sent="1" para="1" offset="87" length="6"><![CDATA[person]]></wf>
+    <wf id="18" sent="1" para="1" offset="93" length="2"><![CDATA[to]]></wf>
+    <wf id="19" sent="1" para="1" offset="95" length="3"><![CDATA[die]]></wf>
+    <wf id="20" sent="1" para="1" offset="98" length="5"><![CDATA[after]]></wf>
+    <wf id="21" sent="1" para="1" offset="103" length="1"><![CDATA[a]]></wf>
+    <wf id="22" sent="1" para="1" offset="104" length="7"><![CDATA[bombing]]></wf>
+    <wf id="23" sent="1" para="1" offset="111" length="2"><![CDATA[on]]></wf>
+    <wf id="24" sent="1" para="1" offset="113" length="1"><![CDATA[a]]></wf>
+    <wf id="25" sent="1" para="1" offset="114" length="5"><![CDATA[Paris]]></wf>
+    <wf id="26" sent="1" para="1" offset="119" length="5"><![CDATA[train]]></wf>
+    <wf id="27" sent="1" para="1" offset="124" length="1"><![CDATA[,]]></wf>
+    <wf id="28" sent="1" para="1" offset="125" length="3"><![CDATA[was]]></wf>
+    <wf id="29" sent="1" para="1" offset="128" length="1"><![CDATA[a]]></wf>
+    <wf id="30" sent="1" para="1" offset="129" length="11"><![CDATA[25-year-old]]></wf>
+    <wf id="31" sent="1" para="1" offset="140" length="7"><![CDATA[student]]></wf>
+    <wf id="32" sent="1" para="1" offset="147" length="5"><![CDATA[about]]></wf>
+    <wf id="33" sent="1" para="1" offset="152" length="2"><![CDATA[to]]></wf>
+    <wf id="34" sent="1" para="1" offset="154" length="6"><![CDATA[submit]]></wf>
+    <wf id="35" sent="1" para="1" offset="160" length="1"><![CDATA[a]]></wf>
+    <wf id="36" sent="1" para="1" offset="161" length="11"><![CDATA[mathematics]]></wf>
+    <wf id="37" sent="1" para="1" offset="172" length="9"><![CDATA[doctorate]]></wf>
+    <wf id="38" sent="1" para="1" offset="181" length="1"><![CDATA[,]]></wf>
+    <wf id="39" sent="1" para="1" offset="182" length="3"><![CDATA[the]]></wf>
+    <wf id="40" sent="1" para="1" offset="185" length="8"><![CDATA[Moroccan]]></wf>
+    <wf id="41" sent="1" para="1" offset="193" length="7"><![CDATA[embassy]]></wf>
+    <wf id="42" sent="1" para="1" offset="200" length="4"><![CDATA[said]]></wf>
+    <wf id="43" sent="1" para="1" offset="204" length="2"><![CDATA[on]]></wf>
+    <wf id="44" sent="1" para="1" offset="206" length="6"><![CDATA[Friday]]></wf>
+    <wf id="45" sent="1" para="1" offset="212" length="1"><![CDATA[.]]></wf>
+    <wf id="46" sent="1" para="1" offset="213" length="8"><![CDATA[Benchaou]]></wf>
+    <wf id="47" sent="1" para="1" offset="221" length="4"><![CDATA[died]]></wf>
+    <wf id="48" sent="1" para="1" offset="225" length="2"><![CDATA[of]]></wf>
+    <wf id="49" sent="1" para="1" offset="227" length="3"><![CDATA[his]]></wf>
+    <wf id="50" sent="1" para="1" offset="230" length="8"><![CDATA[injuries]]></wf>
+    <wf id="51" sent="1" para="1" offset="238" length="2"><![CDATA[on]]></wf>
+    <wf id="52" sent="1" para="1" offset="240" length="8"><![CDATA[Thursday]]></wf>
+    <wf id="53" sent="1" para="1" offset="248" length="5"><![CDATA[night]]></wf>
+    <wf id="54" sent="1" para="1" offset="253" length="1"><![CDATA[,]]></wf>
+    <wf id="55" sent="1" para="1" offset="254" length="3"><![CDATA[two]]></wf>
+    <wf id="56" sent="1" para="1" offset="257" length="4"><![CDATA[days]]></wf>
+    <wf id="57" sent="1" para="1" offset="261" length="5"><![CDATA[after]]></wf>
+    <wf id="58" sent="1" para="1" offset="266" length="3"><![CDATA[the]]></wf>
+    <wf id="59" sent="1" para="1" offset="269" length="5"><![CDATA[blast]]></wf>
+    <wf id="60" sent="1" para="1" offset="274" length="1"><![CDATA[.]]></wf>
+    <wf id="61" sent="1" para="1" offset="275" length="1"><![CDATA[A]]></wf>
+    <wf id="62" sent="1" para="1" offset="276" length="13"><![CDATA[newly-married]]></wf>
+    <wf id="63" sent="1" para="1" offset="289" length="8"><![CDATA[Canadian]]></wf>
+    <wf id="64" sent="1" para="1" offset="297" length="5"><![CDATA[woman]]></wf>
+    <wf id="65" sent="1" para="1" offset="302" length="3"><![CDATA[and]]></wf>
+    <wf id="66" sent="1" para="1" offset="305" length="1"><![CDATA[a]]></wf>
+    <wf id="67" sent="1" para="1" offset="306" length="3"><![CDATA[man]]></wf>
+    <wf id="68" sent="1" para="1" offset="309" length="4"><![CDATA[from]]></wf>
+    <wf id="69" sent="1" para="1" offset="313" length="3"><![CDATA[New]]></wf>
+    <wf id="70" sent="1" para="1" offset="316" length="9"><![CDATA[Caledonia]]></wf>
+    <wf id="71" sent="1" para="1" offset="325" length="4"><![CDATA[died]]></wf>
+    <wf id="72" sent="1" para="1" offset="329" length="9"><![CDATA[instantly]]></wf>
+    <wf id="73" sent="1" para="1" offset="338" length="2"><![CDATA[in]]></wf>
+    <wf id="74" sent="1" para="1" offset="340" length="3"><![CDATA[the]]></wf>
+    <wf id="75" sent="1" para="1" offset="343" length="4"><![CDATA[bomb]]></wf>
+    <wf id="76" sent="1" para="1" offset="347" length="4"><![CDATA[that]]></wf>
+    <wf id="77" sent="1" para="1" offset="351" length="7"><![CDATA[injured]]></wf>
+    <wf id="78" sent="1" para="1" offset="358" length="2"><![CDATA[90]]></wf>
+    <wf id="79" sent="1" para="1" offset="360" length="6"><![CDATA[others]]></wf>
+    <wf id="80" sent="1" para="1" offset="366" length="2"><![CDATA[in]]></wf>
+    <wf id="81" sent="1" para="1" offset="368" length="3"><![CDATA[the]]></wf>
+    <wf id="82" sent="1" para="1" offset="371" length="9"><![CDATA[rush-hour]]></wf>
+    <wf id="83" sent="1" para="1" offset="380" length="5"><![CDATA[train]]></wf>
+    <wf id="84" sent="1" para="1" offset="385" length="1"><![CDATA[.]]></wf>
+    <wf id="85" sent="1" para="1" offset="386" length="2"><![CDATA[An]]></wf>
+    <wf id="86" sent="1" para="1" offset="388" length="7"><![CDATA[embassy]]></wf>
+    <wf id="87" sent="1" para="1" offset="395" length="9"><![CDATA[spokesman]]></wf>
+    <wf id="88" sent="1" para="1" offset="404" length="4"><![CDATA[said]]></wf>
+    <wf id="89" sent="1" para="1" offset="408" length="8"><![CDATA[Benchaou]]></wf>
+    <wf id="90" sent="1" para="1" offset="416" length="1"><![CDATA[,]]></wf>
+    <wf id="91" sent="1" para="1" offset="417" length="3"><![CDATA[the]]></wf>
+    <wf id="92" sent="1" para="1" offset="420" length="3"><![CDATA[son]]></wf>
+    <wf id="93" sent="1" para="1" offset="423" length="2"><![CDATA[of]]></wf>
+    <wf id="94" sent="1" para="1" offset="425" length="1"><![CDATA[a]]></wf>
+    <wf id="95" sent="1" para="1" offset="426" length="8"><![CDATA[Moroccan]]></wf>
+    <wf id="96" sent="1" para="1" offset="434" length="4"><![CDATA[army]]></wf>
+    <wf id="97" sent="1" para="1" offset="438" length="7"><![CDATA[colonel]]></wf>
+    <wf id="98" sent="1" para="1" offset="445" length="1"><![CDATA[,]]></wf>
+    <wf id="99" sent="1" para="1" offset="446" length="3"><![CDATA[had]]></wf>
+    <wf id="100" sent="1" para="1" offset="449" length="4"><![CDATA[been]]></wf>
+    <wf id="101" sent="1" para="1" offset="453" length="3"><![CDATA[due]]></wf>
+    <wf id="102" sent="1" para="1" offset="456" length="2"><![CDATA[to]]></wf>
+    <wf id="103" sent="1" para="1" offset="458" length="4"><![CDATA[take]]></wf>
+    <wf id="104" sent="1" para="1" offset="462" length="3"><![CDATA[his]]></wf>
+    <wf id="105" sent="1" para="1" offset="465" length="9"><![CDATA[doctorate]]></wf>
+    <wf id="106" sent="1" para="1" offset="474" length="2"><![CDATA[in]]></wf>
+    <wf id="107" sent="1" para="1" offset="476" length="5"><![CDATA[March]]></wf>
+    <wf id="108" sent="1" para="1" offset="481" length="3"><![CDATA[and]]></wf>
+    <wf id="109" sent="1" para="1" offset="484" length="5"><![CDATA[hoped]]></wf>
+    <wf id="110" sent="1" para="1" offset="489" length="2"><![CDATA[to]]></wf>
+    <wf id="111" sent="1" para="1" offset="491" length="6"><![CDATA[become]]></wf>
+    <wf id="112" sent="1" para="1" offset="497" length="1"><![CDATA[a]]></wf>
+    <wf id="113" sent="1" para="1" offset="498" length="7"><![CDATA[teacher]]></wf>
+    <wf id="114" sent="1" para="1" offset="505" length="1"><![CDATA[.]]></wf>
+    <wf id="115" sent="1" para="1" offset="506" length="13"><![CDATA[Investigators]]></wf>
+    <wf id="116" sent="1" para="1" offset="519" length="4"><![CDATA[have]]></wf>
+    <wf id="117" sent="1" para="1" offset="523" length="4"><![CDATA[said]]></wf>
+    <wf id="118" sent="1" para="1" offset="527" length="3"><![CDATA[the]]></wf>
+    <wf id="119" sent="1" para="1" offset="530" length="9"><![CDATA[explosion]]></wf>
+    <wf id="120" sent="1" para="1" offset="539" length="4"><![CDATA[bore]]></wf>
+    <wf id="121" sent="1" para="1" offset="543" length="3"><![CDATA[the]]></wf>
+    <wf id="122" sent="1" para="1" offset="546" length="9"><![CDATA[hallmarks]]></wf>
+    <wf id="123" sent="1" para="1" offset="555" length="2"><![CDATA[of]]></wf>
+    <wf id="124" sent="1" para="1" offset="557" length="8"><![CDATA[Algerian]]></wf>
+    <wf id="125" sent="1" para="1" offset="565" length="6"><![CDATA[Moslem]]></wf>
+    <wf id="126" sent="1" para="1" offset="571" length="15"><![CDATA[fundamentalists]]></wf>
+    <wf id="127" sent="1" para="1" offset="586" length="3"><![CDATA[who]]></wf>
+    <wf id="128" sent="1" para="1" offset="589" length="6"><![CDATA[staged]]></wf>
+    <wf id="129" sent="1" para="1" offset="595" length="1"><![CDATA[a]]></wf>
+    <wf id="130" sent="1" para="1" offset="596" length="6"><![CDATA[series]]></wf>
+    <wf id="131" sent="1" para="1" offset="602" length="2"><![CDATA[of]]></wf>
+    <wf id="132" sent="1" para="1" offset="604" length="8"><![CDATA[bombings]]></wf>
+    <wf id="133" sent="1" para="1" offset="612" length="4"><![CDATA[last]]></wf>
+    <wf id="134" sent="1" para="1" offset="616" length="4"><![CDATA[year]]></wf>
+    <wf id="135" sent="1" para="1" offset="620" length="5"><![CDATA[which]]></wf>
+    <wf id="136" sent="1" para="1" offset="625" length="6"><![CDATA[killed]]></wf>
+    <wf id="137" sent="1" para="1" offset="631" length="5"><![CDATA[eight]]></wf>
+    <wf id="138" sent="1" para="1" offset="636" length="6"><![CDATA[people]]></wf>
+    <wf id="139" sent="1" para="1" offset="642" length="3"><![CDATA[and]]></wf>
+    <wf id="140" sent="1" para="1" offset="645" length="7"><![CDATA[injured]]></wf>
+    <wf id="141" sent="1" para="1" offset="652" length="4"><![CDATA[more]]></wf>
+    <wf id="142" sent="1" para="1" offset="656" length="4"><![CDATA[than]]></wf>
+    <wf id="143" sent="1" para="1" offset="660" length="3"><![CDATA[160]]></wf>
+    <wf id="144" sent="1" para="1" offset="663" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="Third">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="Paris">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="blast">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="victim">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="was">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="Moroccan">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="student">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma=".">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="PARIS">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="1996-12-06">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="Moroccan">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="Mohamed">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Benchaou">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma=",">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="the">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="third">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="person">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="to">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="die">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="after">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="a">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="bombing">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="on">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="a">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="Paris">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="train">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma=",">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="was">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="a">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="25-year-old">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="student">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="about">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="to">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="submit">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="a">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="mathematics">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="doctorate">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma=",">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="the">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="Moroccan">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="embassy">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="said">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="on">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="Friday">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma=".">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="Benchaou">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="died">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="of">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="his">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="injuries">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="on">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="Thursday">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="night">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma=",">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="two">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="days">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="after">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="the">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="blast">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma=".">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="A">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="newly-married">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="Canadian">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="woman">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="and">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="a">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="man">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="from">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="New">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="Caledonia">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="died">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="instantly">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="in">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="the">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="bomb">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="that">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="injured">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="90">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="others">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="in">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="the">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="rush-hour">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="train">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma=".">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="An">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="embassy">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="spokesman">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="said">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="Benchaou">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma=",">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="the">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="son">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="of">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="a">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="Moroccan">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="army">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="colonel">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma=",">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="had">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="been">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="due">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="to">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="take">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="his">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="doctorate">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="in">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="March">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="and">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="hoped">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="to">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="become">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="a">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="teacher">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma=".">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="Investigators">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="have">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="said">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="the">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="explosion">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="bore">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="the">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="hallmarks">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="of">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="Algerian">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="Moslem">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="fundamentalists">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="who">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="staged">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="a">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="series">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="of">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="bombings">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="last">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="year">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="which">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="killed">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="eight">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="people">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="and">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="injured">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="more">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="than">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="160">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma=".">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="3443">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Paris" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="2"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3444">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Morocco" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="6"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3445">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Paris" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3446">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Morocco" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3447">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+          <target id="13"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3448">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Paris" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="25"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3449">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Morocco" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="40"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3450">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="46"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3451">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Canada" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="63"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3452">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_Caledonia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="69"/>
+          <target id="70"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3453">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="89"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3454">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Morocco" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="95"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3455">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Algeria" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="124"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3456">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Islam" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="125"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

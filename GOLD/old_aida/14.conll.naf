@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[SOCCER - BRAZILIAN CHAMPIONSHIP RESULTS . RIO DE JANEIRO 1996-12-05 Results of Brazilian soccer championship semifinal , first leg matches on Thursday . Goias 1 Gremio 3 Portuguesa 1 Atletico Mineiro 0 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1176testb" filename="1176testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="6"><![CDATA[SOCCER]]></wf>
+    <wf id="1" sent="1" para="1" offset="6" length="1"><![CDATA[-]]></wf>
+    <wf id="2" sent="1" para="1" offset="7" length="9"><![CDATA[BRAZILIAN]]></wf>
+    <wf id="3" sent="1" para="1" offset="16" length="12"><![CDATA[CHAMPIONSHIP]]></wf>
+    <wf id="4" sent="1" para="1" offset="28" length="7"><![CDATA[RESULTS]]></wf>
+    <wf id="5" sent="1" para="1" offset="35" length="1"><![CDATA[.]]></wf>
+    <wf id="6" sent="1" para="1" offset="36" length="3"><![CDATA[RIO]]></wf>
+    <wf id="7" sent="1" para="1" offset="39" length="2"><![CDATA[DE]]></wf>
+    <wf id="8" sent="1" para="1" offset="41" length="7"><![CDATA[JANEIRO]]></wf>
+    <wf id="9" sent="1" para="1" offset="48" length="10"><![CDATA[1996-12-05]]></wf>
+    <wf id="10" sent="1" para="1" offset="58" length="7"><![CDATA[Results]]></wf>
+    <wf id="11" sent="1" para="1" offset="65" length="2"><![CDATA[of]]></wf>
+    <wf id="12" sent="1" para="1" offset="67" length="9"><![CDATA[Brazilian]]></wf>
+    <wf id="13" sent="1" para="1" offset="76" length="6"><![CDATA[soccer]]></wf>
+    <wf id="14" sent="1" para="1" offset="82" length="12"><![CDATA[championship]]></wf>
+    <wf id="15" sent="1" para="1" offset="94" length="9"><![CDATA[semifinal]]></wf>
+    <wf id="16" sent="1" para="1" offset="103" length="1"><![CDATA[,]]></wf>
+    <wf id="17" sent="1" para="1" offset="104" length="5"><![CDATA[first]]></wf>
+    <wf id="18" sent="1" para="1" offset="109" length="3"><![CDATA[leg]]></wf>
+    <wf id="19" sent="1" para="1" offset="112" length="7"><![CDATA[matches]]></wf>
+    <wf id="20" sent="1" para="1" offset="119" length="2"><![CDATA[on]]></wf>
+    <wf id="21" sent="1" para="1" offset="121" length="8"><![CDATA[Thursday]]></wf>
+    <wf id="22" sent="1" para="1" offset="129" length="1"><![CDATA[.]]></wf>
+    <wf id="23" sent="1" para="1" offset="130" length="5"><![CDATA[Goias]]></wf>
+    <wf id="24" sent="1" para="1" offset="135" length="1"><![CDATA[1]]></wf>
+    <wf id="25" sent="1" para="1" offset="136" length="6"><![CDATA[Gremio]]></wf>
+    <wf id="26" sent="1" para="1" offset="142" length="1"><![CDATA[3]]></wf>
+    <wf id="27" sent="1" para="1" offset="143" length="10"><![CDATA[Portuguesa]]></wf>
+    <wf id="28" sent="1" para="1" offset="153" length="1"><![CDATA[1]]></wf>
+    <wf id="29" sent="1" para="1" offset="154" length="8"><![CDATA[Atletico]]></wf>
+    <wf id="30" sent="1" para="1" offset="162" length="7"><![CDATA[Mineiro]]></wf>
+    <wf id="31" sent="1" para="1" offset="169" length="1"><![CDATA[0]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="SOCCER">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="-">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="BRAZILIAN">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="CHAMPIONSHIP">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="RESULTS">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma=".">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="RIO">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="DE">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="JANEIRO">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="1996-12-05">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="Results">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="of">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="Brazilian">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="soccer">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="championship">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="semifinal">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma=",">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="first">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="leg">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="matches">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="on">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="Thursday">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma=".">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="Goias">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="1">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="Gremio">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="3">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="Portuguesa">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="1">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="Atletico">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="Mineiro">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="0">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="540">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Brazil" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="2"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="541">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Rio_de_Janeiro" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="6"/>
+          <target id="7"/>
+          <target id="8"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="542">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Brazil" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="543">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="23"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="544">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="25"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="545">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="27"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="546">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="29"/>
+          <target id="30"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

@@ -1,0 +1,935 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[Thai rice vessels loading and movements at Dec 06 . BANGKOK 1996-11-29 The Thai Commerce Ministry detailed rice loading at Thai ports as follows ( in tonnes ) : Vessel Date of Arrival Quantity Destination Iran Sabr 19/11/96 9,000 Iran Princess of Loine 19/11/96 10,000 Philippines Deligst 20/11/96 5,500 Indonesia Seagramd ace 20/11/96 5,000 Japan Lucky Emdldm 20/11/96 5,000 Japan Algoa Day 21/11/96 6,000 Africa Sangthai Glory 22/11/96 3,000 Singapore Myos Yang 5 22/11/96 4,000 Indonesia Budisuryana 22/11/96 3,800 Malaysia King Ace 22/11/96 5,000 Japan Tong Shun 25/11/96 3,000 Vietnam But 2 27/11/96 5,000 Burma -- Bangkok newsroom ( 662 ) 652-0642 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1333testb" filename="1333testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="4"><![CDATA[Thai]]></wf>
+    <wf id="1" sent="1" para="1" offset="4" length="4"><![CDATA[rice]]></wf>
+    <wf id="2" sent="1" para="1" offset="8" length="7"><![CDATA[vessels]]></wf>
+    <wf id="3" sent="1" para="1" offset="15" length="7"><![CDATA[loading]]></wf>
+    <wf id="4" sent="1" para="1" offset="22" length="3"><![CDATA[and]]></wf>
+    <wf id="5" sent="1" para="1" offset="25" length="9"><![CDATA[movements]]></wf>
+    <wf id="6" sent="1" para="1" offset="34" length="2"><![CDATA[at]]></wf>
+    <wf id="7" sent="1" para="1" offset="36" length="3"><![CDATA[Dec]]></wf>
+    <wf id="8" sent="1" para="1" offset="39" length="2"><![CDATA[06]]></wf>
+    <wf id="9" sent="1" para="1" offset="41" length="1"><![CDATA[.]]></wf>
+    <wf id="10" sent="1" para="1" offset="42" length="7"><![CDATA[BANGKOK]]></wf>
+    <wf id="11" sent="1" para="1" offset="49" length="10"><![CDATA[1996-11-29]]></wf>
+    <wf id="12" sent="1" para="1" offset="59" length="3"><![CDATA[The]]></wf>
+    <wf id="13" sent="1" para="1" offset="62" length="4"><![CDATA[Thai]]></wf>
+    <wf id="14" sent="1" para="1" offset="66" length="8"><![CDATA[Commerce]]></wf>
+    <wf id="15" sent="1" para="1" offset="74" length="8"><![CDATA[Ministry]]></wf>
+    <wf id="16" sent="1" para="1" offset="82" length="8"><![CDATA[detailed]]></wf>
+    <wf id="17" sent="1" para="1" offset="90" length="4"><![CDATA[rice]]></wf>
+    <wf id="18" sent="1" para="1" offset="94" length="7"><![CDATA[loading]]></wf>
+    <wf id="19" sent="1" para="1" offset="101" length="2"><![CDATA[at]]></wf>
+    <wf id="20" sent="1" para="1" offset="103" length="4"><![CDATA[Thai]]></wf>
+    <wf id="21" sent="1" para="1" offset="107" length="5"><![CDATA[ports]]></wf>
+    <wf id="22" sent="1" para="1" offset="112" length="2"><![CDATA[as]]></wf>
+    <wf id="23" sent="1" para="1" offset="114" length="7"><![CDATA[follows]]></wf>
+    <wf id="24" sent="1" para="1" offset="121" length="1"><![CDATA[(]]></wf>
+    <wf id="25" sent="1" para="1" offset="122" length="2"><![CDATA[in]]></wf>
+    <wf id="26" sent="1" para="1" offset="124" length="6"><![CDATA[tonnes]]></wf>
+    <wf id="27" sent="1" para="1" offset="130" length="1"><![CDATA[)]]></wf>
+    <wf id="28" sent="1" para="1" offset="131" length="1"><![CDATA[:]]></wf>
+    <wf id="29" sent="1" para="1" offset="132" length="6"><![CDATA[Vessel]]></wf>
+    <wf id="30" sent="1" para="1" offset="138" length="4"><![CDATA[Date]]></wf>
+    <wf id="31" sent="1" para="1" offset="142" length="2"><![CDATA[of]]></wf>
+    <wf id="32" sent="1" para="1" offset="144" length="7"><![CDATA[Arrival]]></wf>
+    <wf id="33" sent="1" para="1" offset="151" length="8"><![CDATA[Quantity]]></wf>
+    <wf id="34" sent="1" para="1" offset="159" length="11"><![CDATA[Destination]]></wf>
+    <wf id="35" sent="1" para="1" offset="170" length="4"><![CDATA[Iran]]></wf>
+    <wf id="36" sent="1" para="1" offset="174" length="4"><![CDATA[Sabr]]></wf>
+    <wf id="37" sent="1" para="1" offset="178" length="8"><![CDATA[19/11/96]]></wf>
+    <wf id="38" sent="1" para="1" offset="186" length="5"><![CDATA[9,000]]></wf>
+    <wf id="39" sent="1" para="1" offset="191" length="4"><![CDATA[Iran]]></wf>
+    <wf id="40" sent="1" para="1" offset="195" length="8"><![CDATA[Princess]]></wf>
+    <wf id="41" sent="1" para="1" offset="203" length="2"><![CDATA[of]]></wf>
+    <wf id="42" sent="1" para="1" offset="205" length="5"><![CDATA[Loine]]></wf>
+    <wf id="43" sent="1" para="1" offset="210" length="8"><![CDATA[19/11/96]]></wf>
+    <wf id="44" sent="1" para="1" offset="218" length="6"><![CDATA[10,000]]></wf>
+    <wf id="45" sent="1" para="1" offset="224" length="11"><![CDATA[Philippines]]></wf>
+    <wf id="46" sent="1" para="1" offset="235" length="7"><![CDATA[Deligst]]></wf>
+    <wf id="47" sent="1" para="1" offset="242" length="8"><![CDATA[20/11/96]]></wf>
+    <wf id="48" sent="1" para="1" offset="250" length="5"><![CDATA[5,500]]></wf>
+    <wf id="49" sent="1" para="1" offset="255" length="9"><![CDATA[Indonesia]]></wf>
+    <wf id="50" sent="1" para="1" offset="264" length="8"><![CDATA[Seagramd]]></wf>
+    <wf id="51" sent="1" para="1" offset="272" length="3"><![CDATA[ace]]></wf>
+    <wf id="52" sent="1" para="1" offset="275" length="8"><![CDATA[20/11/96]]></wf>
+    <wf id="53" sent="1" para="1" offset="283" length="5"><![CDATA[5,000]]></wf>
+    <wf id="54" sent="1" para="1" offset="288" length="5"><![CDATA[Japan]]></wf>
+    <wf id="55" sent="1" para="1" offset="293" length="5"><![CDATA[Lucky]]></wf>
+    <wf id="56" sent="1" para="1" offset="298" length="6"><![CDATA[Emdldm]]></wf>
+    <wf id="57" sent="1" para="1" offset="304" length="8"><![CDATA[20/11/96]]></wf>
+    <wf id="58" sent="1" para="1" offset="312" length="5"><![CDATA[5,000]]></wf>
+    <wf id="59" sent="1" para="1" offset="317" length="5"><![CDATA[Japan]]></wf>
+    <wf id="60" sent="1" para="1" offset="322" length="5"><![CDATA[Algoa]]></wf>
+    <wf id="61" sent="1" para="1" offset="327" length="3"><![CDATA[Day]]></wf>
+    <wf id="62" sent="1" para="1" offset="330" length="8"><![CDATA[21/11/96]]></wf>
+    <wf id="63" sent="1" para="1" offset="338" length="5"><![CDATA[6,000]]></wf>
+    <wf id="64" sent="1" para="1" offset="343" length="6"><![CDATA[Africa]]></wf>
+    <wf id="65" sent="1" para="1" offset="349" length="8"><![CDATA[Sangthai]]></wf>
+    <wf id="66" sent="1" para="1" offset="357" length="5"><![CDATA[Glory]]></wf>
+    <wf id="67" sent="1" para="1" offset="362" length="8"><![CDATA[22/11/96]]></wf>
+    <wf id="68" sent="1" para="1" offset="370" length="5"><![CDATA[3,000]]></wf>
+    <wf id="69" sent="1" para="1" offset="375" length="9"><![CDATA[Singapore]]></wf>
+    <wf id="70" sent="1" para="1" offset="384" length="4"><![CDATA[Myos]]></wf>
+    <wf id="71" sent="1" para="1" offset="388" length="4"><![CDATA[Yang]]></wf>
+    <wf id="72" sent="1" para="1" offset="392" length="1"><![CDATA[5]]></wf>
+    <wf id="73" sent="1" para="1" offset="393" length="8"><![CDATA[22/11/96]]></wf>
+    <wf id="74" sent="1" para="1" offset="401" length="5"><![CDATA[4,000]]></wf>
+    <wf id="75" sent="1" para="1" offset="406" length="9"><![CDATA[Indonesia]]></wf>
+    <wf id="76" sent="1" para="1" offset="415" length="11"><![CDATA[Budisuryana]]></wf>
+    <wf id="77" sent="1" para="1" offset="426" length="8"><![CDATA[22/11/96]]></wf>
+    <wf id="78" sent="1" para="1" offset="434" length="5"><![CDATA[3,800]]></wf>
+    <wf id="79" sent="1" para="1" offset="439" length="8"><![CDATA[Malaysia]]></wf>
+    <wf id="80" sent="1" para="1" offset="447" length="4"><![CDATA[King]]></wf>
+    <wf id="81" sent="1" para="1" offset="451" length="3"><![CDATA[Ace]]></wf>
+    <wf id="82" sent="1" para="1" offset="454" length="8"><![CDATA[22/11/96]]></wf>
+    <wf id="83" sent="1" para="1" offset="462" length="5"><![CDATA[5,000]]></wf>
+    <wf id="84" sent="1" para="1" offset="467" length="5"><![CDATA[Japan]]></wf>
+    <wf id="85" sent="1" para="1" offset="472" length="4"><![CDATA[Tong]]></wf>
+    <wf id="86" sent="1" para="1" offset="476" length="4"><![CDATA[Shun]]></wf>
+    <wf id="87" sent="1" para="1" offset="480" length="8"><![CDATA[25/11/96]]></wf>
+    <wf id="88" sent="1" para="1" offset="488" length="5"><![CDATA[3,000]]></wf>
+    <wf id="89" sent="1" para="1" offset="493" length="7"><![CDATA[Vietnam]]></wf>
+    <wf id="90" sent="1" para="1" offset="500" length="3"><![CDATA[But]]></wf>
+    <wf id="91" sent="1" para="1" offset="503" length="1"><![CDATA[2]]></wf>
+    <wf id="92" sent="1" para="1" offset="504" length="8"><![CDATA[27/11/96]]></wf>
+    <wf id="93" sent="1" para="1" offset="512" length="5"><![CDATA[5,000]]></wf>
+    <wf id="94" sent="1" para="1" offset="517" length="5"><![CDATA[Burma]]></wf>
+    <wf id="95" sent="1" para="1" offset="522" length="2"><![CDATA[--]]></wf>
+    <wf id="96" sent="1" para="1" offset="524" length="7"><![CDATA[Bangkok]]></wf>
+    <wf id="97" sent="1" para="1" offset="531" length="8"><![CDATA[newsroom]]></wf>
+    <wf id="98" sent="1" para="1" offset="539" length="1"><![CDATA[(]]></wf>
+    <wf id="99" sent="1" para="1" offset="540" length="3"><![CDATA[662]]></wf>
+    <wf id="100" sent="1" para="1" offset="543" length="1"><![CDATA[)]]></wf>
+    <wf id="101" sent="1" para="1" offset="544" length="8"><![CDATA[652-0642]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="Thai">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="rice">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="vessels">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="loading">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="and">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="movements">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="at">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="Dec">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="06">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma=".">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="BANGKOK">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="1996-11-29">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="The">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Thai">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="Commerce">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="Ministry">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="detailed">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="rice">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="loading">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="at">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="Thai">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="ports">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="as">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="follows">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="(">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="in">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="tonnes">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma=")">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma=":">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="Vessel">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="Date">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="of">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="Arrival">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="Quantity">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="Destination">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="Iran">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="Sabr">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="19/11/96">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="9,000">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="Iran">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="Princess">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="of">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="Loine">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="19/11/96">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="10,000">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="Philippines">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="Deligst">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="20/11/96">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="5,500">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="Indonesia">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="Seagramd">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="ace">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="20/11/96">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="5,000">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="Japan">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="Lucky">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="Emdldm">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="20/11/96">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="5,000">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="Japan">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="Algoa">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="Day">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="21/11/96">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="6,000">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="Africa">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="Sangthai">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="Glory">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="22/11/96">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="3,000">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="Singapore">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="Myos">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="Yang">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="5">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="22/11/96">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="4,000">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="Indonesia">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="Budisuryana">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="22/11/96">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="3,800">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="Malaysia">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="King">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="Ace">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="22/11/96">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="5,000">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="Japan">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="Tong">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="Shun">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="25/11/96">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="3,000">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="Vietnam">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="But">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="2">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="27/11/96">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="5,000">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="Burma">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="--">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="Bangkok">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="newsroom">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="(">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="662">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma=")">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="652-0642">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="3690">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Thailand" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="0"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3691">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Bangkok" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="10"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3692">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Thailand" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="13"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3693">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="14"/>
+          <target id="15"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3694">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Thailand" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="20"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3695">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="35"/>
+          <target id="36"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3696">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Iran" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="39"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3697">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="40"/>
+          <target id="41"/>
+          <target id="42"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3698">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Philippines" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="45"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3699">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="46"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3700">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Indonesia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="49"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3701">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="50"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3702">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="54"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3703">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="55"/>
+          <target id="56"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3704">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="59"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3705">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="60"/>
+          <target id="61"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3706">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Africa" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="64"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3707">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="65"/>
+          <target id="66"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3708">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Singapore" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="69"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3709">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="70"/>
+          <target id="71"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3710">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Indonesia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="75"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3711">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="76"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3712">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Malaysia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="79"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3713">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="80"/>
+          <target id="81"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3714">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="84"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3715">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="85"/>
+          <target id="86"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3716">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Vietnam" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="89"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3717">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="90"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3718">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Burma" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="94"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3719">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Bangkok" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="96"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

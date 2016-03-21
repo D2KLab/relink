@@ -1,0 +1,678 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[Kansas feedlot cattle roundup - USDA . DODGE CITY 1996-12-06 Trade slow . Not enough slaughter steer or heifer sales confirmed for an adequate market test . - USDA Thursday 600 week ago holiday year ago 14,200 week to date 89,300 week ago 71,000 year ago 47,200 Inquiry good , demand light . Sales confirmed on 500 slaughter steers and 100 slaughter heifers Thursday . For the week to date 89,300 head confirmed including 30,600 head of contracted or formulated cattle . Steers : Select and Choice 2-3 , 1200 lbs 67.00 . Heifers : Select and Choice 2-3 , 1150 lbs 67.00 . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1307testb" filename="1307testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="6"><![CDATA[Kansas]]></wf>
+    <wf id="1" sent="1" para="1" offset="6" length="7"><![CDATA[feedlot]]></wf>
+    <wf id="2" sent="1" para="1" offset="13" length="6"><![CDATA[cattle]]></wf>
+    <wf id="3" sent="1" para="1" offset="19" length="7"><![CDATA[roundup]]></wf>
+    <wf id="4" sent="1" para="1" offset="26" length="1"><![CDATA[-]]></wf>
+    <wf id="5" sent="1" para="1" offset="27" length="4"><![CDATA[USDA]]></wf>
+    <wf id="6" sent="1" para="1" offset="31" length="1"><![CDATA[.]]></wf>
+    <wf id="7" sent="1" para="1" offset="32" length="5"><![CDATA[DODGE]]></wf>
+    <wf id="8" sent="1" para="1" offset="37" length="4"><![CDATA[CITY]]></wf>
+    <wf id="9" sent="1" para="1" offset="41" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="10" sent="1" para="1" offset="51" length="5"><![CDATA[Trade]]></wf>
+    <wf id="11" sent="1" para="1" offset="56" length="4"><![CDATA[slow]]></wf>
+    <wf id="12" sent="1" para="1" offset="60" length="1"><![CDATA[.]]></wf>
+    <wf id="13" sent="1" para="1" offset="61" length="3"><![CDATA[Not]]></wf>
+    <wf id="14" sent="1" para="1" offset="64" length="6"><![CDATA[enough]]></wf>
+    <wf id="15" sent="1" para="1" offset="70" length="9"><![CDATA[slaughter]]></wf>
+    <wf id="16" sent="1" para="1" offset="79" length="5"><![CDATA[steer]]></wf>
+    <wf id="17" sent="1" para="1" offset="84" length="2"><![CDATA[or]]></wf>
+    <wf id="18" sent="1" para="1" offset="86" length="6"><![CDATA[heifer]]></wf>
+    <wf id="19" sent="1" para="1" offset="92" length="5"><![CDATA[sales]]></wf>
+    <wf id="20" sent="1" para="1" offset="97" length="9"><![CDATA[confirmed]]></wf>
+    <wf id="21" sent="1" para="1" offset="106" length="3"><![CDATA[for]]></wf>
+    <wf id="22" sent="1" para="1" offset="109" length="2"><![CDATA[an]]></wf>
+    <wf id="23" sent="1" para="1" offset="111" length="8"><![CDATA[adequate]]></wf>
+    <wf id="24" sent="1" para="1" offset="119" length="6"><![CDATA[market]]></wf>
+    <wf id="25" sent="1" para="1" offset="125" length="4"><![CDATA[test]]></wf>
+    <wf id="26" sent="1" para="1" offset="129" length="1"><![CDATA[.]]></wf>
+    <wf id="27" sent="1" para="1" offset="130" length="1"><![CDATA[-]]></wf>
+    <wf id="28" sent="1" para="1" offset="131" length="4"><![CDATA[USDA]]></wf>
+    <wf id="29" sent="1" para="1" offset="135" length="8"><![CDATA[Thursday]]></wf>
+    <wf id="30" sent="1" para="1" offset="143" length="3"><![CDATA[600]]></wf>
+    <wf id="31" sent="1" para="1" offset="146" length="4"><![CDATA[week]]></wf>
+    <wf id="32" sent="1" para="1" offset="150" length="3"><![CDATA[ago]]></wf>
+    <wf id="33" sent="1" para="1" offset="153" length="7"><![CDATA[holiday]]></wf>
+    <wf id="34" sent="1" para="1" offset="160" length="4"><![CDATA[year]]></wf>
+    <wf id="35" sent="1" para="1" offset="164" length="3"><![CDATA[ago]]></wf>
+    <wf id="36" sent="1" para="1" offset="167" length="6"><![CDATA[14,200]]></wf>
+    <wf id="37" sent="1" para="1" offset="173" length="4"><![CDATA[week]]></wf>
+    <wf id="38" sent="1" para="1" offset="177" length="2"><![CDATA[to]]></wf>
+    <wf id="39" sent="1" para="1" offset="179" length="4"><![CDATA[date]]></wf>
+    <wf id="40" sent="1" para="1" offset="183" length="6"><![CDATA[89,300]]></wf>
+    <wf id="41" sent="1" para="1" offset="189" length="4"><![CDATA[week]]></wf>
+    <wf id="42" sent="1" para="1" offset="193" length="3"><![CDATA[ago]]></wf>
+    <wf id="43" sent="1" para="1" offset="196" length="6"><![CDATA[71,000]]></wf>
+    <wf id="44" sent="1" para="1" offset="202" length="4"><![CDATA[year]]></wf>
+    <wf id="45" sent="1" para="1" offset="206" length="3"><![CDATA[ago]]></wf>
+    <wf id="46" sent="1" para="1" offset="209" length="6"><![CDATA[47,200]]></wf>
+    <wf id="47" sent="1" para="1" offset="215" length="7"><![CDATA[Inquiry]]></wf>
+    <wf id="48" sent="1" para="1" offset="222" length="4"><![CDATA[good]]></wf>
+    <wf id="49" sent="1" para="1" offset="226" length="1"><![CDATA[,]]></wf>
+    <wf id="50" sent="1" para="1" offset="227" length="6"><![CDATA[demand]]></wf>
+    <wf id="51" sent="1" para="1" offset="233" length="5"><![CDATA[light]]></wf>
+    <wf id="52" sent="1" para="1" offset="238" length="1"><![CDATA[.]]></wf>
+    <wf id="53" sent="1" para="1" offset="239" length="5"><![CDATA[Sales]]></wf>
+    <wf id="54" sent="1" para="1" offset="244" length="9"><![CDATA[confirmed]]></wf>
+    <wf id="55" sent="1" para="1" offset="253" length="2"><![CDATA[on]]></wf>
+    <wf id="56" sent="1" para="1" offset="255" length="3"><![CDATA[500]]></wf>
+    <wf id="57" sent="1" para="1" offset="258" length="9"><![CDATA[slaughter]]></wf>
+    <wf id="58" sent="1" para="1" offset="267" length="6"><![CDATA[steers]]></wf>
+    <wf id="59" sent="1" para="1" offset="273" length="3"><![CDATA[and]]></wf>
+    <wf id="60" sent="1" para="1" offset="276" length="3"><![CDATA[100]]></wf>
+    <wf id="61" sent="1" para="1" offset="279" length="9"><![CDATA[slaughter]]></wf>
+    <wf id="62" sent="1" para="1" offset="288" length="7"><![CDATA[heifers]]></wf>
+    <wf id="63" sent="1" para="1" offset="295" length="8"><![CDATA[Thursday]]></wf>
+    <wf id="64" sent="1" para="1" offset="303" length="1"><![CDATA[.]]></wf>
+    <wf id="65" sent="1" para="1" offset="304" length="3"><![CDATA[For]]></wf>
+    <wf id="66" sent="1" para="1" offset="307" length="3"><![CDATA[the]]></wf>
+    <wf id="67" sent="1" para="1" offset="310" length="4"><![CDATA[week]]></wf>
+    <wf id="68" sent="1" para="1" offset="314" length="2"><![CDATA[to]]></wf>
+    <wf id="69" sent="1" para="1" offset="316" length="4"><![CDATA[date]]></wf>
+    <wf id="70" sent="1" para="1" offset="320" length="6"><![CDATA[89,300]]></wf>
+    <wf id="71" sent="1" para="1" offset="326" length="4"><![CDATA[head]]></wf>
+    <wf id="72" sent="1" para="1" offset="330" length="9"><![CDATA[confirmed]]></wf>
+    <wf id="73" sent="1" para="1" offset="339" length="9"><![CDATA[including]]></wf>
+    <wf id="74" sent="1" para="1" offset="348" length="6"><![CDATA[30,600]]></wf>
+    <wf id="75" sent="1" para="1" offset="354" length="4"><![CDATA[head]]></wf>
+    <wf id="76" sent="1" para="1" offset="358" length="2"><![CDATA[of]]></wf>
+    <wf id="77" sent="1" para="1" offset="360" length="10"><![CDATA[contracted]]></wf>
+    <wf id="78" sent="1" para="1" offset="370" length="2"><![CDATA[or]]></wf>
+    <wf id="79" sent="1" para="1" offset="372" length="10"><![CDATA[formulated]]></wf>
+    <wf id="80" sent="1" para="1" offset="382" length="6"><![CDATA[cattle]]></wf>
+    <wf id="81" sent="1" para="1" offset="388" length="1"><![CDATA[.]]></wf>
+    <wf id="82" sent="1" para="1" offset="389" length="6"><![CDATA[Steers]]></wf>
+    <wf id="83" sent="1" para="1" offset="395" length="1"><![CDATA[:]]></wf>
+    <wf id="84" sent="1" para="1" offset="396" length="6"><![CDATA[Select]]></wf>
+    <wf id="85" sent="1" para="1" offset="402" length="3"><![CDATA[and]]></wf>
+    <wf id="86" sent="1" para="1" offset="405" length="6"><![CDATA[Choice]]></wf>
+    <wf id="87" sent="1" para="1" offset="411" length="3"><![CDATA[2-3]]></wf>
+    <wf id="88" sent="1" para="1" offset="414" length="1"><![CDATA[,]]></wf>
+    <wf id="89" sent="1" para="1" offset="415" length="4"><![CDATA[1200]]></wf>
+    <wf id="90" sent="1" para="1" offset="419" length="3"><![CDATA[lbs]]></wf>
+    <wf id="91" sent="1" para="1" offset="422" length="5"><![CDATA[67.00]]></wf>
+    <wf id="92" sent="1" para="1" offset="427" length="1"><![CDATA[.]]></wf>
+    <wf id="93" sent="1" para="1" offset="428" length="7"><![CDATA[Heifers]]></wf>
+    <wf id="94" sent="1" para="1" offset="435" length="1"><![CDATA[:]]></wf>
+    <wf id="95" sent="1" para="1" offset="436" length="6"><![CDATA[Select]]></wf>
+    <wf id="96" sent="1" para="1" offset="442" length="3"><![CDATA[and]]></wf>
+    <wf id="97" sent="1" para="1" offset="445" length="6"><![CDATA[Choice]]></wf>
+    <wf id="98" sent="1" para="1" offset="451" length="3"><![CDATA[2-3]]></wf>
+    <wf id="99" sent="1" para="1" offset="454" length="1"><![CDATA[,]]></wf>
+    <wf id="100" sent="1" para="1" offset="455" length="4"><![CDATA[1150]]></wf>
+    <wf id="101" sent="1" para="1" offset="459" length="3"><![CDATA[lbs]]></wf>
+    <wf id="102" sent="1" para="1" offset="462" length="5"><![CDATA[67.00]]></wf>
+    <wf id="103" sent="1" para="1" offset="467" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="Kansas">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="feedlot">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="cattle">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="roundup">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="-">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="USDA">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma=".">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="DODGE">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="CITY">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="1996-12-06">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="Trade">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="slow">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma=".">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Not">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="enough">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="slaughter">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="steer">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="or">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="heifer">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="sales">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="confirmed">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="for">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="an">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="adequate">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="market">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="test">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma=".">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="-">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="USDA">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="Thursday">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="600">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="week">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="ago">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="holiday">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="year">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="ago">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="14,200">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="week">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="to">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="date">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="89,300">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="week">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="ago">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="71,000">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="year">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="ago">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="47,200">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="Inquiry">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="good">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma=",">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="demand">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="light">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma=".">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="Sales">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="confirmed">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="on">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="500">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="slaughter">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="steers">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="and">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="100">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="slaughter">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="heifers">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="Thursday">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma=".">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="For">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="the">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="week">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="to">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="date">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="89,300">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="head">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="confirmed">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="including">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="30,600">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="head">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="of">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="contracted">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="or">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="formulated">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="cattle">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma=".">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="Steers">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma=":">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="Select">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="and">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="Choice">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="2-3">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma=",">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="1200">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="lbs">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="67.00">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma=".">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="Heifers">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma=":">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="Select">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="and">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="Choice">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="2-3">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma=",">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="1150">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="lbs">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="67.00">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma=".">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="3324">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Kansas" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="0"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3325">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_States_Department_of_Agriculture" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="5"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3326">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dodge_City,_Kansas" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="7"/>
+          <target id="8"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3327">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_States_Department_of_Agriculture" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="28"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

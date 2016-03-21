@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[SOCCER - FRENCH LEAGUE RESULTS . PARIS 1996-12-06 Results of French first division matches on Friday : Lens 0 Nantes 4 Paris St Germain 1 Nancy 2 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1198testb" filename="1198testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="6"><![CDATA[SOCCER]]></wf>
+    <wf id="1" sent="1" para="1" offset="6" length="1"><![CDATA[-]]></wf>
+    <wf id="2" sent="1" para="1" offset="7" length="6"><![CDATA[FRENCH]]></wf>
+    <wf id="3" sent="1" para="1" offset="13" length="6"><![CDATA[LEAGUE]]></wf>
+    <wf id="4" sent="1" para="1" offset="19" length="7"><![CDATA[RESULTS]]></wf>
+    <wf id="5" sent="1" para="1" offset="26" length="1"><![CDATA[.]]></wf>
+    <wf id="6" sent="1" para="1" offset="27" length="5"><![CDATA[PARIS]]></wf>
+    <wf id="7" sent="1" para="1" offset="32" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="8" sent="1" para="1" offset="42" length="7"><![CDATA[Results]]></wf>
+    <wf id="9" sent="1" para="1" offset="49" length="2"><![CDATA[of]]></wf>
+    <wf id="10" sent="1" para="1" offset="51" length="6"><![CDATA[French]]></wf>
+    <wf id="11" sent="1" para="1" offset="57" length="5"><![CDATA[first]]></wf>
+    <wf id="12" sent="1" para="1" offset="62" length="8"><![CDATA[division]]></wf>
+    <wf id="13" sent="1" para="1" offset="70" length="7"><![CDATA[matches]]></wf>
+    <wf id="14" sent="1" para="1" offset="77" length="2"><![CDATA[on]]></wf>
+    <wf id="15" sent="1" para="1" offset="79" length="6"><![CDATA[Friday]]></wf>
+    <wf id="16" sent="1" para="1" offset="85" length="1"><![CDATA[:]]></wf>
+    <wf id="17" sent="1" para="1" offset="86" length="4"><![CDATA[Lens]]></wf>
+    <wf id="18" sent="1" para="1" offset="90" length="1"><![CDATA[0]]></wf>
+    <wf id="19" sent="1" para="1" offset="91" length="6"><![CDATA[Nantes]]></wf>
+    <wf id="20" sent="1" para="1" offset="97" length="1"><![CDATA[4]]></wf>
+    <wf id="21" sent="1" para="1" offset="98" length="5"><![CDATA[Paris]]></wf>
+    <wf id="22" sent="1" para="1" offset="103" length="2"><![CDATA[St]]></wf>
+    <wf id="23" sent="1" para="1" offset="105" length="7"><![CDATA[Germain]]></wf>
+    <wf id="24" sent="1" para="1" offset="112" length="1"><![CDATA[1]]></wf>
+    <wf id="25" sent="1" para="1" offset="113" length="5"><![CDATA[Nancy]]></wf>
+    <wf id="26" sent="1" para="1" offset="118" length="1"><![CDATA[2]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="SOCCER">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="-">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="FRENCH">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="LEAGUE">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="RESULTS">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma=".">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="PARIS">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="1996-12-06">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="Results">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="of">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="French">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="first">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="division">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="matches">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="on">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="Friday">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma=":">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="Lens">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="0">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="Nantes">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="4">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="Paris">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="St">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="Germain">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="1">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="Nancy">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="2">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="1155">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/France" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="2"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1156">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Paris" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="6"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1157">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/France" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="10"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1158">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/RC_Lens" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="17"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1159">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/FC_Nantes" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="19"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1160">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Paris_Saint-Germain_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="21"/>
+          <target id="22"/>
+          <target id="23"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1161">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/AS_Nancy" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="25"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

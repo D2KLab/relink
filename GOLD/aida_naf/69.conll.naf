@@ -1,0 +1,687 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[Canadian West Coast Vessel Loadings - CWB . WINNIPEG 1996-12-06 The Canadian Wheat Board reported six ships loading , 10 waiting and four due at the Canadian West Coast , as of Friday . The longest wait to load on the West Coast was 13 days . Two ship loaded in Thunder Bay , one waited and seven were due . Two ships loaded on the East Coast , three waited to load , six were due . Port Loading Waiting Vancouver 5 7 Prince Rupert 1 3 ( ( Gilbert Le Gras 204 947 3548 ) ) ]]></raw>
+  <nafHeader>
+    <fileDesc title="1231testb" filename="1231testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="8"><![CDATA[Canadian]]></wf>
+    <wf id="2" sent="1" para="1" offset="8" length="4"><![CDATA[West]]></wf>
+    <wf id="3" sent="1" para="1" offset="12" length="5"><![CDATA[Coast]]></wf>
+    <wf id="4" sent="1" para="1" offset="17" length="6"><![CDATA[Vessel]]></wf>
+    <wf id="5" sent="1" para="1" offset="23" length="8"><![CDATA[Loadings]]></wf>
+    <wf id="6" sent="1" para="1" offset="31" length="1"><![CDATA[-]]></wf>
+    <wf id="7" sent="1" para="1" offset="32" length="3"><![CDATA[CWB]]></wf>
+    <wf id="8" sent="1" para="1" offset="35" length="1"><![CDATA[.]]></wf>
+    <wf id="9" sent="1" para="1" offset="36" length="8"><![CDATA[WINNIPEG]]></wf>
+    <wf id="10" sent="1" para="1" offset="44" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="11" sent="1" para="1" offset="54" length="3"><![CDATA[The]]></wf>
+    <wf id="12" sent="1" para="1" offset="57" length="8"><![CDATA[Canadian]]></wf>
+    <wf id="13" sent="1" para="1" offset="65" length="5"><![CDATA[Wheat]]></wf>
+    <wf id="14" sent="1" para="1" offset="70" length="5"><![CDATA[Board]]></wf>
+    <wf id="15" sent="1" para="1" offset="75" length="8"><![CDATA[reported]]></wf>
+    <wf id="16" sent="1" para="1" offset="83" length="3"><![CDATA[six]]></wf>
+    <wf id="17" sent="1" para="1" offset="86" length="5"><![CDATA[ships]]></wf>
+    <wf id="18" sent="1" para="1" offset="91" length="7"><![CDATA[loading]]></wf>
+    <wf id="19" sent="1" para="1" offset="98" length="1"><![CDATA[,]]></wf>
+    <wf id="20" sent="1" para="1" offset="99" length="2"><![CDATA[10]]></wf>
+    <wf id="21" sent="1" para="1" offset="101" length="7"><![CDATA[waiting]]></wf>
+    <wf id="22" sent="1" para="1" offset="108" length="3"><![CDATA[and]]></wf>
+    <wf id="23" sent="1" para="1" offset="111" length="4"><![CDATA[four]]></wf>
+    <wf id="24" sent="1" para="1" offset="115" length="3"><![CDATA[due]]></wf>
+    <wf id="25" sent="1" para="1" offset="118" length="2"><![CDATA[at]]></wf>
+    <wf id="26" sent="1" para="1" offset="120" length="3"><![CDATA[the]]></wf>
+    <wf id="27" sent="1" para="1" offset="123" length="8"><![CDATA[Canadian]]></wf>
+    <wf id="28" sent="1" para="1" offset="131" length="4"><![CDATA[West]]></wf>
+    <wf id="29" sent="1" para="1" offset="135" length="5"><![CDATA[Coast]]></wf>
+    <wf id="30" sent="1" para="1" offset="140" length="1"><![CDATA[,]]></wf>
+    <wf id="31" sent="1" para="1" offset="141" length="2"><![CDATA[as]]></wf>
+    <wf id="32" sent="1" para="1" offset="143" length="2"><![CDATA[of]]></wf>
+    <wf id="33" sent="1" para="1" offset="145" length="6"><![CDATA[Friday]]></wf>
+    <wf id="34" sent="1" para="1" offset="151" length="1"><![CDATA[.]]></wf>
+    <wf id="35" sent="1" para="1" offset="152" length="3"><![CDATA[The]]></wf>
+    <wf id="36" sent="1" para="1" offset="155" length="7"><![CDATA[longest]]></wf>
+    <wf id="37" sent="1" para="1" offset="162" length="4"><![CDATA[wait]]></wf>
+    <wf id="38" sent="1" para="1" offset="166" length="2"><![CDATA[to]]></wf>
+    <wf id="39" sent="1" para="1" offset="168" length="4"><![CDATA[load]]></wf>
+    <wf id="40" sent="1" para="1" offset="172" length="2"><![CDATA[on]]></wf>
+    <wf id="41" sent="1" para="1" offset="174" length="3"><![CDATA[the]]></wf>
+    <wf id="42" sent="1" para="1" offset="177" length="4"><![CDATA[West]]></wf>
+    <wf id="43" sent="1" para="1" offset="181" length="5"><![CDATA[Coast]]></wf>
+    <wf id="44" sent="1" para="1" offset="186" length="3"><![CDATA[was]]></wf>
+    <wf id="45" sent="1" para="1" offset="189" length="2"><![CDATA[13]]></wf>
+    <wf id="46" sent="1" para="1" offset="191" length="4"><![CDATA[days]]></wf>
+    <wf id="47" sent="1" para="1" offset="195" length="1"><![CDATA[.]]></wf>
+    <wf id="48" sent="1" para="1" offset="196" length="3"><![CDATA[Two]]></wf>
+    <wf id="49" sent="1" para="1" offset="199" length="4"><![CDATA[ship]]></wf>
+    <wf id="50" sent="1" para="1" offset="203" length="6"><![CDATA[loaded]]></wf>
+    <wf id="51" sent="1" para="1" offset="209" length="2"><![CDATA[in]]></wf>
+    <wf id="52" sent="1" para="1" offset="211" length="7"><![CDATA[Thunder]]></wf>
+    <wf id="53" sent="1" para="1" offset="218" length="3"><![CDATA[Bay]]></wf>
+    <wf id="54" sent="1" para="1" offset="221" length="1"><![CDATA[,]]></wf>
+    <wf id="55" sent="1" para="1" offset="222" length="3"><![CDATA[one]]></wf>
+    <wf id="56" sent="1" para="1" offset="225" length="6"><![CDATA[waited]]></wf>
+    <wf id="57" sent="1" para="1" offset="231" length="3"><![CDATA[and]]></wf>
+    <wf id="58" sent="1" para="1" offset="234" length="5"><![CDATA[seven]]></wf>
+    <wf id="59" sent="1" para="1" offset="239" length="4"><![CDATA[were]]></wf>
+    <wf id="60" sent="1" para="1" offset="243" length="3"><![CDATA[due]]></wf>
+    <wf id="61" sent="1" para="1" offset="246" length="1"><![CDATA[.]]></wf>
+    <wf id="62" sent="1" para="1" offset="247" length="3"><![CDATA[Two]]></wf>
+    <wf id="63" sent="1" para="1" offset="250" length="5"><![CDATA[ships]]></wf>
+    <wf id="64" sent="1" para="1" offset="255" length="6"><![CDATA[loaded]]></wf>
+    <wf id="65" sent="1" para="1" offset="261" length="2"><![CDATA[on]]></wf>
+    <wf id="66" sent="1" para="1" offset="263" length="3"><![CDATA[the]]></wf>
+    <wf id="67" sent="1" para="1" offset="266" length="4"><![CDATA[East]]></wf>
+    <wf id="68" sent="1" para="1" offset="270" length="5"><![CDATA[Coast]]></wf>
+    <wf id="69" sent="1" para="1" offset="275" length="1"><![CDATA[,]]></wf>
+    <wf id="70" sent="1" para="1" offset="276" length="5"><![CDATA[three]]></wf>
+    <wf id="71" sent="1" para="1" offset="281" length="6"><![CDATA[waited]]></wf>
+    <wf id="72" sent="1" para="1" offset="287" length="2"><![CDATA[to]]></wf>
+    <wf id="73" sent="1" para="1" offset="289" length="4"><![CDATA[load]]></wf>
+    <wf id="74" sent="1" para="1" offset="293" length="1"><![CDATA[,]]></wf>
+    <wf id="75" sent="1" para="1" offset="294" length="3"><![CDATA[six]]></wf>
+    <wf id="76" sent="1" para="1" offset="297" length="4"><![CDATA[were]]></wf>
+    <wf id="77" sent="1" para="1" offset="301" length="3"><![CDATA[due]]></wf>
+    <wf id="78" sent="1" para="1" offset="304" length="1"><![CDATA[.]]></wf>
+    <wf id="79" sent="1" para="1" offset="305" length="4"><![CDATA[Port]]></wf>
+    <wf id="80" sent="1" para="1" offset="309" length="7"><![CDATA[Loading]]></wf>
+    <wf id="81" sent="1" para="1" offset="316" length="7"><![CDATA[Waiting]]></wf>
+    <wf id="82" sent="1" para="1" offset="323" length="9"><![CDATA[Vancouver]]></wf>
+    <wf id="83" sent="1" para="1" offset="332" length="1"><![CDATA[5]]></wf>
+    <wf id="84" sent="1" para="1" offset="333" length="1"><![CDATA[7]]></wf>
+    <wf id="85" sent="1" para="1" offset="334" length="6"><![CDATA[Prince]]></wf>
+    <wf id="86" sent="1" para="1" offset="340" length="6"><![CDATA[Rupert]]></wf>
+    <wf id="87" sent="1" para="1" offset="346" length="1"><![CDATA[1]]></wf>
+    <wf id="88" sent="1" para="1" offset="347" length="1"><![CDATA[3]]></wf>
+    <wf id="89" sent="1" para="1" offset="348" length="1"><![CDATA[(]]></wf>
+    <wf id="90" sent="1" para="1" offset="349" length="1"><![CDATA[(]]></wf>
+    <wf id="91" sent="1" para="1" offset="350" length="7"><![CDATA[Gilbert]]></wf>
+    <wf id="92" sent="1" para="1" offset="357" length="2"><![CDATA[Le]]></wf>
+    <wf id="93" sent="1" para="1" offset="359" length="4"><![CDATA[Gras]]></wf>
+    <wf id="94" sent="1" para="1" offset="363" length="3"><![CDATA[204]]></wf>
+    <wf id="95" sent="1" para="1" offset="366" length="3"><![CDATA[947]]></wf>
+    <wf id="96" sent="1" para="1" offset="369" length="4"><![CDATA[3548]]></wf>
+    <wf id="97" sent="1" para="1" offset="373" length="1"><![CDATA[)]]></wf>
+    <wf id="98" sent="1" para="1" offset="374" length="1"><![CDATA[)]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="Canadian">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="West">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="Coast">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="Vessel">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="Loadings">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="-">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="CWB">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma=".">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="WINNIPEG">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="1996-12-06">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="The">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="Canadian">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Wheat">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="Board">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="reported">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="six">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="ships">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="loading">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma=",">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="10">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="waiting">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="and">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="four">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="due">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="at">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="the">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="Canadian">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="West">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="Coast">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma=",">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="as">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="of">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="Friday">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma=".">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="The">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="longest">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="wait">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="to">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="load">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="on">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="the">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="West">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="Coast">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="was">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="13">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="days">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma=".">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="Two">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="ship">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="loaded">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="in">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="Thunder">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="Bay">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma=",">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="one">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="waited">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="and">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="seven">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="were">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="due">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma=".">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="Two">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="ships">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="loaded">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="on">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="the">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="East">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="Coast">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma=",">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="three">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="waited">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="to">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="load">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma=",">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="six">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="were">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="due">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma=".">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="Port">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="Loading">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="Waiting">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="Vancouver">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="5">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="7">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="Prince">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="Rupert">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="1">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="3">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="(">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="(">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="Gilbert">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="Le">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="Gras">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="204">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="947">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="3548">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma=")">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma=")">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="1960">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Canada" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1961">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Winnipeg" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1962">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Canadian_Wheat_Board" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+          <target id="13"/>
+          <target id="14"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1963">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Canada" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="27"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1964">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Thunder_Bay" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="52"/>
+          <target id="53"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1965">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Vancouver" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="82"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1966">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="85"/>
+          <target id="86"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1967">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="91"/>
+          <target id="92"/>
+          <target id="93"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

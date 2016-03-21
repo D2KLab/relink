@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[ALPINE SKIING-GOETCHL WINS WORLD CUP DOWNHILL . VAIL , Colorado 1996-12-07 Renate Goetschl of Austria won the women 's World Cup downhill race on Saturday , according to provisional results . Katja Seizinger of Germany finished second and Islode Kostner of Italy took third . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1352testb" filename="1352testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="6"><![CDATA[ALPINE]]></wf>
+    <wf id="2" sent="1" para="1" offset="6" length="14"><![CDATA[SKIING-GOETCHL]]></wf>
+    <wf id="3" sent="1" para="1" offset="20" length="4"><![CDATA[WINS]]></wf>
+    <wf id="4" sent="1" para="1" offset="24" length="5"><![CDATA[WORLD]]></wf>
+    <wf id="5" sent="1" para="1" offset="29" length="3"><![CDATA[CUP]]></wf>
+    <wf id="6" sent="1" para="1" offset="32" length="8"><![CDATA[DOWNHILL]]></wf>
+    <wf id="7" sent="1" para="1" offset="40" length="1"><![CDATA[.]]></wf>
+    <wf id="8" sent="1" para="1" offset="41" length="4"><![CDATA[VAIL]]></wf>
+    <wf id="9" sent="1" para="1" offset="45" length="1"><![CDATA[,]]></wf>
+    <wf id="10" sent="1" para="1" offset="46" length="8"><![CDATA[Colorado]]></wf>
+    <wf id="11" sent="1" para="1" offset="54" length="10"><![CDATA[1996-12-07]]></wf>
+    <wf id="12" sent="1" para="1" offset="64" length="6"><![CDATA[Renate]]></wf>
+    <wf id="13" sent="1" para="1" offset="70" length="8"><![CDATA[Goetschl]]></wf>
+    <wf id="14" sent="1" para="1" offset="78" length="2"><![CDATA[of]]></wf>
+    <wf id="15" sent="1" para="1" offset="80" length="7"><![CDATA[Austria]]></wf>
+    <wf id="16" sent="1" para="1" offset="87" length="3"><![CDATA[won]]></wf>
+    <wf id="17" sent="1" para="1" offset="90" length="3"><![CDATA[the]]></wf>
+    <wf id="18" sent="1" para="1" offset="93" length="5"><![CDATA[women]]></wf>
+    <wf id="19" sent="1" para="1" offset="98" length="2"><![CDATA['s]]></wf>
+    <wf id="20" sent="1" para="1" offset="100" length="5"><![CDATA[World]]></wf>
+    <wf id="21" sent="1" para="1" offset="105" length="3"><![CDATA[Cup]]></wf>
+    <wf id="22" sent="1" para="1" offset="108" length="8"><![CDATA[downhill]]></wf>
+    <wf id="23" sent="1" para="1" offset="116" length="4"><![CDATA[race]]></wf>
+    <wf id="24" sent="1" para="1" offset="120" length="2"><![CDATA[on]]></wf>
+    <wf id="25" sent="1" para="1" offset="122" length="8"><![CDATA[Saturday]]></wf>
+    <wf id="26" sent="1" para="1" offset="130" length="1"><![CDATA[,]]></wf>
+    <wf id="27" sent="1" para="1" offset="131" length="9"><![CDATA[according]]></wf>
+    <wf id="28" sent="1" para="1" offset="140" length="2"><![CDATA[to]]></wf>
+    <wf id="29" sent="1" para="1" offset="142" length="11"><![CDATA[provisional]]></wf>
+    <wf id="30" sent="1" para="1" offset="153" length="7"><![CDATA[results]]></wf>
+    <wf id="31" sent="1" para="1" offset="160" length="1"><![CDATA[.]]></wf>
+    <wf id="32" sent="1" para="1" offset="161" length="5"><![CDATA[Katja]]></wf>
+    <wf id="33" sent="1" para="1" offset="166" length="9"><![CDATA[Seizinger]]></wf>
+    <wf id="34" sent="1" para="1" offset="175" length="2"><![CDATA[of]]></wf>
+    <wf id="35" sent="1" para="1" offset="177" length="7"><![CDATA[Germany]]></wf>
+    <wf id="36" sent="1" para="1" offset="184" length="8"><![CDATA[finished]]></wf>
+    <wf id="37" sent="1" para="1" offset="192" length="6"><![CDATA[second]]></wf>
+    <wf id="38" sent="1" para="1" offset="198" length="3"><![CDATA[and]]></wf>
+    <wf id="39" sent="1" para="1" offset="201" length="6"><![CDATA[Islode]]></wf>
+    <wf id="40" sent="1" para="1" offset="207" length="7"><![CDATA[Kostner]]></wf>
+    <wf id="41" sent="1" para="1" offset="214" length="2"><![CDATA[of]]></wf>
+    <wf id="42" sent="1" para="1" offset="216" length="5"><![CDATA[Italy]]></wf>
+    <wf id="43" sent="1" para="1" offset="221" length="4"><![CDATA[took]]></wf>
+    <wf id="44" sent="1" para="1" offset="225" length="5"><![CDATA[third]]></wf>
+    <wf id="45" sent="1" para="1" offset="230" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="ALPINE">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="SKIING-GOETCHL">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="WINS">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="WORLD">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="CUP">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="DOWNHILL">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma=".">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="VAIL">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma=",">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="Colorado">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="1996-12-07">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="Renate">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Goetschl">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="of">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="Austria">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="won">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="the">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="women">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="'s">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="World">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="Cup">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="downhill">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="race">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="on">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="Saturday">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma=",">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="according">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="to">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="provisional">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="results">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma=".">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="Katja">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="Seizinger">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="of">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="Germany">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="finished">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="second">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="and">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="Islode">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="Kostner">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="of">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="Italy">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="took">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="third">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma=".">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="4263">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="4"/>
+          <target id="5"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4264">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Vail,_Colorado" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="8"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4265">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Colorado" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="10"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4266">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Renate_Götschl" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+          <target id="13"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4267">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Austria" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="15"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4268">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/FIS_Alpine_Ski_World_Cup" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="20"/>
+          <target id="21"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4269">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Katja_Seizinger" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="32"/>
+          <target id="33"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4270">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="35"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4271">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="39"/>
+          <target id="40"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4272">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Italy" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="42"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

@@ -1,0 +1,4872 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[SOCCER - ITALIAN FIRST DIVISION MATCHES THIS WEEKEND . ROME 1996-12-06 Italian Serie A games to be played on Sunday ( league positions in parentheses , all kick- off times GMT ) : Bologna ( 4 ) v Piacenza ( 13 ) 1330 Along with leaders Vicenza , fourth-placed Bologna represent the biggest surprise of this Italian autumn . Led as usual by Swede Kennet Andersson and Russian Igor Kolyvanov in attack , Bologna can expect a tough home match against a Piacenza side still exultant after a 3-2 league win over AC Milan last Sunday . Cagliari ( 16 ) v Reggiana ( 18 ) 1530 Cagliari start favourite in this relegation scrap following draws with Napoli and Inter in last two outings but will be without suspended Swiss defender Ramon Vega . Bottom team Reggiana are also without a suspended defender , German Dietmar Beiersdorfer . Fiorentina ( 10 ) v Perugia ( 8 ) 1330 Fiorentina will be without three suspended players -- defenders Daniele Carnasciali and Lorenzo Amoruso and midfielder Emiliano Bigica -- for a difficult home match against unpredictable , attack-oriented Perugia led by in-form Croat striker Milan Rapajic and the experienced Fausto Pizzi . Lazio ( 12 ) v AS Roma ( 7 ) 1930 Poor man 's Roman derby in what has been a miserable season for both Rome teams , already eliminated from the Italian and UEFA Cups . Lazio have injury doubts about striker Pierluigi Casiraghi , Czech midfielder Pavel Nedved and defender Paolo Negro , while Roma present a full strength side led by Argentine Abel Balbo , Marco Delvecchio and Francesco Totti in attack . AC Milan ( 9 ) v Udinese ( 11 ) 1330 Can Milan sink any further ? Following their midweek Champions ' League elimination by Norwegian side Rosenborg , a morale-boosting win is badly needed . Liberian striker George Weah makes a welcome return for Milan alongside Roberto Baggio , with Montenegrin Dejan Savicevic in midfield . Good news for Milan is that Udinese 's German striker Oliver Bierhoff is out through injury . Napoli ( 5 ) v Verona ( 17 ) 1330 In-form Napoli should prove too strong for second from bottom Verona despite the absence of their suspended Argentine defender Roberto Ayala . Verona 's slim chances have been further reduced by a knee injury to their experienced midfielder Eugenio Corini . Parma ( 14 ) v Atlalanta ( 15 ) 1330 Parma may field new signing , Croat midfielder Mario Stanic , in an attempt to lift a miserable season which has seen them go without a win since a 1-0 triumph over Cagliari eight weeks ago . Parma 's French midfielder Daniel Bravo and defender Fabio Cannavaro are suspended while Argentine Nestor Sensini is out through injury . Atalanta look to Filippo Inzaghi , scorer of eight goals . Sampdoria ( 6 ) v Juventus ( 3 ) 1330 All-conquering Juventus field their most recent signing , Portuguese defender Dimas , while Alessandro Del Piero and Croat Alen Boksic lead the attack . The new world club champions may prove too strong for a Sampdoria side led by captain Roberto Mancini but missing injured French midfielder Pierre Laigle . Vicenza ( 1 ) v Internazionale ( 2 ) 1330 Not exactly a clash of the titans but an intriuguing match nonetheless . Full strength Vicenza , led by Uruguayan Marcelo Otero , may continue their surprise run at the top against an Inter side that has been less than impressive in three successive home draws . Inter will be without suspended French defender Joceyln Angloma and injured Chilean striker Ivan Zamorano . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1208testb" filename="1208testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="6"><![CDATA[SOCCER]]></wf>
+    <wf id="2" sent="1" para="1" offset="6" length="1"><![CDATA[-]]></wf>
+    <wf id="3" sent="1" para="1" offset="7" length="7"><![CDATA[ITALIAN]]></wf>
+    <wf id="4" sent="1" para="1" offset="14" length="5"><![CDATA[FIRST]]></wf>
+    <wf id="5" sent="1" para="1" offset="19" length="8"><![CDATA[DIVISION]]></wf>
+    <wf id="6" sent="1" para="1" offset="27" length="7"><![CDATA[MATCHES]]></wf>
+    <wf id="7" sent="1" para="1" offset="34" length="4"><![CDATA[THIS]]></wf>
+    <wf id="8" sent="1" para="1" offset="38" length="7"><![CDATA[WEEKEND]]></wf>
+    <wf id="9" sent="1" para="1" offset="45" length="1"><![CDATA[.]]></wf>
+    <wf id="10" sent="1" para="1" offset="46" length="4"><![CDATA[ROME]]></wf>
+    <wf id="11" sent="1" para="1" offset="50" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="12" sent="1" para="1" offset="60" length="7"><![CDATA[Italian]]></wf>
+    <wf id="13" sent="1" para="1" offset="67" length="5"><![CDATA[Serie]]></wf>
+    <wf id="14" sent="1" para="1" offset="72" length="1"><![CDATA[A]]></wf>
+    <wf id="15" sent="1" para="1" offset="73" length="5"><![CDATA[games]]></wf>
+    <wf id="16" sent="1" para="1" offset="78" length="2"><![CDATA[to]]></wf>
+    <wf id="17" sent="1" para="1" offset="80" length="2"><![CDATA[be]]></wf>
+    <wf id="18" sent="1" para="1" offset="82" length="6"><![CDATA[played]]></wf>
+    <wf id="19" sent="1" para="1" offset="88" length="2"><![CDATA[on]]></wf>
+    <wf id="20" sent="1" para="1" offset="90" length="6"><![CDATA[Sunday]]></wf>
+    <wf id="21" sent="1" para="1" offset="96" length="1"><![CDATA[(]]></wf>
+    <wf id="22" sent="1" para="1" offset="97" length="6"><![CDATA[league]]></wf>
+    <wf id="23" sent="1" para="1" offset="103" length="9"><![CDATA[positions]]></wf>
+    <wf id="24" sent="1" para="1" offset="112" length="2"><![CDATA[in]]></wf>
+    <wf id="25" sent="1" para="1" offset="114" length="11"><![CDATA[parentheses]]></wf>
+    <wf id="26" sent="1" para="1" offset="125" length="1"><![CDATA[,]]></wf>
+    <wf id="27" sent="1" para="1" offset="126" length="3"><![CDATA[all]]></wf>
+    <wf id="28" sent="1" para="1" offset="129" length="5"><![CDATA[kick-]]></wf>
+    <wf id="29" sent="1" para="1" offset="134" length="3"><![CDATA[off]]></wf>
+    <wf id="30" sent="1" para="1" offset="137" length="5"><![CDATA[times]]></wf>
+    <wf id="31" sent="1" para="1" offset="142" length="3"><![CDATA[GMT]]></wf>
+    <wf id="32" sent="1" para="1" offset="145" length="1"><![CDATA[)]]></wf>
+    <wf id="33" sent="1" para="1" offset="146" length="1"><![CDATA[:]]></wf>
+    <wf id="34" sent="1" para="1" offset="147" length="7"><![CDATA[Bologna]]></wf>
+    <wf id="35" sent="1" para="1" offset="154" length="1"><![CDATA[(]]></wf>
+    <wf id="36" sent="1" para="1" offset="155" length="1"><![CDATA[4]]></wf>
+    <wf id="37" sent="1" para="1" offset="156" length="1"><![CDATA[)]]></wf>
+    <wf id="38" sent="1" para="1" offset="157" length="1"><![CDATA[v]]></wf>
+    <wf id="39" sent="1" para="1" offset="158" length="8"><![CDATA[Piacenza]]></wf>
+    <wf id="40" sent="1" para="1" offset="166" length="1"><![CDATA[(]]></wf>
+    <wf id="41" sent="1" para="1" offset="167" length="2"><![CDATA[13]]></wf>
+    <wf id="42" sent="1" para="1" offset="169" length="1"><![CDATA[)]]></wf>
+    <wf id="43" sent="1" para="1" offset="170" length="4"><![CDATA[1330]]></wf>
+    <wf id="44" sent="1" para="1" offset="174" length="5"><![CDATA[Along]]></wf>
+    <wf id="45" sent="1" para="1" offset="179" length="4"><![CDATA[with]]></wf>
+    <wf id="46" sent="1" para="1" offset="183" length="7"><![CDATA[leaders]]></wf>
+    <wf id="47" sent="1" para="1" offset="190" length="7"><![CDATA[Vicenza]]></wf>
+    <wf id="48" sent="1" para="1" offset="197" length="1"><![CDATA[,]]></wf>
+    <wf id="49" sent="1" para="1" offset="198" length="13"><![CDATA[fourth-placed]]></wf>
+    <wf id="50" sent="1" para="1" offset="211" length="7"><![CDATA[Bologna]]></wf>
+    <wf id="51" sent="1" para="1" offset="218" length="9"><![CDATA[represent]]></wf>
+    <wf id="52" sent="1" para="1" offset="227" length="3"><![CDATA[the]]></wf>
+    <wf id="53" sent="1" para="1" offset="230" length="7"><![CDATA[biggest]]></wf>
+    <wf id="54" sent="1" para="1" offset="237" length="8"><![CDATA[surprise]]></wf>
+    <wf id="55" sent="1" para="1" offset="245" length="2"><![CDATA[of]]></wf>
+    <wf id="56" sent="1" para="1" offset="247" length="4"><![CDATA[this]]></wf>
+    <wf id="57" sent="1" para="1" offset="251" length="7"><![CDATA[Italian]]></wf>
+    <wf id="58" sent="1" para="1" offset="258" length="6"><![CDATA[autumn]]></wf>
+    <wf id="59" sent="1" para="1" offset="264" length="1"><![CDATA[.]]></wf>
+    <wf id="60" sent="1" para="1" offset="265" length="3"><![CDATA[Led]]></wf>
+    <wf id="61" sent="1" para="1" offset="268" length="2"><![CDATA[as]]></wf>
+    <wf id="62" sent="1" para="1" offset="270" length="5"><![CDATA[usual]]></wf>
+    <wf id="63" sent="1" para="1" offset="275" length="2"><![CDATA[by]]></wf>
+    <wf id="64" sent="1" para="1" offset="277" length="5"><![CDATA[Swede]]></wf>
+    <wf id="65" sent="1" para="1" offset="282" length="6"><![CDATA[Kennet]]></wf>
+    <wf id="66" sent="1" para="1" offset="288" length="9"><![CDATA[Andersson]]></wf>
+    <wf id="67" sent="1" para="1" offset="297" length="3"><![CDATA[and]]></wf>
+    <wf id="68" sent="1" para="1" offset="300" length="7"><![CDATA[Russian]]></wf>
+    <wf id="69" sent="1" para="1" offset="307" length="4"><![CDATA[Igor]]></wf>
+    <wf id="70" sent="1" para="1" offset="311" length="9"><![CDATA[Kolyvanov]]></wf>
+    <wf id="71" sent="1" para="1" offset="320" length="2"><![CDATA[in]]></wf>
+    <wf id="72" sent="1" para="1" offset="322" length="6"><![CDATA[attack]]></wf>
+    <wf id="73" sent="1" para="1" offset="328" length="1"><![CDATA[,]]></wf>
+    <wf id="74" sent="1" para="1" offset="329" length="7"><![CDATA[Bologna]]></wf>
+    <wf id="75" sent="1" para="1" offset="336" length="3"><![CDATA[can]]></wf>
+    <wf id="76" sent="1" para="1" offset="339" length="6"><![CDATA[expect]]></wf>
+    <wf id="77" sent="1" para="1" offset="345" length="1"><![CDATA[a]]></wf>
+    <wf id="78" sent="1" para="1" offset="346" length="5"><![CDATA[tough]]></wf>
+    <wf id="79" sent="1" para="1" offset="351" length="4"><![CDATA[home]]></wf>
+    <wf id="80" sent="1" para="1" offset="355" length="5"><![CDATA[match]]></wf>
+    <wf id="81" sent="1" para="1" offset="360" length="7"><![CDATA[against]]></wf>
+    <wf id="82" sent="1" para="1" offset="367" length="1"><![CDATA[a]]></wf>
+    <wf id="83" sent="1" para="1" offset="368" length="8"><![CDATA[Piacenza]]></wf>
+    <wf id="84" sent="1" para="1" offset="376" length="4"><![CDATA[side]]></wf>
+    <wf id="85" sent="1" para="1" offset="380" length="5"><![CDATA[still]]></wf>
+    <wf id="86" sent="1" para="1" offset="385" length="8"><![CDATA[exultant]]></wf>
+    <wf id="87" sent="1" para="1" offset="393" length="5"><![CDATA[after]]></wf>
+    <wf id="88" sent="1" para="1" offset="398" length="1"><![CDATA[a]]></wf>
+    <wf id="89" sent="1" para="1" offset="399" length="3"><![CDATA[3-2]]></wf>
+    <wf id="90" sent="1" para="1" offset="402" length="6"><![CDATA[league]]></wf>
+    <wf id="91" sent="1" para="1" offset="408" length="3"><![CDATA[win]]></wf>
+    <wf id="92" sent="1" para="1" offset="411" length="4"><![CDATA[over]]></wf>
+    <wf id="93" sent="1" para="1" offset="415" length="2"><![CDATA[AC]]></wf>
+    <wf id="94" sent="1" para="1" offset="417" length="5"><![CDATA[Milan]]></wf>
+    <wf id="95" sent="1" para="1" offset="422" length="4"><![CDATA[last]]></wf>
+    <wf id="96" sent="1" para="1" offset="426" length="6"><![CDATA[Sunday]]></wf>
+    <wf id="97" sent="1" para="1" offset="432" length="1"><![CDATA[.]]></wf>
+    <wf id="98" sent="1" para="1" offset="433" length="8"><![CDATA[Cagliari]]></wf>
+    <wf id="99" sent="1" para="1" offset="441" length="1"><![CDATA[(]]></wf>
+    <wf id="100" sent="1" para="1" offset="442" length="2"><![CDATA[16]]></wf>
+    <wf id="101" sent="1" para="1" offset="444" length="1"><![CDATA[)]]></wf>
+    <wf id="102" sent="1" para="1" offset="445" length="1"><![CDATA[v]]></wf>
+    <wf id="103" sent="1" para="1" offset="446" length="8"><![CDATA[Reggiana]]></wf>
+    <wf id="104" sent="1" para="1" offset="454" length="1"><![CDATA[(]]></wf>
+    <wf id="105" sent="1" para="1" offset="455" length="2"><![CDATA[18]]></wf>
+    <wf id="106" sent="1" para="1" offset="457" length="1"><![CDATA[)]]></wf>
+    <wf id="107" sent="1" para="1" offset="458" length="4"><![CDATA[1530]]></wf>
+    <wf id="108" sent="1" para="1" offset="462" length="8"><![CDATA[Cagliari]]></wf>
+    <wf id="109" sent="1" para="1" offset="470" length="5"><![CDATA[start]]></wf>
+    <wf id="110" sent="1" para="1" offset="475" length="9"><![CDATA[favourite]]></wf>
+    <wf id="111" sent="1" para="1" offset="484" length="2"><![CDATA[in]]></wf>
+    <wf id="112" sent="1" para="1" offset="486" length="4"><![CDATA[this]]></wf>
+    <wf id="113" sent="1" para="1" offset="490" length="10"><![CDATA[relegation]]></wf>
+    <wf id="114" sent="1" para="1" offset="500" length="5"><![CDATA[scrap]]></wf>
+    <wf id="115" sent="1" para="1" offset="505" length="9"><![CDATA[following]]></wf>
+    <wf id="116" sent="1" para="1" offset="514" length="5"><![CDATA[draws]]></wf>
+    <wf id="117" sent="1" para="1" offset="519" length="4"><![CDATA[with]]></wf>
+    <wf id="118" sent="1" para="1" offset="523" length="6"><![CDATA[Napoli]]></wf>
+    <wf id="119" sent="1" para="1" offset="529" length="3"><![CDATA[and]]></wf>
+    <wf id="120" sent="1" para="1" offset="532" length="5"><![CDATA[Inter]]></wf>
+    <wf id="121" sent="1" para="1" offset="537" length="2"><![CDATA[in]]></wf>
+    <wf id="122" sent="1" para="1" offset="539" length="4"><![CDATA[last]]></wf>
+    <wf id="123" sent="1" para="1" offset="543" length="3"><![CDATA[two]]></wf>
+    <wf id="124" sent="1" para="1" offset="546" length="7"><![CDATA[outings]]></wf>
+    <wf id="125" sent="1" para="1" offset="553" length="3"><![CDATA[but]]></wf>
+    <wf id="126" sent="1" para="1" offset="556" length="4"><![CDATA[will]]></wf>
+    <wf id="127" sent="1" para="1" offset="560" length="2"><![CDATA[be]]></wf>
+    <wf id="128" sent="1" para="1" offset="562" length="7"><![CDATA[without]]></wf>
+    <wf id="129" sent="1" para="1" offset="569" length="9"><![CDATA[suspended]]></wf>
+    <wf id="130" sent="1" para="1" offset="578" length="5"><![CDATA[Swiss]]></wf>
+    <wf id="131" sent="1" para="1" offset="583" length="8"><![CDATA[defender]]></wf>
+    <wf id="132" sent="1" para="1" offset="591" length="5"><![CDATA[Ramon]]></wf>
+    <wf id="133" sent="1" para="1" offset="596" length="4"><![CDATA[Vega]]></wf>
+    <wf id="134" sent="1" para="1" offset="600" length="1"><![CDATA[.]]></wf>
+    <wf id="135" sent="1" para="1" offset="601" length="6"><![CDATA[Bottom]]></wf>
+    <wf id="136" sent="1" para="1" offset="607" length="4"><![CDATA[team]]></wf>
+    <wf id="137" sent="1" para="1" offset="611" length="8"><![CDATA[Reggiana]]></wf>
+    <wf id="138" sent="1" para="1" offset="619" length="3"><![CDATA[are]]></wf>
+    <wf id="139" sent="1" para="1" offset="622" length="4"><![CDATA[also]]></wf>
+    <wf id="140" sent="1" para="1" offset="626" length="7"><![CDATA[without]]></wf>
+    <wf id="141" sent="1" para="1" offset="633" length="1"><![CDATA[a]]></wf>
+    <wf id="142" sent="1" para="1" offset="634" length="9"><![CDATA[suspended]]></wf>
+    <wf id="143" sent="1" para="1" offset="643" length="8"><![CDATA[defender]]></wf>
+    <wf id="144" sent="1" para="1" offset="651" length="1"><![CDATA[,]]></wf>
+    <wf id="145" sent="1" para="1" offset="652" length="6"><![CDATA[German]]></wf>
+    <wf id="146" sent="1" para="1" offset="658" length="7"><![CDATA[Dietmar]]></wf>
+    <wf id="147" sent="1" para="1" offset="665" length="12"><![CDATA[Beiersdorfer]]></wf>
+    <wf id="148" sent="1" para="1" offset="677" length="1"><![CDATA[.]]></wf>
+    <wf id="149" sent="1" para="1" offset="678" length="10"><![CDATA[Fiorentina]]></wf>
+    <wf id="150" sent="1" para="1" offset="688" length="1"><![CDATA[(]]></wf>
+    <wf id="151" sent="1" para="1" offset="689" length="2"><![CDATA[10]]></wf>
+    <wf id="152" sent="1" para="1" offset="691" length="1"><![CDATA[)]]></wf>
+    <wf id="153" sent="1" para="1" offset="692" length="1"><![CDATA[v]]></wf>
+    <wf id="154" sent="1" para="1" offset="693" length="7"><![CDATA[Perugia]]></wf>
+    <wf id="155" sent="1" para="1" offset="700" length="1"><![CDATA[(]]></wf>
+    <wf id="156" sent="1" para="1" offset="701" length="1"><![CDATA[8]]></wf>
+    <wf id="157" sent="1" para="1" offset="702" length="1"><![CDATA[)]]></wf>
+    <wf id="158" sent="1" para="1" offset="703" length="4"><![CDATA[1330]]></wf>
+    <wf id="159" sent="1" para="1" offset="707" length="10"><![CDATA[Fiorentina]]></wf>
+    <wf id="160" sent="1" para="1" offset="717" length="4"><![CDATA[will]]></wf>
+    <wf id="161" sent="1" para="1" offset="721" length="2"><![CDATA[be]]></wf>
+    <wf id="162" sent="1" para="1" offset="723" length="7"><![CDATA[without]]></wf>
+    <wf id="163" sent="1" para="1" offset="730" length="5"><![CDATA[three]]></wf>
+    <wf id="164" sent="1" para="1" offset="735" length="9"><![CDATA[suspended]]></wf>
+    <wf id="165" sent="1" para="1" offset="744" length="7"><![CDATA[players]]></wf>
+    <wf id="166" sent="1" para="1" offset="751" length="2"><![CDATA[--]]></wf>
+    <wf id="167" sent="1" para="1" offset="753" length="9"><![CDATA[defenders]]></wf>
+    <wf id="168" sent="1" para="1" offset="762" length="7"><![CDATA[Daniele]]></wf>
+    <wf id="169" sent="1" para="1" offset="769" length="11"><![CDATA[Carnasciali]]></wf>
+    <wf id="170" sent="1" para="1" offset="780" length="3"><![CDATA[and]]></wf>
+    <wf id="171" sent="1" para="1" offset="783" length="7"><![CDATA[Lorenzo]]></wf>
+    <wf id="172" sent="1" para="1" offset="790" length="7"><![CDATA[Amoruso]]></wf>
+    <wf id="173" sent="1" para="1" offset="797" length="3"><![CDATA[and]]></wf>
+    <wf id="174" sent="1" para="1" offset="800" length="10"><![CDATA[midfielder]]></wf>
+    <wf id="175" sent="1" para="1" offset="810" length="8"><![CDATA[Emiliano]]></wf>
+    <wf id="176" sent="1" para="1" offset="818" length="6"><![CDATA[Bigica]]></wf>
+    <wf id="177" sent="1" para="1" offset="824" length="2"><![CDATA[--]]></wf>
+    <wf id="178" sent="1" para="1" offset="826" length="3"><![CDATA[for]]></wf>
+    <wf id="179" sent="1" para="1" offset="829" length="1"><![CDATA[a]]></wf>
+    <wf id="180" sent="1" para="1" offset="830" length="9"><![CDATA[difficult]]></wf>
+    <wf id="181" sent="1" para="1" offset="839" length="4"><![CDATA[home]]></wf>
+    <wf id="182" sent="1" para="1" offset="843" length="5"><![CDATA[match]]></wf>
+    <wf id="183" sent="1" para="1" offset="848" length="7"><![CDATA[against]]></wf>
+    <wf id="184" sent="1" para="1" offset="855" length="13"><![CDATA[unpredictable]]></wf>
+    <wf id="185" sent="1" para="1" offset="868" length="1"><![CDATA[,]]></wf>
+    <wf id="186" sent="1" para="1" offset="869" length="15"><![CDATA[attack-oriented]]></wf>
+    <wf id="187" sent="1" para="1" offset="884" length="7"><![CDATA[Perugia]]></wf>
+    <wf id="188" sent="1" para="1" offset="891" length="3"><![CDATA[led]]></wf>
+    <wf id="189" sent="1" para="1" offset="894" length="2"><![CDATA[by]]></wf>
+    <wf id="190" sent="1" para="1" offset="896" length="7"><![CDATA[in-form]]></wf>
+    <wf id="191" sent="1" para="1" offset="903" length="5"><![CDATA[Croat]]></wf>
+    <wf id="192" sent="1" para="1" offset="908" length="7"><![CDATA[striker]]></wf>
+    <wf id="193" sent="1" para="1" offset="915" length="5"><![CDATA[Milan]]></wf>
+    <wf id="194" sent="1" para="1" offset="920" length="7"><![CDATA[Rapajic]]></wf>
+    <wf id="195" sent="1" para="1" offset="927" length="3"><![CDATA[and]]></wf>
+    <wf id="196" sent="1" para="1" offset="930" length="3"><![CDATA[the]]></wf>
+    <wf id="197" sent="1" para="1" offset="933" length="11"><![CDATA[experienced]]></wf>
+    <wf id="198" sent="1" para="1" offset="944" length="6"><![CDATA[Fausto]]></wf>
+    <wf id="199" sent="1" para="1" offset="950" length="5"><![CDATA[Pizzi]]></wf>
+    <wf id="200" sent="1" para="1" offset="955" length="1"><![CDATA[.]]></wf>
+    <wf id="201" sent="1" para="1" offset="956" length="5"><![CDATA[Lazio]]></wf>
+    <wf id="202" sent="1" para="1" offset="961" length="1"><![CDATA[(]]></wf>
+    <wf id="203" sent="1" para="1" offset="962" length="2"><![CDATA[12]]></wf>
+    <wf id="204" sent="1" para="1" offset="964" length="1"><![CDATA[)]]></wf>
+    <wf id="205" sent="1" para="1" offset="965" length="1"><![CDATA[v]]></wf>
+    <wf id="206" sent="1" para="1" offset="966" length="2"><![CDATA[AS]]></wf>
+    <wf id="207" sent="1" para="1" offset="968" length="4"><![CDATA[Roma]]></wf>
+    <wf id="208" sent="1" para="1" offset="972" length="1"><![CDATA[(]]></wf>
+    <wf id="209" sent="1" para="1" offset="973" length="1"><![CDATA[7]]></wf>
+    <wf id="210" sent="1" para="1" offset="974" length="1"><![CDATA[)]]></wf>
+    <wf id="211" sent="1" para="1" offset="975" length="4"><![CDATA[1930]]></wf>
+    <wf id="212" sent="1" para="1" offset="979" length="4"><![CDATA[Poor]]></wf>
+    <wf id="213" sent="1" para="1" offset="983" length="3"><![CDATA[man]]></wf>
+    <wf id="214" sent="1" para="1" offset="986" length="2"><![CDATA['s]]></wf>
+    <wf id="215" sent="1" para="1" offset="988" length="5"><![CDATA[Roman]]></wf>
+    <wf id="216" sent="1" para="1" offset="993" length="5"><![CDATA[derby]]></wf>
+    <wf id="217" sent="1" para="1" offset="998" length="2"><![CDATA[in]]></wf>
+    <wf id="218" sent="1" para="1" offset="1000" length="4"><![CDATA[what]]></wf>
+    <wf id="219" sent="1" para="1" offset="1004" length="3"><![CDATA[has]]></wf>
+    <wf id="220" sent="1" para="1" offset="1007" length="4"><![CDATA[been]]></wf>
+    <wf id="221" sent="1" para="1" offset="1011" length="1"><![CDATA[a]]></wf>
+    <wf id="222" sent="1" para="1" offset="1012" length="9"><![CDATA[miserable]]></wf>
+    <wf id="223" sent="1" para="1" offset="1021" length="6"><![CDATA[season]]></wf>
+    <wf id="224" sent="1" para="1" offset="1027" length="3"><![CDATA[for]]></wf>
+    <wf id="225" sent="1" para="1" offset="1030" length="4"><![CDATA[both]]></wf>
+    <wf id="226" sent="1" para="1" offset="1034" length="4"><![CDATA[Rome]]></wf>
+    <wf id="227" sent="1" para="1" offset="1038" length="5"><![CDATA[teams]]></wf>
+    <wf id="228" sent="1" para="1" offset="1043" length="1"><![CDATA[,]]></wf>
+    <wf id="229" sent="1" para="1" offset="1044" length="7"><![CDATA[already]]></wf>
+    <wf id="230" sent="1" para="1" offset="1051" length="10"><![CDATA[eliminated]]></wf>
+    <wf id="231" sent="1" para="1" offset="1061" length="4"><![CDATA[from]]></wf>
+    <wf id="232" sent="1" para="1" offset="1065" length="3"><![CDATA[the]]></wf>
+    <wf id="233" sent="1" para="1" offset="1068" length="7"><![CDATA[Italian]]></wf>
+    <wf id="234" sent="1" para="1" offset="1075" length="3"><![CDATA[and]]></wf>
+    <wf id="235" sent="1" para="1" offset="1078" length="4"><![CDATA[UEFA]]></wf>
+    <wf id="236" sent="1" para="1" offset="1082" length="4"><![CDATA[Cups]]></wf>
+    <wf id="237" sent="1" para="1" offset="1086" length="1"><![CDATA[.]]></wf>
+    <wf id="238" sent="1" para="1" offset="1087" length="5"><![CDATA[Lazio]]></wf>
+    <wf id="239" sent="1" para="1" offset="1092" length="4"><![CDATA[have]]></wf>
+    <wf id="240" sent="1" para="1" offset="1096" length="6"><![CDATA[injury]]></wf>
+    <wf id="241" sent="1" para="1" offset="1102" length="6"><![CDATA[doubts]]></wf>
+    <wf id="242" sent="1" para="1" offset="1108" length="5"><![CDATA[about]]></wf>
+    <wf id="243" sent="1" para="1" offset="1113" length="7"><![CDATA[striker]]></wf>
+    <wf id="244" sent="1" para="1" offset="1120" length="9"><![CDATA[Pierluigi]]></wf>
+    <wf id="245" sent="1" para="1" offset="1129" length="9"><![CDATA[Casiraghi]]></wf>
+    <wf id="246" sent="1" para="1" offset="1138" length="1"><![CDATA[,]]></wf>
+    <wf id="247" sent="1" para="1" offset="1139" length="5"><![CDATA[Czech]]></wf>
+    <wf id="248" sent="1" para="1" offset="1144" length="10"><![CDATA[midfielder]]></wf>
+    <wf id="249" sent="1" para="1" offset="1154" length="5"><![CDATA[Pavel]]></wf>
+    <wf id="250" sent="1" para="1" offset="1159" length="6"><![CDATA[Nedved]]></wf>
+    <wf id="251" sent="1" para="1" offset="1165" length="3"><![CDATA[and]]></wf>
+    <wf id="252" sent="1" para="1" offset="1168" length="8"><![CDATA[defender]]></wf>
+    <wf id="253" sent="1" para="1" offset="1176" length="5"><![CDATA[Paolo]]></wf>
+    <wf id="254" sent="1" para="1" offset="1181" length="5"><![CDATA[Negro]]></wf>
+    <wf id="255" sent="1" para="1" offset="1186" length="1"><![CDATA[,]]></wf>
+    <wf id="256" sent="1" para="1" offset="1187" length="5"><![CDATA[while]]></wf>
+    <wf id="257" sent="1" para="1" offset="1192" length="4"><![CDATA[Roma]]></wf>
+    <wf id="258" sent="1" para="1" offset="1196" length="7"><![CDATA[present]]></wf>
+    <wf id="259" sent="1" para="1" offset="1203" length="1"><![CDATA[a]]></wf>
+    <wf id="260" sent="1" para="1" offset="1204" length="4"><![CDATA[full]]></wf>
+    <wf id="261" sent="1" para="1" offset="1208" length="8"><![CDATA[strength]]></wf>
+    <wf id="262" sent="1" para="1" offset="1216" length="4"><![CDATA[side]]></wf>
+    <wf id="263" sent="1" para="1" offset="1220" length="3"><![CDATA[led]]></wf>
+    <wf id="264" sent="1" para="1" offset="1223" length="2"><![CDATA[by]]></wf>
+    <wf id="265" sent="1" para="1" offset="1225" length="9"><![CDATA[Argentine]]></wf>
+    <wf id="266" sent="1" para="1" offset="1234" length="4"><![CDATA[Abel]]></wf>
+    <wf id="267" sent="1" para="1" offset="1238" length="5"><![CDATA[Balbo]]></wf>
+    <wf id="268" sent="1" para="1" offset="1243" length="1"><![CDATA[,]]></wf>
+    <wf id="269" sent="1" para="1" offset="1244" length="5"><![CDATA[Marco]]></wf>
+    <wf id="270" sent="1" para="1" offset="1249" length="10"><![CDATA[Delvecchio]]></wf>
+    <wf id="271" sent="1" para="1" offset="1259" length="3"><![CDATA[and]]></wf>
+    <wf id="272" sent="1" para="1" offset="1262" length="9"><![CDATA[Francesco]]></wf>
+    <wf id="273" sent="1" para="1" offset="1271" length="5"><![CDATA[Totti]]></wf>
+    <wf id="274" sent="1" para="1" offset="1276" length="2"><![CDATA[in]]></wf>
+    <wf id="275" sent="1" para="1" offset="1278" length="6"><![CDATA[attack]]></wf>
+    <wf id="276" sent="1" para="1" offset="1284" length="1"><![CDATA[.]]></wf>
+    <wf id="277" sent="1" para="1" offset="1285" length="2"><![CDATA[AC]]></wf>
+    <wf id="278" sent="1" para="1" offset="1287" length="5"><![CDATA[Milan]]></wf>
+    <wf id="279" sent="1" para="1" offset="1292" length="1"><![CDATA[(]]></wf>
+    <wf id="280" sent="1" para="1" offset="1293" length="1"><![CDATA[9]]></wf>
+    <wf id="281" sent="1" para="1" offset="1294" length="1"><![CDATA[)]]></wf>
+    <wf id="282" sent="1" para="1" offset="1295" length="1"><![CDATA[v]]></wf>
+    <wf id="283" sent="1" para="1" offset="1296" length="7"><![CDATA[Udinese]]></wf>
+    <wf id="284" sent="1" para="1" offset="1303" length="1"><![CDATA[(]]></wf>
+    <wf id="285" sent="1" para="1" offset="1304" length="2"><![CDATA[11]]></wf>
+    <wf id="286" sent="1" para="1" offset="1306" length="1"><![CDATA[)]]></wf>
+    <wf id="287" sent="1" para="1" offset="1307" length="4"><![CDATA[1330]]></wf>
+    <wf id="288" sent="1" para="1" offset="1311" length="3"><![CDATA[Can]]></wf>
+    <wf id="289" sent="1" para="1" offset="1314" length="5"><![CDATA[Milan]]></wf>
+    <wf id="290" sent="1" para="1" offset="1319" length="4"><![CDATA[sink]]></wf>
+    <wf id="291" sent="1" para="1" offset="1323" length="3"><![CDATA[any]]></wf>
+    <wf id="292" sent="1" para="1" offset="1326" length="7"><![CDATA[further]]></wf>
+    <wf id="293" sent="1" para="1" offset="1333" length="1"><![CDATA[?]]></wf>
+    <wf id="294" sent="1" para="1" offset="1334" length="9"><![CDATA[Following]]></wf>
+    <wf id="295" sent="1" para="1" offset="1343" length="5"><![CDATA[their]]></wf>
+    <wf id="296" sent="1" para="1" offset="1348" length="7"><![CDATA[midweek]]></wf>
+    <wf id="297" sent="1" para="1" offset="1355" length="9"><![CDATA[Champions]]></wf>
+    <wf id="298" sent="1" para="1" offset="1364" length="1"><![CDATA[']]></wf>
+    <wf id="299" sent="1" para="1" offset="1365" length="6"><![CDATA[League]]></wf>
+    <wf id="300" sent="1" para="1" offset="1371" length="11"><![CDATA[elimination]]></wf>
+    <wf id="301" sent="1" para="1" offset="1382" length="2"><![CDATA[by]]></wf>
+    <wf id="302" sent="1" para="1" offset="1384" length="9"><![CDATA[Norwegian]]></wf>
+    <wf id="303" sent="1" para="1" offset="1393" length="4"><![CDATA[side]]></wf>
+    <wf id="304" sent="1" para="1" offset="1397" length="9"><![CDATA[Rosenborg]]></wf>
+    <wf id="305" sent="1" para="1" offset="1406" length="1"><![CDATA[,]]></wf>
+    <wf id="306" sent="1" para="1" offset="1407" length="1"><![CDATA[a]]></wf>
+    <wf id="307" sent="1" para="1" offset="1408" length="15"><![CDATA[morale-boosting]]></wf>
+    <wf id="308" sent="1" para="1" offset="1423" length="3"><![CDATA[win]]></wf>
+    <wf id="309" sent="1" para="1" offset="1426" length="2"><![CDATA[is]]></wf>
+    <wf id="310" sent="1" para="1" offset="1428" length="5"><![CDATA[badly]]></wf>
+    <wf id="311" sent="1" para="1" offset="1433" length="6"><![CDATA[needed]]></wf>
+    <wf id="312" sent="1" para="1" offset="1439" length="1"><![CDATA[.]]></wf>
+    <wf id="313" sent="1" para="1" offset="1440" length="8"><![CDATA[Liberian]]></wf>
+    <wf id="314" sent="1" para="1" offset="1448" length="7"><![CDATA[striker]]></wf>
+    <wf id="315" sent="1" para="1" offset="1455" length="6"><![CDATA[George]]></wf>
+    <wf id="316" sent="1" para="1" offset="1461" length="4"><![CDATA[Weah]]></wf>
+    <wf id="317" sent="1" para="1" offset="1465" length="5"><![CDATA[makes]]></wf>
+    <wf id="318" sent="1" para="1" offset="1470" length="1"><![CDATA[a]]></wf>
+    <wf id="319" sent="1" para="1" offset="1471" length="7"><![CDATA[welcome]]></wf>
+    <wf id="320" sent="1" para="1" offset="1478" length="6"><![CDATA[return]]></wf>
+    <wf id="321" sent="1" para="1" offset="1484" length="3"><![CDATA[for]]></wf>
+    <wf id="322" sent="1" para="1" offset="1487" length="5"><![CDATA[Milan]]></wf>
+    <wf id="323" sent="1" para="1" offset="1492" length="9"><![CDATA[alongside]]></wf>
+    <wf id="324" sent="1" para="1" offset="1501" length="7"><![CDATA[Roberto]]></wf>
+    <wf id="325" sent="1" para="1" offset="1508" length="6"><![CDATA[Baggio]]></wf>
+    <wf id="326" sent="1" para="1" offset="1514" length="1"><![CDATA[,]]></wf>
+    <wf id="327" sent="1" para="1" offset="1515" length="4"><![CDATA[with]]></wf>
+    <wf id="328" sent="1" para="1" offset="1519" length="11"><![CDATA[Montenegrin]]></wf>
+    <wf id="329" sent="1" para="1" offset="1530" length="5"><![CDATA[Dejan]]></wf>
+    <wf id="330" sent="1" para="1" offset="1535" length="9"><![CDATA[Savicevic]]></wf>
+    <wf id="331" sent="1" para="1" offset="1544" length="2"><![CDATA[in]]></wf>
+    <wf id="332" sent="1" para="1" offset="1546" length="8"><![CDATA[midfield]]></wf>
+    <wf id="333" sent="1" para="1" offset="1554" length="1"><![CDATA[.]]></wf>
+    <wf id="334" sent="1" para="1" offset="1555" length="4"><![CDATA[Good]]></wf>
+    <wf id="335" sent="1" para="1" offset="1559" length="4"><![CDATA[news]]></wf>
+    <wf id="336" sent="1" para="1" offset="1563" length="3"><![CDATA[for]]></wf>
+    <wf id="337" sent="1" para="1" offset="1566" length="5"><![CDATA[Milan]]></wf>
+    <wf id="338" sent="1" para="1" offset="1571" length="2"><![CDATA[is]]></wf>
+    <wf id="339" sent="1" para="1" offset="1573" length="4"><![CDATA[that]]></wf>
+    <wf id="340" sent="1" para="1" offset="1577" length="7"><![CDATA[Udinese]]></wf>
+    <wf id="341" sent="1" para="1" offset="1584" length="2"><![CDATA['s]]></wf>
+    <wf id="342" sent="1" para="1" offset="1586" length="6"><![CDATA[German]]></wf>
+    <wf id="343" sent="1" para="1" offset="1592" length="7"><![CDATA[striker]]></wf>
+    <wf id="344" sent="1" para="1" offset="1599" length="6"><![CDATA[Oliver]]></wf>
+    <wf id="345" sent="1" para="1" offset="1605" length="8"><![CDATA[Bierhoff]]></wf>
+    <wf id="346" sent="1" para="1" offset="1613" length="2"><![CDATA[is]]></wf>
+    <wf id="347" sent="1" para="1" offset="1615" length="3"><![CDATA[out]]></wf>
+    <wf id="348" sent="1" para="1" offset="1618" length="7"><![CDATA[through]]></wf>
+    <wf id="349" sent="1" para="1" offset="1625" length="6"><![CDATA[injury]]></wf>
+    <wf id="350" sent="1" para="1" offset="1631" length="1"><![CDATA[.]]></wf>
+    <wf id="351" sent="1" para="1" offset="1632" length="6"><![CDATA[Napoli]]></wf>
+    <wf id="352" sent="1" para="1" offset="1638" length="1"><![CDATA[(]]></wf>
+    <wf id="353" sent="1" para="1" offset="1639" length="1"><![CDATA[5]]></wf>
+    <wf id="354" sent="1" para="1" offset="1640" length="1"><![CDATA[)]]></wf>
+    <wf id="355" sent="1" para="1" offset="1641" length="1"><![CDATA[v]]></wf>
+    <wf id="356" sent="1" para="1" offset="1642" length="6"><![CDATA[Verona]]></wf>
+    <wf id="357" sent="1" para="1" offset="1648" length="1"><![CDATA[(]]></wf>
+    <wf id="358" sent="1" para="1" offset="1649" length="2"><![CDATA[17]]></wf>
+    <wf id="359" sent="1" para="1" offset="1651" length="1"><![CDATA[)]]></wf>
+    <wf id="360" sent="1" para="1" offset="1652" length="4"><![CDATA[1330]]></wf>
+    <wf id="361" sent="1" para="1" offset="1656" length="7"><![CDATA[In-form]]></wf>
+    <wf id="362" sent="1" para="1" offset="1663" length="6"><![CDATA[Napoli]]></wf>
+    <wf id="363" sent="1" para="1" offset="1669" length="6"><![CDATA[should]]></wf>
+    <wf id="364" sent="1" para="1" offset="1675" length="5"><![CDATA[prove]]></wf>
+    <wf id="365" sent="1" para="1" offset="1680" length="3"><![CDATA[too]]></wf>
+    <wf id="366" sent="1" para="1" offset="1683" length="6"><![CDATA[strong]]></wf>
+    <wf id="367" sent="1" para="1" offset="1689" length="3"><![CDATA[for]]></wf>
+    <wf id="368" sent="1" para="1" offset="1692" length="6"><![CDATA[second]]></wf>
+    <wf id="369" sent="1" para="1" offset="1698" length="4"><![CDATA[from]]></wf>
+    <wf id="370" sent="1" para="1" offset="1702" length="6"><![CDATA[bottom]]></wf>
+    <wf id="371" sent="1" para="1" offset="1708" length="6"><![CDATA[Verona]]></wf>
+    <wf id="372" sent="1" para="1" offset="1714" length="7"><![CDATA[despite]]></wf>
+    <wf id="373" sent="1" para="1" offset="1721" length="3"><![CDATA[the]]></wf>
+    <wf id="374" sent="1" para="1" offset="1724" length="7"><![CDATA[absence]]></wf>
+    <wf id="375" sent="1" para="1" offset="1731" length="2"><![CDATA[of]]></wf>
+    <wf id="376" sent="1" para="1" offset="1733" length="5"><![CDATA[their]]></wf>
+    <wf id="377" sent="1" para="1" offset="1738" length="9"><![CDATA[suspended]]></wf>
+    <wf id="378" sent="1" para="1" offset="1747" length="9"><![CDATA[Argentine]]></wf>
+    <wf id="379" sent="1" para="1" offset="1756" length="8"><![CDATA[defender]]></wf>
+    <wf id="380" sent="1" para="1" offset="1764" length="7"><![CDATA[Roberto]]></wf>
+    <wf id="381" sent="1" para="1" offset="1771" length="5"><![CDATA[Ayala]]></wf>
+    <wf id="382" sent="1" para="1" offset="1776" length="1"><![CDATA[.]]></wf>
+    <wf id="383" sent="1" para="1" offset="1777" length="6"><![CDATA[Verona]]></wf>
+    <wf id="384" sent="1" para="1" offset="1783" length="2"><![CDATA['s]]></wf>
+    <wf id="385" sent="1" para="1" offset="1785" length="4"><![CDATA[slim]]></wf>
+    <wf id="386" sent="1" para="1" offset="1789" length="7"><![CDATA[chances]]></wf>
+    <wf id="387" sent="1" para="1" offset="1796" length="4"><![CDATA[have]]></wf>
+    <wf id="388" sent="1" para="1" offset="1800" length="4"><![CDATA[been]]></wf>
+    <wf id="389" sent="1" para="1" offset="1804" length="7"><![CDATA[further]]></wf>
+    <wf id="390" sent="1" para="1" offset="1811" length="7"><![CDATA[reduced]]></wf>
+    <wf id="391" sent="1" para="1" offset="1818" length="2"><![CDATA[by]]></wf>
+    <wf id="392" sent="1" para="1" offset="1820" length="1"><![CDATA[a]]></wf>
+    <wf id="393" sent="1" para="1" offset="1821" length="4"><![CDATA[knee]]></wf>
+    <wf id="394" sent="1" para="1" offset="1825" length="6"><![CDATA[injury]]></wf>
+    <wf id="395" sent="1" para="1" offset="1831" length="2"><![CDATA[to]]></wf>
+    <wf id="396" sent="1" para="1" offset="1833" length="5"><![CDATA[their]]></wf>
+    <wf id="397" sent="1" para="1" offset="1838" length="11"><![CDATA[experienced]]></wf>
+    <wf id="398" sent="1" para="1" offset="1849" length="10"><![CDATA[midfielder]]></wf>
+    <wf id="399" sent="1" para="1" offset="1859" length="7"><![CDATA[Eugenio]]></wf>
+    <wf id="400" sent="1" para="1" offset="1866" length="6"><![CDATA[Corini]]></wf>
+    <wf id="401" sent="1" para="1" offset="1872" length="1"><![CDATA[.]]></wf>
+    <wf id="402" sent="1" para="1" offset="1873" length="5"><![CDATA[Parma]]></wf>
+    <wf id="403" sent="1" para="1" offset="1878" length="1"><![CDATA[(]]></wf>
+    <wf id="404" sent="1" para="1" offset="1879" length="2"><![CDATA[14]]></wf>
+    <wf id="405" sent="1" para="1" offset="1881" length="1"><![CDATA[)]]></wf>
+    <wf id="406" sent="1" para="1" offset="1882" length="1"><![CDATA[v]]></wf>
+    <wf id="407" sent="1" para="1" offset="1883" length="9"><![CDATA[Atlalanta]]></wf>
+    <wf id="408" sent="1" para="1" offset="1892" length="1"><![CDATA[(]]></wf>
+    <wf id="409" sent="1" para="1" offset="1893" length="2"><![CDATA[15]]></wf>
+    <wf id="410" sent="1" para="1" offset="1895" length="1"><![CDATA[)]]></wf>
+    <wf id="411" sent="1" para="1" offset="1896" length="4"><![CDATA[1330]]></wf>
+    <wf id="412" sent="1" para="1" offset="1900" length="5"><![CDATA[Parma]]></wf>
+    <wf id="413" sent="1" para="1" offset="1905" length="3"><![CDATA[may]]></wf>
+    <wf id="414" sent="1" para="1" offset="1908" length="5"><![CDATA[field]]></wf>
+    <wf id="415" sent="1" para="1" offset="1913" length="3"><![CDATA[new]]></wf>
+    <wf id="416" sent="1" para="1" offset="1916" length="7"><![CDATA[signing]]></wf>
+    <wf id="417" sent="1" para="1" offset="1923" length="1"><![CDATA[,]]></wf>
+    <wf id="418" sent="1" para="1" offset="1924" length="5"><![CDATA[Croat]]></wf>
+    <wf id="419" sent="1" para="1" offset="1929" length="10"><![CDATA[midfielder]]></wf>
+    <wf id="420" sent="1" para="1" offset="1939" length="5"><![CDATA[Mario]]></wf>
+    <wf id="421" sent="1" para="1" offset="1944" length="6"><![CDATA[Stanic]]></wf>
+    <wf id="422" sent="1" para="1" offset="1950" length="1"><![CDATA[,]]></wf>
+    <wf id="423" sent="1" para="1" offset="1951" length="2"><![CDATA[in]]></wf>
+    <wf id="424" sent="1" para="1" offset="1953" length="2"><![CDATA[an]]></wf>
+    <wf id="425" sent="1" para="1" offset="1955" length="7"><![CDATA[attempt]]></wf>
+    <wf id="426" sent="1" para="1" offset="1962" length="2"><![CDATA[to]]></wf>
+    <wf id="427" sent="1" para="1" offset="1964" length="4"><![CDATA[lift]]></wf>
+    <wf id="428" sent="1" para="1" offset="1968" length="1"><![CDATA[a]]></wf>
+    <wf id="429" sent="1" para="1" offset="1969" length="9"><![CDATA[miserable]]></wf>
+    <wf id="430" sent="1" para="1" offset="1978" length="6"><![CDATA[season]]></wf>
+    <wf id="431" sent="1" para="1" offset="1984" length="5"><![CDATA[which]]></wf>
+    <wf id="432" sent="1" para="1" offset="1989" length="3"><![CDATA[has]]></wf>
+    <wf id="433" sent="1" para="1" offset="1992" length="4"><![CDATA[seen]]></wf>
+    <wf id="434" sent="1" para="1" offset="1996" length="4"><![CDATA[them]]></wf>
+    <wf id="435" sent="1" para="1" offset="2000" length="2"><![CDATA[go]]></wf>
+    <wf id="436" sent="1" para="1" offset="2002" length="7"><![CDATA[without]]></wf>
+    <wf id="437" sent="1" para="1" offset="2009" length="1"><![CDATA[a]]></wf>
+    <wf id="438" sent="1" para="1" offset="2010" length="3"><![CDATA[win]]></wf>
+    <wf id="439" sent="1" para="1" offset="2013" length="5"><![CDATA[since]]></wf>
+    <wf id="440" sent="1" para="1" offset="2018" length="1"><![CDATA[a]]></wf>
+    <wf id="441" sent="1" para="1" offset="2019" length="3"><![CDATA[1-0]]></wf>
+    <wf id="442" sent="1" para="1" offset="2022" length="7"><![CDATA[triumph]]></wf>
+    <wf id="443" sent="1" para="1" offset="2029" length="4"><![CDATA[over]]></wf>
+    <wf id="444" sent="1" para="1" offset="2033" length="8"><![CDATA[Cagliari]]></wf>
+    <wf id="445" sent="1" para="1" offset="2041" length="5"><![CDATA[eight]]></wf>
+    <wf id="446" sent="1" para="1" offset="2046" length="5"><![CDATA[weeks]]></wf>
+    <wf id="447" sent="1" para="1" offset="2051" length="3"><![CDATA[ago]]></wf>
+    <wf id="448" sent="1" para="1" offset="2054" length="1"><![CDATA[.]]></wf>
+    <wf id="449" sent="1" para="1" offset="2055" length="5"><![CDATA[Parma]]></wf>
+    <wf id="450" sent="1" para="1" offset="2060" length="2"><![CDATA['s]]></wf>
+    <wf id="451" sent="1" para="1" offset="2062" length="6"><![CDATA[French]]></wf>
+    <wf id="452" sent="1" para="1" offset="2068" length="10"><![CDATA[midfielder]]></wf>
+    <wf id="453" sent="1" para="1" offset="2078" length="6"><![CDATA[Daniel]]></wf>
+    <wf id="454" sent="1" para="1" offset="2084" length="5"><![CDATA[Bravo]]></wf>
+    <wf id="455" sent="1" para="1" offset="2089" length="3"><![CDATA[and]]></wf>
+    <wf id="456" sent="1" para="1" offset="2092" length="8"><![CDATA[defender]]></wf>
+    <wf id="457" sent="1" para="1" offset="2100" length="5"><![CDATA[Fabio]]></wf>
+    <wf id="458" sent="1" para="1" offset="2105" length="9"><![CDATA[Cannavaro]]></wf>
+    <wf id="459" sent="1" para="1" offset="2114" length="3"><![CDATA[are]]></wf>
+    <wf id="460" sent="1" para="1" offset="2117" length="9"><![CDATA[suspended]]></wf>
+    <wf id="461" sent="1" para="1" offset="2126" length="5"><![CDATA[while]]></wf>
+    <wf id="462" sent="1" para="1" offset="2131" length="9"><![CDATA[Argentine]]></wf>
+    <wf id="463" sent="1" para="1" offset="2140" length="6"><![CDATA[Nestor]]></wf>
+    <wf id="464" sent="1" para="1" offset="2146" length="7"><![CDATA[Sensini]]></wf>
+    <wf id="465" sent="1" para="1" offset="2153" length="2"><![CDATA[is]]></wf>
+    <wf id="466" sent="1" para="1" offset="2155" length="3"><![CDATA[out]]></wf>
+    <wf id="467" sent="1" para="1" offset="2158" length="7"><![CDATA[through]]></wf>
+    <wf id="468" sent="1" para="1" offset="2165" length="6"><![CDATA[injury]]></wf>
+    <wf id="469" sent="1" para="1" offset="2171" length="1"><![CDATA[.]]></wf>
+    <wf id="470" sent="1" para="1" offset="2172" length="8"><![CDATA[Atalanta]]></wf>
+    <wf id="471" sent="1" para="1" offset="2180" length="4"><![CDATA[look]]></wf>
+    <wf id="472" sent="1" para="1" offset="2184" length="2"><![CDATA[to]]></wf>
+    <wf id="473" sent="1" para="1" offset="2186" length="7"><![CDATA[Filippo]]></wf>
+    <wf id="474" sent="1" para="1" offset="2193" length="7"><![CDATA[Inzaghi]]></wf>
+    <wf id="475" sent="1" para="1" offset="2200" length="1"><![CDATA[,]]></wf>
+    <wf id="476" sent="1" para="1" offset="2201" length="6"><![CDATA[scorer]]></wf>
+    <wf id="477" sent="1" para="1" offset="2207" length="2"><![CDATA[of]]></wf>
+    <wf id="478" sent="1" para="1" offset="2209" length="5"><![CDATA[eight]]></wf>
+    <wf id="479" sent="1" para="1" offset="2214" length="5"><![CDATA[goals]]></wf>
+    <wf id="480" sent="1" para="1" offset="2219" length="1"><![CDATA[.]]></wf>
+    <wf id="481" sent="1" para="1" offset="2220" length="9"><![CDATA[Sampdoria]]></wf>
+    <wf id="482" sent="1" para="1" offset="2229" length="1"><![CDATA[(]]></wf>
+    <wf id="483" sent="1" para="1" offset="2230" length="1"><![CDATA[6]]></wf>
+    <wf id="484" sent="1" para="1" offset="2231" length="1"><![CDATA[)]]></wf>
+    <wf id="485" sent="1" para="1" offset="2232" length="1"><![CDATA[v]]></wf>
+    <wf id="486" sent="1" para="1" offset="2233" length="8"><![CDATA[Juventus]]></wf>
+    <wf id="487" sent="1" para="1" offset="2241" length="1"><![CDATA[(]]></wf>
+    <wf id="488" sent="1" para="1" offset="2242" length="1"><![CDATA[3]]></wf>
+    <wf id="489" sent="1" para="1" offset="2243" length="1"><![CDATA[)]]></wf>
+    <wf id="490" sent="1" para="1" offset="2244" length="4"><![CDATA[1330]]></wf>
+    <wf id="491" sent="1" para="1" offset="2248" length="14"><![CDATA[All-conquering]]></wf>
+    <wf id="492" sent="1" para="1" offset="2262" length="8"><![CDATA[Juventus]]></wf>
+    <wf id="493" sent="1" para="1" offset="2270" length="5"><![CDATA[field]]></wf>
+    <wf id="494" sent="1" para="1" offset="2275" length="5"><![CDATA[their]]></wf>
+    <wf id="495" sent="1" para="1" offset="2280" length="4"><![CDATA[most]]></wf>
+    <wf id="496" sent="1" para="1" offset="2284" length="6"><![CDATA[recent]]></wf>
+    <wf id="497" sent="1" para="1" offset="2290" length="7"><![CDATA[signing]]></wf>
+    <wf id="498" sent="1" para="1" offset="2297" length="1"><![CDATA[,]]></wf>
+    <wf id="499" sent="1" para="1" offset="2298" length="10"><![CDATA[Portuguese]]></wf>
+    <wf id="500" sent="1" para="1" offset="2308" length="8"><![CDATA[defender]]></wf>
+    <wf id="501" sent="1" para="1" offset="2316" length="5"><![CDATA[Dimas]]></wf>
+    <wf id="502" sent="1" para="1" offset="2321" length="1"><![CDATA[,]]></wf>
+    <wf id="503" sent="1" para="1" offset="2322" length="5"><![CDATA[while]]></wf>
+    <wf id="504" sent="1" para="1" offset="2327" length="10"><![CDATA[Alessandro]]></wf>
+    <wf id="505" sent="1" para="1" offset="2337" length="3"><![CDATA[Del]]></wf>
+    <wf id="506" sent="1" para="1" offset="2340" length="5"><![CDATA[Piero]]></wf>
+    <wf id="507" sent="1" para="1" offset="2345" length="3"><![CDATA[and]]></wf>
+    <wf id="508" sent="1" para="1" offset="2348" length="5"><![CDATA[Croat]]></wf>
+    <wf id="509" sent="1" para="1" offset="2353" length="4"><![CDATA[Alen]]></wf>
+    <wf id="510" sent="1" para="1" offset="2357" length="6"><![CDATA[Boksic]]></wf>
+    <wf id="511" sent="1" para="1" offset="2363" length="4"><![CDATA[lead]]></wf>
+    <wf id="512" sent="1" para="1" offset="2367" length="3"><![CDATA[the]]></wf>
+    <wf id="513" sent="1" para="1" offset="2370" length="6"><![CDATA[attack]]></wf>
+    <wf id="514" sent="1" para="1" offset="2376" length="1"><![CDATA[.]]></wf>
+    <wf id="515" sent="1" para="1" offset="2377" length="3"><![CDATA[The]]></wf>
+    <wf id="516" sent="1" para="1" offset="2380" length="3"><![CDATA[new]]></wf>
+    <wf id="517" sent="1" para="1" offset="2383" length="5"><![CDATA[world]]></wf>
+    <wf id="518" sent="1" para="1" offset="2388" length="4"><![CDATA[club]]></wf>
+    <wf id="519" sent="1" para="1" offset="2392" length="9"><![CDATA[champions]]></wf>
+    <wf id="520" sent="1" para="1" offset="2401" length="3"><![CDATA[may]]></wf>
+    <wf id="521" sent="1" para="1" offset="2404" length="5"><![CDATA[prove]]></wf>
+    <wf id="522" sent="1" para="1" offset="2409" length="3"><![CDATA[too]]></wf>
+    <wf id="523" sent="1" para="1" offset="2412" length="6"><![CDATA[strong]]></wf>
+    <wf id="524" sent="1" para="1" offset="2418" length="3"><![CDATA[for]]></wf>
+    <wf id="525" sent="1" para="1" offset="2421" length="1"><![CDATA[a]]></wf>
+    <wf id="526" sent="1" para="1" offset="2422" length="9"><![CDATA[Sampdoria]]></wf>
+    <wf id="527" sent="1" para="1" offset="2431" length="4"><![CDATA[side]]></wf>
+    <wf id="528" sent="1" para="1" offset="2435" length="3"><![CDATA[led]]></wf>
+    <wf id="529" sent="1" para="1" offset="2438" length="2"><![CDATA[by]]></wf>
+    <wf id="530" sent="1" para="1" offset="2440" length="7"><![CDATA[captain]]></wf>
+    <wf id="531" sent="1" para="1" offset="2447" length="7"><![CDATA[Roberto]]></wf>
+    <wf id="532" sent="1" para="1" offset="2454" length="7"><![CDATA[Mancini]]></wf>
+    <wf id="533" sent="1" para="1" offset="2461" length="3"><![CDATA[but]]></wf>
+    <wf id="534" sent="1" para="1" offset="2464" length="7"><![CDATA[missing]]></wf>
+    <wf id="535" sent="1" para="1" offset="2471" length="7"><![CDATA[injured]]></wf>
+    <wf id="536" sent="1" para="1" offset="2478" length="6"><![CDATA[French]]></wf>
+    <wf id="537" sent="1" para="1" offset="2484" length="10"><![CDATA[midfielder]]></wf>
+    <wf id="538" sent="1" para="1" offset="2494" length="6"><![CDATA[Pierre]]></wf>
+    <wf id="539" sent="1" para="1" offset="2500" length="6"><![CDATA[Laigle]]></wf>
+    <wf id="540" sent="1" para="1" offset="2506" length="1"><![CDATA[.]]></wf>
+    <wf id="541" sent="1" para="1" offset="2507" length="7"><![CDATA[Vicenza]]></wf>
+    <wf id="542" sent="1" para="1" offset="2514" length="1"><![CDATA[(]]></wf>
+    <wf id="543" sent="1" para="1" offset="2515" length="1"><![CDATA[1]]></wf>
+    <wf id="544" sent="1" para="1" offset="2516" length="1"><![CDATA[)]]></wf>
+    <wf id="545" sent="1" para="1" offset="2517" length="1"><![CDATA[v]]></wf>
+    <wf id="546" sent="1" para="1" offset="2518" length="14"><![CDATA[Internazionale]]></wf>
+    <wf id="547" sent="1" para="1" offset="2532" length="1"><![CDATA[(]]></wf>
+    <wf id="548" sent="1" para="1" offset="2533" length="1"><![CDATA[2]]></wf>
+    <wf id="549" sent="1" para="1" offset="2534" length="1"><![CDATA[)]]></wf>
+    <wf id="550" sent="1" para="1" offset="2535" length="4"><![CDATA[1330]]></wf>
+    <wf id="551" sent="1" para="1" offset="2539" length="3"><![CDATA[Not]]></wf>
+    <wf id="552" sent="1" para="1" offset="2542" length="7"><![CDATA[exactly]]></wf>
+    <wf id="553" sent="1" para="1" offset="2549" length="1"><![CDATA[a]]></wf>
+    <wf id="554" sent="1" para="1" offset="2550" length="5"><![CDATA[clash]]></wf>
+    <wf id="555" sent="1" para="1" offset="2555" length="2"><![CDATA[of]]></wf>
+    <wf id="556" sent="1" para="1" offset="2557" length="3"><![CDATA[the]]></wf>
+    <wf id="557" sent="1" para="1" offset="2560" length="6"><![CDATA[titans]]></wf>
+    <wf id="558" sent="1" para="1" offset="2566" length="3"><![CDATA[but]]></wf>
+    <wf id="559" sent="1" para="1" offset="2569" length="2"><![CDATA[an]]></wf>
+    <wf id="560" sent="1" para="1" offset="2571" length="11"><![CDATA[intriuguing]]></wf>
+    <wf id="561" sent="1" para="1" offset="2582" length="5"><![CDATA[match]]></wf>
+    <wf id="562" sent="1" para="1" offset="2587" length="11"><![CDATA[nonetheless]]></wf>
+    <wf id="563" sent="1" para="1" offset="2598" length="1"><![CDATA[.]]></wf>
+    <wf id="564" sent="1" para="1" offset="2599" length="4"><![CDATA[Full]]></wf>
+    <wf id="565" sent="1" para="1" offset="2603" length="8"><![CDATA[strength]]></wf>
+    <wf id="566" sent="1" para="1" offset="2611" length="7"><![CDATA[Vicenza]]></wf>
+    <wf id="567" sent="1" para="1" offset="2618" length="1"><![CDATA[,]]></wf>
+    <wf id="568" sent="1" para="1" offset="2619" length="3"><![CDATA[led]]></wf>
+    <wf id="569" sent="1" para="1" offset="2622" length="2"><![CDATA[by]]></wf>
+    <wf id="570" sent="1" para="1" offset="2624" length="9"><![CDATA[Uruguayan]]></wf>
+    <wf id="571" sent="1" para="1" offset="2633" length="7"><![CDATA[Marcelo]]></wf>
+    <wf id="572" sent="1" para="1" offset="2640" length="5"><![CDATA[Otero]]></wf>
+    <wf id="573" sent="1" para="1" offset="2645" length="1"><![CDATA[,]]></wf>
+    <wf id="574" sent="1" para="1" offset="2646" length="3"><![CDATA[may]]></wf>
+    <wf id="575" sent="1" para="1" offset="2649" length="8"><![CDATA[continue]]></wf>
+    <wf id="576" sent="1" para="1" offset="2657" length="5"><![CDATA[their]]></wf>
+    <wf id="577" sent="1" para="1" offset="2662" length="8"><![CDATA[surprise]]></wf>
+    <wf id="578" sent="1" para="1" offset="2670" length="3"><![CDATA[run]]></wf>
+    <wf id="579" sent="1" para="1" offset="2673" length="2"><![CDATA[at]]></wf>
+    <wf id="580" sent="1" para="1" offset="2675" length="3"><![CDATA[the]]></wf>
+    <wf id="581" sent="1" para="1" offset="2678" length="3"><![CDATA[top]]></wf>
+    <wf id="582" sent="1" para="1" offset="2681" length="7"><![CDATA[against]]></wf>
+    <wf id="583" sent="1" para="1" offset="2688" length="2"><![CDATA[an]]></wf>
+    <wf id="584" sent="1" para="1" offset="2690" length="5"><![CDATA[Inter]]></wf>
+    <wf id="585" sent="1" para="1" offset="2695" length="4"><![CDATA[side]]></wf>
+    <wf id="586" sent="1" para="1" offset="2699" length="4"><![CDATA[that]]></wf>
+    <wf id="587" sent="1" para="1" offset="2703" length="3"><![CDATA[has]]></wf>
+    <wf id="588" sent="1" para="1" offset="2706" length="4"><![CDATA[been]]></wf>
+    <wf id="589" sent="1" para="1" offset="2710" length="4"><![CDATA[less]]></wf>
+    <wf id="590" sent="1" para="1" offset="2714" length="4"><![CDATA[than]]></wf>
+    <wf id="591" sent="1" para="1" offset="2718" length="10"><![CDATA[impressive]]></wf>
+    <wf id="592" sent="1" para="1" offset="2728" length="2"><![CDATA[in]]></wf>
+    <wf id="593" sent="1" para="1" offset="2730" length="5"><![CDATA[three]]></wf>
+    <wf id="594" sent="1" para="1" offset="2735" length="10"><![CDATA[successive]]></wf>
+    <wf id="595" sent="1" para="1" offset="2745" length="4"><![CDATA[home]]></wf>
+    <wf id="596" sent="1" para="1" offset="2749" length="5"><![CDATA[draws]]></wf>
+    <wf id="597" sent="1" para="1" offset="2754" length="1"><![CDATA[.]]></wf>
+    <wf id="598" sent="1" para="1" offset="2755" length="5"><![CDATA[Inter]]></wf>
+    <wf id="599" sent="1" para="1" offset="2760" length="4"><![CDATA[will]]></wf>
+    <wf id="600" sent="1" para="1" offset="2764" length="2"><![CDATA[be]]></wf>
+    <wf id="601" sent="1" para="1" offset="2766" length="7"><![CDATA[without]]></wf>
+    <wf id="602" sent="1" para="1" offset="2773" length="9"><![CDATA[suspended]]></wf>
+    <wf id="603" sent="1" para="1" offset="2782" length="6"><![CDATA[French]]></wf>
+    <wf id="604" sent="1" para="1" offset="2788" length="8"><![CDATA[defender]]></wf>
+    <wf id="605" sent="1" para="1" offset="2796" length="7"><![CDATA[Joceyln]]></wf>
+    <wf id="606" sent="1" para="1" offset="2803" length="7"><![CDATA[Angloma]]></wf>
+    <wf id="607" sent="1" para="1" offset="2810" length="3"><![CDATA[and]]></wf>
+    <wf id="608" sent="1" para="1" offset="2813" length="7"><![CDATA[injured]]></wf>
+    <wf id="609" sent="1" para="1" offset="2820" length="7"><![CDATA[Chilean]]></wf>
+    <wf id="610" sent="1" para="1" offset="2827" length="7"><![CDATA[striker]]></wf>
+    <wf id="611" sent="1" para="1" offset="2834" length="4"><![CDATA[Ivan]]></wf>
+    <wf id="612" sent="1" para="1" offset="2838" length="8"><![CDATA[Zamorano]]></wf>
+    <wf id="613" sent="1" para="1" offset="2846" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="SOCCER">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="-">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="ITALIAN">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="FIRST">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="DIVISION">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="MATCHES">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="THIS">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="WEEKEND">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma=".">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="ROME">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="1996-12-06">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="Italian">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Serie">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="A">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="games">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="to">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="be">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="played">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="on">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="Sunday">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="(">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="league">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="positions">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="in">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="parentheses">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma=",">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="all">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="kick-">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="off">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="times">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="GMT">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma=")">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma=":">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="Bologna">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="(">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="4">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma=")">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="v">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="Piacenza">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="(">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="13">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma=")">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="1330">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="Along">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="with">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="leaders">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="Vicenza">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma=",">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="fourth-placed">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="Bologna">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="represent">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="the">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="biggest">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="surprise">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="of">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="this">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="Italian">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="autumn">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma=".">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="Led">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="as">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="usual">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="by">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="Swede">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="Kennet">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="Andersson">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="and">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="Russian">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="Igor">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="Kolyvanov">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="in">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="attack">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma=",">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="Bologna">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="can">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="expect">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="a">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="tough">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="home">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="match">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="against">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="a">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="Piacenza">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="side">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="still">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="exultant">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="after">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="a">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="3-2">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="league">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="win">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="over">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="AC">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="Milan">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="last">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="Sunday">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma=".">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="Cagliari">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="(">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="16">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma=")">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="v">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="Reggiana">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="(">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="18">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma=")">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="1530">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="Cagliari">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="start">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="favourite">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="in">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="this">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="relegation">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="scrap">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="following">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="draws">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="with">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="Napoli">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="and">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="Inter">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="in">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="last">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="two">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="outings">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="but">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="will">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="be">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="without">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="suspended">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="Swiss">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="defender">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="Ramon">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="Vega">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma=".">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="Bottom">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="team">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="Reggiana">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="are">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="also">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="without">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="a">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="suspended">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="defender">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma=",">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="German">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="Dietmar">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="Beiersdorfer">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma=".">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="Fiorentina">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="(">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="10">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma=")">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma="v">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="Perugia">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="(">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="8">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma=")">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="1330">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="Fiorentina">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="will">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="be">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="without">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="three">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="suspended">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="players">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="--">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="defenders">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="Daniele">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="Carnasciali">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="and">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="Lorenzo">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma="Amoruso">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="and">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="midfielder">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma="Emiliano">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="Bigica">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma="--">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="for">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="a">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="difficult">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="home">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="match">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="against">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma="unpredictable">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma=",">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma="attack-oriented">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="Perugia">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma="led">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="by">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma="in-form">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma="Croat">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="striker">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma="Milan">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma="Rapajic">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma="and">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma="the">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="experienced">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma="Fausto">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma="Pizzi">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma=".">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+    <term id="201" lemma="Lazio">
+      <span>
+        <target id="201"/>
+      </span>
+    </term>
+    <term id="202" lemma="(">
+      <span>
+        <target id="202"/>
+      </span>
+    </term>
+    <term id="203" lemma="12">
+      <span>
+        <target id="203"/>
+      </span>
+    </term>
+    <term id="204" lemma=")">
+      <span>
+        <target id="204"/>
+      </span>
+    </term>
+    <term id="205" lemma="v">
+      <span>
+        <target id="205"/>
+      </span>
+    </term>
+    <term id="206" lemma="AS">
+      <span>
+        <target id="206"/>
+      </span>
+    </term>
+    <term id="207" lemma="Roma">
+      <span>
+        <target id="207"/>
+      </span>
+    </term>
+    <term id="208" lemma="(">
+      <span>
+        <target id="208"/>
+      </span>
+    </term>
+    <term id="209" lemma="7">
+      <span>
+        <target id="209"/>
+      </span>
+    </term>
+    <term id="210" lemma=")">
+      <span>
+        <target id="210"/>
+      </span>
+    </term>
+    <term id="211" lemma="1930">
+      <span>
+        <target id="211"/>
+      </span>
+    </term>
+    <term id="212" lemma="Poor">
+      <span>
+        <target id="212"/>
+      </span>
+    </term>
+    <term id="213" lemma="man">
+      <span>
+        <target id="213"/>
+      </span>
+    </term>
+    <term id="214" lemma="'s">
+      <span>
+        <target id="214"/>
+      </span>
+    </term>
+    <term id="215" lemma="Roman">
+      <span>
+        <target id="215"/>
+      </span>
+    </term>
+    <term id="216" lemma="derby">
+      <span>
+        <target id="216"/>
+      </span>
+    </term>
+    <term id="217" lemma="in">
+      <span>
+        <target id="217"/>
+      </span>
+    </term>
+    <term id="218" lemma="what">
+      <span>
+        <target id="218"/>
+      </span>
+    </term>
+    <term id="219" lemma="has">
+      <span>
+        <target id="219"/>
+      </span>
+    </term>
+    <term id="220" lemma="been">
+      <span>
+        <target id="220"/>
+      </span>
+    </term>
+    <term id="221" lemma="a">
+      <span>
+        <target id="221"/>
+      </span>
+    </term>
+    <term id="222" lemma="miserable">
+      <span>
+        <target id="222"/>
+      </span>
+    </term>
+    <term id="223" lemma="season">
+      <span>
+        <target id="223"/>
+      </span>
+    </term>
+    <term id="224" lemma="for">
+      <span>
+        <target id="224"/>
+      </span>
+    </term>
+    <term id="225" lemma="both">
+      <span>
+        <target id="225"/>
+      </span>
+    </term>
+    <term id="226" lemma="Rome">
+      <span>
+        <target id="226"/>
+      </span>
+    </term>
+    <term id="227" lemma="teams">
+      <span>
+        <target id="227"/>
+      </span>
+    </term>
+    <term id="228" lemma=",">
+      <span>
+        <target id="228"/>
+      </span>
+    </term>
+    <term id="229" lemma="already">
+      <span>
+        <target id="229"/>
+      </span>
+    </term>
+    <term id="230" lemma="eliminated">
+      <span>
+        <target id="230"/>
+      </span>
+    </term>
+    <term id="231" lemma="from">
+      <span>
+        <target id="231"/>
+      </span>
+    </term>
+    <term id="232" lemma="the">
+      <span>
+        <target id="232"/>
+      </span>
+    </term>
+    <term id="233" lemma="Italian">
+      <span>
+        <target id="233"/>
+      </span>
+    </term>
+    <term id="234" lemma="and">
+      <span>
+        <target id="234"/>
+      </span>
+    </term>
+    <term id="235" lemma="UEFA">
+      <span>
+        <target id="235"/>
+      </span>
+    </term>
+    <term id="236" lemma="Cups">
+      <span>
+        <target id="236"/>
+      </span>
+    </term>
+    <term id="237" lemma=".">
+      <span>
+        <target id="237"/>
+      </span>
+    </term>
+    <term id="238" lemma="Lazio">
+      <span>
+        <target id="238"/>
+      </span>
+    </term>
+    <term id="239" lemma="have">
+      <span>
+        <target id="239"/>
+      </span>
+    </term>
+    <term id="240" lemma="injury">
+      <span>
+        <target id="240"/>
+      </span>
+    </term>
+    <term id="241" lemma="doubts">
+      <span>
+        <target id="241"/>
+      </span>
+    </term>
+    <term id="242" lemma="about">
+      <span>
+        <target id="242"/>
+      </span>
+    </term>
+    <term id="243" lemma="striker">
+      <span>
+        <target id="243"/>
+      </span>
+    </term>
+    <term id="244" lemma="Pierluigi">
+      <span>
+        <target id="244"/>
+      </span>
+    </term>
+    <term id="245" lemma="Casiraghi">
+      <span>
+        <target id="245"/>
+      </span>
+    </term>
+    <term id="246" lemma=",">
+      <span>
+        <target id="246"/>
+      </span>
+    </term>
+    <term id="247" lemma="Czech">
+      <span>
+        <target id="247"/>
+      </span>
+    </term>
+    <term id="248" lemma="midfielder">
+      <span>
+        <target id="248"/>
+      </span>
+    </term>
+    <term id="249" lemma="Pavel">
+      <span>
+        <target id="249"/>
+      </span>
+    </term>
+    <term id="250" lemma="Nedved">
+      <span>
+        <target id="250"/>
+      </span>
+    </term>
+    <term id="251" lemma="and">
+      <span>
+        <target id="251"/>
+      </span>
+    </term>
+    <term id="252" lemma="defender">
+      <span>
+        <target id="252"/>
+      </span>
+    </term>
+    <term id="253" lemma="Paolo">
+      <span>
+        <target id="253"/>
+      </span>
+    </term>
+    <term id="254" lemma="Negro">
+      <span>
+        <target id="254"/>
+      </span>
+    </term>
+    <term id="255" lemma=",">
+      <span>
+        <target id="255"/>
+      </span>
+    </term>
+    <term id="256" lemma="while">
+      <span>
+        <target id="256"/>
+      </span>
+    </term>
+    <term id="257" lemma="Roma">
+      <span>
+        <target id="257"/>
+      </span>
+    </term>
+    <term id="258" lemma="present">
+      <span>
+        <target id="258"/>
+      </span>
+    </term>
+    <term id="259" lemma="a">
+      <span>
+        <target id="259"/>
+      </span>
+    </term>
+    <term id="260" lemma="full">
+      <span>
+        <target id="260"/>
+      </span>
+    </term>
+    <term id="261" lemma="strength">
+      <span>
+        <target id="261"/>
+      </span>
+    </term>
+    <term id="262" lemma="side">
+      <span>
+        <target id="262"/>
+      </span>
+    </term>
+    <term id="263" lemma="led">
+      <span>
+        <target id="263"/>
+      </span>
+    </term>
+    <term id="264" lemma="by">
+      <span>
+        <target id="264"/>
+      </span>
+    </term>
+    <term id="265" lemma="Argentine">
+      <span>
+        <target id="265"/>
+      </span>
+    </term>
+    <term id="266" lemma="Abel">
+      <span>
+        <target id="266"/>
+      </span>
+    </term>
+    <term id="267" lemma="Balbo">
+      <span>
+        <target id="267"/>
+      </span>
+    </term>
+    <term id="268" lemma=",">
+      <span>
+        <target id="268"/>
+      </span>
+    </term>
+    <term id="269" lemma="Marco">
+      <span>
+        <target id="269"/>
+      </span>
+    </term>
+    <term id="270" lemma="Delvecchio">
+      <span>
+        <target id="270"/>
+      </span>
+    </term>
+    <term id="271" lemma="and">
+      <span>
+        <target id="271"/>
+      </span>
+    </term>
+    <term id="272" lemma="Francesco">
+      <span>
+        <target id="272"/>
+      </span>
+    </term>
+    <term id="273" lemma="Totti">
+      <span>
+        <target id="273"/>
+      </span>
+    </term>
+    <term id="274" lemma="in">
+      <span>
+        <target id="274"/>
+      </span>
+    </term>
+    <term id="275" lemma="attack">
+      <span>
+        <target id="275"/>
+      </span>
+    </term>
+    <term id="276" lemma=".">
+      <span>
+        <target id="276"/>
+      </span>
+    </term>
+    <term id="277" lemma="AC">
+      <span>
+        <target id="277"/>
+      </span>
+    </term>
+    <term id="278" lemma="Milan">
+      <span>
+        <target id="278"/>
+      </span>
+    </term>
+    <term id="279" lemma="(">
+      <span>
+        <target id="279"/>
+      </span>
+    </term>
+    <term id="280" lemma="9">
+      <span>
+        <target id="280"/>
+      </span>
+    </term>
+    <term id="281" lemma=")">
+      <span>
+        <target id="281"/>
+      </span>
+    </term>
+    <term id="282" lemma="v">
+      <span>
+        <target id="282"/>
+      </span>
+    </term>
+    <term id="283" lemma="Udinese">
+      <span>
+        <target id="283"/>
+      </span>
+    </term>
+    <term id="284" lemma="(">
+      <span>
+        <target id="284"/>
+      </span>
+    </term>
+    <term id="285" lemma="11">
+      <span>
+        <target id="285"/>
+      </span>
+    </term>
+    <term id="286" lemma=")">
+      <span>
+        <target id="286"/>
+      </span>
+    </term>
+    <term id="287" lemma="1330">
+      <span>
+        <target id="287"/>
+      </span>
+    </term>
+    <term id="288" lemma="Can">
+      <span>
+        <target id="288"/>
+      </span>
+    </term>
+    <term id="289" lemma="Milan">
+      <span>
+        <target id="289"/>
+      </span>
+    </term>
+    <term id="290" lemma="sink">
+      <span>
+        <target id="290"/>
+      </span>
+    </term>
+    <term id="291" lemma="any">
+      <span>
+        <target id="291"/>
+      </span>
+    </term>
+    <term id="292" lemma="further">
+      <span>
+        <target id="292"/>
+      </span>
+    </term>
+    <term id="293" lemma="?">
+      <span>
+        <target id="293"/>
+      </span>
+    </term>
+    <term id="294" lemma="Following">
+      <span>
+        <target id="294"/>
+      </span>
+    </term>
+    <term id="295" lemma="their">
+      <span>
+        <target id="295"/>
+      </span>
+    </term>
+    <term id="296" lemma="midweek">
+      <span>
+        <target id="296"/>
+      </span>
+    </term>
+    <term id="297" lemma="Champions">
+      <span>
+        <target id="297"/>
+      </span>
+    </term>
+    <term id="298" lemma="'">
+      <span>
+        <target id="298"/>
+      </span>
+    </term>
+    <term id="299" lemma="League">
+      <span>
+        <target id="299"/>
+      </span>
+    </term>
+    <term id="300" lemma="elimination">
+      <span>
+        <target id="300"/>
+      </span>
+    </term>
+    <term id="301" lemma="by">
+      <span>
+        <target id="301"/>
+      </span>
+    </term>
+    <term id="302" lemma="Norwegian">
+      <span>
+        <target id="302"/>
+      </span>
+    </term>
+    <term id="303" lemma="side">
+      <span>
+        <target id="303"/>
+      </span>
+    </term>
+    <term id="304" lemma="Rosenborg">
+      <span>
+        <target id="304"/>
+      </span>
+    </term>
+    <term id="305" lemma=",">
+      <span>
+        <target id="305"/>
+      </span>
+    </term>
+    <term id="306" lemma="a">
+      <span>
+        <target id="306"/>
+      </span>
+    </term>
+    <term id="307" lemma="morale-boosting">
+      <span>
+        <target id="307"/>
+      </span>
+    </term>
+    <term id="308" lemma="win">
+      <span>
+        <target id="308"/>
+      </span>
+    </term>
+    <term id="309" lemma="is">
+      <span>
+        <target id="309"/>
+      </span>
+    </term>
+    <term id="310" lemma="badly">
+      <span>
+        <target id="310"/>
+      </span>
+    </term>
+    <term id="311" lemma="needed">
+      <span>
+        <target id="311"/>
+      </span>
+    </term>
+    <term id="312" lemma=".">
+      <span>
+        <target id="312"/>
+      </span>
+    </term>
+    <term id="313" lemma="Liberian">
+      <span>
+        <target id="313"/>
+      </span>
+    </term>
+    <term id="314" lemma="striker">
+      <span>
+        <target id="314"/>
+      </span>
+    </term>
+    <term id="315" lemma="George">
+      <span>
+        <target id="315"/>
+      </span>
+    </term>
+    <term id="316" lemma="Weah">
+      <span>
+        <target id="316"/>
+      </span>
+    </term>
+    <term id="317" lemma="makes">
+      <span>
+        <target id="317"/>
+      </span>
+    </term>
+    <term id="318" lemma="a">
+      <span>
+        <target id="318"/>
+      </span>
+    </term>
+    <term id="319" lemma="welcome">
+      <span>
+        <target id="319"/>
+      </span>
+    </term>
+    <term id="320" lemma="return">
+      <span>
+        <target id="320"/>
+      </span>
+    </term>
+    <term id="321" lemma="for">
+      <span>
+        <target id="321"/>
+      </span>
+    </term>
+    <term id="322" lemma="Milan">
+      <span>
+        <target id="322"/>
+      </span>
+    </term>
+    <term id="323" lemma="alongside">
+      <span>
+        <target id="323"/>
+      </span>
+    </term>
+    <term id="324" lemma="Roberto">
+      <span>
+        <target id="324"/>
+      </span>
+    </term>
+    <term id="325" lemma="Baggio">
+      <span>
+        <target id="325"/>
+      </span>
+    </term>
+    <term id="326" lemma=",">
+      <span>
+        <target id="326"/>
+      </span>
+    </term>
+    <term id="327" lemma="with">
+      <span>
+        <target id="327"/>
+      </span>
+    </term>
+    <term id="328" lemma="Montenegrin">
+      <span>
+        <target id="328"/>
+      </span>
+    </term>
+    <term id="329" lemma="Dejan">
+      <span>
+        <target id="329"/>
+      </span>
+    </term>
+    <term id="330" lemma="Savicevic">
+      <span>
+        <target id="330"/>
+      </span>
+    </term>
+    <term id="331" lemma="in">
+      <span>
+        <target id="331"/>
+      </span>
+    </term>
+    <term id="332" lemma="midfield">
+      <span>
+        <target id="332"/>
+      </span>
+    </term>
+    <term id="333" lemma=".">
+      <span>
+        <target id="333"/>
+      </span>
+    </term>
+    <term id="334" lemma="Good">
+      <span>
+        <target id="334"/>
+      </span>
+    </term>
+    <term id="335" lemma="news">
+      <span>
+        <target id="335"/>
+      </span>
+    </term>
+    <term id="336" lemma="for">
+      <span>
+        <target id="336"/>
+      </span>
+    </term>
+    <term id="337" lemma="Milan">
+      <span>
+        <target id="337"/>
+      </span>
+    </term>
+    <term id="338" lemma="is">
+      <span>
+        <target id="338"/>
+      </span>
+    </term>
+    <term id="339" lemma="that">
+      <span>
+        <target id="339"/>
+      </span>
+    </term>
+    <term id="340" lemma="Udinese">
+      <span>
+        <target id="340"/>
+      </span>
+    </term>
+    <term id="341" lemma="'s">
+      <span>
+        <target id="341"/>
+      </span>
+    </term>
+    <term id="342" lemma="German">
+      <span>
+        <target id="342"/>
+      </span>
+    </term>
+    <term id="343" lemma="striker">
+      <span>
+        <target id="343"/>
+      </span>
+    </term>
+    <term id="344" lemma="Oliver">
+      <span>
+        <target id="344"/>
+      </span>
+    </term>
+    <term id="345" lemma="Bierhoff">
+      <span>
+        <target id="345"/>
+      </span>
+    </term>
+    <term id="346" lemma="is">
+      <span>
+        <target id="346"/>
+      </span>
+    </term>
+    <term id="347" lemma="out">
+      <span>
+        <target id="347"/>
+      </span>
+    </term>
+    <term id="348" lemma="through">
+      <span>
+        <target id="348"/>
+      </span>
+    </term>
+    <term id="349" lemma="injury">
+      <span>
+        <target id="349"/>
+      </span>
+    </term>
+    <term id="350" lemma=".">
+      <span>
+        <target id="350"/>
+      </span>
+    </term>
+    <term id="351" lemma="Napoli">
+      <span>
+        <target id="351"/>
+      </span>
+    </term>
+    <term id="352" lemma="(">
+      <span>
+        <target id="352"/>
+      </span>
+    </term>
+    <term id="353" lemma="5">
+      <span>
+        <target id="353"/>
+      </span>
+    </term>
+    <term id="354" lemma=")">
+      <span>
+        <target id="354"/>
+      </span>
+    </term>
+    <term id="355" lemma="v">
+      <span>
+        <target id="355"/>
+      </span>
+    </term>
+    <term id="356" lemma="Verona">
+      <span>
+        <target id="356"/>
+      </span>
+    </term>
+    <term id="357" lemma="(">
+      <span>
+        <target id="357"/>
+      </span>
+    </term>
+    <term id="358" lemma="17">
+      <span>
+        <target id="358"/>
+      </span>
+    </term>
+    <term id="359" lemma=")">
+      <span>
+        <target id="359"/>
+      </span>
+    </term>
+    <term id="360" lemma="1330">
+      <span>
+        <target id="360"/>
+      </span>
+    </term>
+    <term id="361" lemma="In-form">
+      <span>
+        <target id="361"/>
+      </span>
+    </term>
+    <term id="362" lemma="Napoli">
+      <span>
+        <target id="362"/>
+      </span>
+    </term>
+    <term id="363" lemma="should">
+      <span>
+        <target id="363"/>
+      </span>
+    </term>
+    <term id="364" lemma="prove">
+      <span>
+        <target id="364"/>
+      </span>
+    </term>
+    <term id="365" lemma="too">
+      <span>
+        <target id="365"/>
+      </span>
+    </term>
+    <term id="366" lemma="strong">
+      <span>
+        <target id="366"/>
+      </span>
+    </term>
+    <term id="367" lemma="for">
+      <span>
+        <target id="367"/>
+      </span>
+    </term>
+    <term id="368" lemma="second">
+      <span>
+        <target id="368"/>
+      </span>
+    </term>
+    <term id="369" lemma="from">
+      <span>
+        <target id="369"/>
+      </span>
+    </term>
+    <term id="370" lemma="bottom">
+      <span>
+        <target id="370"/>
+      </span>
+    </term>
+    <term id="371" lemma="Verona">
+      <span>
+        <target id="371"/>
+      </span>
+    </term>
+    <term id="372" lemma="despite">
+      <span>
+        <target id="372"/>
+      </span>
+    </term>
+    <term id="373" lemma="the">
+      <span>
+        <target id="373"/>
+      </span>
+    </term>
+    <term id="374" lemma="absence">
+      <span>
+        <target id="374"/>
+      </span>
+    </term>
+    <term id="375" lemma="of">
+      <span>
+        <target id="375"/>
+      </span>
+    </term>
+    <term id="376" lemma="their">
+      <span>
+        <target id="376"/>
+      </span>
+    </term>
+    <term id="377" lemma="suspended">
+      <span>
+        <target id="377"/>
+      </span>
+    </term>
+    <term id="378" lemma="Argentine">
+      <span>
+        <target id="378"/>
+      </span>
+    </term>
+    <term id="379" lemma="defender">
+      <span>
+        <target id="379"/>
+      </span>
+    </term>
+    <term id="380" lemma="Roberto">
+      <span>
+        <target id="380"/>
+      </span>
+    </term>
+    <term id="381" lemma="Ayala">
+      <span>
+        <target id="381"/>
+      </span>
+    </term>
+    <term id="382" lemma=".">
+      <span>
+        <target id="382"/>
+      </span>
+    </term>
+    <term id="383" lemma="Verona">
+      <span>
+        <target id="383"/>
+      </span>
+    </term>
+    <term id="384" lemma="'s">
+      <span>
+        <target id="384"/>
+      </span>
+    </term>
+    <term id="385" lemma="slim">
+      <span>
+        <target id="385"/>
+      </span>
+    </term>
+    <term id="386" lemma="chances">
+      <span>
+        <target id="386"/>
+      </span>
+    </term>
+    <term id="387" lemma="have">
+      <span>
+        <target id="387"/>
+      </span>
+    </term>
+    <term id="388" lemma="been">
+      <span>
+        <target id="388"/>
+      </span>
+    </term>
+    <term id="389" lemma="further">
+      <span>
+        <target id="389"/>
+      </span>
+    </term>
+    <term id="390" lemma="reduced">
+      <span>
+        <target id="390"/>
+      </span>
+    </term>
+    <term id="391" lemma="by">
+      <span>
+        <target id="391"/>
+      </span>
+    </term>
+    <term id="392" lemma="a">
+      <span>
+        <target id="392"/>
+      </span>
+    </term>
+    <term id="393" lemma="knee">
+      <span>
+        <target id="393"/>
+      </span>
+    </term>
+    <term id="394" lemma="injury">
+      <span>
+        <target id="394"/>
+      </span>
+    </term>
+    <term id="395" lemma="to">
+      <span>
+        <target id="395"/>
+      </span>
+    </term>
+    <term id="396" lemma="their">
+      <span>
+        <target id="396"/>
+      </span>
+    </term>
+    <term id="397" lemma="experienced">
+      <span>
+        <target id="397"/>
+      </span>
+    </term>
+    <term id="398" lemma="midfielder">
+      <span>
+        <target id="398"/>
+      </span>
+    </term>
+    <term id="399" lemma="Eugenio">
+      <span>
+        <target id="399"/>
+      </span>
+    </term>
+    <term id="400" lemma="Corini">
+      <span>
+        <target id="400"/>
+      </span>
+    </term>
+    <term id="401" lemma=".">
+      <span>
+        <target id="401"/>
+      </span>
+    </term>
+    <term id="402" lemma="Parma">
+      <span>
+        <target id="402"/>
+      </span>
+    </term>
+    <term id="403" lemma="(">
+      <span>
+        <target id="403"/>
+      </span>
+    </term>
+    <term id="404" lemma="14">
+      <span>
+        <target id="404"/>
+      </span>
+    </term>
+    <term id="405" lemma=")">
+      <span>
+        <target id="405"/>
+      </span>
+    </term>
+    <term id="406" lemma="v">
+      <span>
+        <target id="406"/>
+      </span>
+    </term>
+    <term id="407" lemma="Atlalanta">
+      <span>
+        <target id="407"/>
+      </span>
+    </term>
+    <term id="408" lemma="(">
+      <span>
+        <target id="408"/>
+      </span>
+    </term>
+    <term id="409" lemma="15">
+      <span>
+        <target id="409"/>
+      </span>
+    </term>
+    <term id="410" lemma=")">
+      <span>
+        <target id="410"/>
+      </span>
+    </term>
+    <term id="411" lemma="1330">
+      <span>
+        <target id="411"/>
+      </span>
+    </term>
+    <term id="412" lemma="Parma">
+      <span>
+        <target id="412"/>
+      </span>
+    </term>
+    <term id="413" lemma="may">
+      <span>
+        <target id="413"/>
+      </span>
+    </term>
+    <term id="414" lemma="field">
+      <span>
+        <target id="414"/>
+      </span>
+    </term>
+    <term id="415" lemma="new">
+      <span>
+        <target id="415"/>
+      </span>
+    </term>
+    <term id="416" lemma="signing">
+      <span>
+        <target id="416"/>
+      </span>
+    </term>
+    <term id="417" lemma=",">
+      <span>
+        <target id="417"/>
+      </span>
+    </term>
+    <term id="418" lemma="Croat">
+      <span>
+        <target id="418"/>
+      </span>
+    </term>
+    <term id="419" lemma="midfielder">
+      <span>
+        <target id="419"/>
+      </span>
+    </term>
+    <term id="420" lemma="Mario">
+      <span>
+        <target id="420"/>
+      </span>
+    </term>
+    <term id="421" lemma="Stanic">
+      <span>
+        <target id="421"/>
+      </span>
+    </term>
+    <term id="422" lemma=",">
+      <span>
+        <target id="422"/>
+      </span>
+    </term>
+    <term id="423" lemma="in">
+      <span>
+        <target id="423"/>
+      </span>
+    </term>
+    <term id="424" lemma="an">
+      <span>
+        <target id="424"/>
+      </span>
+    </term>
+    <term id="425" lemma="attempt">
+      <span>
+        <target id="425"/>
+      </span>
+    </term>
+    <term id="426" lemma="to">
+      <span>
+        <target id="426"/>
+      </span>
+    </term>
+    <term id="427" lemma="lift">
+      <span>
+        <target id="427"/>
+      </span>
+    </term>
+    <term id="428" lemma="a">
+      <span>
+        <target id="428"/>
+      </span>
+    </term>
+    <term id="429" lemma="miserable">
+      <span>
+        <target id="429"/>
+      </span>
+    </term>
+    <term id="430" lemma="season">
+      <span>
+        <target id="430"/>
+      </span>
+    </term>
+    <term id="431" lemma="which">
+      <span>
+        <target id="431"/>
+      </span>
+    </term>
+    <term id="432" lemma="has">
+      <span>
+        <target id="432"/>
+      </span>
+    </term>
+    <term id="433" lemma="seen">
+      <span>
+        <target id="433"/>
+      </span>
+    </term>
+    <term id="434" lemma="them">
+      <span>
+        <target id="434"/>
+      </span>
+    </term>
+    <term id="435" lemma="go">
+      <span>
+        <target id="435"/>
+      </span>
+    </term>
+    <term id="436" lemma="without">
+      <span>
+        <target id="436"/>
+      </span>
+    </term>
+    <term id="437" lemma="a">
+      <span>
+        <target id="437"/>
+      </span>
+    </term>
+    <term id="438" lemma="win">
+      <span>
+        <target id="438"/>
+      </span>
+    </term>
+    <term id="439" lemma="since">
+      <span>
+        <target id="439"/>
+      </span>
+    </term>
+    <term id="440" lemma="a">
+      <span>
+        <target id="440"/>
+      </span>
+    </term>
+    <term id="441" lemma="1-0">
+      <span>
+        <target id="441"/>
+      </span>
+    </term>
+    <term id="442" lemma="triumph">
+      <span>
+        <target id="442"/>
+      </span>
+    </term>
+    <term id="443" lemma="over">
+      <span>
+        <target id="443"/>
+      </span>
+    </term>
+    <term id="444" lemma="Cagliari">
+      <span>
+        <target id="444"/>
+      </span>
+    </term>
+    <term id="445" lemma="eight">
+      <span>
+        <target id="445"/>
+      </span>
+    </term>
+    <term id="446" lemma="weeks">
+      <span>
+        <target id="446"/>
+      </span>
+    </term>
+    <term id="447" lemma="ago">
+      <span>
+        <target id="447"/>
+      </span>
+    </term>
+    <term id="448" lemma=".">
+      <span>
+        <target id="448"/>
+      </span>
+    </term>
+    <term id="449" lemma="Parma">
+      <span>
+        <target id="449"/>
+      </span>
+    </term>
+    <term id="450" lemma="'s">
+      <span>
+        <target id="450"/>
+      </span>
+    </term>
+    <term id="451" lemma="French">
+      <span>
+        <target id="451"/>
+      </span>
+    </term>
+    <term id="452" lemma="midfielder">
+      <span>
+        <target id="452"/>
+      </span>
+    </term>
+    <term id="453" lemma="Daniel">
+      <span>
+        <target id="453"/>
+      </span>
+    </term>
+    <term id="454" lemma="Bravo">
+      <span>
+        <target id="454"/>
+      </span>
+    </term>
+    <term id="455" lemma="and">
+      <span>
+        <target id="455"/>
+      </span>
+    </term>
+    <term id="456" lemma="defender">
+      <span>
+        <target id="456"/>
+      </span>
+    </term>
+    <term id="457" lemma="Fabio">
+      <span>
+        <target id="457"/>
+      </span>
+    </term>
+    <term id="458" lemma="Cannavaro">
+      <span>
+        <target id="458"/>
+      </span>
+    </term>
+    <term id="459" lemma="are">
+      <span>
+        <target id="459"/>
+      </span>
+    </term>
+    <term id="460" lemma="suspended">
+      <span>
+        <target id="460"/>
+      </span>
+    </term>
+    <term id="461" lemma="while">
+      <span>
+        <target id="461"/>
+      </span>
+    </term>
+    <term id="462" lemma="Argentine">
+      <span>
+        <target id="462"/>
+      </span>
+    </term>
+    <term id="463" lemma="Nestor">
+      <span>
+        <target id="463"/>
+      </span>
+    </term>
+    <term id="464" lemma="Sensini">
+      <span>
+        <target id="464"/>
+      </span>
+    </term>
+    <term id="465" lemma="is">
+      <span>
+        <target id="465"/>
+      </span>
+    </term>
+    <term id="466" lemma="out">
+      <span>
+        <target id="466"/>
+      </span>
+    </term>
+    <term id="467" lemma="through">
+      <span>
+        <target id="467"/>
+      </span>
+    </term>
+    <term id="468" lemma="injury">
+      <span>
+        <target id="468"/>
+      </span>
+    </term>
+    <term id="469" lemma=".">
+      <span>
+        <target id="469"/>
+      </span>
+    </term>
+    <term id="470" lemma="Atalanta">
+      <span>
+        <target id="470"/>
+      </span>
+    </term>
+    <term id="471" lemma="look">
+      <span>
+        <target id="471"/>
+      </span>
+    </term>
+    <term id="472" lemma="to">
+      <span>
+        <target id="472"/>
+      </span>
+    </term>
+    <term id="473" lemma="Filippo">
+      <span>
+        <target id="473"/>
+      </span>
+    </term>
+    <term id="474" lemma="Inzaghi">
+      <span>
+        <target id="474"/>
+      </span>
+    </term>
+    <term id="475" lemma=",">
+      <span>
+        <target id="475"/>
+      </span>
+    </term>
+    <term id="476" lemma="scorer">
+      <span>
+        <target id="476"/>
+      </span>
+    </term>
+    <term id="477" lemma="of">
+      <span>
+        <target id="477"/>
+      </span>
+    </term>
+    <term id="478" lemma="eight">
+      <span>
+        <target id="478"/>
+      </span>
+    </term>
+    <term id="479" lemma="goals">
+      <span>
+        <target id="479"/>
+      </span>
+    </term>
+    <term id="480" lemma=".">
+      <span>
+        <target id="480"/>
+      </span>
+    </term>
+    <term id="481" lemma="Sampdoria">
+      <span>
+        <target id="481"/>
+      </span>
+    </term>
+    <term id="482" lemma="(">
+      <span>
+        <target id="482"/>
+      </span>
+    </term>
+    <term id="483" lemma="6">
+      <span>
+        <target id="483"/>
+      </span>
+    </term>
+    <term id="484" lemma=")">
+      <span>
+        <target id="484"/>
+      </span>
+    </term>
+    <term id="485" lemma="v">
+      <span>
+        <target id="485"/>
+      </span>
+    </term>
+    <term id="486" lemma="Juventus">
+      <span>
+        <target id="486"/>
+      </span>
+    </term>
+    <term id="487" lemma="(">
+      <span>
+        <target id="487"/>
+      </span>
+    </term>
+    <term id="488" lemma="3">
+      <span>
+        <target id="488"/>
+      </span>
+    </term>
+    <term id="489" lemma=")">
+      <span>
+        <target id="489"/>
+      </span>
+    </term>
+    <term id="490" lemma="1330">
+      <span>
+        <target id="490"/>
+      </span>
+    </term>
+    <term id="491" lemma="All-conquering">
+      <span>
+        <target id="491"/>
+      </span>
+    </term>
+    <term id="492" lemma="Juventus">
+      <span>
+        <target id="492"/>
+      </span>
+    </term>
+    <term id="493" lemma="field">
+      <span>
+        <target id="493"/>
+      </span>
+    </term>
+    <term id="494" lemma="their">
+      <span>
+        <target id="494"/>
+      </span>
+    </term>
+    <term id="495" lemma="most">
+      <span>
+        <target id="495"/>
+      </span>
+    </term>
+    <term id="496" lemma="recent">
+      <span>
+        <target id="496"/>
+      </span>
+    </term>
+    <term id="497" lemma="signing">
+      <span>
+        <target id="497"/>
+      </span>
+    </term>
+    <term id="498" lemma=",">
+      <span>
+        <target id="498"/>
+      </span>
+    </term>
+    <term id="499" lemma="Portuguese">
+      <span>
+        <target id="499"/>
+      </span>
+    </term>
+    <term id="500" lemma="defender">
+      <span>
+        <target id="500"/>
+      </span>
+    </term>
+    <term id="501" lemma="Dimas">
+      <span>
+        <target id="501"/>
+      </span>
+    </term>
+    <term id="502" lemma=",">
+      <span>
+        <target id="502"/>
+      </span>
+    </term>
+    <term id="503" lemma="while">
+      <span>
+        <target id="503"/>
+      </span>
+    </term>
+    <term id="504" lemma="Alessandro">
+      <span>
+        <target id="504"/>
+      </span>
+    </term>
+    <term id="505" lemma="Del">
+      <span>
+        <target id="505"/>
+      </span>
+    </term>
+    <term id="506" lemma="Piero">
+      <span>
+        <target id="506"/>
+      </span>
+    </term>
+    <term id="507" lemma="and">
+      <span>
+        <target id="507"/>
+      </span>
+    </term>
+    <term id="508" lemma="Croat">
+      <span>
+        <target id="508"/>
+      </span>
+    </term>
+    <term id="509" lemma="Alen">
+      <span>
+        <target id="509"/>
+      </span>
+    </term>
+    <term id="510" lemma="Boksic">
+      <span>
+        <target id="510"/>
+      </span>
+    </term>
+    <term id="511" lemma="lead">
+      <span>
+        <target id="511"/>
+      </span>
+    </term>
+    <term id="512" lemma="the">
+      <span>
+        <target id="512"/>
+      </span>
+    </term>
+    <term id="513" lemma="attack">
+      <span>
+        <target id="513"/>
+      </span>
+    </term>
+    <term id="514" lemma=".">
+      <span>
+        <target id="514"/>
+      </span>
+    </term>
+    <term id="515" lemma="The">
+      <span>
+        <target id="515"/>
+      </span>
+    </term>
+    <term id="516" lemma="new">
+      <span>
+        <target id="516"/>
+      </span>
+    </term>
+    <term id="517" lemma="world">
+      <span>
+        <target id="517"/>
+      </span>
+    </term>
+    <term id="518" lemma="club">
+      <span>
+        <target id="518"/>
+      </span>
+    </term>
+    <term id="519" lemma="champions">
+      <span>
+        <target id="519"/>
+      </span>
+    </term>
+    <term id="520" lemma="may">
+      <span>
+        <target id="520"/>
+      </span>
+    </term>
+    <term id="521" lemma="prove">
+      <span>
+        <target id="521"/>
+      </span>
+    </term>
+    <term id="522" lemma="too">
+      <span>
+        <target id="522"/>
+      </span>
+    </term>
+    <term id="523" lemma="strong">
+      <span>
+        <target id="523"/>
+      </span>
+    </term>
+    <term id="524" lemma="for">
+      <span>
+        <target id="524"/>
+      </span>
+    </term>
+    <term id="525" lemma="a">
+      <span>
+        <target id="525"/>
+      </span>
+    </term>
+    <term id="526" lemma="Sampdoria">
+      <span>
+        <target id="526"/>
+      </span>
+    </term>
+    <term id="527" lemma="side">
+      <span>
+        <target id="527"/>
+      </span>
+    </term>
+    <term id="528" lemma="led">
+      <span>
+        <target id="528"/>
+      </span>
+    </term>
+    <term id="529" lemma="by">
+      <span>
+        <target id="529"/>
+      </span>
+    </term>
+    <term id="530" lemma="captain">
+      <span>
+        <target id="530"/>
+      </span>
+    </term>
+    <term id="531" lemma="Roberto">
+      <span>
+        <target id="531"/>
+      </span>
+    </term>
+    <term id="532" lemma="Mancini">
+      <span>
+        <target id="532"/>
+      </span>
+    </term>
+    <term id="533" lemma="but">
+      <span>
+        <target id="533"/>
+      </span>
+    </term>
+    <term id="534" lemma="missing">
+      <span>
+        <target id="534"/>
+      </span>
+    </term>
+    <term id="535" lemma="injured">
+      <span>
+        <target id="535"/>
+      </span>
+    </term>
+    <term id="536" lemma="French">
+      <span>
+        <target id="536"/>
+      </span>
+    </term>
+    <term id="537" lemma="midfielder">
+      <span>
+        <target id="537"/>
+      </span>
+    </term>
+    <term id="538" lemma="Pierre">
+      <span>
+        <target id="538"/>
+      </span>
+    </term>
+    <term id="539" lemma="Laigle">
+      <span>
+        <target id="539"/>
+      </span>
+    </term>
+    <term id="540" lemma=".">
+      <span>
+        <target id="540"/>
+      </span>
+    </term>
+    <term id="541" lemma="Vicenza">
+      <span>
+        <target id="541"/>
+      </span>
+    </term>
+    <term id="542" lemma="(">
+      <span>
+        <target id="542"/>
+      </span>
+    </term>
+    <term id="543" lemma="1">
+      <span>
+        <target id="543"/>
+      </span>
+    </term>
+    <term id="544" lemma=")">
+      <span>
+        <target id="544"/>
+      </span>
+    </term>
+    <term id="545" lemma="v">
+      <span>
+        <target id="545"/>
+      </span>
+    </term>
+    <term id="546" lemma="Internazionale">
+      <span>
+        <target id="546"/>
+      </span>
+    </term>
+    <term id="547" lemma="(">
+      <span>
+        <target id="547"/>
+      </span>
+    </term>
+    <term id="548" lemma="2">
+      <span>
+        <target id="548"/>
+      </span>
+    </term>
+    <term id="549" lemma=")">
+      <span>
+        <target id="549"/>
+      </span>
+    </term>
+    <term id="550" lemma="1330">
+      <span>
+        <target id="550"/>
+      </span>
+    </term>
+    <term id="551" lemma="Not">
+      <span>
+        <target id="551"/>
+      </span>
+    </term>
+    <term id="552" lemma="exactly">
+      <span>
+        <target id="552"/>
+      </span>
+    </term>
+    <term id="553" lemma="a">
+      <span>
+        <target id="553"/>
+      </span>
+    </term>
+    <term id="554" lemma="clash">
+      <span>
+        <target id="554"/>
+      </span>
+    </term>
+    <term id="555" lemma="of">
+      <span>
+        <target id="555"/>
+      </span>
+    </term>
+    <term id="556" lemma="the">
+      <span>
+        <target id="556"/>
+      </span>
+    </term>
+    <term id="557" lemma="titans">
+      <span>
+        <target id="557"/>
+      </span>
+    </term>
+    <term id="558" lemma="but">
+      <span>
+        <target id="558"/>
+      </span>
+    </term>
+    <term id="559" lemma="an">
+      <span>
+        <target id="559"/>
+      </span>
+    </term>
+    <term id="560" lemma="intriuguing">
+      <span>
+        <target id="560"/>
+      </span>
+    </term>
+    <term id="561" lemma="match">
+      <span>
+        <target id="561"/>
+      </span>
+    </term>
+    <term id="562" lemma="nonetheless">
+      <span>
+        <target id="562"/>
+      </span>
+    </term>
+    <term id="563" lemma=".">
+      <span>
+        <target id="563"/>
+      </span>
+    </term>
+    <term id="564" lemma="Full">
+      <span>
+        <target id="564"/>
+      </span>
+    </term>
+    <term id="565" lemma="strength">
+      <span>
+        <target id="565"/>
+      </span>
+    </term>
+    <term id="566" lemma="Vicenza">
+      <span>
+        <target id="566"/>
+      </span>
+    </term>
+    <term id="567" lemma=",">
+      <span>
+        <target id="567"/>
+      </span>
+    </term>
+    <term id="568" lemma="led">
+      <span>
+        <target id="568"/>
+      </span>
+    </term>
+    <term id="569" lemma="by">
+      <span>
+        <target id="569"/>
+      </span>
+    </term>
+    <term id="570" lemma="Uruguayan">
+      <span>
+        <target id="570"/>
+      </span>
+    </term>
+    <term id="571" lemma="Marcelo">
+      <span>
+        <target id="571"/>
+      </span>
+    </term>
+    <term id="572" lemma="Otero">
+      <span>
+        <target id="572"/>
+      </span>
+    </term>
+    <term id="573" lemma=",">
+      <span>
+        <target id="573"/>
+      </span>
+    </term>
+    <term id="574" lemma="may">
+      <span>
+        <target id="574"/>
+      </span>
+    </term>
+    <term id="575" lemma="continue">
+      <span>
+        <target id="575"/>
+      </span>
+    </term>
+    <term id="576" lemma="their">
+      <span>
+        <target id="576"/>
+      </span>
+    </term>
+    <term id="577" lemma="surprise">
+      <span>
+        <target id="577"/>
+      </span>
+    </term>
+    <term id="578" lemma="run">
+      <span>
+        <target id="578"/>
+      </span>
+    </term>
+    <term id="579" lemma="at">
+      <span>
+        <target id="579"/>
+      </span>
+    </term>
+    <term id="580" lemma="the">
+      <span>
+        <target id="580"/>
+      </span>
+    </term>
+    <term id="581" lemma="top">
+      <span>
+        <target id="581"/>
+      </span>
+    </term>
+    <term id="582" lemma="against">
+      <span>
+        <target id="582"/>
+      </span>
+    </term>
+    <term id="583" lemma="an">
+      <span>
+        <target id="583"/>
+      </span>
+    </term>
+    <term id="584" lemma="Inter">
+      <span>
+        <target id="584"/>
+      </span>
+    </term>
+    <term id="585" lemma="side">
+      <span>
+        <target id="585"/>
+      </span>
+    </term>
+    <term id="586" lemma="that">
+      <span>
+        <target id="586"/>
+      </span>
+    </term>
+    <term id="587" lemma="has">
+      <span>
+        <target id="587"/>
+      </span>
+    </term>
+    <term id="588" lemma="been">
+      <span>
+        <target id="588"/>
+      </span>
+    </term>
+    <term id="589" lemma="less">
+      <span>
+        <target id="589"/>
+      </span>
+    </term>
+    <term id="590" lemma="than">
+      <span>
+        <target id="590"/>
+      </span>
+    </term>
+    <term id="591" lemma="impressive">
+      <span>
+        <target id="591"/>
+      </span>
+    </term>
+    <term id="592" lemma="in">
+      <span>
+        <target id="592"/>
+      </span>
+    </term>
+    <term id="593" lemma="three">
+      <span>
+        <target id="593"/>
+      </span>
+    </term>
+    <term id="594" lemma="successive">
+      <span>
+        <target id="594"/>
+      </span>
+    </term>
+    <term id="595" lemma="home">
+      <span>
+        <target id="595"/>
+      </span>
+    </term>
+    <term id="596" lemma="draws">
+      <span>
+        <target id="596"/>
+      </span>
+    </term>
+    <term id="597" lemma=".">
+      <span>
+        <target id="597"/>
+      </span>
+    </term>
+    <term id="598" lemma="Inter">
+      <span>
+        <target id="598"/>
+      </span>
+    </term>
+    <term id="599" lemma="will">
+      <span>
+        <target id="599"/>
+      </span>
+    </term>
+    <term id="600" lemma="be">
+      <span>
+        <target id="600"/>
+      </span>
+    </term>
+    <term id="601" lemma="without">
+      <span>
+        <target id="601"/>
+      </span>
+    </term>
+    <term id="602" lemma="suspended">
+      <span>
+        <target id="602"/>
+      </span>
+    </term>
+    <term id="603" lemma="French">
+      <span>
+        <target id="603"/>
+      </span>
+    </term>
+    <term id="604" lemma="defender">
+      <span>
+        <target id="604"/>
+      </span>
+    </term>
+    <term id="605" lemma="Joceyln">
+      <span>
+        <target id="605"/>
+      </span>
+    </term>
+    <term id="606" lemma="Angloma">
+      <span>
+        <target id="606"/>
+      </span>
+    </term>
+    <term id="607" lemma="and">
+      <span>
+        <target id="607"/>
+      </span>
+    </term>
+    <term id="608" lemma="injured">
+      <span>
+        <target id="608"/>
+      </span>
+    </term>
+    <term id="609" lemma="Chilean">
+      <span>
+        <target id="609"/>
+      </span>
+    </term>
+    <term id="610" lemma="striker">
+      <span>
+        <target id="610"/>
+      </span>
+    </term>
+    <term id="611" lemma="Ivan">
+      <span>
+        <target id="611"/>
+      </span>
+    </term>
+    <term id="612" lemma="Zamorano">
+      <span>
+        <target id="612"/>
+      </span>
+    </term>
+    <term id="613" lemma=".">
+      <span>
+        <target id="613"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="1408">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Italy" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="3"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1409">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Rome" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="10"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1410">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Italy" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1411">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Serie_A" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="13"/>
+          <target id="14"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1412">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Greenwich_Mean_Time" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="31"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1413">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Bologna_F.C._1909" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="34"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1414">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Piacenza_Calcio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="39"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1415">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Vicenza_Calcio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="47"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1416">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Bologna_F.C._1909" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="50"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1417">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Italy" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="57"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1418">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Sweden" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="64"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1419">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Kennet_Andersson" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="65"/>
+          <target id="66"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1420">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Russia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="68"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1421">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Igor_Kolyvanov" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="69"/>
+          <target id="70"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1422">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Bologna_F.C._1909" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="74"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1423">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Piacenza_Calcio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="83"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1424">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/A.C._Milan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="93"/>
+          <target id="94"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1425">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Cagliari_Calcio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="98"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1426">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/A.C._Reggiana_1919" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="103"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1427">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Cagliari_Calcio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="108"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1428">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/S.S.C._Napoli" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="118"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1429">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/F.C._Internazionale_Milano" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="120"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1430">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Switzerland" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="130"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1431">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ramon_Vega" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="132"/>
+          <target id="133"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1432">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/A.C._Reggiana_1919" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="137"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1433">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="145"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1434">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dietmar_Beiersdorfer" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="146"/>
+          <target id="147"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1435">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/ACF_Fiorentina" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="149"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1436">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Perugia_Calcio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="154"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1437">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/ACF_Fiorentina" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="159"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1438">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Daniele_Carnasciali" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="168"/>
+          <target id="169"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1439">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Lorenzo_Amoruso" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="171"/>
+          <target id="172"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1440">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="175"/>
+          <target id="176"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1441">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Perugia_Calcio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="187"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1442">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Croatia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="191"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1443">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="193"/>
+          <target id="194"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1444">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Fausto_Pizzi" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="198"/>
+          <target id="199"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1445">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/S.S._Lazio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="201"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1446">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/A.S._Roma" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="206"/>
+          <target id="207"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1447">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Rome" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="215"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1448">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Rome" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="226"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1449">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Italy" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="233"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1450">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/UEFA_Europa_League" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="235"/>
+          <target id="236"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1451">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/S.S._Lazio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="238"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1452">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pierluigi_Casiraghi" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="244"/>
+          <target id="245"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1453">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Czech_Republic" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="247"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1454">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pavel_Nedvěd" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="249"/>
+          <target id="250"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1455">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Paolo_Negro" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="253"/>
+          <target id="254"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1456">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/A.S._Roma" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="257"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1457">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Argentina" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="265"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1458">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Abel_Balbo" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="266"/>
+          <target id="267"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1459">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Marco_Delvecchio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="269"/>
+          <target id="270"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1460">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Francesco_Totti" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="272"/>
+          <target id="273"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1461">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/A.C._Milan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="277"/>
+          <target id="278"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1462">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Udinese_Calcio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="283"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1463">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/A.C._Milan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="289"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1464">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="297"/>
+          <target id="298"/>
+          <target id="299"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1465">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Norway" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="302"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1466">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Rosenborg_BK" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="304"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1467">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Liberia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="313"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1468">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/George_Weah" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="315"/>
+          <target id="316"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1469">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/A.C._Milan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="322"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1470">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Roberto_Baggio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="324"/>
+          <target id="325"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1471">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Montenegro" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="328"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1472">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dejan_Savićević" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="329"/>
+          <target id="330"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1473">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/A.C._Milan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="337"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1474">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Udinese_Calcio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="340"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1475">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="342"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1476">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Oliver_Bierhoff" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="344"/>
+          <target id="345"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1477">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/S.S.C._Napoli" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="351"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1478">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Hellas_Verona_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="356"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1479">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/S.S.C._Napoli" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="362"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1480">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Hellas_Verona_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="371"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1481">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Argentina" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="378"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1482">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Roberto_Ayala" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="380"/>
+          <target id="381"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1483">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Hellas_Verona_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="383"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1484">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Eugenio_Corini" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="399"/>
+          <target id="400"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1485">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Parma_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="402"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1486">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="407"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1487">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Parma_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="412"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1488">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Croatia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="418"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1489">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Mario_Stanić" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="420"/>
+          <target id="421"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1490">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Cagliari_Calcio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="444"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1491">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Parma_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="449"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1492">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/France" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="451"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1493">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Daniel_Bravo" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="453"/>
+          <target id="454"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1494">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Fabio_Cannavaro" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="457"/>
+          <target id="458"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1495">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Argentina" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="462"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1496">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="463"/>
+          <target id="464"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1497">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Atalanta_B.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="470"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1498">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Filippo_Inzaghi" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="473"/>
+          <target id="474"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1499">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/U.C._Sampdoria" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="481"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1500">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Juventus_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="486"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1501">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Juventus_F.C." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="492"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1502">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Portugal" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="499"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1503">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dimas_Teixeira" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="501"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1504">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Alessandro_Del_Piero" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="504"/>
+          <target id="505"/>
+          <target id="506"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1505">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Croatia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="508"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1506">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Alen_Bokšić" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="509"/>
+          <target id="510"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1507">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/U.C._Sampdoria" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="526"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1508">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Roberto_Mancini" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="531"/>
+          <target id="532"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1509">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/France" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="536"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1510">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pierre_Laigle" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="538"/>
+          <target id="539"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1511">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Vicenza_Calcio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="541"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1512">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/F.C._Internazionale_Milano" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="546"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1513">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Vicenza_Calcio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="566"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1514">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Uruguay" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="570"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1515">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Marcelo_Otero" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="571"/>
+          <target id="572"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1516">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/F.C._Internazionale_Milano" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="584"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1517">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/F.C._Internazionale_Milano" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="598"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1518">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/France" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="603"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1519">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="605"/>
+          <target id="606"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1520">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chile" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="609"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1521">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Iván_Zamorano" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="611"/>
+          <target id="612"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

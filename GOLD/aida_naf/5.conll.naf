@@ -1,0 +1,986 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[SOCCER - ASIAN CUP GROUP C RESULTS . AL-AIN , United Arab Emirates 1996-12-06 Results of Asian Cup group C matches played on Friday : Japan 2 Syria 1 ( halftime 0-1 ) Scorers : Japan - Hassan Abbas 84 own goal , Takuya Takagi 88 . Syria - Nader Jokhadar 7 Attendance : 10,000 . China 0 Uzbekistan 2 ( halftime 0-0 ) Scorers : Shkvyrin Igor 78 , Shatskikh Oleg 90 Attendence : 3,000 Standings ( tabulate under played , won , drawn , lost , goals for , goals against , points ) : Uzbekistan 1 1 0 0 2 0 3 Japan 1 1 0 0 2 1 3 Syria 1 0 0 1 1 2 0 China 1 0 0 1 0 2 0 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1167testb" filename="1167testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="6"><![CDATA[SOCCER]]></wf>
+    <wf id="2" sent="1" para="1" offset="6" length="1"><![CDATA[-]]></wf>
+    <wf id="3" sent="1" para="1" offset="7" length="5"><![CDATA[ASIAN]]></wf>
+    <wf id="4" sent="1" para="1" offset="12" length="3"><![CDATA[CUP]]></wf>
+    <wf id="5" sent="1" para="1" offset="15" length="5"><![CDATA[GROUP]]></wf>
+    <wf id="6" sent="1" para="1" offset="20" length="1"><![CDATA[C]]></wf>
+    <wf id="7" sent="1" para="1" offset="21" length="7"><![CDATA[RESULTS]]></wf>
+    <wf id="8" sent="1" para="1" offset="28" length="1"><![CDATA[.]]></wf>
+    <wf id="9" sent="1" para="1" offset="29" length="6"><![CDATA[AL-AIN]]></wf>
+    <wf id="10" sent="1" para="1" offset="35" length="1"><![CDATA[,]]></wf>
+    <wf id="11" sent="1" para="1" offset="36" length="6"><![CDATA[United]]></wf>
+    <wf id="12" sent="1" para="1" offset="42" length="4"><![CDATA[Arab]]></wf>
+    <wf id="13" sent="1" para="1" offset="46" length="8"><![CDATA[Emirates]]></wf>
+    <wf id="14" sent="1" para="1" offset="54" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="15" sent="1" para="1" offset="64" length="7"><![CDATA[Results]]></wf>
+    <wf id="16" sent="1" para="1" offset="71" length="2"><![CDATA[of]]></wf>
+    <wf id="17" sent="1" para="1" offset="73" length="5"><![CDATA[Asian]]></wf>
+    <wf id="18" sent="1" para="1" offset="78" length="3"><![CDATA[Cup]]></wf>
+    <wf id="19" sent="1" para="1" offset="81" length="5"><![CDATA[group]]></wf>
+    <wf id="20" sent="1" para="1" offset="86" length="1"><![CDATA[C]]></wf>
+    <wf id="21" sent="1" para="1" offset="87" length="7"><![CDATA[matches]]></wf>
+    <wf id="22" sent="1" para="1" offset="94" length="6"><![CDATA[played]]></wf>
+    <wf id="23" sent="1" para="1" offset="100" length="2"><![CDATA[on]]></wf>
+    <wf id="24" sent="1" para="1" offset="102" length="6"><![CDATA[Friday]]></wf>
+    <wf id="25" sent="1" para="1" offset="108" length="1"><![CDATA[:]]></wf>
+    <wf id="26" sent="1" para="1" offset="109" length="5"><![CDATA[Japan]]></wf>
+    <wf id="27" sent="1" para="1" offset="114" length="1"><![CDATA[2]]></wf>
+    <wf id="28" sent="1" para="1" offset="115" length="5"><![CDATA[Syria]]></wf>
+    <wf id="29" sent="1" para="1" offset="120" length="1"><![CDATA[1]]></wf>
+    <wf id="30" sent="1" para="1" offset="121" length="1"><![CDATA[(]]></wf>
+    <wf id="31" sent="1" para="1" offset="122" length="8"><![CDATA[halftime]]></wf>
+    <wf id="32" sent="1" para="1" offset="130" length="3"><![CDATA[0-1]]></wf>
+    <wf id="33" sent="1" para="1" offset="133" length="1"><![CDATA[)]]></wf>
+    <wf id="34" sent="1" para="1" offset="134" length="7"><![CDATA[Scorers]]></wf>
+    <wf id="35" sent="1" para="1" offset="141" length="1"><![CDATA[:]]></wf>
+    <wf id="36" sent="1" para="1" offset="142" length="5"><![CDATA[Japan]]></wf>
+    <wf id="37" sent="1" para="1" offset="147" length="1"><![CDATA[-]]></wf>
+    <wf id="38" sent="1" para="1" offset="148" length="6"><![CDATA[Hassan]]></wf>
+    <wf id="39" sent="1" para="1" offset="154" length="5"><![CDATA[Abbas]]></wf>
+    <wf id="40" sent="1" para="1" offset="159" length="2"><![CDATA[84]]></wf>
+    <wf id="41" sent="1" para="1" offset="161" length="3"><![CDATA[own]]></wf>
+    <wf id="42" sent="1" para="1" offset="164" length="4"><![CDATA[goal]]></wf>
+    <wf id="43" sent="1" para="1" offset="168" length="1"><![CDATA[,]]></wf>
+    <wf id="44" sent="1" para="1" offset="169" length="6"><![CDATA[Takuya]]></wf>
+    <wf id="45" sent="1" para="1" offset="175" length="6"><![CDATA[Takagi]]></wf>
+    <wf id="46" sent="1" para="1" offset="181" length="2"><![CDATA[88]]></wf>
+    <wf id="47" sent="1" para="1" offset="183" length="1"><![CDATA[.]]></wf>
+    <wf id="48" sent="1" para="1" offset="184" length="5"><![CDATA[Syria]]></wf>
+    <wf id="49" sent="1" para="1" offset="189" length="1"><![CDATA[-]]></wf>
+    <wf id="50" sent="1" para="1" offset="190" length="5"><![CDATA[Nader]]></wf>
+    <wf id="51" sent="1" para="1" offset="195" length="8"><![CDATA[Jokhadar]]></wf>
+    <wf id="52" sent="1" para="1" offset="203" length="1"><![CDATA[7]]></wf>
+    <wf id="53" sent="1" para="1" offset="204" length="10"><![CDATA[Attendance]]></wf>
+    <wf id="54" sent="1" para="1" offset="214" length="1"><![CDATA[:]]></wf>
+    <wf id="55" sent="1" para="1" offset="215" length="6"><![CDATA[10,000]]></wf>
+    <wf id="56" sent="1" para="1" offset="221" length="1"><![CDATA[.]]></wf>
+    <wf id="57" sent="1" para="1" offset="222" length="5"><![CDATA[China]]></wf>
+    <wf id="58" sent="1" para="1" offset="227" length="1"><![CDATA[0]]></wf>
+    <wf id="59" sent="1" para="1" offset="228" length="10"><![CDATA[Uzbekistan]]></wf>
+    <wf id="60" sent="1" para="1" offset="238" length="1"><![CDATA[2]]></wf>
+    <wf id="61" sent="1" para="1" offset="239" length="1"><![CDATA[(]]></wf>
+    <wf id="62" sent="1" para="1" offset="240" length="8"><![CDATA[halftime]]></wf>
+    <wf id="63" sent="1" para="1" offset="248" length="3"><![CDATA[0-0]]></wf>
+    <wf id="64" sent="1" para="1" offset="251" length="1"><![CDATA[)]]></wf>
+    <wf id="65" sent="1" para="1" offset="252" length="7"><![CDATA[Scorers]]></wf>
+    <wf id="66" sent="1" para="1" offset="259" length="1"><![CDATA[:]]></wf>
+    <wf id="67" sent="1" para="1" offset="260" length="8"><![CDATA[Shkvyrin]]></wf>
+    <wf id="68" sent="1" para="1" offset="268" length="4"><![CDATA[Igor]]></wf>
+    <wf id="69" sent="1" para="1" offset="272" length="2"><![CDATA[78]]></wf>
+    <wf id="70" sent="1" para="1" offset="274" length="1"><![CDATA[,]]></wf>
+    <wf id="71" sent="1" para="1" offset="275" length="9"><![CDATA[Shatskikh]]></wf>
+    <wf id="72" sent="1" para="1" offset="284" length="4"><![CDATA[Oleg]]></wf>
+    <wf id="73" sent="1" para="1" offset="288" length="2"><![CDATA[90]]></wf>
+    <wf id="74" sent="1" para="1" offset="290" length="10"><![CDATA[Attendence]]></wf>
+    <wf id="75" sent="1" para="1" offset="300" length="1"><![CDATA[:]]></wf>
+    <wf id="76" sent="1" para="1" offset="301" length="5"><![CDATA[3,000]]></wf>
+    <wf id="77" sent="1" para="1" offset="306" length="9"><![CDATA[Standings]]></wf>
+    <wf id="78" sent="1" para="1" offset="315" length="1"><![CDATA[(]]></wf>
+    <wf id="79" sent="1" para="1" offset="316" length="8"><![CDATA[tabulate]]></wf>
+    <wf id="80" sent="1" para="1" offset="324" length="5"><![CDATA[under]]></wf>
+    <wf id="81" sent="1" para="1" offset="329" length="6"><![CDATA[played]]></wf>
+    <wf id="82" sent="1" para="1" offset="335" length="1"><![CDATA[,]]></wf>
+    <wf id="83" sent="1" para="1" offset="336" length="3"><![CDATA[won]]></wf>
+    <wf id="84" sent="1" para="1" offset="339" length="1"><![CDATA[,]]></wf>
+    <wf id="85" sent="1" para="1" offset="340" length="5"><![CDATA[drawn]]></wf>
+    <wf id="86" sent="1" para="1" offset="345" length="1"><![CDATA[,]]></wf>
+    <wf id="87" sent="1" para="1" offset="346" length="4"><![CDATA[lost]]></wf>
+    <wf id="88" sent="1" para="1" offset="350" length="1"><![CDATA[,]]></wf>
+    <wf id="89" sent="1" para="1" offset="351" length="5"><![CDATA[goals]]></wf>
+    <wf id="90" sent="1" para="1" offset="356" length="3"><![CDATA[for]]></wf>
+    <wf id="91" sent="1" para="1" offset="359" length="1"><![CDATA[,]]></wf>
+    <wf id="92" sent="1" para="1" offset="360" length="5"><![CDATA[goals]]></wf>
+    <wf id="93" sent="1" para="1" offset="365" length="7"><![CDATA[against]]></wf>
+    <wf id="94" sent="1" para="1" offset="372" length="1"><![CDATA[,]]></wf>
+    <wf id="95" sent="1" para="1" offset="373" length="6"><![CDATA[points]]></wf>
+    <wf id="96" sent="1" para="1" offset="379" length="1"><![CDATA[)]]></wf>
+    <wf id="97" sent="1" para="1" offset="380" length="1"><![CDATA[:]]></wf>
+    <wf id="98" sent="1" para="1" offset="381" length="10"><![CDATA[Uzbekistan]]></wf>
+    <wf id="99" sent="1" para="1" offset="391" length="1"><![CDATA[1]]></wf>
+    <wf id="100" sent="1" para="1" offset="392" length="1"><![CDATA[1]]></wf>
+    <wf id="101" sent="1" para="1" offset="393" length="1"><![CDATA[0]]></wf>
+    <wf id="102" sent="1" para="1" offset="394" length="1"><![CDATA[0]]></wf>
+    <wf id="103" sent="1" para="1" offset="395" length="1"><![CDATA[2]]></wf>
+    <wf id="104" sent="1" para="1" offset="396" length="1"><![CDATA[0]]></wf>
+    <wf id="105" sent="1" para="1" offset="397" length="1"><![CDATA[3]]></wf>
+    <wf id="106" sent="1" para="1" offset="398" length="5"><![CDATA[Japan]]></wf>
+    <wf id="107" sent="1" para="1" offset="403" length="1"><![CDATA[1]]></wf>
+    <wf id="108" sent="1" para="1" offset="404" length="1"><![CDATA[1]]></wf>
+    <wf id="109" sent="1" para="1" offset="405" length="1"><![CDATA[0]]></wf>
+    <wf id="110" sent="1" para="1" offset="406" length="1"><![CDATA[0]]></wf>
+    <wf id="111" sent="1" para="1" offset="407" length="1"><![CDATA[2]]></wf>
+    <wf id="112" sent="1" para="1" offset="408" length="1"><![CDATA[1]]></wf>
+    <wf id="113" sent="1" para="1" offset="409" length="1"><![CDATA[3]]></wf>
+    <wf id="114" sent="1" para="1" offset="410" length="5"><![CDATA[Syria]]></wf>
+    <wf id="115" sent="1" para="1" offset="415" length="1"><![CDATA[1]]></wf>
+    <wf id="116" sent="1" para="1" offset="416" length="1"><![CDATA[0]]></wf>
+    <wf id="117" sent="1" para="1" offset="417" length="1"><![CDATA[0]]></wf>
+    <wf id="118" sent="1" para="1" offset="418" length="1"><![CDATA[1]]></wf>
+    <wf id="119" sent="1" para="1" offset="419" length="1"><![CDATA[1]]></wf>
+    <wf id="120" sent="1" para="1" offset="420" length="1"><![CDATA[2]]></wf>
+    <wf id="121" sent="1" para="1" offset="421" length="1"><![CDATA[0]]></wf>
+    <wf id="122" sent="1" para="1" offset="422" length="5"><![CDATA[China]]></wf>
+    <wf id="123" sent="1" para="1" offset="427" length="1"><![CDATA[1]]></wf>
+    <wf id="124" sent="1" para="1" offset="428" length="1"><![CDATA[0]]></wf>
+    <wf id="125" sent="1" para="1" offset="429" length="1"><![CDATA[0]]></wf>
+    <wf id="126" sent="1" para="1" offset="430" length="1"><![CDATA[1]]></wf>
+    <wf id="127" sent="1" para="1" offset="431" length="1"><![CDATA[0]]></wf>
+    <wf id="128" sent="1" para="1" offset="432" length="1"><![CDATA[2]]></wf>
+    <wf id="129" sent="1" para="1" offset="433" length="1"><![CDATA[0]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="SOCCER">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="-">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="ASIAN">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="CUP">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="GROUP">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="C">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="RESULTS">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma=".">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="AL-AIN">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma=",">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="United">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="Arab">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Emirates">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="1996-12-06">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="Results">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="of">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="Asian">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="Cup">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="group">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="C">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="matches">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="played">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="on">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="Friday">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma=":">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="Japan">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="2">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="Syria">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="1">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="(">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="halftime">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="0-1">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma=")">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="Scorers">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma=":">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="Japan">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="-">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="Hassan">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="Abbas">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="84">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="own">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="goal">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma=",">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="Takuya">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="Takagi">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="88">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma=".">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="Syria">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="-">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="Nader">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="Jokhadar">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="7">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="Attendance">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma=":">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="10,000">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma=".">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="China">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="0">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="Uzbekistan">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="2">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="(">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="halftime">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="0-0">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma=")">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="Scorers">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma=":">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="Shkvyrin">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="Igor">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="78">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma=",">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="Shatskikh">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="Oleg">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="90">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="Attendence">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma=":">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="3,000">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="Standings">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="(">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="tabulate">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="under">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="played">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma=",">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="won">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma=",">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="drawn">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma=",">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="lost">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma=",">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="goals">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="for">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma=",">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="goals">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="against">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma=",">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="points">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma=")">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma=":">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="Uzbekistan">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="1">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="1">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="0">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="0">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="2">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="0">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="3">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="Japan">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="1">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="1">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="0">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="0">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="2">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="1">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="3">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="Syria">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="1">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="0">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="0">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="1">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="1">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="2">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="0">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="China">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="1">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="0">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="0">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="1">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="0">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="2">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="0">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="187">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/AFC_Asian_Cup" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="3"/>
+          <target id="4"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="188">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Al_Ain" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="189">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_Arab_Emirates" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+          <target id="12"/>
+          <target id="13"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="190">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/AFC_Asian_Cup" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="17"/>
+          <target id="18"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="191">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Japan_national_football_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="26"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="192">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Syria_national_football_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="28"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="193">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Japan_national_football_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="36"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="194">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Hassan_Abbas" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="38"/>
+          <target id="39"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="195">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Takuya_Takagi" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="44"/>
+          <target id="45"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="196">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Syria_national_football_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="48"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="197">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="50"/>
+          <target id="51"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="198">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/China_PR_national_football_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="57"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="199">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Uzbekistan_national_football_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="59"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="200">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="67"/>
+          <target id="68"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="201">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="71"/>
+          <target id="72"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="202">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Uzbekistan_national_football_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="98"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="203">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Japan_national_football_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="106"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="204">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Syria_national_football_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="114"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="205">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/China_PR_national_football_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="122"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

@@ -1,0 +1,564 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[RTRS - Cricket - Play restarts in Australia-West Indies match . MELBOURNE 1996-12-06 Play restarted in the first World Series limited overs match between West Indies and Australia after a rain delay of 50 minutes on Friday . West Indies resumed their innings on 53 for two with opener Sherwin Campbell on 25 and Shivnarine Chanderpaul 10 . Rain earlier delayed the start of play by 30 minutes . -- Sydney Newsroom 61-2 9373-1800 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1228testb" filename="1228testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="4"><![CDATA[RTRS]]></wf>
+    <wf id="2" sent="1" para="1" offset="4" length="1"><![CDATA[-]]></wf>
+    <wf id="3" sent="1" para="1" offset="5" length="7"><![CDATA[Cricket]]></wf>
+    <wf id="4" sent="1" para="1" offset="12" length="1"><![CDATA[-]]></wf>
+    <wf id="5" sent="1" para="1" offset="13" length="4"><![CDATA[Play]]></wf>
+    <wf id="6" sent="1" para="1" offset="17" length="8"><![CDATA[restarts]]></wf>
+    <wf id="7" sent="1" para="1" offset="25" length="2"><![CDATA[in]]></wf>
+    <wf id="8" sent="1" para="1" offset="27" length="14"><![CDATA[Australia-West]]></wf>
+    <wf id="9" sent="1" para="1" offset="41" length="6"><![CDATA[Indies]]></wf>
+    <wf id="10" sent="1" para="1" offset="47" length="5"><![CDATA[match]]></wf>
+    <wf id="11" sent="1" para="1" offset="52" length="1"><![CDATA[.]]></wf>
+    <wf id="12" sent="1" para="1" offset="53" length="9"><![CDATA[MELBOURNE]]></wf>
+    <wf id="13" sent="1" para="1" offset="62" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="14" sent="1" para="1" offset="72" length="4"><![CDATA[Play]]></wf>
+    <wf id="15" sent="1" para="1" offset="76" length="9"><![CDATA[restarted]]></wf>
+    <wf id="16" sent="1" para="1" offset="85" length="2"><![CDATA[in]]></wf>
+    <wf id="17" sent="1" para="1" offset="87" length="3"><![CDATA[the]]></wf>
+    <wf id="18" sent="1" para="1" offset="90" length="5"><![CDATA[first]]></wf>
+    <wf id="19" sent="1" para="1" offset="95" length="5"><![CDATA[World]]></wf>
+    <wf id="20" sent="1" para="1" offset="100" length="6"><![CDATA[Series]]></wf>
+    <wf id="21" sent="1" para="1" offset="106" length="7"><![CDATA[limited]]></wf>
+    <wf id="22" sent="1" para="1" offset="113" length="5"><![CDATA[overs]]></wf>
+    <wf id="23" sent="1" para="1" offset="118" length="5"><![CDATA[match]]></wf>
+    <wf id="24" sent="1" para="1" offset="123" length="7"><![CDATA[between]]></wf>
+    <wf id="25" sent="1" para="1" offset="130" length="4"><![CDATA[West]]></wf>
+    <wf id="26" sent="1" para="1" offset="134" length="6"><![CDATA[Indies]]></wf>
+    <wf id="27" sent="1" para="1" offset="140" length="3"><![CDATA[and]]></wf>
+    <wf id="28" sent="1" para="1" offset="143" length="9"><![CDATA[Australia]]></wf>
+    <wf id="29" sent="1" para="1" offset="152" length="5"><![CDATA[after]]></wf>
+    <wf id="30" sent="1" para="1" offset="157" length="1"><![CDATA[a]]></wf>
+    <wf id="31" sent="1" para="1" offset="158" length="4"><![CDATA[rain]]></wf>
+    <wf id="32" sent="1" para="1" offset="162" length="5"><![CDATA[delay]]></wf>
+    <wf id="33" sent="1" para="1" offset="167" length="2"><![CDATA[of]]></wf>
+    <wf id="34" sent="1" para="1" offset="169" length="2"><![CDATA[50]]></wf>
+    <wf id="35" sent="1" para="1" offset="171" length="7"><![CDATA[minutes]]></wf>
+    <wf id="36" sent="1" para="1" offset="178" length="2"><![CDATA[on]]></wf>
+    <wf id="37" sent="1" para="1" offset="180" length="6"><![CDATA[Friday]]></wf>
+    <wf id="38" sent="1" para="1" offset="186" length="1"><![CDATA[.]]></wf>
+    <wf id="39" sent="1" para="1" offset="187" length="4"><![CDATA[West]]></wf>
+    <wf id="40" sent="1" para="1" offset="191" length="6"><![CDATA[Indies]]></wf>
+    <wf id="41" sent="1" para="1" offset="197" length="7"><![CDATA[resumed]]></wf>
+    <wf id="42" sent="1" para="1" offset="204" length="5"><![CDATA[their]]></wf>
+    <wf id="43" sent="1" para="1" offset="209" length="7"><![CDATA[innings]]></wf>
+    <wf id="44" sent="1" para="1" offset="216" length="2"><![CDATA[on]]></wf>
+    <wf id="45" sent="1" para="1" offset="218" length="2"><![CDATA[53]]></wf>
+    <wf id="46" sent="1" para="1" offset="220" length="3"><![CDATA[for]]></wf>
+    <wf id="47" sent="1" para="1" offset="223" length="3"><![CDATA[two]]></wf>
+    <wf id="48" sent="1" para="1" offset="226" length="4"><![CDATA[with]]></wf>
+    <wf id="49" sent="1" para="1" offset="230" length="6"><![CDATA[opener]]></wf>
+    <wf id="50" sent="1" para="1" offset="236" length="7"><![CDATA[Sherwin]]></wf>
+    <wf id="51" sent="1" para="1" offset="243" length="8"><![CDATA[Campbell]]></wf>
+    <wf id="52" sent="1" para="1" offset="251" length="2"><![CDATA[on]]></wf>
+    <wf id="53" sent="1" para="1" offset="253" length="2"><![CDATA[25]]></wf>
+    <wf id="54" sent="1" para="1" offset="255" length="3"><![CDATA[and]]></wf>
+    <wf id="55" sent="1" para="1" offset="258" length="10"><![CDATA[Shivnarine]]></wf>
+    <wf id="56" sent="1" para="1" offset="268" length="11"><![CDATA[Chanderpaul]]></wf>
+    <wf id="57" sent="1" para="1" offset="279" length="2"><![CDATA[10]]></wf>
+    <wf id="58" sent="1" para="1" offset="281" length="1"><![CDATA[.]]></wf>
+    <wf id="59" sent="1" para="1" offset="282" length="4"><![CDATA[Rain]]></wf>
+    <wf id="60" sent="1" para="1" offset="286" length="7"><![CDATA[earlier]]></wf>
+    <wf id="61" sent="1" para="1" offset="293" length="7"><![CDATA[delayed]]></wf>
+    <wf id="62" sent="1" para="1" offset="300" length="3"><![CDATA[the]]></wf>
+    <wf id="63" sent="1" para="1" offset="303" length="5"><![CDATA[start]]></wf>
+    <wf id="64" sent="1" para="1" offset="308" length="2"><![CDATA[of]]></wf>
+    <wf id="65" sent="1" para="1" offset="310" length="4"><![CDATA[play]]></wf>
+    <wf id="66" sent="1" para="1" offset="314" length="2"><![CDATA[by]]></wf>
+    <wf id="67" sent="1" para="1" offset="316" length="2"><![CDATA[30]]></wf>
+    <wf id="68" sent="1" para="1" offset="318" length="7"><![CDATA[minutes]]></wf>
+    <wf id="69" sent="1" para="1" offset="325" length="1"><![CDATA[.]]></wf>
+    <wf id="70" sent="1" para="1" offset="326" length="2"><![CDATA[--]]></wf>
+    <wf id="71" sent="1" para="1" offset="328" length="6"><![CDATA[Sydney]]></wf>
+    <wf id="72" sent="1" para="1" offset="334" length="8"><![CDATA[Newsroom]]></wf>
+    <wf id="73" sent="1" para="1" offset="342" length="4"><![CDATA[61-2]]></wf>
+    <wf id="74" sent="1" para="1" offset="346" length="9"><![CDATA[9373-1800]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="RTRS">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="-">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="Cricket">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="-">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="Play">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="restarts">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="in">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="Australia-West">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="Indies">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="match">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma=".">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="MELBOURNE">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="1996-12-06">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="Play">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="restarted">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="in">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="the">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="first">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="World">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="Series">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="limited">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="overs">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="match">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="between">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="West">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="Indies">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="and">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="Australia">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="after">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="a">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="rain">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="delay">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="of">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="50">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="minutes">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="on">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="Friday">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma=".">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="West">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="Indies">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="resumed">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="their">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="innings">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="on">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="53">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="for">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="two">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="with">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="opener">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="Sherwin">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="Campbell">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="on">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="25">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="and">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="Shivnarine">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="Chanderpaul">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="10">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma=".">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="Rain">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="earlier">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="delayed">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="the">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="start">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="of">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="play">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="by">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="30">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="minutes">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma=".">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="--">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="Sydney">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="Newsroom">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="61-2">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="9373-1800">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="1931">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1932">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="8"/>
+          <target id="9"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1933">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Melbourne" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1934">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/World_Series_Cricket" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="19"/>
+          <target id="20"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1935">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/West_Indies_cricket_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="25"/>
+          <target id="26"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1936">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Australia_national_cricket_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="28"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1937">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/West_Indies_cricket_team" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="39"/>
+          <target id="40"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1938">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Sherwin_Campbell" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="50"/>
+          <target id="51"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1939">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Shivnarine_Chanderpaul" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="55"/>
+          <target id="56"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1940">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="71"/>
+          <target id="72"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

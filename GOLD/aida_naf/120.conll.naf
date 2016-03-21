@@ -1,0 +1,686 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[CBOT grain / oilseed receipts and shipments . CHICAGO 1996-12-06 Grain and soybean receipts and shipments , in bushels , at delivery locations for the previous trading day , according to the Chicago Board of Trade - Receipts Shipments Wheat Chicago 0 0 St. Louis 21,346 0 Toledo 61,514 0 Corn Chicago 78,056 0 St. Louis 217,092 75,810 Toledo 285,505 561,287 Oats Chicago 0 0 Minneapolis 306,364 153,231 Soybeans Chicago 8,674 484,018 St. Louis 253,821 223,172 Toledo 64,334 160,476 ( ( Chicago Newsdesk 312-408-8720 ) ) ]]></raw>
+  <nafHeader>
+    <fileDesc title="1282testb" filename="1282testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="4"><![CDATA[CBOT]]></wf>
+    <wf id="2" sent="1" para="1" offset="4" length="5"><![CDATA[grain]]></wf>
+    <wf id="3" sent="1" para="1" offset="9" length="1"><![CDATA[/]]></wf>
+    <wf id="4" sent="1" para="1" offset="10" length="7"><![CDATA[oilseed]]></wf>
+    <wf id="5" sent="1" para="1" offset="17" length="8"><![CDATA[receipts]]></wf>
+    <wf id="6" sent="1" para="1" offset="25" length="3"><![CDATA[and]]></wf>
+    <wf id="7" sent="1" para="1" offset="28" length="9"><![CDATA[shipments]]></wf>
+    <wf id="8" sent="1" para="1" offset="37" length="1"><![CDATA[.]]></wf>
+    <wf id="9" sent="1" para="1" offset="38" length="7"><![CDATA[CHICAGO]]></wf>
+    <wf id="10" sent="1" para="1" offset="45" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="11" sent="1" para="1" offset="55" length="5"><![CDATA[Grain]]></wf>
+    <wf id="12" sent="1" para="1" offset="60" length="3"><![CDATA[and]]></wf>
+    <wf id="13" sent="1" para="1" offset="63" length="7"><![CDATA[soybean]]></wf>
+    <wf id="14" sent="1" para="1" offset="70" length="8"><![CDATA[receipts]]></wf>
+    <wf id="15" sent="1" para="1" offset="78" length="3"><![CDATA[and]]></wf>
+    <wf id="16" sent="1" para="1" offset="81" length="9"><![CDATA[shipments]]></wf>
+    <wf id="17" sent="1" para="1" offset="90" length="1"><![CDATA[,]]></wf>
+    <wf id="18" sent="1" para="1" offset="91" length="2"><![CDATA[in]]></wf>
+    <wf id="19" sent="1" para="1" offset="93" length="7"><![CDATA[bushels]]></wf>
+    <wf id="20" sent="1" para="1" offset="100" length="1"><![CDATA[,]]></wf>
+    <wf id="21" sent="1" para="1" offset="101" length="2"><![CDATA[at]]></wf>
+    <wf id="22" sent="1" para="1" offset="103" length="8"><![CDATA[delivery]]></wf>
+    <wf id="23" sent="1" para="1" offset="111" length="9"><![CDATA[locations]]></wf>
+    <wf id="24" sent="1" para="1" offset="120" length="3"><![CDATA[for]]></wf>
+    <wf id="25" sent="1" para="1" offset="123" length="3"><![CDATA[the]]></wf>
+    <wf id="26" sent="1" para="1" offset="126" length="8"><![CDATA[previous]]></wf>
+    <wf id="27" sent="1" para="1" offset="134" length="7"><![CDATA[trading]]></wf>
+    <wf id="28" sent="1" para="1" offset="141" length="3"><![CDATA[day]]></wf>
+    <wf id="29" sent="1" para="1" offset="144" length="1"><![CDATA[,]]></wf>
+    <wf id="30" sent="1" para="1" offset="145" length="9"><![CDATA[according]]></wf>
+    <wf id="31" sent="1" para="1" offset="154" length="2"><![CDATA[to]]></wf>
+    <wf id="32" sent="1" para="1" offset="156" length="3"><![CDATA[the]]></wf>
+    <wf id="33" sent="1" para="1" offset="159" length="7"><![CDATA[Chicago]]></wf>
+    <wf id="34" sent="1" para="1" offset="166" length="5"><![CDATA[Board]]></wf>
+    <wf id="35" sent="1" para="1" offset="171" length="2"><![CDATA[of]]></wf>
+    <wf id="36" sent="1" para="1" offset="173" length="5"><![CDATA[Trade]]></wf>
+    <wf id="37" sent="1" para="1" offset="178" length="1"><![CDATA[-]]></wf>
+    <wf id="38" sent="1" para="1" offset="179" length="8"><![CDATA[Receipts]]></wf>
+    <wf id="39" sent="1" para="1" offset="187" length="9"><![CDATA[Shipments]]></wf>
+    <wf id="40" sent="1" para="1" offset="196" length="5"><![CDATA[Wheat]]></wf>
+    <wf id="41" sent="1" para="1" offset="201" length="7"><![CDATA[Chicago]]></wf>
+    <wf id="42" sent="1" para="1" offset="208" length="1"><![CDATA[0]]></wf>
+    <wf id="43" sent="1" para="1" offset="209" length="1"><![CDATA[0]]></wf>
+    <wf id="44" sent="1" para="1" offset="210" length="3"><![CDATA[St.]]></wf>
+    <wf id="45" sent="1" para="1" offset="213" length="5"><![CDATA[Louis]]></wf>
+    <wf id="46" sent="1" para="1" offset="218" length="6"><![CDATA[21,346]]></wf>
+    <wf id="47" sent="1" para="1" offset="224" length="1"><![CDATA[0]]></wf>
+    <wf id="48" sent="1" para="1" offset="225" length="6"><![CDATA[Toledo]]></wf>
+    <wf id="49" sent="1" para="1" offset="231" length="6"><![CDATA[61,514]]></wf>
+    <wf id="50" sent="1" para="1" offset="237" length="1"><![CDATA[0]]></wf>
+    <wf id="51" sent="1" para="1" offset="238" length="4"><![CDATA[Corn]]></wf>
+    <wf id="52" sent="1" para="1" offset="242" length="7"><![CDATA[Chicago]]></wf>
+    <wf id="53" sent="1" para="1" offset="249" length="6"><![CDATA[78,056]]></wf>
+    <wf id="54" sent="1" para="1" offset="255" length="1"><![CDATA[0]]></wf>
+    <wf id="55" sent="1" para="1" offset="256" length="3"><![CDATA[St.]]></wf>
+    <wf id="56" sent="1" para="1" offset="259" length="5"><![CDATA[Louis]]></wf>
+    <wf id="57" sent="1" para="1" offset="264" length="7"><![CDATA[217,092]]></wf>
+    <wf id="58" sent="1" para="1" offset="271" length="6"><![CDATA[75,810]]></wf>
+    <wf id="59" sent="1" para="1" offset="277" length="6"><![CDATA[Toledo]]></wf>
+    <wf id="60" sent="1" para="1" offset="283" length="7"><![CDATA[285,505]]></wf>
+    <wf id="61" sent="1" para="1" offset="290" length="7"><![CDATA[561,287]]></wf>
+    <wf id="62" sent="1" para="1" offset="297" length="4"><![CDATA[Oats]]></wf>
+    <wf id="63" sent="1" para="1" offset="301" length="7"><![CDATA[Chicago]]></wf>
+    <wf id="64" sent="1" para="1" offset="308" length="1"><![CDATA[0]]></wf>
+    <wf id="65" sent="1" para="1" offset="309" length="1"><![CDATA[0]]></wf>
+    <wf id="66" sent="1" para="1" offset="310" length="11"><![CDATA[Minneapolis]]></wf>
+    <wf id="67" sent="1" para="1" offset="321" length="7"><![CDATA[306,364]]></wf>
+    <wf id="68" sent="1" para="1" offset="328" length="7"><![CDATA[153,231]]></wf>
+    <wf id="69" sent="1" para="1" offset="335" length="8"><![CDATA[Soybeans]]></wf>
+    <wf id="70" sent="1" para="1" offset="343" length="7"><![CDATA[Chicago]]></wf>
+    <wf id="71" sent="1" para="1" offset="350" length="5"><![CDATA[8,674]]></wf>
+    <wf id="72" sent="1" para="1" offset="355" length="7"><![CDATA[484,018]]></wf>
+    <wf id="73" sent="1" para="1" offset="362" length="3"><![CDATA[St.]]></wf>
+    <wf id="74" sent="1" para="1" offset="365" length="5"><![CDATA[Louis]]></wf>
+    <wf id="75" sent="1" para="1" offset="370" length="7"><![CDATA[253,821]]></wf>
+    <wf id="76" sent="1" para="1" offset="377" length="7"><![CDATA[223,172]]></wf>
+    <wf id="77" sent="1" para="1" offset="384" length="6"><![CDATA[Toledo]]></wf>
+    <wf id="78" sent="1" para="1" offset="390" length="6"><![CDATA[64,334]]></wf>
+    <wf id="79" sent="1" para="1" offset="396" length="7"><![CDATA[160,476]]></wf>
+    <wf id="80" sent="1" para="1" offset="403" length="1"><![CDATA[(]]></wf>
+    <wf id="81" sent="1" para="1" offset="404" length="1"><![CDATA[(]]></wf>
+    <wf id="82" sent="1" para="1" offset="405" length="7"><![CDATA[Chicago]]></wf>
+    <wf id="83" sent="1" para="1" offset="412" length="8"><![CDATA[Newsdesk]]></wf>
+    <wf id="84" sent="1" para="1" offset="420" length="12"><![CDATA[312-408-8720]]></wf>
+    <wf id="85" sent="1" para="1" offset="432" length="1"><![CDATA[)]]></wf>
+    <wf id="86" sent="1" para="1" offset="433" length="1"><![CDATA[)]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="CBOT">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="grain">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="/">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="oilseed">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="receipts">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="and">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="shipments">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma=".">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="CHICAGO">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="1996-12-06">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="Grain">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="and">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="soybean">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="receipts">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="and">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="shipments">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma=",">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="in">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="bushels">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma=",">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="at">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="delivery">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="locations">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="for">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="the">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="previous">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="trading">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="day">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma=",">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="according">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="to">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="the">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="Chicago">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="Board">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="of">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="Trade">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="-">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="Receipts">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="Shipments">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="Wheat">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="Chicago">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="0">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="0">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="St.">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="Louis">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="21,346">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="0">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="Toledo">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="61,514">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="0">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="Corn">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="Chicago">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="78,056">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="0">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="St.">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="Louis">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="217,092">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="75,810">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="Toledo">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="285,505">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="561,287">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="Oats">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="Chicago">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="0">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="0">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="Minneapolis">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="306,364">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="153,231">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="Soybeans">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="Chicago">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="8,674">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="484,018">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="St.">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="Louis">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="253,821">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="223,172">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="Toledo">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="64,334">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="160,476">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="(">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="(">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="Chicago">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="Newsdesk">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="312-408-8720">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma=")">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma=")">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="2931">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chicago_Board_of_Trade" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2932">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chicago" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2933">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chicago_Board_of_Trade" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="33"/>
+          <target id="34"/>
+          <target id="35"/>
+          <target id="36"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2934">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chicago" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="41"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2935">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/St._Louis,_Missouri" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="44"/>
+          <target id="45"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2936">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Toledo,_Ohio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="48"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2937">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chicago" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="52"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2938">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/St._Louis,_Missouri" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="55"/>
+          <target id="56"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2939">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Toledo,_Ohio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="59"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2940">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chicago" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="63"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2941">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Minneapolis" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="66"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2942">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chicago" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="70"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2943">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/St._Louis,_Missouri" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="73"/>
+          <target id="74"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2944">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Toledo,_Ohio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="77"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2945">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="82"/>
+          <target id="83"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

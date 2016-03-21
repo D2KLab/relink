@@ -1,0 +1,542 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[NHL ICE HOCKEY - FRIDAY 'S RESULTS . NEW YORK 1996-12-07 Results of National Hockey League games on Friday ( home team in CAPS ) : NY RANGERS 6 Toronto 5 BUFFALO 1 Anaheim 1 ( OT ) Pittsburgh 5 WASHINGTON 3 Montreal 3 CHICAGO 1 Philadelphia 6 DALLAS 3 St Louis 4 COLORADO 3 EDMONTON 5 Ottawa 2 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1386testb" filename="1386testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="3"><![CDATA[NHL]]></wf>
+    <wf id="2" sent="1" para="1" offset="3" length="3"><![CDATA[ICE]]></wf>
+    <wf id="3" sent="1" para="1" offset="6" length="6"><![CDATA[HOCKEY]]></wf>
+    <wf id="4" sent="1" para="1" offset="12" length="1"><![CDATA[-]]></wf>
+    <wf id="5" sent="1" para="1" offset="13" length="6"><![CDATA[FRIDAY]]></wf>
+    <wf id="6" sent="1" para="1" offset="19" length="2"><![CDATA['S]]></wf>
+    <wf id="7" sent="1" para="1" offset="21" length="7"><![CDATA[RESULTS]]></wf>
+    <wf id="8" sent="1" para="1" offset="28" length="1"><![CDATA[.]]></wf>
+    <wf id="9" sent="1" para="1" offset="29" length="3"><![CDATA[NEW]]></wf>
+    <wf id="10" sent="1" para="1" offset="32" length="4"><![CDATA[YORK]]></wf>
+    <wf id="11" sent="1" para="1" offset="36" length="10"><![CDATA[1996-12-07]]></wf>
+    <wf id="12" sent="1" para="1" offset="46" length="7"><![CDATA[Results]]></wf>
+    <wf id="13" sent="1" para="1" offset="53" length="2"><![CDATA[of]]></wf>
+    <wf id="14" sent="1" para="1" offset="55" length="8"><![CDATA[National]]></wf>
+    <wf id="15" sent="1" para="1" offset="63" length="6"><![CDATA[Hockey]]></wf>
+    <wf id="16" sent="1" para="1" offset="69" length="6"><![CDATA[League]]></wf>
+    <wf id="17" sent="1" para="1" offset="75" length="5"><![CDATA[games]]></wf>
+    <wf id="18" sent="1" para="1" offset="80" length="2"><![CDATA[on]]></wf>
+    <wf id="19" sent="1" para="1" offset="82" length="6"><![CDATA[Friday]]></wf>
+    <wf id="20" sent="1" para="1" offset="88" length="1"><![CDATA[(]]></wf>
+    <wf id="21" sent="1" para="1" offset="89" length="4"><![CDATA[home]]></wf>
+    <wf id="22" sent="1" para="1" offset="93" length="4"><![CDATA[team]]></wf>
+    <wf id="23" sent="1" para="1" offset="97" length="2"><![CDATA[in]]></wf>
+    <wf id="24" sent="1" para="1" offset="99" length="4"><![CDATA[CAPS]]></wf>
+    <wf id="25" sent="1" para="1" offset="103" length="1"><![CDATA[)]]></wf>
+    <wf id="26" sent="1" para="1" offset="104" length="1"><![CDATA[:]]></wf>
+    <wf id="27" sent="1" para="1" offset="105" length="2"><![CDATA[NY]]></wf>
+    <wf id="28" sent="1" para="1" offset="107" length="7"><![CDATA[RANGERS]]></wf>
+    <wf id="29" sent="1" para="1" offset="114" length="1"><![CDATA[6]]></wf>
+    <wf id="30" sent="1" para="1" offset="115" length="7"><![CDATA[Toronto]]></wf>
+    <wf id="31" sent="1" para="1" offset="122" length="1"><![CDATA[5]]></wf>
+    <wf id="32" sent="1" para="1" offset="123" length="7"><![CDATA[BUFFALO]]></wf>
+    <wf id="33" sent="1" para="1" offset="130" length="1"><![CDATA[1]]></wf>
+    <wf id="34" sent="1" para="1" offset="131" length="7"><![CDATA[Anaheim]]></wf>
+    <wf id="35" sent="1" para="1" offset="138" length="1"><![CDATA[1]]></wf>
+    <wf id="36" sent="1" para="1" offset="139" length="1"><![CDATA[(]]></wf>
+    <wf id="37" sent="1" para="1" offset="140" length="2"><![CDATA[OT]]></wf>
+    <wf id="38" sent="1" para="1" offset="142" length="1"><![CDATA[)]]></wf>
+    <wf id="39" sent="1" para="1" offset="143" length="10"><![CDATA[Pittsburgh]]></wf>
+    <wf id="40" sent="1" para="1" offset="153" length="1"><![CDATA[5]]></wf>
+    <wf id="41" sent="1" para="1" offset="154" length="10"><![CDATA[WASHINGTON]]></wf>
+    <wf id="42" sent="1" para="1" offset="164" length="1"><![CDATA[3]]></wf>
+    <wf id="43" sent="1" para="1" offset="165" length="8"><![CDATA[Montreal]]></wf>
+    <wf id="44" sent="1" para="1" offset="173" length="1"><![CDATA[3]]></wf>
+    <wf id="45" sent="1" para="1" offset="174" length="7"><![CDATA[CHICAGO]]></wf>
+    <wf id="46" sent="1" para="1" offset="181" length="1"><![CDATA[1]]></wf>
+    <wf id="47" sent="1" para="1" offset="182" length="12"><![CDATA[Philadelphia]]></wf>
+    <wf id="48" sent="1" para="1" offset="194" length="1"><![CDATA[6]]></wf>
+    <wf id="49" sent="1" para="1" offset="195" length="6"><![CDATA[DALLAS]]></wf>
+    <wf id="50" sent="1" para="1" offset="201" length="1"><![CDATA[3]]></wf>
+    <wf id="51" sent="1" para="1" offset="202" length="2"><![CDATA[St]]></wf>
+    <wf id="52" sent="1" para="1" offset="204" length="5"><![CDATA[Louis]]></wf>
+    <wf id="53" sent="1" para="1" offset="209" length="1"><![CDATA[4]]></wf>
+    <wf id="54" sent="1" para="1" offset="210" length="8"><![CDATA[COLORADO]]></wf>
+    <wf id="55" sent="1" para="1" offset="218" length="1"><![CDATA[3]]></wf>
+    <wf id="56" sent="1" para="1" offset="219" length="8"><![CDATA[EDMONTON]]></wf>
+    <wf id="57" sent="1" para="1" offset="227" length="1"><![CDATA[5]]></wf>
+    <wf id="58" sent="1" para="1" offset="228" length="6"><![CDATA[Ottawa]]></wf>
+    <wf id="59" sent="1" para="1" offset="234" length="1"><![CDATA[2]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="NHL">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="ICE">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="HOCKEY">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="-">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="FRIDAY">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="'S">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="RESULTS">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma=".">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="NEW">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="YORK">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="1996-12-07">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="Results">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="of">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="National">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="Hockey">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="League">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="games">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="on">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="Friday">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="(">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="home">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="team">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="in">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="CAPS">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma=")">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma=":">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="NY">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="RANGERS">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="6">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="Toronto">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="5">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="BUFFALO">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="1">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="Anaheim">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="1">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="(">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="OT">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma=")">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="Pittsburgh">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="5">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="WASHINGTON">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="3">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="Montreal">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="3">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="CHICAGO">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="1">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="Philadelphia">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="6">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="DALLAS">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="3">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="St">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="Louis">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="4">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="COLORADO">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="3">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="EDMONTON">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="5">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="Ottawa">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="2">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="5458">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/National_Hockey_League" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5459">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_York_City" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+          <target id="10"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5460">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/National_Hockey_League" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="14"/>
+          <target id="15"/>
+          <target id="16"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5461">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_York_Rangers" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="27"/>
+          <target id="28"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5462">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Toronto_Maple_Leafs" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="30"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5463">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Buffalo_Sabres" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="32"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5464">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Anaheim_Ducks" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="34"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5465">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pittsburgh_Penguins" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="39"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5466">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Washington_Capitals" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="41"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5467">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Montreal_Canadiens" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="43"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5468">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chicago_Blackhawks" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="45"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5469">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Philadelphia_Flyers" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="47"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5470">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dallas_Stars" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="49"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5471">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/St._Louis_Blues_(ice_hockey)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="51"/>
+          <target id="52"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5472">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Colorado_Avalanche" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="54"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5473">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Edmonton_Oilers" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="56"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5474">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ottawa_Senators" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="58"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

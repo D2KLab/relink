@@ -1,0 +1,1830 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[ Airbus A380 test flight delayed after accident September 01 , 2007 A test flight of the new Airbus A380 superjumbo , the largest passenger jet in the world , was delayed today after a superficial accident at Suvarnabhumi Airport , which serves Bangkok , Thailand . The minor accident occurred during push back , as the aircraft was leaving a parking space before it was due to fly to Chiang Mai International Airport . As the jet was being pushed back by a Thai Airways International tug operator , the left winglet struck the side of the hangar , and was crumpled against it . The winglets , designed to improve fuel efficiency , are non-vital parts . After an inspection , Airbus decided to remove both winglets and continue the flight without them . The plane left four hours after its scheduled 9:45 a.m. local time departure , carrying 150 passengers . The flight was intended to counteract criticisms that the massive airliner , which has a 79-metre wingspan , is too big ( and thus too complex for ground crews ) to be practically operated at most airports . It also demonstrates continuing problems at Suvarnabhumi airport , which has suffered various incidents since it opened last September , the most severe of which being the discovery of large cracks in airport taxiways shortly after opening . Airbus has said they will continue with their tour of Asia demonstrating the plane .]]></raw>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="6"><![CDATA[Airbus]]></wf>
+    <wf id="2" sent="1" para="1" offset="6" length="4"><![CDATA[A380]]></wf>
+    <wf id="3" sent="1" para="1" offset="10" length="4"><![CDATA[test]]></wf>
+    <wf id="4" sent="1" para="1" offset="14" length="6"><![CDATA[flight]]></wf>
+    <wf id="5" sent="1" para="1" offset="20" length="7"><![CDATA[delayed]]></wf>
+    <wf id="6" sent="1" para="1" offset="27" length="5"><![CDATA[after]]></wf>
+    <wf id="7" sent="1" para="1" offset="32" length="8"><![CDATA[accident]]></wf>
+    <wf id="8" sent="2" para="1" offset="40" length="9"><![CDATA[September]]></wf>
+    <wf id="9" sent="2" para="1" offset="49" length="2"><![CDATA[01]]></wf>
+    <wf id="10" sent="2" para="1" offset="51" length="1"><![CDATA[,]]></wf>
+    <wf id="11" sent="2" para="1" offset="52" length="4"><![CDATA[2007]]></wf>
+    <wf id="12" sent="3" para="1" offset="56" length="1"><![CDATA[A]]></wf>
+    <wf id="13" sent="3" para="1" offset="57" length="4"><![CDATA[test]]></wf>
+    <wf id="14" sent="3" para="1" offset="61" length="6"><![CDATA[flight]]></wf>
+    <wf id="15" sent="3" para="1" offset="67" length="2"><![CDATA[of]]></wf>
+    <wf id="16" sent="3" para="1" offset="69" length="3"><![CDATA[the]]></wf>
+    <wf id="17" sent="3" para="1" offset="72" length="3"><![CDATA[new]]></wf>
+    <wf id="18" sent="3" para="1" offset="75" length="6"><![CDATA[Airbus]]></wf>
+    <wf id="19" sent="3" para="1" offset="81" length="4"><![CDATA[A380]]></wf>
+    <wf id="20" sent="3" para="1" offset="85" length="10"><![CDATA[superjumbo]]></wf>
+    <wf id="21" sent="3" para="1" offset="95" length="1"><![CDATA[,]]></wf>
+    <wf id="22" sent="3" para="1" offset="96" length="3"><![CDATA[the]]></wf>
+    <wf id="23" sent="3" para="1" offset="99" length="7"><![CDATA[largest]]></wf>
+    <wf id="24" sent="3" para="1" offset="106" length="9"><![CDATA[passenger]]></wf>
+    <wf id="25" sent="3" para="1" offset="115" length="3"><![CDATA[jet]]></wf>
+    <wf id="26" sent="3" para="1" offset="118" length="2"><![CDATA[in]]></wf>
+    <wf id="27" sent="3" para="1" offset="120" length="3"><![CDATA[the]]></wf>
+    <wf id="28" sent="3" para="1" offset="123" length="5"><![CDATA[world]]></wf>
+    <wf id="29" sent="3" para="1" offset="128" length="1"><![CDATA[,]]></wf>
+    <wf id="30" sent="3" para="1" offset="129" length="3"><![CDATA[was]]></wf>
+    <wf id="31" sent="3" para="1" offset="132" length="7"><![CDATA[delayed]]></wf>
+    <wf id="32" sent="3" para="1" offset="139" length="5"><![CDATA[today]]></wf>
+    <wf id="33" sent="3" para="1" offset="144" length="5"><![CDATA[after]]></wf>
+    <wf id="34" sent="3" para="1" offset="149" length="1"><![CDATA[a]]></wf>
+    <wf id="35" sent="3" para="1" offset="150" length="11"><![CDATA[superficial]]></wf>
+    <wf id="36" sent="3" para="1" offset="161" length="8"><![CDATA[accident]]></wf>
+    <wf id="37" sent="3" para="1" offset="169" length="2"><![CDATA[at]]></wf>
+    <wf id="38" sent="3" para="1" offset="171" length="12"><![CDATA[Suvarnabhumi]]></wf>
+    <wf id="39" sent="3" para="1" offset="183" length="7"><![CDATA[Airport]]></wf>
+    <wf id="40" sent="3" para="1" offset="190" length="1"><![CDATA[,]]></wf>
+    <wf id="41" sent="3" para="1" offset="191" length="5"><![CDATA[which]]></wf>
+    <wf id="42" sent="3" para="1" offset="196" length="6"><![CDATA[serves]]></wf>
+    <wf id="43" sent="3" para="1" offset="202" length="7"><![CDATA[Bangkok]]></wf>
+    <wf id="44" sent="3" para="1" offset="209" length="1"><![CDATA[,]]></wf>
+    <wf id="45" sent="3" para="1" offset="210" length="8"><![CDATA[Thailand]]></wf>
+    <wf id="46" sent="3" para="1" offset="218" length="1"><![CDATA[.]]></wf>
+    <wf id="47" sent="4" para="1" offset="219" length="3"><![CDATA[The]]></wf>
+    <wf id="48" sent="4" para="1" offset="222" length="5"><![CDATA[minor]]></wf>
+    <wf id="49" sent="4" para="1" offset="227" length="8"><![CDATA[accident]]></wf>
+    <wf id="50" sent="4" para="1" offset="235" length="8"><![CDATA[occurred]]></wf>
+    <wf id="51" sent="4" para="1" offset="243" length="6"><![CDATA[during]]></wf>
+    <wf id="52" sent="4" para="1" offset="249" length="4"><![CDATA[push]]></wf>
+    <wf id="53" sent="4" para="1" offset="253" length="4"><![CDATA[back]]></wf>
+    <wf id="54" sent="4" para="1" offset="257" length="1"><![CDATA[,]]></wf>
+    <wf id="55" sent="4" para="1" offset="258" length="2"><![CDATA[as]]></wf>
+    <wf id="56" sent="4" para="1" offset="260" length="3"><![CDATA[the]]></wf>
+    <wf id="57" sent="4" para="1" offset="263" length="8"><![CDATA[aircraft]]></wf>
+    <wf id="58" sent="4" para="1" offset="271" length="3"><![CDATA[was]]></wf>
+    <wf id="59" sent="4" para="1" offset="274" length="7"><![CDATA[leaving]]></wf>
+    <wf id="60" sent="4" para="1" offset="281" length="1"><![CDATA[a]]></wf>
+    <wf id="61" sent="4" para="1" offset="282" length="7"><![CDATA[parking]]></wf>
+    <wf id="62" sent="4" para="1" offset="289" length="5"><![CDATA[space]]></wf>
+    <wf id="63" sent="4" para="1" offset="294" length="6"><![CDATA[before]]></wf>
+    <wf id="64" sent="4" para="1" offset="300" length="2"><![CDATA[it]]></wf>
+    <wf id="65" sent="4" para="1" offset="302" length="3"><![CDATA[was]]></wf>
+    <wf id="66" sent="4" para="1" offset="305" length="3"><![CDATA[due]]></wf>
+    <wf id="67" sent="4" para="1" offset="308" length="2"><![CDATA[to]]></wf>
+    <wf id="68" sent="4" para="1" offset="310" length="3"><![CDATA[fly]]></wf>
+    <wf id="69" sent="4" para="1" offset="313" length="2"><![CDATA[to]]></wf>
+    <wf id="70" sent="4" para="1" offset="315" length="6"><![CDATA[Chiang]]></wf>
+    <wf id="71" sent="4" para="1" offset="321" length="3"><![CDATA[Mai]]></wf>
+    <wf id="72" sent="4" para="1" offset="324" length="13"><![CDATA[International]]></wf>
+    <wf id="73" sent="4" para="1" offset="337" length="7"><![CDATA[Airport]]></wf>
+    <wf id="74" sent="4" para="1" offset="344" length="1"><![CDATA[.]]></wf>
+    <wf id="75" sent="5" para="1" offset="345" length="2"><![CDATA[As]]></wf>
+    <wf id="76" sent="5" para="1" offset="347" length="3"><![CDATA[the]]></wf>
+    <wf id="77" sent="5" para="1" offset="350" length="3"><![CDATA[jet]]></wf>
+    <wf id="78" sent="5" para="1" offset="353" length="3"><![CDATA[was]]></wf>
+    <wf id="79" sent="5" para="1" offset="356" length="5"><![CDATA[being]]></wf>
+    <wf id="80" sent="5" para="1" offset="361" length="6"><![CDATA[pushed]]></wf>
+    <wf id="81" sent="5" para="1" offset="367" length="4"><![CDATA[back]]></wf>
+    <wf id="82" sent="5" para="1" offset="371" length="2"><![CDATA[by]]></wf>
+    <wf id="83" sent="5" para="1" offset="373" length="1"><![CDATA[a]]></wf>
+    <wf id="84" sent="5" para="1" offset="374" length="4"><![CDATA[Thai]]></wf>
+    <wf id="85" sent="5" para="1" offset="378" length="7"><![CDATA[Airways]]></wf>
+    <wf id="86" sent="5" para="1" offset="385" length="13"><![CDATA[International]]></wf>
+    <wf id="87" sent="5" para="1" offset="398" length="3"><![CDATA[tug]]></wf>
+    <wf id="88" sent="5" para="1" offset="401" length="8"><![CDATA[operator]]></wf>
+    <wf id="89" sent="5" para="1" offset="409" length="1"><![CDATA[,]]></wf>
+    <wf id="90" sent="5" para="1" offset="410" length="3"><![CDATA[the]]></wf>
+    <wf id="91" sent="5" para="1" offset="413" length="4"><![CDATA[left]]></wf>
+    <wf id="92" sent="5" para="1" offset="417" length="7"><![CDATA[winglet]]></wf>
+    <wf id="93" sent="5" para="1" offset="424" length="6"><![CDATA[struck]]></wf>
+    <wf id="94" sent="5" para="1" offset="430" length="3"><![CDATA[the]]></wf>
+    <wf id="95" sent="5" para="1" offset="433" length="4"><![CDATA[side]]></wf>
+    <wf id="96" sent="5" para="1" offset="437" length="2"><![CDATA[of]]></wf>
+    <wf id="97" sent="5" para="1" offset="439" length="3"><![CDATA[the]]></wf>
+    <wf id="98" sent="5" para="1" offset="442" length="6"><![CDATA[hangar]]></wf>
+    <wf id="99" sent="5" para="1" offset="448" length="1"><![CDATA[,]]></wf>
+    <wf id="100" sent="5" para="1" offset="449" length="3"><![CDATA[and]]></wf>
+    <wf id="101" sent="5" para="1" offset="452" length="3"><![CDATA[was]]></wf>
+    <wf id="102" sent="5" para="1" offset="455" length="8"><![CDATA[crumpled]]></wf>
+    <wf id="103" sent="5" para="1" offset="463" length="7"><![CDATA[against]]></wf>
+    <wf id="104" sent="5" para="1" offset="470" length="2"><![CDATA[it]]></wf>
+    <wf id="105" sent="5" para="1" offset="472" length="1"><![CDATA[.]]></wf>
+    <wf id="106" sent="6" para="1" offset="473" length="3"><![CDATA[The]]></wf>
+    <wf id="107" sent="6" para="1" offset="476" length="8"><![CDATA[winglets]]></wf>
+    <wf id="108" sent="6" para="1" offset="484" length="1"><![CDATA[,]]></wf>
+    <wf id="109" sent="6" para="1" offset="485" length="8"><![CDATA[designed]]></wf>
+    <wf id="110" sent="6" para="1" offset="493" length="2"><![CDATA[to]]></wf>
+    <wf id="111" sent="6" para="1" offset="495" length="7"><![CDATA[improve]]></wf>
+    <wf id="112" sent="6" para="1" offset="502" length="4"><![CDATA[fuel]]></wf>
+    <wf id="113" sent="6" para="1" offset="506" length="10"><![CDATA[efficiency]]></wf>
+    <wf id="114" sent="6" para="1" offset="516" length="1"><![CDATA[,]]></wf>
+    <wf id="115" sent="6" para="1" offset="517" length="3"><![CDATA[are]]></wf>
+    <wf id="116" sent="6" para="1" offset="520" length="9"><![CDATA[non-vital]]></wf>
+    <wf id="117" sent="6" para="1" offset="529" length="5"><![CDATA[parts]]></wf>
+    <wf id="118" sent="6" para="1" offset="534" length="1"><![CDATA[.]]></wf>
+    <wf id="119" sent="7" para="1" offset="535" length="5"><![CDATA[After]]></wf>
+    <wf id="120" sent="7" para="1" offset="540" length="2"><![CDATA[an]]></wf>
+    <wf id="121" sent="7" para="1" offset="542" length="10"><![CDATA[inspection]]></wf>
+    <wf id="122" sent="7" para="1" offset="552" length="1"><![CDATA[,]]></wf>
+    <wf id="123" sent="7" para="1" offset="553" length="6"><![CDATA[Airbus]]></wf>
+    <wf id="124" sent="7" para="1" offset="559" length="7"><![CDATA[decided]]></wf>
+    <wf id="125" sent="7" para="1" offset="566" length="2"><![CDATA[to]]></wf>
+    <wf id="126" sent="7" para="1" offset="568" length="6"><![CDATA[remove]]></wf>
+    <wf id="127" sent="7" para="1" offset="574" length="4"><![CDATA[both]]></wf>
+    <wf id="128" sent="7" para="1" offset="578" length="8"><![CDATA[winglets]]></wf>
+    <wf id="129" sent="7" para="1" offset="586" length="3"><![CDATA[and]]></wf>
+    <wf id="130" sent="7" para="1" offset="589" length="8"><![CDATA[continue]]></wf>
+    <wf id="131" sent="7" para="1" offset="597" length="3"><![CDATA[the]]></wf>
+    <wf id="132" sent="7" para="1" offset="600" length="6"><![CDATA[flight]]></wf>
+    <wf id="133" sent="7" para="1" offset="606" length="7"><![CDATA[without]]></wf>
+    <wf id="134" sent="7" para="1" offset="613" length="4"><![CDATA[them]]></wf>
+    <wf id="135" sent="7" para="1" offset="617" length="1"><![CDATA[.]]></wf>
+    <wf id="136" sent="8" para="1" offset="618" length="3"><![CDATA[The]]></wf>
+    <wf id="137" sent="8" para="1" offset="621" length="5"><![CDATA[plane]]></wf>
+    <wf id="138" sent="8" para="1" offset="626" length="4"><![CDATA[left]]></wf>
+    <wf id="139" sent="8" para="1" offset="630" length="4"><![CDATA[four]]></wf>
+    <wf id="140" sent="8" para="1" offset="634" length="5"><![CDATA[hours]]></wf>
+    <wf id="141" sent="8" para="1" offset="639" length="5"><![CDATA[after]]></wf>
+    <wf id="142" sent="8" para="1" offset="644" length="3"><![CDATA[its]]></wf>
+    <wf id="143" sent="8" para="1" offset="647" length="9"><![CDATA[scheduled]]></wf>
+    <wf id="144" sent="8" para="1" offset="656" length="4"><![CDATA[9:45]]></wf>
+    <wf id="145" sent="8" para="1" offset="660" length="4"><![CDATA[a.m.]]></wf>
+    <wf id="146" sent="8" para="1" offset="664" length="5"><![CDATA[local]]></wf>
+    <wf id="147" sent="8" para="1" offset="669" length="4"><![CDATA[time]]></wf>
+    <wf id="148" sent="8" para="1" offset="673" length="9"><![CDATA[departure]]></wf>
+    <wf id="149" sent="8" para="1" offset="682" length="1"><![CDATA[,]]></wf>
+    <wf id="150" sent="8" para="1" offset="683" length="8"><![CDATA[carrying]]></wf>
+    <wf id="151" sent="8" para="1" offset="691" length="3"><![CDATA[150]]></wf>
+    <wf id="152" sent="8" para="1" offset="694" length="10"><![CDATA[passengers]]></wf>
+    <wf id="153" sent="8" para="1" offset="704" length="1"><![CDATA[.]]></wf>
+    <wf id="154" sent="9" para="1" offset="705" length="3"><![CDATA[The]]></wf>
+    <wf id="155" sent="9" para="1" offset="708" length="6"><![CDATA[flight]]></wf>
+    <wf id="156" sent="9" para="1" offset="714" length="3"><![CDATA[was]]></wf>
+    <wf id="157" sent="9" para="1" offset="717" length="8"><![CDATA[intended]]></wf>
+    <wf id="158" sent="9" para="1" offset="725" length="2"><![CDATA[to]]></wf>
+    <wf id="159" sent="9" para="1" offset="727" length="10"><![CDATA[counteract]]></wf>
+    <wf id="160" sent="9" para="1" offset="737" length="10"><![CDATA[criticisms]]></wf>
+    <wf id="161" sent="9" para="1" offset="747" length="4"><![CDATA[that]]></wf>
+    <wf id="162" sent="9" para="1" offset="751" length="3"><![CDATA[the]]></wf>
+    <wf id="163" sent="9" para="1" offset="754" length="7"><![CDATA[massive]]></wf>
+    <wf id="164" sent="9" para="1" offset="761" length="8"><![CDATA[airliner]]></wf>
+    <wf id="165" sent="9" para="1" offset="769" length="1"><![CDATA[,]]></wf>
+    <wf id="166" sent="9" para="1" offset="770" length="5"><![CDATA[which]]></wf>
+    <wf id="167" sent="9" para="1" offset="775" length="3"><![CDATA[has]]></wf>
+    <wf id="168" sent="9" para="1" offset="778" length="1"><![CDATA[a]]></wf>
+    <wf id="169" sent="9" para="1" offset="779" length="8"><![CDATA[79-metre]]></wf>
+    <wf id="170" sent="9" para="1" offset="787" length="8"><![CDATA[wingspan]]></wf>
+    <wf id="171" sent="9" para="1" offset="795" length="1"><![CDATA[,]]></wf>
+    <wf id="172" sent="9" para="1" offset="796" length="2"><![CDATA[is]]></wf>
+    <wf id="173" sent="9" para="1" offset="798" length="3"><![CDATA[too]]></wf>
+    <wf id="174" sent="9" para="1" offset="801" length="3"><![CDATA[big]]></wf>
+    <wf id="175" sent="9" para="1" offset="804" length="1"><![CDATA[(]]></wf>
+    <wf id="176" sent="9" para="1" offset="805" length="3"><![CDATA[and]]></wf>
+    <wf id="177" sent="9" para="1" offset="808" length="4"><![CDATA[thus]]></wf>
+    <wf id="178" sent="9" para="1" offset="812" length="3"><![CDATA[too]]></wf>
+    <wf id="179" sent="9" para="1" offset="815" length="7"><![CDATA[complex]]></wf>
+    <wf id="180" sent="9" para="1" offset="822" length="3"><![CDATA[for]]></wf>
+    <wf id="181" sent="9" para="1" offset="825" length="6"><![CDATA[ground]]></wf>
+    <wf id="182" sent="9" para="1" offset="831" length="5"><![CDATA[crews]]></wf>
+    <wf id="183" sent="9" para="1" offset="836" length="1"><![CDATA[)]]></wf>
+    <wf id="184" sent="9" para="1" offset="837" length="2"><![CDATA[to]]></wf>
+    <wf id="185" sent="9" para="1" offset="839" length="2"><![CDATA[be]]></wf>
+    <wf id="186" sent="9" para="1" offset="841" length="11"><![CDATA[practically]]></wf>
+    <wf id="187" sent="9" para="1" offset="852" length="8"><![CDATA[operated]]></wf>
+    <wf id="188" sent="9" para="1" offset="860" length="2"><![CDATA[at]]></wf>
+    <wf id="189" sent="9" para="1" offset="862" length="4"><![CDATA[most]]></wf>
+    <wf id="190" sent="9" para="1" offset="866" length="8"><![CDATA[airports]]></wf>
+    <wf id="191" sent="9" para="1" offset="874" length="1"><![CDATA[.]]></wf>
+    <wf id="192" sent="10" para="1" offset="875" length="2"><![CDATA[It]]></wf>
+    <wf id="193" sent="10" para="1" offset="877" length="4"><![CDATA[also]]></wf>
+    <wf id="194" sent="10" para="1" offset="881" length="12"><![CDATA[demonstrates]]></wf>
+    <wf id="195" sent="10" para="1" offset="893" length="10"><![CDATA[continuing]]></wf>
+    <wf id="196" sent="10" para="1" offset="903" length="8"><![CDATA[problems]]></wf>
+    <wf id="197" sent="10" para="1" offset="911" length="2"><![CDATA[at]]></wf>
+    <wf id="198" sent="10" para="1" offset="913" length="12"><![CDATA[Suvarnabhumi]]></wf>
+    <wf id="199" sent="10" para="1" offset="925" length="7"><![CDATA[airport]]></wf>
+    <wf id="200" sent="10" para="1" offset="932" length="1"><![CDATA[,]]></wf>
+    <wf id="201" sent="10" para="1" offset="933" length="5"><![CDATA[which]]></wf>
+    <wf id="202" sent="10" para="1" offset="938" length="3"><![CDATA[has]]></wf>
+    <wf id="203" sent="10" para="1" offset="941" length="8"><![CDATA[suffered]]></wf>
+    <wf id="204" sent="10" para="1" offset="949" length="7"><![CDATA[various]]></wf>
+    <wf id="205" sent="10" para="1" offset="956" length="9"><![CDATA[incidents]]></wf>
+    <wf id="206" sent="10" para="1" offset="965" length="5"><![CDATA[since]]></wf>
+    <wf id="207" sent="10" para="1" offset="970" length="2"><![CDATA[it]]></wf>
+    <wf id="208" sent="10" para="1" offset="972" length="6"><![CDATA[opened]]></wf>
+    <wf id="209" sent="10" para="1" offset="978" length="4"><![CDATA[last]]></wf>
+    <wf id="210" sent="10" para="1" offset="982" length="9"><![CDATA[September]]></wf>
+    <wf id="211" sent="10" para="1" offset="991" length="1"><![CDATA[,]]></wf>
+    <wf id="212" sent="10" para="1" offset="992" length="3"><![CDATA[the]]></wf>
+    <wf id="213" sent="10" para="1" offset="995" length="4"><![CDATA[most]]></wf>
+    <wf id="214" sent="10" para="1" offset="999" length="6"><![CDATA[severe]]></wf>
+    <wf id="215" sent="10" para="1" offset="1005" length="2"><![CDATA[of]]></wf>
+    <wf id="216" sent="10" para="1" offset="1007" length="5"><![CDATA[which]]></wf>
+    <wf id="217" sent="10" para="1" offset="1012" length="5"><![CDATA[being]]></wf>
+    <wf id="218" sent="10" para="1" offset="1017" length="3"><![CDATA[the]]></wf>
+    <wf id="219" sent="10" para="1" offset="1020" length="9"><![CDATA[discovery]]></wf>
+    <wf id="220" sent="10" para="1" offset="1029" length="2"><![CDATA[of]]></wf>
+    <wf id="221" sent="10" para="1" offset="1031" length="5"><![CDATA[large]]></wf>
+    <wf id="222" sent="10" para="1" offset="1036" length="6"><![CDATA[cracks]]></wf>
+    <wf id="223" sent="10" para="1" offset="1042" length="2"><![CDATA[in]]></wf>
+    <wf id="224" sent="10" para="1" offset="1044" length="7"><![CDATA[airport]]></wf>
+    <wf id="225" sent="10" para="1" offset="1051" length="8"><![CDATA[taxiways]]></wf>
+    <wf id="226" sent="10" para="1" offset="1059" length="7"><![CDATA[shortly]]></wf>
+    <wf id="227" sent="10" para="1" offset="1066" length="5"><![CDATA[after]]></wf>
+    <wf id="228" sent="10" para="1" offset="1071" length="7"><![CDATA[opening]]></wf>
+    <wf id="229" sent="10" para="1" offset="1078" length="1"><![CDATA[.]]></wf>
+    <wf id="230" sent="11" para="1" offset="1079" length="6"><![CDATA[Airbus]]></wf>
+    <wf id="231" sent="11" para="1" offset="1085" length="3"><![CDATA[has]]></wf>
+    <wf id="232" sent="11" para="1" offset="1088" length="4"><![CDATA[said]]></wf>
+    <wf id="233" sent="11" para="1" offset="1092" length="4"><![CDATA[they]]></wf>
+    <wf id="234" sent="11" para="1" offset="1096" length="4"><![CDATA[will]]></wf>
+    <wf id="235" sent="11" para="1" offset="1100" length="8"><![CDATA[continue]]></wf>
+    <wf id="236" sent="11" para="1" offset="1108" length="4"><![CDATA[with]]></wf>
+    <wf id="237" sent="11" para="1" offset="1112" length="5"><![CDATA[their]]></wf>
+    <wf id="238" sent="11" para="1" offset="1117" length="4"><![CDATA[tour]]></wf>
+    <wf id="239" sent="11" para="1" offset="1121" length="2"><![CDATA[of]]></wf>
+    <wf id="240" sent="11" para="1" offset="1123" length="4"><![CDATA[Asia]]></wf>
+    <wf id="241" sent="11" para="1" offset="1127" length="13"><![CDATA[demonstrating]]></wf>
+    <wf id="242" sent="11" para="1" offset="1140" length="3"><![CDATA[the]]></wf>
+    <wf id="243" sent="11" para="1" offset="1143" length="5"><![CDATA[plane]]></wf>
+    <wf id="244" sent="11" para="1" offset="1148" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="Airbus">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="A380">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="test">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="flight">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="delayed">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="after">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="accident">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="September">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="01">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma=",">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="2007">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="A">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="test">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="flight">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="of">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="the">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="new">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="Airbus">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="A380">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="superjumbo">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma=",">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="the">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="largest">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="passenger">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="jet">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="in">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="the">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="world">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma=",">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="was">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="delayed">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="today">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="after">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="a">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="superficial">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="accident">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="at">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="Suvarnabhumi">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="Airport">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma=",">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="which">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="serves">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="Bangkok">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma=",">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="Thailand">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma=".">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="The">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="minor">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="accident">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="occurred">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="during">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="push">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="back">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma=",">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="as">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="the">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="aircraft">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="was">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="leaving">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="a">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="parking">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="space">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="before">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="it">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="was">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="due">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="to">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="fly">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="to">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="Chiang">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="Mai">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="International">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="Airport">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma=".">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="As">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="the">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="jet">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="was">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="being">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="pushed">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="back">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="by">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="a">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="Thai">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="Airways">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="International">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="tug">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="operator">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma=",">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="the">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="left">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="winglet">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="struck">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="the">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="side">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="of">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="the">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="hangar">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma=",">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="and">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="was">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="crumpled">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="against">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="it">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma=".">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="The">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="winglets">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma=",">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="designed">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="to">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="improve">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="fuel">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="efficiency">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma=",">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="are">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="non-vital">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="parts">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma=".">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="After">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="an">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="inspection">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma=",">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="Airbus">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="decided">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="to">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="remove">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="both">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="winglets">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="and">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="continue">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="the">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="flight">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="without">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="them">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma=".">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="The">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="plane">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="left">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="four">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="hours">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="after">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="its">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="scheduled">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="9:45">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="a.m.">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="local">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="time">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="departure">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma=",">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="carrying">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="150">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="passengers">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma=".">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="The">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="flight">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="was">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="intended">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="to">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="counteract">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="criticisms">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="that">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="the">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="massive">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="airliner">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma=",">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="which">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="has">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="a">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="79-metre">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="wingspan">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma=",">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma="is">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="too">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="big">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma="(">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="and">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma="thus">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="too">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="complex">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="for">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="ground">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="crews">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma=")">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma="to">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="be">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma="practically">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="operated">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma="at">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="most">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma="airports">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma=".">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="It">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma="also">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma="demonstrates">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma="continuing">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma="problems">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="at">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma="Suvarnabhumi">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma="airport">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma=",">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+    <term id="201" lemma="which">
+      <span>
+        <target id="201"/>
+      </span>
+    </term>
+    <term id="202" lemma="has">
+      <span>
+        <target id="202"/>
+      </span>
+    </term>
+    <term id="203" lemma="suffered">
+      <span>
+        <target id="203"/>
+      </span>
+    </term>
+    <term id="204" lemma="various">
+      <span>
+        <target id="204"/>
+      </span>
+    </term>
+    <term id="205" lemma="incidents">
+      <span>
+        <target id="205"/>
+      </span>
+    </term>
+    <term id="206" lemma="since">
+      <span>
+        <target id="206"/>
+      </span>
+    </term>
+    <term id="207" lemma="it">
+      <span>
+        <target id="207"/>
+      </span>
+    </term>
+    <term id="208" lemma="opened">
+      <span>
+        <target id="208"/>
+      </span>
+    </term>
+    <term id="209" lemma="last">
+      <span>
+        <target id="209"/>
+      </span>
+    </term>
+    <term id="210" lemma="September">
+      <span>
+        <target id="210"/>
+      </span>
+    </term>
+    <term id="211" lemma=",">
+      <span>
+        <target id="211"/>
+      </span>
+    </term>
+    <term id="212" lemma="the">
+      <span>
+        <target id="212"/>
+      </span>
+    </term>
+    <term id="213" lemma="most">
+      <span>
+        <target id="213"/>
+      </span>
+    </term>
+    <term id="214" lemma="severe">
+      <span>
+        <target id="214"/>
+      </span>
+    </term>
+    <term id="215" lemma="of">
+      <span>
+        <target id="215"/>
+      </span>
+    </term>
+    <term id="216" lemma="which">
+      <span>
+        <target id="216"/>
+      </span>
+    </term>
+    <term id="217" lemma="being">
+      <span>
+        <target id="217"/>
+      </span>
+    </term>
+    <term id="218" lemma="the">
+      <span>
+        <target id="218"/>
+      </span>
+    </term>
+    <term id="219" lemma="discovery">
+      <span>
+        <target id="219"/>
+      </span>
+    </term>
+    <term id="220" lemma="of">
+      <span>
+        <target id="220"/>
+      </span>
+    </term>
+    <term id="221" lemma="large">
+      <span>
+        <target id="221"/>
+      </span>
+    </term>
+    <term id="222" lemma="cracks">
+      <span>
+        <target id="222"/>
+      </span>
+    </term>
+    <term id="223" lemma="in">
+      <span>
+        <target id="223"/>
+      </span>
+    </term>
+    <term id="224" lemma="airport">
+      <span>
+        <target id="224"/>
+      </span>
+    </term>
+    <term id="225" lemma="taxiways">
+      <span>
+        <target id="225"/>
+      </span>
+    </term>
+    <term id="226" lemma="shortly">
+      <span>
+        <target id="226"/>
+      </span>
+    </term>
+    <term id="227" lemma="after">
+      <span>
+        <target id="227"/>
+      </span>
+    </term>
+    <term id="228" lemma="opening">
+      <span>
+        <target id="228"/>
+      </span>
+    </term>
+    <term id="229" lemma=".">
+      <span>
+        <target id="229"/>
+      </span>
+    </term>
+    <term id="230" lemma="Airbus">
+      <span>
+        <target id="230"/>
+      </span>
+    </term>
+    <term id="231" lemma="has">
+      <span>
+        <target id="231"/>
+      </span>
+    </term>
+    <term id="232" lemma="said">
+      <span>
+        <target id="232"/>
+      </span>
+    </term>
+    <term id="233" lemma="they">
+      <span>
+        <target id="233"/>
+      </span>
+    </term>
+    <term id="234" lemma="will">
+      <span>
+        <target id="234"/>
+      </span>
+    </term>
+    <term id="235" lemma="continue">
+      <span>
+        <target id="235"/>
+      </span>
+    </term>
+    <term id="236" lemma="with">
+      <span>
+        <target id="236"/>
+      </span>
+    </term>
+    <term id="237" lemma="their">
+      <span>
+        <target id="237"/>
+      </span>
+    </term>
+    <term id="238" lemma="tour">
+      <span>
+        <target id="238"/>
+      </span>
+    </term>
+    <term id="239" lemma="of">
+      <span>
+        <target id="239"/>
+      </span>
+    </term>
+    <term id="240" lemma="Asia">
+      <span>
+        <target id="240"/>
+      </span>
+    </term>
+    <term id="241" lemma="demonstrating">
+      <span>
+        <target id="241"/>
+      </span>
+    </term>
+    <term id="242" lemma="the">
+      <span>
+        <target id="242"/>
+      </span>
+    </term>
+    <term id="243" lemma="plane">
+      <span>
+        <target id="243"/>
+      </span>
+    </term>
+    <term id="244" lemma=".">
+      <span>
+        <target id="244"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="122" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Airbus_A380" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="162"/>
+          <target id="163"/>
+          <target id="164"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="89" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Airbus_A380" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="166"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="113" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="104"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="112" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Airbus_A380" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="64"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="83" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Airbus_A380" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="136"/>
+          <target id="137"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="80" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="94"/>
+          <target id="95"/>
+          <target id="96"/>
+          <target id="97"/>
+          <target id="98"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="81" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Airbus_A380" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="16"/>
+          <target id="17"/>
+          <target id="18"/>
+          <target id="19"/>
+          <target id="20"/>
+          <target id="21"/>
+          <target id="22"/>
+          <target id="23"/>
+          <target id="24"/>
+          <target id="25"/>
+          <target id="26"/>
+          <target id="27"/>
+          <target id="28"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="86" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Thai_Airways" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="84"/>
+          <target id="85"/>
+          <target id="86"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="87" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Airbus" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="230"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="84" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Airbus_A380" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="22"/>
+          <target id="23"/>
+          <target id="24"/>
+          <target id="25"/>
+          <target id="26"/>
+          <target id="27"/>
+          <target id="28"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="85" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Airbus" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="123"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="123" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Airbus_A380" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="142"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="79" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Chiang_Mai_International_Airport" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="70"/>
+          <target id="71"/>
+          <target id="72"/>
+          <target id="73"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="119" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Suvarnabhumi_Airport" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="38"/>
+          <target id="39"/>
+          <target id="40"/>
+          <target id="41"/>
+          <target id="42"/>
+          <target id="43"/>
+          <target id="44"/>
+          <target id="45"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="118" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Airbus_A380" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="76"/>
+          <target id="77"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="97" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Airbus_A380" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="56"/>
+          <target id="57"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="78" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Suvarnabhumi_Airport" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="41"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="108" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="106"/>
+          <target id="107"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="109" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Bangkok" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="43"/>
+          <target id="44"/>
+          <target id="45"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="103" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Airbus" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="237"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="93" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Airbus_A380" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+          <target id="2"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="101" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Airbus" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="233"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="107" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="116"/>
+          <target id="117"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="104" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Airbus_A380" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="242"/>
+          <target id="243"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="96" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Airbus_A380" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="16"/>
+          <target id="17"/>
+          <target id="18"/>
+          <target id="19"/>
+          <target id="20"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="75" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="90"/>
+          <target id="91"/>
+          <target id="92"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="116" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Thailand" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="45"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="90" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="60"/>
+          <target id="61"/>
+          <target id="62"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+  <timeExpressions>
+    <timex3 id="1" type="DATE" value="2007-09-01">
+      <span>
+        <target id="32"/>
+      </span>
+    </timex3>
+    <timex3 id="63" type="DATE" value="2007-09-01">
+      <span>
+        <target id="8"/>
+        <target id="9"/>
+        <target id="10"/>
+        <target id="11"/>
+      </span>
+    </timex3>
+  </timeExpressions>
+  <srl>
+    <predicate id="pr152957">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg0"/>
+    </predicate>
+  </srl>
+</NAF>

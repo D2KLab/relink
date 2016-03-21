@@ -1,0 +1,2260 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[ Boeing pushes back 737 replacement development May 24 , 2008 United States airframer Boeing has announced that development of a replacement for their 737 narrowbody airliner , begun two years ago , has been pushed back several years , Boeing saying that further advancement of technology is required . Spokeswoman Sandy Angers said that that the team formed to look at the development had been merged into the parent product development team and would cease looking at specific designs . Boeing say airlines demand performance improvements of 15-20 % are required if a new airliner is to be commercially viable . `` We 've reduced our airplane-design effort and are focusing more on the technology breakthroughs , '' said Angers . `` We need technology breakthroughs in engines , aerodynamics , materials and other systems . You ca n't simply shrink the 787 and expect the same benefits for the narrow-body market . We 've got difficult challenges . '' One important difference is that the plastic composite used for the fuselage of the 787 would not offer as significant a weight saving on a smaller aircraft . The delivery date for the plane is now anticipated to be around 2020 , and not 2015 as previously hoped . This coincides with the expected date for Airbus to deliver their A320 replacement . Industry analysts predict development of one to trigger development of the other . Boeing had hoped to have their 's ready for 2012 . Boeing Commercial Airplanes CEO Scott Carson said `` We 're continuing our research effort until we find the right solution . It has to be a 25-year product . '' Since its 1967 debut 5,700 737s have been deliverd to date , with orders for 2,200 more , keeping the jet in production until at least 2014 . It is Boeing 's most popular airliner .]]></raw>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="6"><![CDATA[Boeing]]></wf>
+    <wf id="2" sent="1" para="1" offset="6" length="6"><![CDATA[pushes]]></wf>
+    <wf id="3" sent="1" para="1" offset="12" length="4"><![CDATA[back]]></wf>
+    <wf id="4" sent="1" para="1" offset="16" length="3"><![CDATA[737]]></wf>
+    <wf id="5" sent="1" para="1" offset="19" length="11"><![CDATA[replacement]]></wf>
+    <wf id="6" sent="1" para="1" offset="30" length="11"><![CDATA[development]]></wf>
+    <wf id="7" sent="2" para="1" offset="41" length="3"><![CDATA[May]]></wf>
+    <wf id="8" sent="2" para="1" offset="44" length="2"><![CDATA[24]]></wf>
+    <wf id="9" sent="2" para="1" offset="46" length="1"><![CDATA[,]]></wf>
+    <wf id="10" sent="2" para="1" offset="47" length="4"><![CDATA[2008]]></wf>
+    <wf id="11" sent="3" para="1" offset="51" length="6"><![CDATA[United]]></wf>
+    <wf id="12" sent="3" para="1" offset="57" length="6"><![CDATA[States]]></wf>
+    <wf id="13" sent="3" para="1" offset="63" length="9"><![CDATA[airframer]]></wf>
+    <wf id="14" sent="3" para="1" offset="72" length="6"><![CDATA[Boeing]]></wf>
+    <wf id="15" sent="3" para="1" offset="78" length="3"><![CDATA[has]]></wf>
+    <wf id="16" sent="3" para="1" offset="81" length="9"><![CDATA[announced]]></wf>
+    <wf id="17" sent="3" para="1" offset="90" length="4"><![CDATA[that]]></wf>
+    <wf id="18" sent="3" para="1" offset="94" length="11"><![CDATA[development]]></wf>
+    <wf id="19" sent="3" para="1" offset="105" length="2"><![CDATA[of]]></wf>
+    <wf id="20" sent="3" para="1" offset="107" length="1"><![CDATA[a]]></wf>
+    <wf id="21" sent="3" para="1" offset="108" length="11"><![CDATA[replacement]]></wf>
+    <wf id="22" sent="3" para="1" offset="119" length="3"><![CDATA[for]]></wf>
+    <wf id="23" sent="3" para="1" offset="122" length="5"><![CDATA[their]]></wf>
+    <wf id="24" sent="3" para="1" offset="127" length="3"><![CDATA[737]]></wf>
+    <wf id="25" sent="3" para="1" offset="130" length="10"><![CDATA[narrowbody]]></wf>
+    <wf id="26" sent="3" para="1" offset="140" length="8"><![CDATA[airliner]]></wf>
+    <wf id="27" sent="3" para="1" offset="148" length="1"><![CDATA[,]]></wf>
+    <wf id="28" sent="3" para="1" offset="149" length="5"><![CDATA[begun]]></wf>
+    <wf id="29" sent="3" para="1" offset="154" length="3"><![CDATA[two]]></wf>
+    <wf id="30" sent="3" para="1" offset="157" length="5"><![CDATA[years]]></wf>
+    <wf id="31" sent="3" para="1" offset="162" length="3"><![CDATA[ago]]></wf>
+    <wf id="32" sent="3" para="1" offset="165" length="1"><![CDATA[,]]></wf>
+    <wf id="33" sent="3" para="1" offset="166" length="3"><![CDATA[has]]></wf>
+    <wf id="34" sent="3" para="1" offset="169" length="4"><![CDATA[been]]></wf>
+    <wf id="35" sent="3" para="1" offset="173" length="6"><![CDATA[pushed]]></wf>
+    <wf id="36" sent="3" para="1" offset="179" length="4"><![CDATA[back]]></wf>
+    <wf id="37" sent="3" para="1" offset="183" length="7"><![CDATA[several]]></wf>
+    <wf id="38" sent="3" para="1" offset="190" length="5"><![CDATA[years]]></wf>
+    <wf id="39" sent="3" para="1" offset="195" length="1"><![CDATA[,]]></wf>
+    <wf id="40" sent="3" para="1" offset="196" length="6"><![CDATA[Boeing]]></wf>
+    <wf id="41" sent="3" para="1" offset="202" length="6"><![CDATA[saying]]></wf>
+    <wf id="42" sent="3" para="1" offset="208" length="4"><![CDATA[that]]></wf>
+    <wf id="43" sent="3" para="1" offset="212" length="7"><![CDATA[further]]></wf>
+    <wf id="44" sent="3" para="1" offset="219" length="11"><![CDATA[advancement]]></wf>
+    <wf id="45" sent="3" para="1" offset="230" length="2"><![CDATA[of]]></wf>
+    <wf id="46" sent="3" para="1" offset="232" length="10"><![CDATA[technology]]></wf>
+    <wf id="47" sent="3" para="1" offset="242" length="2"><![CDATA[is]]></wf>
+    <wf id="48" sent="3" para="1" offset="244" length="8"><![CDATA[required]]></wf>
+    <wf id="49" sent="3" para="1" offset="252" length="1"><![CDATA[.]]></wf>
+    <wf id="50" sent="4" para="1" offset="253" length="11"><![CDATA[Spokeswoman]]></wf>
+    <wf id="51" sent="4" para="1" offset="264" length="5"><![CDATA[Sandy]]></wf>
+    <wf id="52" sent="4" para="1" offset="269" length="6"><![CDATA[Angers]]></wf>
+    <wf id="53" sent="4" para="1" offset="275" length="4"><![CDATA[said]]></wf>
+    <wf id="54" sent="4" para="1" offset="279" length="4"><![CDATA[that]]></wf>
+    <wf id="55" sent="4" para="1" offset="283" length="4"><![CDATA[that]]></wf>
+    <wf id="56" sent="4" para="1" offset="287" length="3"><![CDATA[the]]></wf>
+    <wf id="57" sent="4" para="1" offset="290" length="4"><![CDATA[team]]></wf>
+    <wf id="58" sent="4" para="1" offset="294" length="6"><![CDATA[formed]]></wf>
+    <wf id="59" sent="4" para="1" offset="300" length="2"><![CDATA[to]]></wf>
+    <wf id="60" sent="4" para="1" offset="302" length="4"><![CDATA[look]]></wf>
+    <wf id="61" sent="4" para="1" offset="306" length="2"><![CDATA[at]]></wf>
+    <wf id="62" sent="4" para="1" offset="308" length="3"><![CDATA[the]]></wf>
+    <wf id="63" sent="4" para="1" offset="311" length="11"><![CDATA[development]]></wf>
+    <wf id="64" sent="4" para="1" offset="322" length="3"><![CDATA[had]]></wf>
+    <wf id="65" sent="4" para="1" offset="325" length="4"><![CDATA[been]]></wf>
+    <wf id="66" sent="4" para="1" offset="329" length="6"><![CDATA[merged]]></wf>
+    <wf id="67" sent="4" para="1" offset="335" length="4"><![CDATA[into]]></wf>
+    <wf id="68" sent="4" para="1" offset="339" length="3"><![CDATA[the]]></wf>
+    <wf id="69" sent="4" para="1" offset="342" length="6"><![CDATA[parent]]></wf>
+    <wf id="70" sent="4" para="1" offset="348" length="7"><![CDATA[product]]></wf>
+    <wf id="71" sent="4" para="1" offset="355" length="11"><![CDATA[development]]></wf>
+    <wf id="72" sent="4" para="1" offset="366" length="4"><![CDATA[team]]></wf>
+    <wf id="73" sent="4" para="1" offset="370" length="3"><![CDATA[and]]></wf>
+    <wf id="74" sent="4" para="1" offset="373" length="5"><![CDATA[would]]></wf>
+    <wf id="75" sent="4" para="1" offset="378" length="5"><![CDATA[cease]]></wf>
+    <wf id="76" sent="4" para="1" offset="383" length="7"><![CDATA[looking]]></wf>
+    <wf id="77" sent="4" para="1" offset="390" length="2"><![CDATA[at]]></wf>
+    <wf id="78" sent="4" para="1" offset="392" length="8"><![CDATA[specific]]></wf>
+    <wf id="79" sent="4" para="1" offset="400" length="7"><![CDATA[designs]]></wf>
+    <wf id="80" sent="4" para="1" offset="407" length="1"><![CDATA[.]]></wf>
+    <wf id="81" sent="5" para="1" offset="408" length="6"><![CDATA[Boeing]]></wf>
+    <wf id="82" sent="5" para="1" offset="414" length="3"><![CDATA[say]]></wf>
+    <wf id="83" sent="5" para="1" offset="417" length="8"><![CDATA[airlines]]></wf>
+    <wf id="84" sent="5" para="1" offset="425" length="6"><![CDATA[demand]]></wf>
+    <wf id="85" sent="5" para="1" offset="431" length="11"><![CDATA[performance]]></wf>
+    <wf id="86" sent="5" para="1" offset="442" length="12"><![CDATA[improvements]]></wf>
+    <wf id="87" sent="5" para="1" offset="454" length="2"><![CDATA[of]]></wf>
+    <wf id="88" sent="5" para="1" offset="456" length="5"><![CDATA[15-20]]></wf>
+    <wf id="89" sent="5" para="1" offset="461" length="1"><![CDATA[%]]></wf>
+    <wf id="90" sent="5" para="1" offset="462" length="3"><![CDATA[are]]></wf>
+    <wf id="91" sent="5" para="1" offset="465" length="8"><![CDATA[required]]></wf>
+    <wf id="92" sent="5" para="1" offset="473" length="2"><![CDATA[if]]></wf>
+    <wf id="93" sent="5" para="1" offset="475" length="1"><![CDATA[a]]></wf>
+    <wf id="94" sent="5" para="1" offset="476" length="3"><![CDATA[new]]></wf>
+    <wf id="95" sent="5" para="1" offset="479" length="8"><![CDATA[airliner]]></wf>
+    <wf id="96" sent="5" para="1" offset="487" length="2"><![CDATA[is]]></wf>
+    <wf id="97" sent="5" para="1" offset="489" length="2"><![CDATA[to]]></wf>
+    <wf id="98" sent="5" para="1" offset="491" length="2"><![CDATA[be]]></wf>
+    <wf id="99" sent="5" para="1" offset="493" length="12"><![CDATA[commercially]]></wf>
+    <wf id="100" sent="5" para="1" offset="505" length="6"><![CDATA[viable]]></wf>
+    <wf id="101" sent="5" para="1" offset="511" length="1"><![CDATA[.]]></wf>
+    <wf id="102" sent="6" para="1" offset="512" length="2"><![CDATA[``]]></wf>
+    <wf id="103" sent="6" para="1" offset="514" length="2"><![CDATA[We]]></wf>
+    <wf id="104" sent="6" para="1" offset="516" length="3"><![CDATA['ve]]></wf>
+    <wf id="105" sent="6" para="1" offset="519" length="7"><![CDATA[reduced]]></wf>
+    <wf id="106" sent="6" para="1" offset="526" length="3"><![CDATA[our]]></wf>
+    <wf id="107" sent="6" para="1" offset="529" length="15"><![CDATA[airplane-design]]></wf>
+    <wf id="108" sent="6" para="1" offset="544" length="6"><![CDATA[effort]]></wf>
+    <wf id="109" sent="6" para="1" offset="550" length="3"><![CDATA[and]]></wf>
+    <wf id="110" sent="6" para="1" offset="553" length="3"><![CDATA[are]]></wf>
+    <wf id="111" sent="6" para="1" offset="556" length="8"><![CDATA[focusing]]></wf>
+    <wf id="112" sent="6" para="1" offset="564" length="4"><![CDATA[more]]></wf>
+    <wf id="113" sent="6" para="1" offset="568" length="2"><![CDATA[on]]></wf>
+    <wf id="114" sent="6" para="1" offset="570" length="3"><![CDATA[the]]></wf>
+    <wf id="115" sent="6" para="1" offset="573" length="10"><![CDATA[technology]]></wf>
+    <wf id="116" sent="6" para="1" offset="583" length="13"><![CDATA[breakthroughs]]></wf>
+    <wf id="117" sent="6" para="1" offset="596" length="1"><![CDATA[,]]></wf>
+    <wf id="118" sent="6" para="1" offset="597" length="2"><![CDATA['']]></wf>
+    <wf id="119" sent="6" para="1" offset="599" length="4"><![CDATA[said]]></wf>
+    <wf id="120" sent="6" para="1" offset="603" length="6"><![CDATA[Angers]]></wf>
+    <wf id="121" sent="6" para="1" offset="609" length="1"><![CDATA[.]]></wf>
+    <wf id="122" sent="7" para="1" offset="610" length="2"><![CDATA[``]]></wf>
+    <wf id="123" sent="7" para="1" offset="612" length="2"><![CDATA[We]]></wf>
+    <wf id="124" sent="7" para="1" offset="614" length="4"><![CDATA[need]]></wf>
+    <wf id="125" sent="7" para="1" offset="618" length="10"><![CDATA[technology]]></wf>
+    <wf id="126" sent="7" para="1" offset="628" length="13"><![CDATA[breakthroughs]]></wf>
+    <wf id="127" sent="7" para="1" offset="641" length="2"><![CDATA[in]]></wf>
+    <wf id="128" sent="7" para="1" offset="643" length="7"><![CDATA[engines]]></wf>
+    <wf id="129" sent="7" para="1" offset="650" length="1"><![CDATA[,]]></wf>
+    <wf id="130" sent="7" para="1" offset="651" length="12"><![CDATA[aerodynamics]]></wf>
+    <wf id="131" sent="7" para="1" offset="663" length="1"><![CDATA[,]]></wf>
+    <wf id="132" sent="7" para="1" offset="664" length="9"><![CDATA[materials]]></wf>
+    <wf id="133" sent="7" para="1" offset="673" length="3"><![CDATA[and]]></wf>
+    <wf id="134" sent="7" para="1" offset="676" length="5"><![CDATA[other]]></wf>
+    <wf id="135" sent="7" para="1" offset="681" length="7"><![CDATA[systems]]></wf>
+    <wf id="136" sent="7" para="1" offset="688" length="1"><![CDATA[.]]></wf>
+    <wf id="137" sent="8" para="1" offset="689" length="3"><![CDATA[You]]></wf>
+    <wf id="138" sent="8" para="1" offset="692" length="2"><![CDATA[ca]]></wf>
+    <wf id="139" sent="8" para="1" offset="694" length="3"><![CDATA[n't]]></wf>
+    <wf id="140" sent="8" para="1" offset="697" length="6"><![CDATA[simply]]></wf>
+    <wf id="141" sent="8" para="1" offset="703" length="6"><![CDATA[shrink]]></wf>
+    <wf id="142" sent="8" para="1" offset="709" length="3"><![CDATA[the]]></wf>
+    <wf id="143" sent="8" para="1" offset="712" length="3"><![CDATA[787]]></wf>
+    <wf id="144" sent="8" para="1" offset="715" length="3"><![CDATA[and]]></wf>
+    <wf id="145" sent="8" para="1" offset="718" length="6"><![CDATA[expect]]></wf>
+    <wf id="146" sent="8" para="1" offset="724" length="3"><![CDATA[the]]></wf>
+    <wf id="147" sent="8" para="1" offset="727" length="4"><![CDATA[same]]></wf>
+    <wf id="148" sent="8" para="1" offset="731" length="8"><![CDATA[benefits]]></wf>
+    <wf id="149" sent="8" para="1" offset="739" length="3"><![CDATA[for]]></wf>
+    <wf id="150" sent="8" para="1" offset="742" length="3"><![CDATA[the]]></wf>
+    <wf id="151" sent="8" para="1" offset="745" length="11"><![CDATA[narrow-body]]></wf>
+    <wf id="152" sent="8" para="1" offset="756" length="6"><![CDATA[market]]></wf>
+    <wf id="153" sent="8" para="1" offset="762" length="1"><![CDATA[.]]></wf>
+    <wf id="154" sent="9" para="1" offset="763" length="2"><![CDATA[We]]></wf>
+    <wf id="155" sent="9" para="1" offset="765" length="3"><![CDATA['ve]]></wf>
+    <wf id="156" sent="9" para="1" offset="768" length="3"><![CDATA[got]]></wf>
+    <wf id="157" sent="9" para="1" offset="771" length="9"><![CDATA[difficult]]></wf>
+    <wf id="158" sent="9" para="1" offset="780" length="10"><![CDATA[challenges]]></wf>
+    <wf id="159" sent="9" para="1" offset="790" length="1"><![CDATA[.]]></wf>
+    <wf id="160" sent="9" para="1" offset="791" length="2"><![CDATA['']]></wf>
+    <wf id="161" sent="10" para="1" offset="793" length="3"><![CDATA[One]]></wf>
+    <wf id="162" sent="10" para="1" offset="796" length="9"><![CDATA[important]]></wf>
+    <wf id="163" sent="10" para="1" offset="805" length="10"><![CDATA[difference]]></wf>
+    <wf id="164" sent="10" para="1" offset="815" length="2"><![CDATA[is]]></wf>
+    <wf id="165" sent="10" para="1" offset="817" length="4"><![CDATA[that]]></wf>
+    <wf id="166" sent="10" para="1" offset="821" length="3"><![CDATA[the]]></wf>
+    <wf id="167" sent="10" para="1" offset="824" length="7"><![CDATA[plastic]]></wf>
+    <wf id="168" sent="10" para="1" offset="831" length="9"><![CDATA[composite]]></wf>
+    <wf id="169" sent="10" para="1" offset="840" length="4"><![CDATA[used]]></wf>
+    <wf id="170" sent="10" para="1" offset="844" length="3"><![CDATA[for]]></wf>
+    <wf id="171" sent="10" para="1" offset="847" length="3"><![CDATA[the]]></wf>
+    <wf id="172" sent="10" para="1" offset="850" length="8"><![CDATA[fuselage]]></wf>
+    <wf id="173" sent="10" para="1" offset="858" length="2"><![CDATA[of]]></wf>
+    <wf id="174" sent="10" para="1" offset="860" length="3"><![CDATA[the]]></wf>
+    <wf id="175" sent="10" para="1" offset="863" length="3"><![CDATA[787]]></wf>
+    <wf id="176" sent="10" para="1" offset="866" length="5"><![CDATA[would]]></wf>
+    <wf id="177" sent="10" para="1" offset="871" length="3"><![CDATA[not]]></wf>
+    <wf id="178" sent="10" para="1" offset="874" length="5"><![CDATA[offer]]></wf>
+    <wf id="179" sent="10" para="1" offset="879" length="2"><![CDATA[as]]></wf>
+    <wf id="180" sent="10" para="1" offset="881" length="11"><![CDATA[significant]]></wf>
+    <wf id="181" sent="10" para="1" offset="892" length="1"><![CDATA[a]]></wf>
+    <wf id="182" sent="10" para="1" offset="893" length="6"><![CDATA[weight]]></wf>
+    <wf id="183" sent="10" para="1" offset="899" length="6"><![CDATA[saving]]></wf>
+    <wf id="184" sent="10" para="1" offset="905" length="2"><![CDATA[on]]></wf>
+    <wf id="185" sent="10" para="1" offset="907" length="1"><![CDATA[a]]></wf>
+    <wf id="186" sent="10" para="1" offset="908" length="7"><![CDATA[smaller]]></wf>
+    <wf id="187" sent="10" para="1" offset="915" length="8"><![CDATA[aircraft]]></wf>
+    <wf id="188" sent="10" para="1" offset="923" length="1"><![CDATA[.]]></wf>
+    <wf id="189" sent="11" para="1" offset="924" length="3"><![CDATA[The]]></wf>
+    <wf id="190" sent="11" para="1" offset="927" length="8"><![CDATA[delivery]]></wf>
+    <wf id="191" sent="11" para="1" offset="935" length="4"><![CDATA[date]]></wf>
+    <wf id="192" sent="11" para="1" offset="939" length="3"><![CDATA[for]]></wf>
+    <wf id="193" sent="11" para="1" offset="942" length="3"><![CDATA[the]]></wf>
+    <wf id="194" sent="11" para="1" offset="945" length="5"><![CDATA[plane]]></wf>
+    <wf id="195" sent="11" para="1" offset="950" length="2"><![CDATA[is]]></wf>
+    <wf id="196" sent="11" para="1" offset="952" length="3"><![CDATA[now]]></wf>
+    <wf id="197" sent="11" para="1" offset="955" length="11"><![CDATA[anticipated]]></wf>
+    <wf id="198" sent="11" para="1" offset="966" length="2"><![CDATA[to]]></wf>
+    <wf id="199" sent="11" para="1" offset="968" length="2"><![CDATA[be]]></wf>
+    <wf id="200" sent="11" para="1" offset="970" length="6"><![CDATA[around]]></wf>
+    <wf id="201" sent="11" para="1" offset="976" length="4"><![CDATA[2020]]></wf>
+    <wf id="202" sent="11" para="1" offset="980" length="1"><![CDATA[,]]></wf>
+    <wf id="203" sent="11" para="1" offset="981" length="3"><![CDATA[and]]></wf>
+    <wf id="204" sent="11" para="1" offset="984" length="3"><![CDATA[not]]></wf>
+    <wf id="205" sent="11" para="1" offset="987" length="4"><![CDATA[2015]]></wf>
+    <wf id="206" sent="11" para="1" offset="991" length="2"><![CDATA[as]]></wf>
+    <wf id="207" sent="11" para="1" offset="993" length="10"><![CDATA[previously]]></wf>
+    <wf id="208" sent="11" para="1" offset="1003" length="5"><![CDATA[hoped]]></wf>
+    <wf id="209" sent="11" para="1" offset="1008" length="1"><![CDATA[.]]></wf>
+    <wf id="210" sent="12" para="1" offset="1009" length="4"><![CDATA[This]]></wf>
+    <wf id="211" sent="12" para="1" offset="1013" length="9"><![CDATA[coincides]]></wf>
+    <wf id="212" sent="12" para="1" offset="1022" length="4"><![CDATA[with]]></wf>
+    <wf id="213" sent="12" para="1" offset="1026" length="3"><![CDATA[the]]></wf>
+    <wf id="214" sent="12" para="1" offset="1029" length="8"><![CDATA[expected]]></wf>
+    <wf id="215" sent="12" para="1" offset="1037" length="4"><![CDATA[date]]></wf>
+    <wf id="216" sent="12" para="1" offset="1041" length="3"><![CDATA[for]]></wf>
+    <wf id="217" sent="12" para="1" offset="1044" length="6"><![CDATA[Airbus]]></wf>
+    <wf id="218" sent="12" para="1" offset="1050" length="2"><![CDATA[to]]></wf>
+    <wf id="219" sent="12" para="1" offset="1052" length="7"><![CDATA[deliver]]></wf>
+    <wf id="220" sent="12" para="1" offset="1059" length="5"><![CDATA[their]]></wf>
+    <wf id="221" sent="12" para="1" offset="1064" length="4"><![CDATA[A320]]></wf>
+    <wf id="222" sent="12" para="1" offset="1068" length="11"><![CDATA[replacement]]></wf>
+    <wf id="223" sent="12" para="1" offset="1079" length="1"><![CDATA[.]]></wf>
+    <wf id="224" sent="13" para="1" offset="1080" length="8"><![CDATA[Industry]]></wf>
+    <wf id="225" sent="13" para="1" offset="1088" length="8"><![CDATA[analysts]]></wf>
+    <wf id="226" sent="13" para="1" offset="1096" length="7"><![CDATA[predict]]></wf>
+    <wf id="227" sent="13" para="1" offset="1103" length="11"><![CDATA[development]]></wf>
+    <wf id="228" sent="13" para="1" offset="1114" length="2"><![CDATA[of]]></wf>
+    <wf id="229" sent="13" para="1" offset="1116" length="3"><![CDATA[one]]></wf>
+    <wf id="230" sent="13" para="1" offset="1119" length="2"><![CDATA[to]]></wf>
+    <wf id="231" sent="13" para="1" offset="1121" length="7"><![CDATA[trigger]]></wf>
+    <wf id="232" sent="13" para="1" offset="1128" length="11"><![CDATA[development]]></wf>
+    <wf id="233" sent="13" para="1" offset="1139" length="2"><![CDATA[of]]></wf>
+    <wf id="234" sent="13" para="1" offset="1141" length="3"><![CDATA[the]]></wf>
+    <wf id="235" sent="13" para="1" offset="1144" length="5"><![CDATA[other]]></wf>
+    <wf id="236" sent="13" para="1" offset="1149" length="1"><![CDATA[.]]></wf>
+    <wf id="237" sent="14" para="1" offset="1150" length="6"><![CDATA[Boeing]]></wf>
+    <wf id="238" sent="14" para="1" offset="1156" length="3"><![CDATA[had]]></wf>
+    <wf id="239" sent="14" para="1" offset="1159" length="5"><![CDATA[hoped]]></wf>
+    <wf id="240" sent="14" para="1" offset="1164" length="2"><![CDATA[to]]></wf>
+    <wf id="241" sent="14" para="1" offset="1166" length="4"><![CDATA[have]]></wf>
+    <wf id="242" sent="14" para="1" offset="1170" length="5"><![CDATA[their]]></wf>
+    <wf id="243" sent="14" para="1" offset="1175" length="2"><![CDATA['s]]></wf>
+    <wf id="244" sent="14" para="1" offset="1177" length="5"><![CDATA[ready]]></wf>
+    <wf id="245" sent="14" para="1" offset="1182" length="3"><![CDATA[for]]></wf>
+    <wf id="246" sent="14" para="1" offset="1185" length="4"><![CDATA[2012]]></wf>
+    <wf id="247" sent="14" para="1" offset="1189" length="1"><![CDATA[.]]></wf>
+    <wf id="248" sent="15" para="1" offset="1190" length="6"><![CDATA[Boeing]]></wf>
+    <wf id="249" sent="15" para="1" offset="1196" length="10"><![CDATA[Commercial]]></wf>
+    <wf id="250" sent="15" para="1" offset="1206" length="9"><![CDATA[Airplanes]]></wf>
+    <wf id="251" sent="15" para="1" offset="1215" length="3"><![CDATA[CEO]]></wf>
+    <wf id="252" sent="15" para="1" offset="1218" length="5"><![CDATA[Scott]]></wf>
+    <wf id="253" sent="15" para="1" offset="1223" length="6"><![CDATA[Carson]]></wf>
+    <wf id="254" sent="15" para="1" offset="1229" length="4"><![CDATA[said]]></wf>
+    <wf id="255" sent="15" para="1" offset="1233" length="2"><![CDATA[``]]></wf>
+    <wf id="256" sent="15" para="1" offset="1235" length="2"><![CDATA[We]]></wf>
+    <wf id="257" sent="15" para="1" offset="1237" length="3"><![CDATA['re]]></wf>
+    <wf id="258" sent="15" para="1" offset="1240" length="10"><![CDATA[continuing]]></wf>
+    <wf id="259" sent="15" para="1" offset="1250" length="3"><![CDATA[our]]></wf>
+    <wf id="260" sent="15" para="1" offset="1253" length="8"><![CDATA[research]]></wf>
+    <wf id="261" sent="15" para="1" offset="1261" length="6"><![CDATA[effort]]></wf>
+    <wf id="262" sent="15" para="1" offset="1267" length="5"><![CDATA[until]]></wf>
+    <wf id="263" sent="15" para="1" offset="1272" length="2"><![CDATA[we]]></wf>
+    <wf id="264" sent="15" para="1" offset="1274" length="4"><![CDATA[find]]></wf>
+    <wf id="265" sent="15" para="1" offset="1278" length="3"><![CDATA[the]]></wf>
+    <wf id="266" sent="15" para="1" offset="1281" length="5"><![CDATA[right]]></wf>
+    <wf id="267" sent="15" para="1" offset="1286" length="8"><![CDATA[solution]]></wf>
+    <wf id="268" sent="15" para="1" offset="1294" length="1"><![CDATA[.]]></wf>
+    <wf id="269" sent="16" para="1" offset="1295" length="2"><![CDATA[It]]></wf>
+    <wf id="270" sent="16" para="1" offset="1297" length="3"><![CDATA[has]]></wf>
+    <wf id="271" sent="16" para="1" offset="1300" length="2"><![CDATA[to]]></wf>
+    <wf id="272" sent="16" para="1" offset="1302" length="2"><![CDATA[be]]></wf>
+    <wf id="273" sent="16" para="1" offset="1304" length="1"><![CDATA[a]]></wf>
+    <wf id="274" sent="16" para="1" offset="1305" length="7"><![CDATA[25-year]]></wf>
+    <wf id="275" sent="16" para="1" offset="1312" length="7"><![CDATA[product]]></wf>
+    <wf id="276" sent="16" para="1" offset="1319" length="1"><![CDATA[.]]></wf>
+    <wf id="277" sent="16" para="1" offset="1320" length="2"><![CDATA['']]></wf>
+    <wf id="278" sent="17" para="1" offset="1322" length="5"><![CDATA[Since]]></wf>
+    <wf id="279" sent="17" para="1" offset="1327" length="3"><![CDATA[its]]></wf>
+    <wf id="280" sent="17" para="1" offset="1330" length="4"><![CDATA[1967]]></wf>
+    <wf id="281" sent="17" para="1" offset="1334" length="5"><![CDATA[debut]]></wf>
+    <wf id="282" sent="17" para="1" offset="1339" length="5"><![CDATA[5,700]]></wf>
+    <wf id="283" sent="17" para="1" offset="1344" length="4"><![CDATA[737s]]></wf>
+    <wf id="284" sent="17" para="1" offset="1348" length="4"><![CDATA[have]]></wf>
+    <wf id="285" sent="17" para="1" offset="1352" length="4"><![CDATA[been]]></wf>
+    <wf id="286" sent="17" para="1" offset="1356" length="8"><![CDATA[deliverd]]></wf>
+    <wf id="287" sent="17" para="1" offset="1364" length="2"><![CDATA[to]]></wf>
+    <wf id="288" sent="17" para="1" offset="1366" length="4"><![CDATA[date]]></wf>
+    <wf id="289" sent="17" para="1" offset="1370" length="1"><![CDATA[,]]></wf>
+    <wf id="290" sent="17" para="1" offset="1371" length="4"><![CDATA[with]]></wf>
+    <wf id="291" sent="17" para="1" offset="1375" length="6"><![CDATA[orders]]></wf>
+    <wf id="292" sent="17" para="1" offset="1381" length="3"><![CDATA[for]]></wf>
+    <wf id="293" sent="17" para="1" offset="1384" length="5"><![CDATA[2,200]]></wf>
+    <wf id="294" sent="17" para="1" offset="1389" length="4"><![CDATA[more]]></wf>
+    <wf id="295" sent="17" para="1" offset="1393" length="1"><![CDATA[,]]></wf>
+    <wf id="296" sent="17" para="1" offset="1394" length="7"><![CDATA[keeping]]></wf>
+    <wf id="297" sent="17" para="1" offset="1401" length="3"><![CDATA[the]]></wf>
+    <wf id="298" sent="17" para="1" offset="1404" length="3"><![CDATA[jet]]></wf>
+    <wf id="299" sent="17" para="1" offset="1407" length="2"><![CDATA[in]]></wf>
+    <wf id="300" sent="17" para="1" offset="1409" length="10"><![CDATA[production]]></wf>
+    <wf id="301" sent="17" para="1" offset="1419" length="5"><![CDATA[until]]></wf>
+    <wf id="302" sent="17" para="1" offset="1424" length="2"><![CDATA[at]]></wf>
+    <wf id="303" sent="17" para="1" offset="1426" length="5"><![CDATA[least]]></wf>
+    <wf id="304" sent="17" para="1" offset="1431" length="4"><![CDATA[2014]]></wf>
+    <wf id="305" sent="17" para="1" offset="1435" length="1"><![CDATA[.]]></wf>
+    <wf id="306" sent="18" para="1" offset="1436" length="2"><![CDATA[It]]></wf>
+    <wf id="307" sent="18" para="1" offset="1438" length="2"><![CDATA[is]]></wf>
+    <wf id="308" sent="18" para="1" offset="1440" length="6"><![CDATA[Boeing]]></wf>
+    <wf id="309" sent="18" para="1" offset="1446" length="2"><![CDATA['s]]></wf>
+    <wf id="310" sent="18" para="1" offset="1448" length="4"><![CDATA[most]]></wf>
+    <wf id="311" sent="18" para="1" offset="1452" length="7"><![CDATA[popular]]></wf>
+    <wf id="312" sent="18" para="1" offset="1459" length="8"><![CDATA[airliner]]></wf>
+    <wf id="313" sent="18" para="1" offset="1467" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="Boeing">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="pushes">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="back">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="737">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="replacement">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="development">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="May">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="24">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma=",">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="2008">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="United">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="States">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="airframer">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="Boeing">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="has">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="announced">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="that">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="development">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="of">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="a">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="replacement">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="for">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="their">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="737">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="narrowbody">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="airliner">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma=",">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="begun">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="two">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="years">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="ago">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma=",">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="has">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="been">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="pushed">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="back">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="several">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="years">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma=",">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="Boeing">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="saying">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="that">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="further">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="advancement">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="of">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="technology">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="is">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="required">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma=".">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="Spokeswoman">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="Sandy">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="Angers">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="said">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="that">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="that">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="the">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="team">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="formed">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="to">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="look">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="at">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="the">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="development">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="had">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="been">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="merged">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="into">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="the">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="parent">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="product">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="development">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="team">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="and">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="would">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="cease">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="looking">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="at">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="specific">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="designs">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma=".">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="Boeing">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="say">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="airlines">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="demand">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="performance">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="improvements">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="of">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="15-20">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="%">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="are">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="required">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="if">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="a">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="new">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="airliner">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="is">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="to">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="be">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="commercially">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="viable">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma=".">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="``">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="We">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="'ve">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="reduced">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="our">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="airplane-design">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="effort">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="and">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="are">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="focusing">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="more">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="on">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="the">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="technology">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="breakthroughs">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma=",">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="''">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="said">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="Angers">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma=".">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="``">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="We">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="need">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="technology">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="breakthroughs">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="in">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="engines">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma=",">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="aerodynamics">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma=",">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="materials">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="and">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="other">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="systems">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma=".">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="You">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="ca">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="n't">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="simply">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="shrink">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="the">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="787">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="and">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="expect">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="the">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="same">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="benefits">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="for">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="the">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="narrow-body">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="market">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma=".">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="We">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="'ve">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="got">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="difficult">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="challenges">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma=".">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="''">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="One">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="important">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="difference">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="is">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="that">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="the">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="plastic">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="composite">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="used">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="for">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="the">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma="fuselage">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="of">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="the">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma="787">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="would">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma="not">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="offer">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="as">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="significant">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="a">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="weight">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="saving">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma="on">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="a">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma="smaller">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="aircraft">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma=".">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="The">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma="delivery">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma="date">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="for">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma="the">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma="plane">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma="is">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma="now">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="anticipated">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma="to">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma="be">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma="around">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+    <term id="201" lemma="2020">
+      <span>
+        <target id="201"/>
+      </span>
+    </term>
+    <term id="202" lemma=",">
+      <span>
+        <target id="202"/>
+      </span>
+    </term>
+    <term id="203" lemma="and">
+      <span>
+        <target id="203"/>
+      </span>
+    </term>
+    <term id="204" lemma="not">
+      <span>
+        <target id="204"/>
+      </span>
+    </term>
+    <term id="205" lemma="2015">
+      <span>
+        <target id="205"/>
+      </span>
+    </term>
+    <term id="206" lemma="as">
+      <span>
+        <target id="206"/>
+      </span>
+    </term>
+    <term id="207" lemma="previously">
+      <span>
+        <target id="207"/>
+      </span>
+    </term>
+    <term id="208" lemma="hoped">
+      <span>
+        <target id="208"/>
+      </span>
+    </term>
+    <term id="209" lemma=".">
+      <span>
+        <target id="209"/>
+      </span>
+    </term>
+    <term id="210" lemma="This">
+      <span>
+        <target id="210"/>
+      </span>
+    </term>
+    <term id="211" lemma="coincides">
+      <span>
+        <target id="211"/>
+      </span>
+    </term>
+    <term id="212" lemma="with">
+      <span>
+        <target id="212"/>
+      </span>
+    </term>
+    <term id="213" lemma="the">
+      <span>
+        <target id="213"/>
+      </span>
+    </term>
+    <term id="214" lemma="expected">
+      <span>
+        <target id="214"/>
+      </span>
+    </term>
+    <term id="215" lemma="date">
+      <span>
+        <target id="215"/>
+      </span>
+    </term>
+    <term id="216" lemma="for">
+      <span>
+        <target id="216"/>
+      </span>
+    </term>
+    <term id="217" lemma="Airbus">
+      <span>
+        <target id="217"/>
+      </span>
+    </term>
+    <term id="218" lemma="to">
+      <span>
+        <target id="218"/>
+      </span>
+    </term>
+    <term id="219" lemma="deliver">
+      <span>
+        <target id="219"/>
+      </span>
+    </term>
+    <term id="220" lemma="their">
+      <span>
+        <target id="220"/>
+      </span>
+    </term>
+    <term id="221" lemma="A320">
+      <span>
+        <target id="221"/>
+      </span>
+    </term>
+    <term id="222" lemma="replacement">
+      <span>
+        <target id="222"/>
+      </span>
+    </term>
+    <term id="223" lemma=".">
+      <span>
+        <target id="223"/>
+      </span>
+    </term>
+    <term id="224" lemma="Industry">
+      <span>
+        <target id="224"/>
+      </span>
+    </term>
+    <term id="225" lemma="analysts">
+      <span>
+        <target id="225"/>
+      </span>
+    </term>
+    <term id="226" lemma="predict">
+      <span>
+        <target id="226"/>
+      </span>
+    </term>
+    <term id="227" lemma="development">
+      <span>
+        <target id="227"/>
+      </span>
+    </term>
+    <term id="228" lemma="of">
+      <span>
+        <target id="228"/>
+      </span>
+    </term>
+    <term id="229" lemma="one">
+      <span>
+        <target id="229"/>
+      </span>
+    </term>
+    <term id="230" lemma="to">
+      <span>
+        <target id="230"/>
+      </span>
+    </term>
+    <term id="231" lemma="trigger">
+      <span>
+        <target id="231"/>
+      </span>
+    </term>
+    <term id="232" lemma="development">
+      <span>
+        <target id="232"/>
+      </span>
+    </term>
+    <term id="233" lemma="of">
+      <span>
+        <target id="233"/>
+      </span>
+    </term>
+    <term id="234" lemma="the">
+      <span>
+        <target id="234"/>
+      </span>
+    </term>
+    <term id="235" lemma="other">
+      <span>
+        <target id="235"/>
+      </span>
+    </term>
+    <term id="236" lemma=".">
+      <span>
+        <target id="236"/>
+      </span>
+    </term>
+    <term id="237" lemma="Boeing">
+      <span>
+        <target id="237"/>
+      </span>
+    </term>
+    <term id="238" lemma="had">
+      <span>
+        <target id="238"/>
+      </span>
+    </term>
+    <term id="239" lemma="hoped">
+      <span>
+        <target id="239"/>
+      </span>
+    </term>
+    <term id="240" lemma="to">
+      <span>
+        <target id="240"/>
+      </span>
+    </term>
+    <term id="241" lemma="have">
+      <span>
+        <target id="241"/>
+      </span>
+    </term>
+    <term id="242" lemma="their">
+      <span>
+        <target id="242"/>
+      </span>
+    </term>
+    <term id="243" lemma="'s">
+      <span>
+        <target id="243"/>
+      </span>
+    </term>
+    <term id="244" lemma="ready">
+      <span>
+        <target id="244"/>
+      </span>
+    </term>
+    <term id="245" lemma="for">
+      <span>
+        <target id="245"/>
+      </span>
+    </term>
+    <term id="246" lemma="2012">
+      <span>
+        <target id="246"/>
+      </span>
+    </term>
+    <term id="247" lemma=".">
+      <span>
+        <target id="247"/>
+      </span>
+    </term>
+    <term id="248" lemma="Boeing">
+      <span>
+        <target id="248"/>
+      </span>
+    </term>
+    <term id="249" lemma="Commercial">
+      <span>
+        <target id="249"/>
+      </span>
+    </term>
+    <term id="250" lemma="Airplanes">
+      <span>
+        <target id="250"/>
+      </span>
+    </term>
+    <term id="251" lemma="CEO">
+      <span>
+        <target id="251"/>
+      </span>
+    </term>
+    <term id="252" lemma="Scott">
+      <span>
+        <target id="252"/>
+      </span>
+    </term>
+    <term id="253" lemma="Carson">
+      <span>
+        <target id="253"/>
+      </span>
+    </term>
+    <term id="254" lemma="said">
+      <span>
+        <target id="254"/>
+      </span>
+    </term>
+    <term id="255" lemma="``">
+      <span>
+        <target id="255"/>
+      </span>
+    </term>
+    <term id="256" lemma="We">
+      <span>
+        <target id="256"/>
+      </span>
+    </term>
+    <term id="257" lemma="'re">
+      <span>
+        <target id="257"/>
+      </span>
+    </term>
+    <term id="258" lemma="continuing">
+      <span>
+        <target id="258"/>
+      </span>
+    </term>
+    <term id="259" lemma="our">
+      <span>
+        <target id="259"/>
+      </span>
+    </term>
+    <term id="260" lemma="research">
+      <span>
+        <target id="260"/>
+      </span>
+    </term>
+    <term id="261" lemma="effort">
+      <span>
+        <target id="261"/>
+      </span>
+    </term>
+    <term id="262" lemma="until">
+      <span>
+        <target id="262"/>
+      </span>
+    </term>
+    <term id="263" lemma="we">
+      <span>
+        <target id="263"/>
+      </span>
+    </term>
+    <term id="264" lemma="find">
+      <span>
+        <target id="264"/>
+      </span>
+    </term>
+    <term id="265" lemma="the">
+      <span>
+        <target id="265"/>
+      </span>
+    </term>
+    <term id="266" lemma="right">
+      <span>
+        <target id="266"/>
+      </span>
+    </term>
+    <term id="267" lemma="solution">
+      <span>
+        <target id="267"/>
+      </span>
+    </term>
+    <term id="268" lemma=".">
+      <span>
+        <target id="268"/>
+      </span>
+    </term>
+    <term id="269" lemma="It">
+      <span>
+        <target id="269"/>
+      </span>
+    </term>
+    <term id="270" lemma="has">
+      <span>
+        <target id="270"/>
+      </span>
+    </term>
+    <term id="271" lemma="to">
+      <span>
+        <target id="271"/>
+      </span>
+    </term>
+    <term id="272" lemma="be">
+      <span>
+        <target id="272"/>
+      </span>
+    </term>
+    <term id="273" lemma="a">
+      <span>
+        <target id="273"/>
+      </span>
+    </term>
+    <term id="274" lemma="25-year">
+      <span>
+        <target id="274"/>
+      </span>
+    </term>
+    <term id="275" lemma="product">
+      <span>
+        <target id="275"/>
+      </span>
+    </term>
+    <term id="276" lemma=".">
+      <span>
+        <target id="276"/>
+      </span>
+    </term>
+    <term id="277" lemma="''">
+      <span>
+        <target id="277"/>
+      </span>
+    </term>
+    <term id="278" lemma="Since">
+      <span>
+        <target id="278"/>
+      </span>
+    </term>
+    <term id="279" lemma="its">
+      <span>
+        <target id="279"/>
+      </span>
+    </term>
+    <term id="280" lemma="1967">
+      <span>
+        <target id="280"/>
+      </span>
+    </term>
+    <term id="281" lemma="debut">
+      <span>
+        <target id="281"/>
+      </span>
+    </term>
+    <term id="282" lemma="5,700">
+      <span>
+        <target id="282"/>
+      </span>
+    </term>
+    <term id="283" lemma="737s">
+      <span>
+        <target id="283"/>
+      </span>
+    </term>
+    <term id="284" lemma="have">
+      <span>
+        <target id="284"/>
+      </span>
+    </term>
+    <term id="285" lemma="been">
+      <span>
+        <target id="285"/>
+      </span>
+    </term>
+    <term id="286" lemma="deliverd">
+      <span>
+        <target id="286"/>
+      </span>
+    </term>
+    <term id="287" lemma="to">
+      <span>
+        <target id="287"/>
+      </span>
+    </term>
+    <term id="288" lemma="date">
+      <span>
+        <target id="288"/>
+      </span>
+    </term>
+    <term id="289" lemma=",">
+      <span>
+        <target id="289"/>
+      </span>
+    </term>
+    <term id="290" lemma="with">
+      <span>
+        <target id="290"/>
+      </span>
+    </term>
+    <term id="291" lemma="orders">
+      <span>
+        <target id="291"/>
+      </span>
+    </term>
+    <term id="292" lemma="for">
+      <span>
+        <target id="292"/>
+      </span>
+    </term>
+    <term id="293" lemma="2,200">
+      <span>
+        <target id="293"/>
+      </span>
+    </term>
+    <term id="294" lemma="more">
+      <span>
+        <target id="294"/>
+      </span>
+    </term>
+    <term id="295" lemma=",">
+      <span>
+        <target id="295"/>
+      </span>
+    </term>
+    <term id="296" lemma="keeping">
+      <span>
+        <target id="296"/>
+      </span>
+    </term>
+    <term id="297" lemma="the">
+      <span>
+        <target id="297"/>
+      </span>
+    </term>
+    <term id="298" lemma="jet">
+      <span>
+        <target id="298"/>
+      </span>
+    </term>
+    <term id="299" lemma="in">
+      <span>
+        <target id="299"/>
+      </span>
+    </term>
+    <term id="300" lemma="production">
+      <span>
+        <target id="300"/>
+      </span>
+    </term>
+    <term id="301" lemma="until">
+      <span>
+        <target id="301"/>
+      </span>
+    </term>
+    <term id="302" lemma="at">
+      <span>
+        <target id="302"/>
+      </span>
+    </term>
+    <term id="303" lemma="least">
+      <span>
+        <target id="303"/>
+      </span>
+    </term>
+    <term id="304" lemma="2014">
+      <span>
+        <target id="304"/>
+      </span>
+    </term>
+    <term id="305" lemma=".">
+      <span>
+        <target id="305"/>
+      </span>
+    </term>
+    <term id="306" lemma="It">
+      <span>
+        <target id="306"/>
+      </span>
+    </term>
+    <term id="307" lemma="is">
+      <span>
+        <target id="307"/>
+      </span>
+    </term>
+    <term id="308" lemma="Boeing">
+      <span>
+        <target id="308"/>
+      </span>
+    </term>
+    <term id="309" lemma="'s">
+      <span>
+        <target id="309"/>
+      </span>
+    </term>
+    <term id="310" lemma="most">
+      <span>
+        <target id="310"/>
+      </span>
+    </term>
+    <term id="311" lemma="popular">
+      <span>
+        <target id="311"/>
+      </span>
+    </term>
+    <term id="312" lemma="airliner">
+      <span>
+        <target id="312"/>
+      </span>
+    </term>
+    <term id="313" lemma=".">
+      <span>
+        <target id="313"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="134" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Boeing" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="256"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="115" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Boeing" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="263"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="114" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Boeing" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="237"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="88" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="93"/>
+          <target id="94"/>
+          <target id="95"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="89" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Boeing_787_Dreamliner" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="174"/>
+          <target id="175"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="111" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Boeing_737" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="4"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="110" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="50"/>
+          <target id="51"/>
+          <target id="52"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="113" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="no er" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="248"/>
+          <target id="249"/>
+          <target id="250"/>
+          <target id="251"/>
+          <target id="252"/>
+          <target id="253"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="112" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="120"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="119" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Airbus" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="217"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="85" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Boeing_737" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="23"/>
+          <target id="24"/>
+          <target id="25"/>
+          <target id="26"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="86" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Boeing" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="154"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="129" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Boeing" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+          <target id="12"/>
+          <target id="13"/>
+          <target id="14"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="97" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Boeing" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="242"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="96" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Boeing" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="81"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="99" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Boeing" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="248"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="123" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Boeing" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="106"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="125" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Boeing" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="103"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="126" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="68"/>
+          <target id="69"/>
+          <target id="70"/>
+          <target id="71"/>
+          <target id="72"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="127" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Airbus" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="220"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="102" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Boeing" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="123"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="103" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Boeing" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="23"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="93" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Boeing" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="40"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="95" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="83"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="107" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Boeing" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="104" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Boeing" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="308"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="105" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Boeing_787_Dreamliner" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="142"/>
+          <target id="143"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="91" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="56"/>
+          <target id="57"/>
+          <target id="58"/>
+          <target id="59"/>
+          <target id="60"/>
+          <target id="61"/>
+          <target id="62"/>
+          <target id="63"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="132" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/page/Boeing" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="259"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+  <timeExpressions>
+    <timex3 id="1" type="DATE" value="2008-05-24">
+      <span>
+        <target id="7"/>
+        <target id="8"/>
+        <target id="9"/>
+        <target id="10"/>
+      </span>
+    </timex3>
+    <timex3 id="3" type="DURATION" value="PXY">
+      <span>
+        <target id="37"/>
+        <target id="38"/>
+      </span>
+    </timex3>
+    <timex3 id="2" type="DURATION" value="P2Y">
+      <span>
+        <target id="29"/>
+        <target id="30"/>
+      </span>
+    </timex3>
+  </timeExpressions>
+  <srl>
+    <predicate id="pr152042">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg0"/>
+    </predicate>
+    <predicate id="pr154733">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg1"/>
+    </predicate>
+    <predicate id="pr152048">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg0"/>
+    </predicate>
+    <predicate id="pr152049">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg0"/>
+    </predicate>
+    <predicate id="pr152053">
+      <span>
+        <target id="bla"/>
+      </span>
+      <role id="r1" semRole="Arg1"/>
+    </predicate>
+  </srl>
+</NAF>

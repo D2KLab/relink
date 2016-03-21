@@ -1,0 +1,770 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[China to open port in Hainan to foreign ships . BEIJING 1996-12-06 China 's State Council , or cabinet , has given a port in the southern province of Hainan permission to open to foreign vessels , the Xinhua news agency said on Friday . Xinhua did not say when Qinglan port in Wenchang city would be opened to foreign vessels . Wenchang has built a berth for 5,000 deadweight-tonne container ships at the port and invested 34 million yuan ( $ 4.1 million ) to dredge the harbour , Xinhua said . It gave no further details . ( $ 1 = 8.3 yuan ) ]]></raw>
+  <nafHeader>
+    <fileDesc title="1265testb" filename="1265testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="5"><![CDATA[China]]></wf>
+    <wf id="1" sent="1" para="1" offset="5" length="2"><![CDATA[to]]></wf>
+    <wf id="2" sent="1" para="1" offset="7" length="4"><![CDATA[open]]></wf>
+    <wf id="3" sent="1" para="1" offset="11" length="4"><![CDATA[port]]></wf>
+    <wf id="4" sent="1" para="1" offset="15" length="2"><![CDATA[in]]></wf>
+    <wf id="5" sent="1" para="1" offset="17" length="6"><![CDATA[Hainan]]></wf>
+    <wf id="6" sent="1" para="1" offset="23" length="2"><![CDATA[to]]></wf>
+    <wf id="7" sent="1" para="1" offset="25" length="7"><![CDATA[foreign]]></wf>
+    <wf id="8" sent="1" para="1" offset="32" length="5"><![CDATA[ships]]></wf>
+    <wf id="9" sent="1" para="1" offset="37" length="1"><![CDATA[.]]></wf>
+    <wf id="10" sent="1" para="1" offset="38" length="7"><![CDATA[BEIJING]]></wf>
+    <wf id="11" sent="1" para="1" offset="45" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="12" sent="1" para="1" offset="55" length="5"><![CDATA[China]]></wf>
+    <wf id="13" sent="1" para="1" offset="60" length="2"><![CDATA['s]]></wf>
+    <wf id="14" sent="1" para="1" offset="62" length="5"><![CDATA[State]]></wf>
+    <wf id="15" sent="1" para="1" offset="67" length="7"><![CDATA[Council]]></wf>
+    <wf id="16" sent="1" para="1" offset="74" length="1"><![CDATA[,]]></wf>
+    <wf id="17" sent="1" para="1" offset="75" length="2"><![CDATA[or]]></wf>
+    <wf id="18" sent="1" para="1" offset="77" length="7"><![CDATA[cabinet]]></wf>
+    <wf id="19" sent="1" para="1" offset="84" length="1"><![CDATA[,]]></wf>
+    <wf id="20" sent="1" para="1" offset="85" length="3"><![CDATA[has]]></wf>
+    <wf id="21" sent="1" para="1" offset="88" length="5"><![CDATA[given]]></wf>
+    <wf id="22" sent="1" para="1" offset="93" length="1"><![CDATA[a]]></wf>
+    <wf id="23" sent="1" para="1" offset="94" length="4"><![CDATA[port]]></wf>
+    <wf id="24" sent="1" para="1" offset="98" length="2"><![CDATA[in]]></wf>
+    <wf id="25" sent="1" para="1" offset="100" length="3"><![CDATA[the]]></wf>
+    <wf id="26" sent="1" para="1" offset="103" length="8"><![CDATA[southern]]></wf>
+    <wf id="27" sent="1" para="1" offset="111" length="8"><![CDATA[province]]></wf>
+    <wf id="28" sent="1" para="1" offset="119" length="2"><![CDATA[of]]></wf>
+    <wf id="29" sent="1" para="1" offset="121" length="6"><![CDATA[Hainan]]></wf>
+    <wf id="30" sent="1" para="1" offset="127" length="10"><![CDATA[permission]]></wf>
+    <wf id="31" sent="1" para="1" offset="137" length="2"><![CDATA[to]]></wf>
+    <wf id="32" sent="1" para="1" offset="139" length="4"><![CDATA[open]]></wf>
+    <wf id="33" sent="1" para="1" offset="143" length="2"><![CDATA[to]]></wf>
+    <wf id="34" sent="1" para="1" offset="145" length="7"><![CDATA[foreign]]></wf>
+    <wf id="35" sent="1" para="1" offset="152" length="7"><![CDATA[vessels]]></wf>
+    <wf id="36" sent="1" para="1" offset="159" length="1"><![CDATA[,]]></wf>
+    <wf id="37" sent="1" para="1" offset="160" length="3"><![CDATA[the]]></wf>
+    <wf id="38" sent="1" para="1" offset="163" length="6"><![CDATA[Xinhua]]></wf>
+    <wf id="39" sent="1" para="1" offset="169" length="4"><![CDATA[news]]></wf>
+    <wf id="40" sent="1" para="1" offset="173" length="6"><![CDATA[agency]]></wf>
+    <wf id="41" sent="1" para="1" offset="179" length="4"><![CDATA[said]]></wf>
+    <wf id="42" sent="1" para="1" offset="183" length="2"><![CDATA[on]]></wf>
+    <wf id="43" sent="1" para="1" offset="185" length="6"><![CDATA[Friday]]></wf>
+    <wf id="44" sent="1" para="1" offset="191" length="1"><![CDATA[.]]></wf>
+    <wf id="45" sent="1" para="1" offset="192" length="6"><![CDATA[Xinhua]]></wf>
+    <wf id="46" sent="1" para="1" offset="198" length="3"><![CDATA[did]]></wf>
+    <wf id="47" sent="1" para="1" offset="201" length="3"><![CDATA[not]]></wf>
+    <wf id="48" sent="1" para="1" offset="204" length="3"><![CDATA[say]]></wf>
+    <wf id="49" sent="1" para="1" offset="207" length="4"><![CDATA[when]]></wf>
+    <wf id="50" sent="1" para="1" offset="211" length="7"><![CDATA[Qinglan]]></wf>
+    <wf id="51" sent="1" para="1" offset="218" length="4"><![CDATA[port]]></wf>
+    <wf id="52" sent="1" para="1" offset="222" length="2"><![CDATA[in]]></wf>
+    <wf id="53" sent="1" para="1" offset="224" length="8"><![CDATA[Wenchang]]></wf>
+    <wf id="54" sent="1" para="1" offset="232" length="4"><![CDATA[city]]></wf>
+    <wf id="55" sent="1" para="1" offset="236" length="5"><![CDATA[would]]></wf>
+    <wf id="56" sent="1" para="1" offset="241" length="2"><![CDATA[be]]></wf>
+    <wf id="57" sent="1" para="1" offset="243" length="6"><![CDATA[opened]]></wf>
+    <wf id="58" sent="1" para="1" offset="249" length="2"><![CDATA[to]]></wf>
+    <wf id="59" sent="1" para="1" offset="251" length="7"><![CDATA[foreign]]></wf>
+    <wf id="60" sent="1" para="1" offset="258" length="7"><![CDATA[vessels]]></wf>
+    <wf id="61" sent="1" para="1" offset="265" length="1"><![CDATA[.]]></wf>
+    <wf id="62" sent="1" para="1" offset="266" length="8"><![CDATA[Wenchang]]></wf>
+    <wf id="63" sent="1" para="1" offset="274" length="3"><![CDATA[has]]></wf>
+    <wf id="64" sent="1" para="1" offset="277" length="5"><![CDATA[built]]></wf>
+    <wf id="65" sent="1" para="1" offset="282" length="1"><![CDATA[a]]></wf>
+    <wf id="66" sent="1" para="1" offset="283" length="5"><![CDATA[berth]]></wf>
+    <wf id="67" sent="1" para="1" offset="288" length="3"><![CDATA[for]]></wf>
+    <wf id="68" sent="1" para="1" offset="291" length="5"><![CDATA[5,000]]></wf>
+    <wf id="69" sent="1" para="1" offset="296" length="16"><![CDATA[deadweight-tonne]]></wf>
+    <wf id="70" sent="1" para="1" offset="312" length="9"><![CDATA[container]]></wf>
+    <wf id="71" sent="1" para="1" offset="321" length="5"><![CDATA[ships]]></wf>
+    <wf id="72" sent="1" para="1" offset="326" length="2"><![CDATA[at]]></wf>
+    <wf id="73" sent="1" para="1" offset="328" length="3"><![CDATA[the]]></wf>
+    <wf id="74" sent="1" para="1" offset="331" length="4"><![CDATA[port]]></wf>
+    <wf id="75" sent="1" para="1" offset="335" length="3"><![CDATA[and]]></wf>
+    <wf id="76" sent="1" para="1" offset="338" length="8"><![CDATA[invested]]></wf>
+    <wf id="77" sent="1" para="1" offset="346" length="2"><![CDATA[34]]></wf>
+    <wf id="78" sent="1" para="1" offset="348" length="7"><![CDATA[million]]></wf>
+    <wf id="79" sent="1" para="1" offset="355" length="4"><![CDATA[yuan]]></wf>
+    <wf id="80" sent="1" para="1" offset="359" length="1"><![CDATA[(]]></wf>
+    <wf id="81" sent="1" para="1" offset="360" length="1"><![CDATA[$]]></wf>
+    <wf id="82" sent="1" para="1" offset="361" length="3"><![CDATA[4.1]]></wf>
+    <wf id="83" sent="1" para="1" offset="364" length="7"><![CDATA[million]]></wf>
+    <wf id="84" sent="1" para="1" offset="371" length="1"><![CDATA[)]]></wf>
+    <wf id="85" sent="1" para="1" offset="372" length="2"><![CDATA[to]]></wf>
+    <wf id="86" sent="1" para="1" offset="374" length="6"><![CDATA[dredge]]></wf>
+    <wf id="87" sent="1" para="1" offset="380" length="3"><![CDATA[the]]></wf>
+    <wf id="88" sent="1" para="1" offset="383" length="7"><![CDATA[harbour]]></wf>
+    <wf id="89" sent="1" para="1" offset="390" length="1"><![CDATA[,]]></wf>
+    <wf id="90" sent="1" para="1" offset="391" length="6"><![CDATA[Xinhua]]></wf>
+    <wf id="91" sent="1" para="1" offset="397" length="4"><![CDATA[said]]></wf>
+    <wf id="92" sent="1" para="1" offset="401" length="1"><![CDATA[.]]></wf>
+    <wf id="93" sent="1" para="1" offset="402" length="2"><![CDATA[It]]></wf>
+    <wf id="94" sent="1" para="1" offset="404" length="4"><![CDATA[gave]]></wf>
+    <wf id="95" sent="1" para="1" offset="408" length="2"><![CDATA[no]]></wf>
+    <wf id="96" sent="1" para="1" offset="410" length="7"><![CDATA[further]]></wf>
+    <wf id="97" sent="1" para="1" offset="417" length="7"><![CDATA[details]]></wf>
+    <wf id="98" sent="1" para="1" offset="424" length="1"><![CDATA[.]]></wf>
+    <wf id="99" sent="1" para="1" offset="425" length="1"><![CDATA[(]]></wf>
+    <wf id="100" sent="1" para="1" offset="426" length="1"><![CDATA[$]]></wf>
+    <wf id="101" sent="1" para="1" offset="427" length="1"><![CDATA[1]]></wf>
+    <wf id="102" sent="1" para="1" offset="428" length="1"><![CDATA[=]]></wf>
+    <wf id="103" sent="1" para="1" offset="429" length="3"><![CDATA[8.3]]></wf>
+    <wf id="104" sent="1" para="1" offset="432" length="4"><![CDATA[yuan]]></wf>
+    <wf id="105" sent="1" para="1" offset="436" length="1"><![CDATA[)]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="China">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="to">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="open">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="port">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="in">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="Hainan">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="to">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="foreign">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="ships">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma=".">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="BEIJING">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="1996-12-06">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="China">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="'s">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="State">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="Council">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma=",">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="or">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="cabinet">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma=",">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="has">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="given">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="a">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="port">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="in">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="the">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="southern">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="province">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="of">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="Hainan">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="permission">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="to">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="open">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="to">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="foreign">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="vessels">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma=",">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="the">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="Xinhua">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="news">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="agency">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="said">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="on">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="Friday">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma=".">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="Xinhua">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="did">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="not">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="say">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="when">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="Qinglan">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="port">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="in">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="Wenchang">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="city">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="would">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="be">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="opened">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="to">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="foreign">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="vessels">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma=".">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="Wenchang">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="has">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="built">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="a">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="berth">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="for">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="5,000">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="deadweight-tonne">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="container">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="ships">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="at">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="the">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="port">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="and">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="invested">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="34">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="million">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="yuan">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="(">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="$">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="4.1">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="million">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma=")">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="to">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="dredge">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="the">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="harbour">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma=",">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="Xinhua">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="said">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma=".">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="It">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="gave">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="no">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="further">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="details">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma=".">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="(">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="$">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="1">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="=">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="8.3">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="yuan">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma=")">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="2586">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/People's_Republic_of_China" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="0"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2587">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Hainan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="5"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2588">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Beijing" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="10"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2589">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/People's_Republic_of_China" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2590">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="14"/>
+          <target id="15"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2591">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Hainan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="29"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2592">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Xinhua_News_Agency" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="38"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2593">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Xinhua_News_Agency" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="45"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2594">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="50"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2595">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Wenchang" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="53"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2596">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Wenchang" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="62"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2597">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Xinhua_News_Agency" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="90"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

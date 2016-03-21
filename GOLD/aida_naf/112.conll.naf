@@ -1,0 +1,893 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[BALANCE - Hartford , Conn . , $ 11 mln . CITY OF HARTFORD , CONNECTICUT RE : $ 25,000,000 GENERAL OBLIGATION BONDS MOODY 'S : Aaa / A1 S&P : AAA / AA- Delivery Date : 12/16/1996 FSA INSURED Maturity Balance Coupon List 12/15/2000 1,250M 6.25 4.10 12/15/2001 575M 4.60 4.20 12/15/2003 265M 4.40 4.40 12/15/2004 625M 4.50 4.50 12/15/2005 55M 4.60 4.60 12/15/2006 145M 4.70 4.70 12/15/2007 850M 4.85 4.85 12/15/2008 1,200M 4.95 4.95 12/15/2009 1,240M 5.05 5.05 12/15/2010 1,250M 5.15 5.15 12/15/2011 1,240M 5.25 5.25 12/15/2012 1,200M 5.25 5.30 12/15/2013 1,135M 5.30 5.35 12/15/2014 850M 5.30 5.35 Total : 11,880M State Street Bank and Trust Company Prudential Securities Incorporated PaineWebber Incorporated First Union Capital Markets Corp. - NJ -- U.S. Municipal Desk , 212-859-1650 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1274testb" filename="1274testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="7"><![CDATA[BALANCE]]></wf>
+    <wf id="2" sent="1" para="1" offset="7" length="1"><![CDATA[-]]></wf>
+    <wf id="3" sent="1" para="1" offset="8" length="8"><![CDATA[Hartford]]></wf>
+    <wf id="4" sent="1" para="1" offset="16" length="1"><![CDATA[,]]></wf>
+    <wf id="5" sent="1" para="1" offset="17" length="4"><![CDATA[Conn]]></wf>
+    <wf id="6" sent="1" para="1" offset="21" length="1"><![CDATA[.]]></wf>
+    <wf id="7" sent="1" para="1" offset="22" length="1"><![CDATA[,]]></wf>
+    <wf id="8" sent="1" para="1" offset="23" length="1"><![CDATA[$]]></wf>
+    <wf id="9" sent="1" para="1" offset="24" length="2"><![CDATA[11]]></wf>
+    <wf id="10" sent="1" para="1" offset="26" length="3"><![CDATA[mln]]></wf>
+    <wf id="11" sent="1" para="1" offset="29" length="1"><![CDATA[.]]></wf>
+    <wf id="12" sent="1" para="1" offset="30" length="4"><![CDATA[CITY]]></wf>
+    <wf id="13" sent="1" para="1" offset="34" length="2"><![CDATA[OF]]></wf>
+    <wf id="14" sent="1" para="1" offset="36" length="8"><![CDATA[HARTFORD]]></wf>
+    <wf id="15" sent="1" para="1" offset="44" length="1"><![CDATA[,]]></wf>
+    <wf id="16" sent="1" para="1" offset="45" length="11"><![CDATA[CONNECTICUT]]></wf>
+    <wf id="17" sent="1" para="1" offset="56" length="2"><![CDATA[RE]]></wf>
+    <wf id="18" sent="1" para="1" offset="58" length="1"><![CDATA[:]]></wf>
+    <wf id="19" sent="1" para="1" offset="59" length="1"><![CDATA[$]]></wf>
+    <wf id="20" sent="1" para="1" offset="60" length="10"><![CDATA[25,000,000]]></wf>
+    <wf id="21" sent="1" para="1" offset="70" length="7"><![CDATA[GENERAL]]></wf>
+    <wf id="22" sent="1" para="1" offset="77" length="10"><![CDATA[OBLIGATION]]></wf>
+    <wf id="23" sent="1" para="1" offset="87" length="5"><![CDATA[BONDS]]></wf>
+    <wf id="24" sent="1" para="1" offset="92" length="5"><![CDATA[MOODY]]></wf>
+    <wf id="25" sent="1" para="1" offset="97" length="2"><![CDATA['S]]></wf>
+    <wf id="26" sent="1" para="1" offset="99" length="1"><![CDATA[:]]></wf>
+    <wf id="27" sent="1" para="1" offset="100" length="3"><![CDATA[Aaa]]></wf>
+    <wf id="28" sent="1" para="1" offset="103" length="1"><![CDATA[/]]></wf>
+    <wf id="29" sent="1" para="1" offset="104" length="2"><![CDATA[A1]]></wf>
+    <wf id="30" sent="1" para="1" offset="106" length="3"><![CDATA[S&P]]></wf>
+    <wf id="31" sent="1" para="1" offset="109" length="1"><![CDATA[:]]></wf>
+    <wf id="32" sent="1" para="1" offset="110" length="3"><![CDATA[AAA]]></wf>
+    <wf id="33" sent="1" para="1" offset="113" length="1"><![CDATA[/]]></wf>
+    <wf id="34" sent="1" para="1" offset="114" length="3"><![CDATA[AA-]]></wf>
+    <wf id="35" sent="1" para="1" offset="117" length="8"><![CDATA[Delivery]]></wf>
+    <wf id="36" sent="1" para="1" offset="125" length="4"><![CDATA[Date]]></wf>
+    <wf id="37" sent="1" para="1" offset="129" length="1"><![CDATA[:]]></wf>
+    <wf id="38" sent="1" para="1" offset="130" length="10"><![CDATA[12/16/1996]]></wf>
+    <wf id="39" sent="1" para="1" offset="140" length="3"><![CDATA[FSA]]></wf>
+    <wf id="40" sent="1" para="1" offset="143" length="7"><![CDATA[INSURED]]></wf>
+    <wf id="41" sent="1" para="1" offset="150" length="8"><![CDATA[Maturity]]></wf>
+    <wf id="42" sent="1" para="1" offset="158" length="7"><![CDATA[Balance]]></wf>
+    <wf id="43" sent="1" para="1" offset="165" length="6"><![CDATA[Coupon]]></wf>
+    <wf id="44" sent="1" para="1" offset="171" length="4"><![CDATA[List]]></wf>
+    <wf id="45" sent="1" para="1" offset="175" length="10"><![CDATA[12/15/2000]]></wf>
+    <wf id="46" sent="1" para="1" offset="185" length="6"><![CDATA[1,250M]]></wf>
+    <wf id="47" sent="1" para="1" offset="191" length="4"><![CDATA[6.25]]></wf>
+    <wf id="48" sent="1" para="1" offset="195" length="4"><![CDATA[4.10]]></wf>
+    <wf id="49" sent="1" para="1" offset="199" length="10"><![CDATA[12/15/2001]]></wf>
+    <wf id="50" sent="1" para="1" offset="209" length="4"><![CDATA[575M]]></wf>
+    <wf id="51" sent="1" para="1" offset="213" length="4"><![CDATA[4.60]]></wf>
+    <wf id="52" sent="1" para="1" offset="217" length="4"><![CDATA[4.20]]></wf>
+    <wf id="53" sent="1" para="1" offset="221" length="10"><![CDATA[12/15/2003]]></wf>
+    <wf id="54" sent="1" para="1" offset="231" length="4"><![CDATA[265M]]></wf>
+    <wf id="55" sent="1" para="1" offset="235" length="4"><![CDATA[4.40]]></wf>
+    <wf id="56" sent="1" para="1" offset="239" length="4"><![CDATA[4.40]]></wf>
+    <wf id="57" sent="1" para="1" offset="243" length="10"><![CDATA[12/15/2004]]></wf>
+    <wf id="58" sent="1" para="1" offset="253" length="4"><![CDATA[625M]]></wf>
+    <wf id="59" sent="1" para="1" offset="257" length="4"><![CDATA[4.50]]></wf>
+    <wf id="60" sent="1" para="1" offset="261" length="4"><![CDATA[4.50]]></wf>
+    <wf id="61" sent="1" para="1" offset="265" length="10"><![CDATA[12/15/2005]]></wf>
+    <wf id="62" sent="1" para="1" offset="275" length="3"><![CDATA[55M]]></wf>
+    <wf id="63" sent="1" para="1" offset="278" length="4"><![CDATA[4.60]]></wf>
+    <wf id="64" sent="1" para="1" offset="282" length="4"><![CDATA[4.60]]></wf>
+    <wf id="65" sent="1" para="1" offset="286" length="10"><![CDATA[12/15/2006]]></wf>
+    <wf id="66" sent="1" para="1" offset="296" length="4"><![CDATA[145M]]></wf>
+    <wf id="67" sent="1" para="1" offset="300" length="4"><![CDATA[4.70]]></wf>
+    <wf id="68" sent="1" para="1" offset="304" length="4"><![CDATA[4.70]]></wf>
+    <wf id="69" sent="1" para="1" offset="308" length="10"><![CDATA[12/15/2007]]></wf>
+    <wf id="70" sent="1" para="1" offset="318" length="4"><![CDATA[850M]]></wf>
+    <wf id="71" sent="1" para="1" offset="322" length="4"><![CDATA[4.85]]></wf>
+    <wf id="72" sent="1" para="1" offset="326" length="4"><![CDATA[4.85]]></wf>
+    <wf id="73" sent="1" para="1" offset="330" length="10"><![CDATA[12/15/2008]]></wf>
+    <wf id="74" sent="1" para="1" offset="340" length="6"><![CDATA[1,200M]]></wf>
+    <wf id="75" sent="1" para="1" offset="346" length="4"><![CDATA[4.95]]></wf>
+    <wf id="76" sent="1" para="1" offset="350" length="4"><![CDATA[4.95]]></wf>
+    <wf id="77" sent="1" para="1" offset="354" length="10"><![CDATA[12/15/2009]]></wf>
+    <wf id="78" sent="1" para="1" offset="364" length="6"><![CDATA[1,240M]]></wf>
+    <wf id="79" sent="1" para="1" offset="370" length="4"><![CDATA[5.05]]></wf>
+    <wf id="80" sent="1" para="1" offset="374" length="4"><![CDATA[5.05]]></wf>
+    <wf id="81" sent="1" para="1" offset="378" length="10"><![CDATA[12/15/2010]]></wf>
+    <wf id="82" sent="1" para="1" offset="388" length="6"><![CDATA[1,250M]]></wf>
+    <wf id="83" sent="1" para="1" offset="394" length="4"><![CDATA[5.15]]></wf>
+    <wf id="84" sent="1" para="1" offset="398" length="4"><![CDATA[5.15]]></wf>
+    <wf id="85" sent="1" para="1" offset="402" length="10"><![CDATA[12/15/2011]]></wf>
+    <wf id="86" sent="1" para="1" offset="412" length="6"><![CDATA[1,240M]]></wf>
+    <wf id="87" sent="1" para="1" offset="418" length="4"><![CDATA[5.25]]></wf>
+    <wf id="88" sent="1" para="1" offset="422" length="4"><![CDATA[5.25]]></wf>
+    <wf id="89" sent="1" para="1" offset="426" length="10"><![CDATA[12/15/2012]]></wf>
+    <wf id="90" sent="1" para="1" offset="436" length="6"><![CDATA[1,200M]]></wf>
+    <wf id="91" sent="1" para="1" offset="442" length="4"><![CDATA[5.25]]></wf>
+    <wf id="92" sent="1" para="1" offset="446" length="4"><![CDATA[5.30]]></wf>
+    <wf id="93" sent="1" para="1" offset="450" length="10"><![CDATA[12/15/2013]]></wf>
+    <wf id="94" sent="1" para="1" offset="460" length="6"><![CDATA[1,135M]]></wf>
+    <wf id="95" sent="1" para="1" offset="466" length="4"><![CDATA[5.30]]></wf>
+    <wf id="96" sent="1" para="1" offset="470" length="4"><![CDATA[5.35]]></wf>
+    <wf id="97" sent="1" para="1" offset="474" length="10"><![CDATA[12/15/2014]]></wf>
+    <wf id="98" sent="1" para="1" offset="484" length="4"><![CDATA[850M]]></wf>
+    <wf id="99" sent="1" para="1" offset="488" length="4"><![CDATA[5.30]]></wf>
+    <wf id="100" sent="1" para="1" offset="492" length="4"><![CDATA[5.35]]></wf>
+    <wf id="101" sent="1" para="1" offset="496" length="5"><![CDATA[Total]]></wf>
+    <wf id="102" sent="1" para="1" offset="501" length="1"><![CDATA[:]]></wf>
+    <wf id="103" sent="1" para="1" offset="502" length="7"><![CDATA[11,880M]]></wf>
+    <wf id="104" sent="1" para="1" offset="509" length="5"><![CDATA[State]]></wf>
+    <wf id="105" sent="1" para="1" offset="514" length="6"><![CDATA[Street]]></wf>
+    <wf id="106" sent="1" para="1" offset="520" length="4"><![CDATA[Bank]]></wf>
+    <wf id="107" sent="1" para="1" offset="524" length="3"><![CDATA[and]]></wf>
+    <wf id="108" sent="1" para="1" offset="527" length="5"><![CDATA[Trust]]></wf>
+    <wf id="109" sent="1" para="1" offset="532" length="7"><![CDATA[Company]]></wf>
+    <wf id="110" sent="1" para="1" offset="539" length="10"><![CDATA[Prudential]]></wf>
+    <wf id="111" sent="1" para="1" offset="549" length="10"><![CDATA[Securities]]></wf>
+    <wf id="112" sent="1" para="1" offset="559" length="12"><![CDATA[Incorporated]]></wf>
+    <wf id="113" sent="1" para="1" offset="571" length="11"><![CDATA[PaineWebber]]></wf>
+    <wf id="114" sent="1" para="1" offset="582" length="12"><![CDATA[Incorporated]]></wf>
+    <wf id="115" sent="1" para="1" offset="594" length="5"><![CDATA[First]]></wf>
+    <wf id="116" sent="1" para="1" offset="599" length="5"><![CDATA[Union]]></wf>
+    <wf id="117" sent="1" para="1" offset="604" length="7"><![CDATA[Capital]]></wf>
+    <wf id="118" sent="1" para="1" offset="611" length="7"><![CDATA[Markets]]></wf>
+    <wf id="119" sent="1" para="1" offset="618" length="5"><![CDATA[Corp.]]></wf>
+    <wf id="120" sent="1" para="1" offset="623" length="1"><![CDATA[-]]></wf>
+    <wf id="121" sent="1" para="1" offset="624" length="2"><![CDATA[NJ]]></wf>
+    <wf id="122" sent="1" para="1" offset="626" length="2"><![CDATA[--]]></wf>
+    <wf id="123" sent="1" para="1" offset="628" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="124" sent="1" para="1" offset="632" length="9"><![CDATA[Municipal]]></wf>
+    <wf id="125" sent="1" para="1" offset="641" length="4"><![CDATA[Desk]]></wf>
+    <wf id="126" sent="1" para="1" offset="645" length="1"><![CDATA[,]]></wf>
+    <wf id="127" sent="1" para="1" offset="646" length="12"><![CDATA[212-859-1650]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="BALANCE">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="-">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="Hartford">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma=",">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="Conn">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma=".">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma=",">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="$">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="11">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="mln">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma=".">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="CITY">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="OF">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="HARTFORD">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma=",">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="CONNECTICUT">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="RE">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma=":">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="$">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="25,000,000">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="GENERAL">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="OBLIGATION">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="BONDS">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="MOODY">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="'S">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma=":">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="Aaa">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="/">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="A1">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="S&amp;P">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma=":">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="AAA">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="/">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="AA-">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="Delivery">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="Date">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma=":">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="12/16/1996">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="FSA">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="INSURED">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="Maturity">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="Balance">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="Coupon">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="List">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="12/15/2000">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="1,250M">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="6.25">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="4.10">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="12/15/2001">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="575M">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="4.60">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="4.20">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="12/15/2003">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="265M">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="4.40">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="4.40">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="12/15/2004">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="625M">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="4.50">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="4.50">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="12/15/2005">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="55M">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="4.60">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="4.60">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="12/15/2006">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="145M">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="4.70">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="4.70">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="12/15/2007">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="850M">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="4.85">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="4.85">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="12/15/2008">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="1,200M">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="4.95">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="4.95">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="12/15/2009">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="1,240M">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="5.05">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="5.05">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="12/15/2010">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="1,250M">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="5.15">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="5.15">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="12/15/2011">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="1,240M">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="5.25">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="5.25">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="12/15/2012">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="1,200M">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="5.25">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="5.30">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="12/15/2013">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="1,135M">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="5.30">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="5.35">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="12/15/2014">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="850M">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="5.30">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="5.35">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="Total">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma=":">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="11,880M">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="State">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="Street">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="Bank">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="and">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="Trust">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="Company">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="Prudential">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="Securities">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="Incorporated">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="PaineWebber">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="Incorporated">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="First">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="Union">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="Capital">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="Markets">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="Corp.">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="-">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="NJ">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="--">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="U.S.">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="Municipal">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="Desk">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma=",">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="212-859-1650">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="2821">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Hartford,_Connecticut" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="3"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2822">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="5"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2823">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Hartford,_Connecticut" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="14"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2824">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="16"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2825">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="24"/>
+          <target id="25"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2826">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Standard_&amp;_Poor's" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="30"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2827">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Financial_Services_Authority" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="39"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2828">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="104"/>
+          <target id="105"/>
+          <target id="106"/>
+          <target id="107"/>
+          <target id="108"/>
+          <target id="109"/>
+          <target id="110"/>
+          <target id="111"/>
+          <target id="112"/>
+          <target id="113"/>
+          <target id="114"/>
+          <target id="115"/>
+          <target id="116"/>
+          <target id="117"/>
+          <target id="118"/>
+          <target id="119"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2829">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="121"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2830">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="123"/>
+          <target id="124"/>
+          <target id="125"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

@@ -1,0 +1,1341 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[BOBSLEIGH-SHIMER PILOTS USA III TO SURPRISE WIN . IGLS , Austria 1996-12-07 Brian Shimer piloted USA III to a surprise victory in a World Cup two-man bobsleigh race on Saturday . Lying fifth after the first run , Shimer and breakman Randy Jones delivered a near-perfect second trip down the 1976 Olympic course for an aggregate time of one minute 45.91 seconds . First run leaders Guenther Huber and breakman Antonio Tartaglia in the Italy I sleigh finished second two-hundredths of a second behind the Americans . Canada I , represented by Pierre Lueders and breakman Dave MacEachern , completed the third World cup event of the winter a further one-hundredth of a second behind the Italians . The Canadians , winners of the opening two events in Altenberg , Germany , and La Plagne , France , increased their lead in the World Cup standings . They have 104 points , 15 ahead of USA I 's Jim Herberich and breakman Garrett Hines who managed only 10th place on Saturday . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1353testb" filename="1353testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="16"><![CDATA[BOBSLEIGH-SHIMER]]></wf>
+    <wf id="2" sent="1" para="1" offset="16" length="6"><![CDATA[PILOTS]]></wf>
+    <wf id="3" sent="1" para="1" offset="22" length="3"><![CDATA[USA]]></wf>
+    <wf id="4" sent="1" para="1" offset="25" length="3"><![CDATA[III]]></wf>
+    <wf id="5" sent="1" para="1" offset="28" length="2"><![CDATA[TO]]></wf>
+    <wf id="6" sent="1" para="1" offset="30" length="8"><![CDATA[SURPRISE]]></wf>
+    <wf id="7" sent="1" para="1" offset="38" length="3"><![CDATA[WIN]]></wf>
+    <wf id="8" sent="1" para="1" offset="41" length="1"><![CDATA[.]]></wf>
+    <wf id="9" sent="1" para="1" offset="42" length="4"><![CDATA[IGLS]]></wf>
+    <wf id="10" sent="1" para="1" offset="46" length="1"><![CDATA[,]]></wf>
+    <wf id="11" sent="1" para="1" offset="47" length="7"><![CDATA[Austria]]></wf>
+    <wf id="12" sent="1" para="1" offset="54" length="10"><![CDATA[1996-12-07]]></wf>
+    <wf id="13" sent="1" para="1" offset="64" length="5"><![CDATA[Brian]]></wf>
+    <wf id="14" sent="1" para="1" offset="69" length="6"><![CDATA[Shimer]]></wf>
+    <wf id="15" sent="1" para="1" offset="75" length="7"><![CDATA[piloted]]></wf>
+    <wf id="16" sent="1" para="1" offset="82" length="3"><![CDATA[USA]]></wf>
+    <wf id="17" sent="1" para="1" offset="85" length="3"><![CDATA[III]]></wf>
+    <wf id="18" sent="1" para="1" offset="88" length="2"><![CDATA[to]]></wf>
+    <wf id="19" sent="1" para="1" offset="90" length="1"><![CDATA[a]]></wf>
+    <wf id="20" sent="1" para="1" offset="91" length="8"><![CDATA[surprise]]></wf>
+    <wf id="21" sent="1" para="1" offset="99" length="7"><![CDATA[victory]]></wf>
+    <wf id="22" sent="1" para="1" offset="106" length="2"><![CDATA[in]]></wf>
+    <wf id="23" sent="1" para="1" offset="108" length="1"><![CDATA[a]]></wf>
+    <wf id="24" sent="1" para="1" offset="109" length="5"><![CDATA[World]]></wf>
+    <wf id="25" sent="1" para="1" offset="114" length="3"><![CDATA[Cup]]></wf>
+    <wf id="26" sent="1" para="1" offset="117" length="7"><![CDATA[two-man]]></wf>
+    <wf id="27" sent="1" para="1" offset="124" length="9"><![CDATA[bobsleigh]]></wf>
+    <wf id="28" sent="1" para="1" offset="133" length="4"><![CDATA[race]]></wf>
+    <wf id="29" sent="1" para="1" offset="137" length="2"><![CDATA[on]]></wf>
+    <wf id="30" sent="1" para="1" offset="139" length="8"><![CDATA[Saturday]]></wf>
+    <wf id="31" sent="1" para="1" offset="147" length="1"><![CDATA[.]]></wf>
+    <wf id="32" sent="1" para="1" offset="148" length="5"><![CDATA[Lying]]></wf>
+    <wf id="33" sent="1" para="1" offset="153" length="5"><![CDATA[fifth]]></wf>
+    <wf id="34" sent="1" para="1" offset="158" length="5"><![CDATA[after]]></wf>
+    <wf id="35" sent="1" para="1" offset="163" length="3"><![CDATA[the]]></wf>
+    <wf id="36" sent="1" para="1" offset="166" length="5"><![CDATA[first]]></wf>
+    <wf id="37" sent="1" para="1" offset="171" length="3"><![CDATA[run]]></wf>
+    <wf id="38" sent="1" para="1" offset="174" length="1"><![CDATA[,]]></wf>
+    <wf id="39" sent="1" para="1" offset="175" length="6"><![CDATA[Shimer]]></wf>
+    <wf id="40" sent="1" para="1" offset="181" length="3"><![CDATA[and]]></wf>
+    <wf id="41" sent="1" para="1" offset="184" length="8"><![CDATA[breakman]]></wf>
+    <wf id="42" sent="1" para="1" offset="192" length="5"><![CDATA[Randy]]></wf>
+    <wf id="43" sent="1" para="1" offset="197" length="5"><![CDATA[Jones]]></wf>
+    <wf id="44" sent="1" para="1" offset="202" length="9"><![CDATA[delivered]]></wf>
+    <wf id="45" sent="1" para="1" offset="211" length="1"><![CDATA[a]]></wf>
+    <wf id="46" sent="1" para="1" offset="212" length="12"><![CDATA[near-perfect]]></wf>
+    <wf id="47" sent="1" para="1" offset="224" length="6"><![CDATA[second]]></wf>
+    <wf id="48" sent="1" para="1" offset="230" length="4"><![CDATA[trip]]></wf>
+    <wf id="49" sent="1" para="1" offset="234" length="4"><![CDATA[down]]></wf>
+    <wf id="50" sent="1" para="1" offset="238" length="3"><![CDATA[the]]></wf>
+    <wf id="51" sent="1" para="1" offset="241" length="4"><![CDATA[1976]]></wf>
+    <wf id="52" sent="1" para="1" offset="245" length="7"><![CDATA[Olympic]]></wf>
+    <wf id="53" sent="1" para="1" offset="252" length="6"><![CDATA[course]]></wf>
+    <wf id="54" sent="1" para="1" offset="258" length="3"><![CDATA[for]]></wf>
+    <wf id="55" sent="1" para="1" offset="261" length="2"><![CDATA[an]]></wf>
+    <wf id="56" sent="1" para="1" offset="263" length="9"><![CDATA[aggregate]]></wf>
+    <wf id="57" sent="1" para="1" offset="272" length="4"><![CDATA[time]]></wf>
+    <wf id="58" sent="1" para="1" offset="276" length="2"><![CDATA[of]]></wf>
+    <wf id="59" sent="1" para="1" offset="278" length="3"><![CDATA[one]]></wf>
+    <wf id="60" sent="1" para="1" offset="281" length="6"><![CDATA[minute]]></wf>
+    <wf id="61" sent="1" para="1" offset="287" length="5"><![CDATA[45.91]]></wf>
+    <wf id="62" sent="1" para="1" offset="292" length="7"><![CDATA[seconds]]></wf>
+    <wf id="63" sent="1" para="1" offset="299" length="1"><![CDATA[.]]></wf>
+    <wf id="64" sent="1" para="1" offset="300" length="5"><![CDATA[First]]></wf>
+    <wf id="65" sent="1" para="1" offset="305" length="3"><![CDATA[run]]></wf>
+    <wf id="66" sent="1" para="1" offset="308" length="7"><![CDATA[leaders]]></wf>
+    <wf id="67" sent="1" para="1" offset="315" length="8"><![CDATA[Guenther]]></wf>
+    <wf id="68" sent="1" para="1" offset="323" length="5"><![CDATA[Huber]]></wf>
+    <wf id="69" sent="1" para="1" offset="328" length="3"><![CDATA[and]]></wf>
+    <wf id="70" sent="1" para="1" offset="331" length="8"><![CDATA[breakman]]></wf>
+    <wf id="71" sent="1" para="1" offset="339" length="7"><![CDATA[Antonio]]></wf>
+    <wf id="72" sent="1" para="1" offset="346" length="9"><![CDATA[Tartaglia]]></wf>
+    <wf id="73" sent="1" para="1" offset="355" length="2"><![CDATA[in]]></wf>
+    <wf id="74" sent="1" para="1" offset="357" length="3"><![CDATA[the]]></wf>
+    <wf id="75" sent="1" para="1" offset="360" length="5"><![CDATA[Italy]]></wf>
+    <wf id="76" sent="1" para="1" offset="365" length="1"><![CDATA[I]]></wf>
+    <wf id="77" sent="1" para="1" offset="366" length="6"><![CDATA[sleigh]]></wf>
+    <wf id="78" sent="1" para="1" offset="372" length="8"><![CDATA[finished]]></wf>
+    <wf id="79" sent="1" para="1" offset="380" length="6"><![CDATA[second]]></wf>
+    <wf id="80" sent="1" para="1" offset="386" length="14"><![CDATA[two-hundredths]]></wf>
+    <wf id="81" sent="1" para="1" offset="400" length="2"><![CDATA[of]]></wf>
+    <wf id="82" sent="1" para="1" offset="402" length="1"><![CDATA[a]]></wf>
+    <wf id="83" sent="1" para="1" offset="403" length="6"><![CDATA[second]]></wf>
+    <wf id="84" sent="1" para="1" offset="409" length="6"><![CDATA[behind]]></wf>
+    <wf id="85" sent="1" para="1" offset="415" length="3"><![CDATA[the]]></wf>
+    <wf id="86" sent="1" para="1" offset="418" length="9"><![CDATA[Americans]]></wf>
+    <wf id="87" sent="1" para="1" offset="427" length="1"><![CDATA[.]]></wf>
+    <wf id="88" sent="1" para="1" offset="428" length="6"><![CDATA[Canada]]></wf>
+    <wf id="89" sent="1" para="1" offset="434" length="1"><![CDATA[I]]></wf>
+    <wf id="90" sent="1" para="1" offset="435" length="1"><![CDATA[,]]></wf>
+    <wf id="91" sent="1" para="1" offset="436" length="11"><![CDATA[represented]]></wf>
+    <wf id="92" sent="1" para="1" offset="447" length="2"><![CDATA[by]]></wf>
+    <wf id="93" sent="1" para="1" offset="449" length="6"><![CDATA[Pierre]]></wf>
+    <wf id="94" sent="1" para="1" offset="455" length="7"><![CDATA[Lueders]]></wf>
+    <wf id="95" sent="1" para="1" offset="462" length="3"><![CDATA[and]]></wf>
+    <wf id="96" sent="1" para="1" offset="465" length="8"><![CDATA[breakman]]></wf>
+    <wf id="97" sent="1" para="1" offset="473" length="4"><![CDATA[Dave]]></wf>
+    <wf id="98" sent="1" para="1" offset="477" length="10"><![CDATA[MacEachern]]></wf>
+    <wf id="99" sent="1" para="1" offset="487" length="1"><![CDATA[,]]></wf>
+    <wf id="100" sent="1" para="1" offset="488" length="9"><![CDATA[completed]]></wf>
+    <wf id="101" sent="1" para="1" offset="497" length="3"><![CDATA[the]]></wf>
+    <wf id="102" sent="1" para="1" offset="500" length="5"><![CDATA[third]]></wf>
+    <wf id="103" sent="1" para="1" offset="505" length="5"><![CDATA[World]]></wf>
+    <wf id="104" sent="1" para="1" offset="510" length="3"><![CDATA[cup]]></wf>
+    <wf id="105" sent="1" para="1" offset="513" length="5"><![CDATA[event]]></wf>
+    <wf id="106" sent="1" para="1" offset="518" length="2"><![CDATA[of]]></wf>
+    <wf id="107" sent="1" para="1" offset="520" length="3"><![CDATA[the]]></wf>
+    <wf id="108" sent="1" para="1" offset="523" length="6"><![CDATA[winter]]></wf>
+    <wf id="109" sent="1" para="1" offset="529" length="1"><![CDATA[a]]></wf>
+    <wf id="110" sent="1" para="1" offset="530" length="7"><![CDATA[further]]></wf>
+    <wf id="111" sent="1" para="1" offset="537" length="13"><![CDATA[one-hundredth]]></wf>
+    <wf id="112" sent="1" para="1" offset="550" length="2"><![CDATA[of]]></wf>
+    <wf id="113" sent="1" para="1" offset="552" length="1"><![CDATA[a]]></wf>
+    <wf id="114" sent="1" para="1" offset="553" length="6"><![CDATA[second]]></wf>
+    <wf id="115" sent="1" para="1" offset="559" length="6"><![CDATA[behind]]></wf>
+    <wf id="116" sent="1" para="1" offset="565" length="3"><![CDATA[the]]></wf>
+    <wf id="117" sent="1" para="1" offset="568" length="8"><![CDATA[Italians]]></wf>
+    <wf id="118" sent="1" para="1" offset="576" length="1"><![CDATA[.]]></wf>
+    <wf id="119" sent="1" para="1" offset="577" length="3"><![CDATA[The]]></wf>
+    <wf id="120" sent="1" para="1" offset="580" length="9"><![CDATA[Canadians]]></wf>
+    <wf id="121" sent="1" para="1" offset="589" length="1"><![CDATA[,]]></wf>
+    <wf id="122" sent="1" para="1" offset="590" length="7"><![CDATA[winners]]></wf>
+    <wf id="123" sent="1" para="1" offset="597" length="2"><![CDATA[of]]></wf>
+    <wf id="124" sent="1" para="1" offset="599" length="3"><![CDATA[the]]></wf>
+    <wf id="125" sent="1" para="1" offset="602" length="7"><![CDATA[opening]]></wf>
+    <wf id="126" sent="1" para="1" offset="609" length="3"><![CDATA[two]]></wf>
+    <wf id="127" sent="1" para="1" offset="612" length="6"><![CDATA[events]]></wf>
+    <wf id="128" sent="1" para="1" offset="618" length="2"><![CDATA[in]]></wf>
+    <wf id="129" sent="1" para="1" offset="620" length="9"><![CDATA[Altenberg]]></wf>
+    <wf id="130" sent="1" para="1" offset="629" length="1"><![CDATA[,]]></wf>
+    <wf id="131" sent="1" para="1" offset="630" length="7"><![CDATA[Germany]]></wf>
+    <wf id="132" sent="1" para="1" offset="637" length="1"><![CDATA[,]]></wf>
+    <wf id="133" sent="1" para="1" offset="638" length="3"><![CDATA[and]]></wf>
+    <wf id="134" sent="1" para="1" offset="641" length="2"><![CDATA[La]]></wf>
+    <wf id="135" sent="1" para="1" offset="643" length="6"><![CDATA[Plagne]]></wf>
+    <wf id="136" sent="1" para="1" offset="649" length="1"><![CDATA[,]]></wf>
+    <wf id="137" sent="1" para="1" offset="650" length="6"><![CDATA[France]]></wf>
+    <wf id="138" sent="1" para="1" offset="656" length="1"><![CDATA[,]]></wf>
+    <wf id="139" sent="1" para="1" offset="657" length="9"><![CDATA[increased]]></wf>
+    <wf id="140" sent="1" para="1" offset="666" length="5"><![CDATA[their]]></wf>
+    <wf id="141" sent="1" para="1" offset="671" length="4"><![CDATA[lead]]></wf>
+    <wf id="142" sent="1" para="1" offset="675" length="2"><![CDATA[in]]></wf>
+    <wf id="143" sent="1" para="1" offset="677" length="3"><![CDATA[the]]></wf>
+    <wf id="144" sent="1" para="1" offset="680" length="5"><![CDATA[World]]></wf>
+    <wf id="145" sent="1" para="1" offset="685" length="3"><![CDATA[Cup]]></wf>
+    <wf id="146" sent="1" para="1" offset="688" length="9"><![CDATA[standings]]></wf>
+    <wf id="147" sent="1" para="1" offset="697" length="1"><![CDATA[.]]></wf>
+    <wf id="148" sent="1" para="1" offset="698" length="4"><![CDATA[They]]></wf>
+    <wf id="149" sent="1" para="1" offset="702" length="4"><![CDATA[have]]></wf>
+    <wf id="150" sent="1" para="1" offset="706" length="3"><![CDATA[104]]></wf>
+    <wf id="151" sent="1" para="1" offset="709" length="6"><![CDATA[points]]></wf>
+    <wf id="152" sent="1" para="1" offset="715" length="1"><![CDATA[,]]></wf>
+    <wf id="153" sent="1" para="1" offset="716" length="2"><![CDATA[15]]></wf>
+    <wf id="154" sent="1" para="1" offset="718" length="5"><![CDATA[ahead]]></wf>
+    <wf id="155" sent="1" para="1" offset="723" length="2"><![CDATA[of]]></wf>
+    <wf id="156" sent="1" para="1" offset="725" length="3"><![CDATA[USA]]></wf>
+    <wf id="157" sent="1" para="1" offset="728" length="1"><![CDATA[I]]></wf>
+    <wf id="158" sent="1" para="1" offset="729" length="2"><![CDATA['s]]></wf>
+    <wf id="159" sent="1" para="1" offset="731" length="3"><![CDATA[Jim]]></wf>
+    <wf id="160" sent="1" para="1" offset="734" length="9"><![CDATA[Herberich]]></wf>
+    <wf id="161" sent="1" para="1" offset="743" length="3"><![CDATA[and]]></wf>
+    <wf id="162" sent="1" para="1" offset="746" length="8"><![CDATA[breakman]]></wf>
+    <wf id="163" sent="1" para="1" offset="754" length="7"><![CDATA[Garrett]]></wf>
+    <wf id="164" sent="1" para="1" offset="761" length="5"><![CDATA[Hines]]></wf>
+    <wf id="165" sent="1" para="1" offset="766" length="3"><![CDATA[who]]></wf>
+    <wf id="166" sent="1" para="1" offset="769" length="7"><![CDATA[managed]]></wf>
+    <wf id="167" sent="1" para="1" offset="776" length="4"><![CDATA[only]]></wf>
+    <wf id="168" sent="1" para="1" offset="780" length="4"><![CDATA[10th]]></wf>
+    <wf id="169" sent="1" para="1" offset="784" length="5"><![CDATA[place]]></wf>
+    <wf id="170" sent="1" para="1" offset="789" length="2"><![CDATA[on]]></wf>
+    <wf id="171" sent="1" para="1" offset="791" length="8"><![CDATA[Saturday]]></wf>
+    <wf id="172" sent="1" para="1" offset="799" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="BOBSLEIGH-SHIMER">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="PILOTS">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="USA">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="III">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="TO">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="SURPRISE">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="WIN">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma=".">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="IGLS">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma=",">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="Austria">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="1996-12-07">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Brian">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="Shimer">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="piloted">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="USA">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="III">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="to">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="a">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="surprise">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="victory">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="in">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="a">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="World">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="Cup">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="two-man">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="bobsleigh">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="race">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="on">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="Saturday">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma=".">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="Lying">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="fifth">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="after">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="the">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="first">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="run">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma=",">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="Shimer">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="and">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="breakman">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="Randy">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="Jones">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="delivered">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="a">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="near-perfect">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="second">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="trip">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="down">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="the">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="1976">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="Olympic">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="course">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="for">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="an">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="aggregate">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="time">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="of">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="one">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="minute">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="45.91">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="seconds">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma=".">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="First">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="run">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="leaders">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="Guenther">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="Huber">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="and">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="breakman">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="Antonio">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="Tartaglia">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="in">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="the">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="Italy">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="I">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="sleigh">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="finished">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="second">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="two-hundredths">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="of">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="a">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="second">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="behind">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="the">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="Americans">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma=".">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="Canada">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="I">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma=",">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="represented">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="by">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="Pierre">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="Lueders">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="and">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="breakman">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="Dave">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="MacEachern">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma=",">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="completed">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="the">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="third">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="World">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="cup">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="event">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="of">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="the">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="winter">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="a">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="further">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="one-hundredth">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="of">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="a">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="second">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="behind">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="the">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="Italians">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma=".">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="The">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="Canadians">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma=",">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="winners">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="of">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="the">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="opening">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="two">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="events">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="in">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="Altenberg">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma=",">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="Germany">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma=",">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="and">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="La">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="Plagne">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma=",">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="France">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma=",">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="increased">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="their">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="lead">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="in">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="the">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="World">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="Cup">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="standings">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma=".">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="They">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="have">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="104">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="points">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma=",">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma="15">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="ahead">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="of">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="USA">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="I">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="'s">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="Jim">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="Herberich">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="and">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="breakman">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="Garrett">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="Hines">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="who">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="managed">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="only">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="10th">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="place">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="on">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="Saturday">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma=".">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="4273">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4274">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="3"/>
+          <target id="4"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4275">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4276">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Austria" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4277">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Brian_Shimer" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="13"/>
+          <target id="14"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4278">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="16"/>
+          <target id="17"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4279">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="24"/>
+          <target id="25"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4280">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Brian_Shimer" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="39"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4281">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Randy_Jones_(bobsleigh)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="42"/>
+          <target id="43"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4282">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/1976_Winter_Olympics" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="52"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4283">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Günther_Huber" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="67"/>
+          <target id="68"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4284">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Antonio_Tartaglia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="71"/>
+          <target id="72"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4285">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Italy" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="75"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4286">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="86"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4287">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="88"/>
+          <target id="89"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4288">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pierre_Lueders" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="93"/>
+          <target id="94"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4289">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/David_MacEachern" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="97"/>
+          <target id="98"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4290">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="103"/>
+          <target id="104"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4291">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Italy" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="117"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4292">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Canada" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="120"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4293">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Altenberg,_Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="129"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4294">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Germany" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="131"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4295">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/La_Plagne" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="134"/>
+          <target id="135"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4296">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/France" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="137"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4297">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="144"/>
+          <target id="145"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4298">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="156"/>
+          <target id="157"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4299">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="159"/>
+          <target id="160"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4300">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Garrett_Hines" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="163"/>
+          <target id="164"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

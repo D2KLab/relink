@@ -1,0 +1,2743 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[NFL AMERICAN FOOTBALL-COLTS CLOBBER EAGLES TO STAY IN PLAYOFF HUNT . INDIANAPOLIS 1996-12-06 The injury-plagued Indianapolis Colts lost another quarterback on Thursday but last year 's AFC finalists rallied together to shoot down the Philadelphia Eagles 37-10 in a showdown of playoff contenders . Marshall Faulk rushed for 101 yards and two touchdowns and Jason Belser returned an interception 44 yards for a score as the Colts improved to 8-6 , the same mark as the Eagles , who lost for the fourth time in five games . Paul Justin , starting for the sidelined Jim Harbaugh , was 14-of-23 for 144 yards and a touchdown for the the Colts , who played their last home game of the season . Indianapolis closes with games at Kansas City and Cincinnati . The Eagles were held without a touchdown until the final five seconds . Philadelphia , which fell from an NFC East tie with the Dallas Cowboys and Washington Redskins , go on the road against the New York Jets and then entertain Arizona . The loss by Philadelphia allowed the idle Green Bay Packers ( 10-3 ) to clinch the first NFC playoff berth . The Colts won despite the absence of injured starting defensive tackle Tony Siragusa , cornerback Ray Buchanan and linebacker Quentin Coryatt . Faulk carried 16 times , including a 13-yard TD run in the first quarter and a seven-yard score early in the final period . Justin made his second straight start for Harbaugh , who has a knee injury . Justin suffered a sprained right shoulder in the third quarter and did not return . Third-stringer Kerwin Bell , a 1988 draft choice of the Miami Dolphins , made his NFL debut and was 5-of-5 for 75 yards , including a 20-yard scoring strike to Marvin Harrison in the third period . A 39-yard interference penalty against Philadelphia 's Troy Vincent set up Faulk 's first score around left end that capped an 80-yard march 5:17 into the game and the rout was on . Eagles quarterback Ty Detmer was 17-of-34 for 182 yards before he was benched . Ricky Watters , who leads the NFC in rushing , left the game after getting kneed to the helmet after gaining 33 yards on seven carries . ]]></raw>
+  <nafHeader>
+    <fileDesc title="1188testb" filename="1188testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="3"><![CDATA[NFL]]></wf>
+    <wf id="2" sent="1" para="1" offset="3" length="8"><![CDATA[AMERICAN]]></wf>
+    <wf id="3" sent="1" para="1" offset="11" length="14"><![CDATA[FOOTBALL-COLTS]]></wf>
+    <wf id="4" sent="1" para="1" offset="25" length="7"><![CDATA[CLOBBER]]></wf>
+    <wf id="5" sent="1" para="1" offset="32" length="6"><![CDATA[EAGLES]]></wf>
+    <wf id="6" sent="1" para="1" offset="38" length="2"><![CDATA[TO]]></wf>
+    <wf id="7" sent="1" para="1" offset="40" length="4"><![CDATA[STAY]]></wf>
+    <wf id="8" sent="1" para="1" offset="44" length="2"><![CDATA[IN]]></wf>
+    <wf id="9" sent="1" para="1" offset="46" length="7"><![CDATA[PLAYOFF]]></wf>
+    <wf id="10" sent="1" para="1" offset="53" length="4"><![CDATA[HUNT]]></wf>
+    <wf id="11" sent="1" para="1" offset="57" length="1"><![CDATA[.]]></wf>
+    <wf id="12" sent="1" para="1" offset="58" length="12"><![CDATA[INDIANAPOLIS]]></wf>
+    <wf id="13" sent="1" para="1" offset="70" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="14" sent="1" para="1" offset="80" length="3"><![CDATA[The]]></wf>
+    <wf id="15" sent="1" para="1" offset="83" length="14"><![CDATA[injury-plagued]]></wf>
+    <wf id="16" sent="1" para="1" offset="97" length="12"><![CDATA[Indianapolis]]></wf>
+    <wf id="17" sent="1" para="1" offset="109" length="5"><![CDATA[Colts]]></wf>
+    <wf id="18" sent="1" para="1" offset="114" length="4"><![CDATA[lost]]></wf>
+    <wf id="19" sent="1" para="1" offset="118" length="7"><![CDATA[another]]></wf>
+    <wf id="20" sent="1" para="1" offset="125" length="11"><![CDATA[quarterback]]></wf>
+    <wf id="21" sent="1" para="1" offset="136" length="2"><![CDATA[on]]></wf>
+    <wf id="22" sent="1" para="1" offset="138" length="8"><![CDATA[Thursday]]></wf>
+    <wf id="23" sent="1" para="1" offset="146" length="3"><![CDATA[but]]></wf>
+    <wf id="24" sent="1" para="1" offset="149" length="4"><![CDATA[last]]></wf>
+    <wf id="25" sent="1" para="1" offset="153" length="4"><![CDATA[year]]></wf>
+    <wf id="26" sent="1" para="1" offset="157" length="2"><![CDATA['s]]></wf>
+    <wf id="27" sent="1" para="1" offset="159" length="3"><![CDATA[AFC]]></wf>
+    <wf id="28" sent="1" para="1" offset="162" length="9"><![CDATA[finalists]]></wf>
+    <wf id="29" sent="1" para="1" offset="171" length="7"><![CDATA[rallied]]></wf>
+    <wf id="30" sent="1" para="1" offset="178" length="8"><![CDATA[together]]></wf>
+    <wf id="31" sent="1" para="1" offset="186" length="2"><![CDATA[to]]></wf>
+    <wf id="32" sent="1" para="1" offset="188" length="5"><![CDATA[shoot]]></wf>
+    <wf id="33" sent="1" para="1" offset="193" length="4"><![CDATA[down]]></wf>
+    <wf id="34" sent="1" para="1" offset="197" length="3"><![CDATA[the]]></wf>
+    <wf id="35" sent="1" para="1" offset="200" length="12"><![CDATA[Philadelphia]]></wf>
+    <wf id="36" sent="1" para="1" offset="212" length="6"><![CDATA[Eagles]]></wf>
+    <wf id="37" sent="1" para="1" offset="218" length="5"><![CDATA[37-10]]></wf>
+    <wf id="38" sent="1" para="1" offset="223" length="2"><![CDATA[in]]></wf>
+    <wf id="39" sent="1" para="1" offset="225" length="1"><![CDATA[a]]></wf>
+    <wf id="40" sent="1" para="1" offset="226" length="8"><![CDATA[showdown]]></wf>
+    <wf id="41" sent="1" para="1" offset="234" length="2"><![CDATA[of]]></wf>
+    <wf id="42" sent="1" para="1" offset="236" length="7"><![CDATA[playoff]]></wf>
+    <wf id="43" sent="1" para="1" offset="243" length="10"><![CDATA[contenders]]></wf>
+    <wf id="44" sent="1" para="1" offset="253" length="1"><![CDATA[.]]></wf>
+    <wf id="45" sent="1" para="1" offset="254" length="8"><![CDATA[Marshall]]></wf>
+    <wf id="46" sent="1" para="1" offset="262" length="5"><![CDATA[Faulk]]></wf>
+    <wf id="47" sent="1" para="1" offset="267" length="6"><![CDATA[rushed]]></wf>
+    <wf id="48" sent="1" para="1" offset="273" length="3"><![CDATA[for]]></wf>
+    <wf id="49" sent="1" para="1" offset="276" length="3"><![CDATA[101]]></wf>
+    <wf id="50" sent="1" para="1" offset="279" length="5"><![CDATA[yards]]></wf>
+    <wf id="51" sent="1" para="1" offset="284" length="3"><![CDATA[and]]></wf>
+    <wf id="52" sent="1" para="1" offset="287" length="3"><![CDATA[two]]></wf>
+    <wf id="53" sent="1" para="1" offset="290" length="10"><![CDATA[touchdowns]]></wf>
+    <wf id="54" sent="1" para="1" offset="300" length="3"><![CDATA[and]]></wf>
+    <wf id="55" sent="1" para="1" offset="303" length="5"><![CDATA[Jason]]></wf>
+    <wf id="56" sent="1" para="1" offset="308" length="6"><![CDATA[Belser]]></wf>
+    <wf id="57" sent="1" para="1" offset="314" length="8"><![CDATA[returned]]></wf>
+    <wf id="58" sent="1" para="1" offset="322" length="2"><![CDATA[an]]></wf>
+    <wf id="59" sent="1" para="1" offset="324" length="12"><![CDATA[interception]]></wf>
+    <wf id="60" sent="1" para="1" offset="336" length="2"><![CDATA[44]]></wf>
+    <wf id="61" sent="1" para="1" offset="338" length="5"><![CDATA[yards]]></wf>
+    <wf id="62" sent="1" para="1" offset="343" length="3"><![CDATA[for]]></wf>
+    <wf id="63" sent="1" para="1" offset="346" length="1"><![CDATA[a]]></wf>
+    <wf id="64" sent="1" para="1" offset="347" length="5"><![CDATA[score]]></wf>
+    <wf id="65" sent="1" para="1" offset="352" length="2"><![CDATA[as]]></wf>
+    <wf id="66" sent="1" para="1" offset="354" length="3"><![CDATA[the]]></wf>
+    <wf id="67" sent="1" para="1" offset="357" length="5"><![CDATA[Colts]]></wf>
+    <wf id="68" sent="1" para="1" offset="362" length="8"><![CDATA[improved]]></wf>
+    <wf id="69" sent="1" para="1" offset="370" length="2"><![CDATA[to]]></wf>
+    <wf id="70" sent="1" para="1" offset="372" length="3"><![CDATA[8-6]]></wf>
+    <wf id="71" sent="1" para="1" offset="375" length="1"><![CDATA[,]]></wf>
+    <wf id="72" sent="1" para="1" offset="376" length="3"><![CDATA[the]]></wf>
+    <wf id="73" sent="1" para="1" offset="379" length="4"><![CDATA[same]]></wf>
+    <wf id="74" sent="1" para="1" offset="383" length="4"><![CDATA[mark]]></wf>
+    <wf id="75" sent="1" para="1" offset="387" length="2"><![CDATA[as]]></wf>
+    <wf id="76" sent="1" para="1" offset="389" length="3"><![CDATA[the]]></wf>
+    <wf id="77" sent="1" para="1" offset="392" length="6"><![CDATA[Eagles]]></wf>
+    <wf id="78" sent="1" para="1" offset="398" length="1"><![CDATA[,]]></wf>
+    <wf id="79" sent="1" para="1" offset="399" length="3"><![CDATA[who]]></wf>
+    <wf id="80" sent="1" para="1" offset="402" length="4"><![CDATA[lost]]></wf>
+    <wf id="81" sent="1" para="1" offset="406" length="3"><![CDATA[for]]></wf>
+    <wf id="82" sent="1" para="1" offset="409" length="3"><![CDATA[the]]></wf>
+    <wf id="83" sent="1" para="1" offset="412" length="6"><![CDATA[fourth]]></wf>
+    <wf id="84" sent="1" para="1" offset="418" length="4"><![CDATA[time]]></wf>
+    <wf id="85" sent="1" para="1" offset="422" length="2"><![CDATA[in]]></wf>
+    <wf id="86" sent="1" para="1" offset="424" length="4"><![CDATA[five]]></wf>
+    <wf id="87" sent="1" para="1" offset="428" length="5"><![CDATA[games]]></wf>
+    <wf id="88" sent="1" para="1" offset="433" length="1"><![CDATA[.]]></wf>
+    <wf id="89" sent="1" para="1" offset="434" length="4"><![CDATA[Paul]]></wf>
+    <wf id="90" sent="1" para="1" offset="438" length="6"><![CDATA[Justin]]></wf>
+    <wf id="91" sent="1" para="1" offset="444" length="1"><![CDATA[,]]></wf>
+    <wf id="92" sent="1" para="1" offset="445" length="8"><![CDATA[starting]]></wf>
+    <wf id="93" sent="1" para="1" offset="453" length="3"><![CDATA[for]]></wf>
+    <wf id="94" sent="1" para="1" offset="456" length="3"><![CDATA[the]]></wf>
+    <wf id="95" sent="1" para="1" offset="459" length="9"><![CDATA[sidelined]]></wf>
+    <wf id="96" sent="1" para="1" offset="468" length="3"><![CDATA[Jim]]></wf>
+    <wf id="97" sent="1" para="1" offset="471" length="8"><![CDATA[Harbaugh]]></wf>
+    <wf id="98" sent="1" para="1" offset="479" length="1"><![CDATA[,]]></wf>
+    <wf id="99" sent="1" para="1" offset="480" length="3"><![CDATA[was]]></wf>
+    <wf id="100" sent="1" para="1" offset="483" length="8"><![CDATA[14-of-23]]></wf>
+    <wf id="101" sent="1" para="1" offset="491" length="3"><![CDATA[for]]></wf>
+    <wf id="102" sent="1" para="1" offset="494" length="3"><![CDATA[144]]></wf>
+    <wf id="103" sent="1" para="1" offset="497" length="5"><![CDATA[yards]]></wf>
+    <wf id="104" sent="1" para="1" offset="502" length="3"><![CDATA[and]]></wf>
+    <wf id="105" sent="1" para="1" offset="505" length="1"><![CDATA[a]]></wf>
+    <wf id="106" sent="1" para="1" offset="506" length="9"><![CDATA[touchdown]]></wf>
+    <wf id="107" sent="1" para="1" offset="515" length="3"><![CDATA[for]]></wf>
+    <wf id="108" sent="1" para="1" offset="518" length="3"><![CDATA[the]]></wf>
+    <wf id="109" sent="1" para="1" offset="521" length="3"><![CDATA[the]]></wf>
+    <wf id="110" sent="1" para="1" offset="524" length="5"><![CDATA[Colts]]></wf>
+    <wf id="111" sent="1" para="1" offset="529" length="1"><![CDATA[,]]></wf>
+    <wf id="112" sent="1" para="1" offset="530" length="3"><![CDATA[who]]></wf>
+    <wf id="113" sent="1" para="1" offset="533" length="6"><![CDATA[played]]></wf>
+    <wf id="114" sent="1" para="1" offset="539" length="5"><![CDATA[their]]></wf>
+    <wf id="115" sent="1" para="1" offset="544" length="4"><![CDATA[last]]></wf>
+    <wf id="116" sent="1" para="1" offset="548" length="4"><![CDATA[home]]></wf>
+    <wf id="117" sent="1" para="1" offset="552" length="4"><![CDATA[game]]></wf>
+    <wf id="118" sent="1" para="1" offset="556" length="2"><![CDATA[of]]></wf>
+    <wf id="119" sent="1" para="1" offset="558" length="3"><![CDATA[the]]></wf>
+    <wf id="120" sent="1" para="1" offset="561" length="6"><![CDATA[season]]></wf>
+    <wf id="121" sent="1" para="1" offset="567" length="1"><![CDATA[.]]></wf>
+    <wf id="122" sent="1" para="1" offset="568" length="12"><![CDATA[Indianapolis]]></wf>
+    <wf id="123" sent="1" para="1" offset="580" length="6"><![CDATA[closes]]></wf>
+    <wf id="124" sent="1" para="1" offset="586" length="4"><![CDATA[with]]></wf>
+    <wf id="125" sent="1" para="1" offset="590" length="5"><![CDATA[games]]></wf>
+    <wf id="126" sent="1" para="1" offset="595" length="2"><![CDATA[at]]></wf>
+    <wf id="127" sent="1" para="1" offset="597" length="6"><![CDATA[Kansas]]></wf>
+    <wf id="128" sent="1" para="1" offset="603" length="4"><![CDATA[City]]></wf>
+    <wf id="129" sent="1" para="1" offset="607" length="3"><![CDATA[and]]></wf>
+    <wf id="130" sent="1" para="1" offset="610" length="10"><![CDATA[Cincinnati]]></wf>
+    <wf id="131" sent="1" para="1" offset="620" length="1"><![CDATA[.]]></wf>
+    <wf id="132" sent="1" para="1" offset="621" length="3"><![CDATA[The]]></wf>
+    <wf id="133" sent="1" para="1" offset="624" length="6"><![CDATA[Eagles]]></wf>
+    <wf id="134" sent="1" para="1" offset="630" length="4"><![CDATA[were]]></wf>
+    <wf id="135" sent="1" para="1" offset="634" length="4"><![CDATA[held]]></wf>
+    <wf id="136" sent="1" para="1" offset="638" length="7"><![CDATA[without]]></wf>
+    <wf id="137" sent="1" para="1" offset="645" length="1"><![CDATA[a]]></wf>
+    <wf id="138" sent="1" para="1" offset="646" length="9"><![CDATA[touchdown]]></wf>
+    <wf id="139" sent="1" para="1" offset="655" length="5"><![CDATA[until]]></wf>
+    <wf id="140" sent="1" para="1" offset="660" length="3"><![CDATA[the]]></wf>
+    <wf id="141" sent="1" para="1" offset="663" length="5"><![CDATA[final]]></wf>
+    <wf id="142" sent="1" para="1" offset="668" length="4"><![CDATA[five]]></wf>
+    <wf id="143" sent="1" para="1" offset="672" length="7"><![CDATA[seconds]]></wf>
+    <wf id="144" sent="1" para="1" offset="679" length="1"><![CDATA[.]]></wf>
+    <wf id="145" sent="1" para="1" offset="680" length="12"><![CDATA[Philadelphia]]></wf>
+    <wf id="146" sent="1" para="1" offset="692" length="1"><![CDATA[,]]></wf>
+    <wf id="147" sent="1" para="1" offset="693" length="5"><![CDATA[which]]></wf>
+    <wf id="148" sent="1" para="1" offset="698" length="4"><![CDATA[fell]]></wf>
+    <wf id="149" sent="1" para="1" offset="702" length="4"><![CDATA[from]]></wf>
+    <wf id="150" sent="1" para="1" offset="706" length="2"><![CDATA[an]]></wf>
+    <wf id="151" sent="1" para="1" offset="708" length="3"><![CDATA[NFC]]></wf>
+    <wf id="152" sent="1" para="1" offset="711" length="4"><![CDATA[East]]></wf>
+    <wf id="153" sent="1" para="1" offset="715" length="3"><![CDATA[tie]]></wf>
+    <wf id="154" sent="1" para="1" offset="718" length="4"><![CDATA[with]]></wf>
+    <wf id="155" sent="1" para="1" offset="722" length="3"><![CDATA[the]]></wf>
+    <wf id="156" sent="1" para="1" offset="725" length="6"><![CDATA[Dallas]]></wf>
+    <wf id="157" sent="1" para="1" offset="731" length="7"><![CDATA[Cowboys]]></wf>
+    <wf id="158" sent="1" para="1" offset="738" length="3"><![CDATA[and]]></wf>
+    <wf id="159" sent="1" para="1" offset="741" length="10"><![CDATA[Washington]]></wf>
+    <wf id="160" sent="1" para="1" offset="751" length="8"><![CDATA[Redskins]]></wf>
+    <wf id="161" sent="1" para="1" offset="759" length="1"><![CDATA[,]]></wf>
+    <wf id="162" sent="1" para="1" offset="760" length="2"><![CDATA[go]]></wf>
+    <wf id="163" sent="1" para="1" offset="762" length="2"><![CDATA[on]]></wf>
+    <wf id="164" sent="1" para="1" offset="764" length="3"><![CDATA[the]]></wf>
+    <wf id="165" sent="1" para="1" offset="767" length="4"><![CDATA[road]]></wf>
+    <wf id="166" sent="1" para="1" offset="771" length="7"><![CDATA[against]]></wf>
+    <wf id="167" sent="1" para="1" offset="778" length="3"><![CDATA[the]]></wf>
+    <wf id="168" sent="1" para="1" offset="781" length="3"><![CDATA[New]]></wf>
+    <wf id="169" sent="1" para="1" offset="784" length="4"><![CDATA[York]]></wf>
+    <wf id="170" sent="1" para="1" offset="788" length="4"><![CDATA[Jets]]></wf>
+    <wf id="171" sent="1" para="1" offset="792" length="3"><![CDATA[and]]></wf>
+    <wf id="172" sent="1" para="1" offset="795" length="4"><![CDATA[then]]></wf>
+    <wf id="173" sent="1" para="1" offset="799" length="9"><![CDATA[entertain]]></wf>
+    <wf id="174" sent="1" para="1" offset="808" length="7"><![CDATA[Arizona]]></wf>
+    <wf id="175" sent="1" para="1" offset="815" length="1"><![CDATA[.]]></wf>
+    <wf id="176" sent="1" para="1" offset="816" length="3"><![CDATA[The]]></wf>
+    <wf id="177" sent="1" para="1" offset="819" length="4"><![CDATA[loss]]></wf>
+    <wf id="178" sent="1" para="1" offset="823" length="2"><![CDATA[by]]></wf>
+    <wf id="179" sent="1" para="1" offset="825" length="12"><![CDATA[Philadelphia]]></wf>
+    <wf id="180" sent="1" para="1" offset="837" length="7"><![CDATA[allowed]]></wf>
+    <wf id="181" sent="1" para="1" offset="844" length="3"><![CDATA[the]]></wf>
+    <wf id="182" sent="1" para="1" offset="847" length="4"><![CDATA[idle]]></wf>
+    <wf id="183" sent="1" para="1" offset="851" length="5"><![CDATA[Green]]></wf>
+    <wf id="184" sent="1" para="1" offset="856" length="3"><![CDATA[Bay]]></wf>
+    <wf id="185" sent="1" para="1" offset="859" length="7"><![CDATA[Packers]]></wf>
+    <wf id="186" sent="1" para="1" offset="866" length="1"><![CDATA[(]]></wf>
+    <wf id="187" sent="1" para="1" offset="867" length="4"><![CDATA[10-3]]></wf>
+    <wf id="188" sent="1" para="1" offset="871" length="1"><![CDATA[)]]></wf>
+    <wf id="189" sent="1" para="1" offset="872" length="2"><![CDATA[to]]></wf>
+    <wf id="190" sent="1" para="1" offset="874" length="6"><![CDATA[clinch]]></wf>
+    <wf id="191" sent="1" para="1" offset="880" length="3"><![CDATA[the]]></wf>
+    <wf id="192" sent="1" para="1" offset="883" length="5"><![CDATA[first]]></wf>
+    <wf id="193" sent="1" para="1" offset="888" length="3"><![CDATA[NFC]]></wf>
+    <wf id="194" sent="1" para="1" offset="891" length="7"><![CDATA[playoff]]></wf>
+    <wf id="195" sent="1" para="1" offset="898" length="5"><![CDATA[berth]]></wf>
+    <wf id="196" sent="1" para="1" offset="903" length="1"><![CDATA[.]]></wf>
+    <wf id="197" sent="1" para="1" offset="904" length="3"><![CDATA[The]]></wf>
+    <wf id="198" sent="1" para="1" offset="907" length="5"><![CDATA[Colts]]></wf>
+    <wf id="199" sent="1" para="1" offset="912" length="3"><![CDATA[won]]></wf>
+    <wf id="200" sent="1" para="1" offset="915" length="7"><![CDATA[despite]]></wf>
+    <wf id="201" sent="1" para="1" offset="922" length="3"><![CDATA[the]]></wf>
+    <wf id="202" sent="1" para="1" offset="925" length="7"><![CDATA[absence]]></wf>
+    <wf id="203" sent="1" para="1" offset="932" length="2"><![CDATA[of]]></wf>
+    <wf id="204" sent="1" para="1" offset="934" length="7"><![CDATA[injured]]></wf>
+    <wf id="205" sent="1" para="1" offset="941" length="8"><![CDATA[starting]]></wf>
+    <wf id="206" sent="1" para="1" offset="949" length="9"><![CDATA[defensive]]></wf>
+    <wf id="207" sent="1" para="1" offset="958" length="6"><![CDATA[tackle]]></wf>
+    <wf id="208" sent="1" para="1" offset="964" length="4"><![CDATA[Tony]]></wf>
+    <wf id="209" sent="1" para="1" offset="968" length="8"><![CDATA[Siragusa]]></wf>
+    <wf id="210" sent="1" para="1" offset="976" length="1"><![CDATA[,]]></wf>
+    <wf id="211" sent="1" para="1" offset="977" length="10"><![CDATA[cornerback]]></wf>
+    <wf id="212" sent="1" para="1" offset="987" length="3"><![CDATA[Ray]]></wf>
+    <wf id="213" sent="1" para="1" offset="990" length="8"><![CDATA[Buchanan]]></wf>
+    <wf id="214" sent="1" para="1" offset="998" length="3"><![CDATA[and]]></wf>
+    <wf id="215" sent="1" para="1" offset="1001" length="10"><![CDATA[linebacker]]></wf>
+    <wf id="216" sent="1" para="1" offset="1011" length="7"><![CDATA[Quentin]]></wf>
+    <wf id="217" sent="1" para="1" offset="1018" length="7"><![CDATA[Coryatt]]></wf>
+    <wf id="218" sent="1" para="1" offset="1025" length="1"><![CDATA[.]]></wf>
+    <wf id="219" sent="1" para="1" offset="1026" length="5"><![CDATA[Faulk]]></wf>
+    <wf id="220" sent="1" para="1" offset="1031" length="7"><![CDATA[carried]]></wf>
+    <wf id="221" sent="1" para="1" offset="1038" length="2"><![CDATA[16]]></wf>
+    <wf id="222" sent="1" para="1" offset="1040" length="5"><![CDATA[times]]></wf>
+    <wf id="223" sent="1" para="1" offset="1045" length="1"><![CDATA[,]]></wf>
+    <wf id="224" sent="1" para="1" offset="1046" length="9"><![CDATA[including]]></wf>
+    <wf id="225" sent="1" para="1" offset="1055" length="1"><![CDATA[a]]></wf>
+    <wf id="226" sent="1" para="1" offset="1056" length="7"><![CDATA[13-yard]]></wf>
+    <wf id="227" sent="1" para="1" offset="1063" length="2"><![CDATA[TD]]></wf>
+    <wf id="228" sent="1" para="1" offset="1065" length="3"><![CDATA[run]]></wf>
+    <wf id="229" sent="1" para="1" offset="1068" length="2"><![CDATA[in]]></wf>
+    <wf id="230" sent="1" para="1" offset="1070" length="3"><![CDATA[the]]></wf>
+    <wf id="231" sent="1" para="1" offset="1073" length="5"><![CDATA[first]]></wf>
+    <wf id="232" sent="1" para="1" offset="1078" length="7"><![CDATA[quarter]]></wf>
+    <wf id="233" sent="1" para="1" offset="1085" length="3"><![CDATA[and]]></wf>
+    <wf id="234" sent="1" para="1" offset="1088" length="1"><![CDATA[a]]></wf>
+    <wf id="235" sent="1" para="1" offset="1089" length="10"><![CDATA[seven-yard]]></wf>
+    <wf id="236" sent="1" para="1" offset="1099" length="5"><![CDATA[score]]></wf>
+    <wf id="237" sent="1" para="1" offset="1104" length="5"><![CDATA[early]]></wf>
+    <wf id="238" sent="1" para="1" offset="1109" length="2"><![CDATA[in]]></wf>
+    <wf id="239" sent="1" para="1" offset="1111" length="3"><![CDATA[the]]></wf>
+    <wf id="240" sent="1" para="1" offset="1114" length="5"><![CDATA[final]]></wf>
+    <wf id="241" sent="1" para="1" offset="1119" length="6"><![CDATA[period]]></wf>
+    <wf id="242" sent="1" para="1" offset="1125" length="1"><![CDATA[.]]></wf>
+    <wf id="243" sent="1" para="1" offset="1126" length="6"><![CDATA[Justin]]></wf>
+    <wf id="244" sent="1" para="1" offset="1132" length="4"><![CDATA[made]]></wf>
+    <wf id="245" sent="1" para="1" offset="1136" length="3"><![CDATA[his]]></wf>
+    <wf id="246" sent="1" para="1" offset="1139" length="6"><![CDATA[second]]></wf>
+    <wf id="247" sent="1" para="1" offset="1145" length="8"><![CDATA[straight]]></wf>
+    <wf id="248" sent="1" para="1" offset="1153" length="5"><![CDATA[start]]></wf>
+    <wf id="249" sent="1" para="1" offset="1158" length="3"><![CDATA[for]]></wf>
+    <wf id="250" sent="1" para="1" offset="1161" length="8"><![CDATA[Harbaugh]]></wf>
+    <wf id="251" sent="1" para="1" offset="1169" length="1"><![CDATA[,]]></wf>
+    <wf id="252" sent="1" para="1" offset="1170" length="3"><![CDATA[who]]></wf>
+    <wf id="253" sent="1" para="1" offset="1173" length="3"><![CDATA[has]]></wf>
+    <wf id="254" sent="1" para="1" offset="1176" length="1"><![CDATA[a]]></wf>
+    <wf id="255" sent="1" para="1" offset="1177" length="4"><![CDATA[knee]]></wf>
+    <wf id="256" sent="1" para="1" offset="1181" length="6"><![CDATA[injury]]></wf>
+    <wf id="257" sent="1" para="1" offset="1187" length="1"><![CDATA[.]]></wf>
+    <wf id="258" sent="1" para="1" offset="1188" length="6"><![CDATA[Justin]]></wf>
+    <wf id="259" sent="1" para="1" offset="1194" length="8"><![CDATA[suffered]]></wf>
+    <wf id="260" sent="1" para="1" offset="1202" length="1"><![CDATA[a]]></wf>
+    <wf id="261" sent="1" para="1" offset="1203" length="8"><![CDATA[sprained]]></wf>
+    <wf id="262" sent="1" para="1" offset="1211" length="5"><![CDATA[right]]></wf>
+    <wf id="263" sent="1" para="1" offset="1216" length="8"><![CDATA[shoulder]]></wf>
+    <wf id="264" sent="1" para="1" offset="1224" length="2"><![CDATA[in]]></wf>
+    <wf id="265" sent="1" para="1" offset="1226" length="3"><![CDATA[the]]></wf>
+    <wf id="266" sent="1" para="1" offset="1229" length="5"><![CDATA[third]]></wf>
+    <wf id="267" sent="1" para="1" offset="1234" length="7"><![CDATA[quarter]]></wf>
+    <wf id="268" sent="1" para="1" offset="1241" length="3"><![CDATA[and]]></wf>
+    <wf id="269" sent="1" para="1" offset="1244" length="3"><![CDATA[did]]></wf>
+    <wf id="270" sent="1" para="1" offset="1247" length="3"><![CDATA[not]]></wf>
+    <wf id="271" sent="1" para="1" offset="1250" length="6"><![CDATA[return]]></wf>
+    <wf id="272" sent="1" para="1" offset="1256" length="1"><![CDATA[.]]></wf>
+    <wf id="273" sent="1" para="1" offset="1257" length="14"><![CDATA[Third-stringer]]></wf>
+    <wf id="274" sent="1" para="1" offset="1271" length="6"><![CDATA[Kerwin]]></wf>
+    <wf id="275" sent="1" para="1" offset="1277" length="4"><![CDATA[Bell]]></wf>
+    <wf id="276" sent="1" para="1" offset="1281" length="1"><![CDATA[,]]></wf>
+    <wf id="277" sent="1" para="1" offset="1282" length="1"><![CDATA[a]]></wf>
+    <wf id="278" sent="1" para="1" offset="1283" length="4"><![CDATA[1988]]></wf>
+    <wf id="279" sent="1" para="1" offset="1287" length="5"><![CDATA[draft]]></wf>
+    <wf id="280" sent="1" para="1" offset="1292" length="6"><![CDATA[choice]]></wf>
+    <wf id="281" sent="1" para="1" offset="1298" length="2"><![CDATA[of]]></wf>
+    <wf id="282" sent="1" para="1" offset="1300" length="3"><![CDATA[the]]></wf>
+    <wf id="283" sent="1" para="1" offset="1303" length="5"><![CDATA[Miami]]></wf>
+    <wf id="284" sent="1" para="1" offset="1308" length="8"><![CDATA[Dolphins]]></wf>
+    <wf id="285" sent="1" para="1" offset="1316" length="1"><![CDATA[,]]></wf>
+    <wf id="286" sent="1" para="1" offset="1317" length="4"><![CDATA[made]]></wf>
+    <wf id="287" sent="1" para="1" offset="1321" length="3"><![CDATA[his]]></wf>
+    <wf id="288" sent="1" para="1" offset="1324" length="3"><![CDATA[NFL]]></wf>
+    <wf id="289" sent="1" para="1" offset="1327" length="5"><![CDATA[debut]]></wf>
+    <wf id="290" sent="1" para="1" offset="1332" length="3"><![CDATA[and]]></wf>
+    <wf id="291" sent="1" para="1" offset="1335" length="3"><![CDATA[was]]></wf>
+    <wf id="292" sent="1" para="1" offset="1338" length="6"><![CDATA[5-of-5]]></wf>
+    <wf id="293" sent="1" para="1" offset="1344" length="3"><![CDATA[for]]></wf>
+    <wf id="294" sent="1" para="1" offset="1347" length="2"><![CDATA[75]]></wf>
+    <wf id="295" sent="1" para="1" offset="1349" length="5"><![CDATA[yards]]></wf>
+    <wf id="296" sent="1" para="1" offset="1354" length="1"><![CDATA[,]]></wf>
+    <wf id="297" sent="1" para="1" offset="1355" length="9"><![CDATA[including]]></wf>
+    <wf id="298" sent="1" para="1" offset="1364" length="1"><![CDATA[a]]></wf>
+    <wf id="299" sent="1" para="1" offset="1365" length="7"><![CDATA[20-yard]]></wf>
+    <wf id="300" sent="1" para="1" offset="1372" length="7"><![CDATA[scoring]]></wf>
+    <wf id="301" sent="1" para="1" offset="1379" length="6"><![CDATA[strike]]></wf>
+    <wf id="302" sent="1" para="1" offset="1385" length="2"><![CDATA[to]]></wf>
+    <wf id="303" sent="1" para="1" offset="1387" length="6"><![CDATA[Marvin]]></wf>
+    <wf id="304" sent="1" para="1" offset="1393" length="8"><![CDATA[Harrison]]></wf>
+    <wf id="305" sent="1" para="1" offset="1401" length="2"><![CDATA[in]]></wf>
+    <wf id="306" sent="1" para="1" offset="1403" length="3"><![CDATA[the]]></wf>
+    <wf id="307" sent="1" para="1" offset="1406" length="5"><![CDATA[third]]></wf>
+    <wf id="308" sent="1" para="1" offset="1411" length="6"><![CDATA[period]]></wf>
+    <wf id="309" sent="1" para="1" offset="1417" length="1"><![CDATA[.]]></wf>
+    <wf id="310" sent="1" para="1" offset="1418" length="1"><![CDATA[A]]></wf>
+    <wf id="311" sent="1" para="1" offset="1419" length="7"><![CDATA[39-yard]]></wf>
+    <wf id="312" sent="1" para="1" offset="1426" length="12"><![CDATA[interference]]></wf>
+    <wf id="313" sent="1" para="1" offset="1438" length="7"><![CDATA[penalty]]></wf>
+    <wf id="314" sent="1" para="1" offset="1445" length="7"><![CDATA[against]]></wf>
+    <wf id="315" sent="1" para="1" offset="1452" length="12"><![CDATA[Philadelphia]]></wf>
+    <wf id="316" sent="1" para="1" offset="1464" length="2"><![CDATA['s]]></wf>
+    <wf id="317" sent="1" para="1" offset="1466" length="4"><![CDATA[Troy]]></wf>
+    <wf id="318" sent="1" para="1" offset="1470" length="7"><![CDATA[Vincent]]></wf>
+    <wf id="319" sent="1" para="1" offset="1477" length="3"><![CDATA[set]]></wf>
+    <wf id="320" sent="1" para="1" offset="1480" length="2"><![CDATA[up]]></wf>
+    <wf id="321" sent="1" para="1" offset="1482" length="5"><![CDATA[Faulk]]></wf>
+    <wf id="322" sent="1" para="1" offset="1487" length="2"><![CDATA['s]]></wf>
+    <wf id="323" sent="1" para="1" offset="1489" length="5"><![CDATA[first]]></wf>
+    <wf id="324" sent="1" para="1" offset="1494" length="5"><![CDATA[score]]></wf>
+    <wf id="325" sent="1" para="1" offset="1499" length="6"><![CDATA[around]]></wf>
+    <wf id="326" sent="1" para="1" offset="1505" length="4"><![CDATA[left]]></wf>
+    <wf id="327" sent="1" para="1" offset="1509" length="3"><![CDATA[end]]></wf>
+    <wf id="328" sent="1" para="1" offset="1512" length="4"><![CDATA[that]]></wf>
+    <wf id="329" sent="1" para="1" offset="1516" length="6"><![CDATA[capped]]></wf>
+    <wf id="330" sent="1" para="1" offset="1522" length="2"><![CDATA[an]]></wf>
+    <wf id="331" sent="1" para="1" offset="1524" length="7"><![CDATA[80-yard]]></wf>
+    <wf id="332" sent="1" para="1" offset="1531" length="5"><![CDATA[march]]></wf>
+    <wf id="333" sent="1" para="1" offset="1536" length="4"><![CDATA[5:17]]></wf>
+    <wf id="334" sent="1" para="1" offset="1540" length="4"><![CDATA[into]]></wf>
+    <wf id="335" sent="1" para="1" offset="1544" length="3"><![CDATA[the]]></wf>
+    <wf id="336" sent="1" para="1" offset="1547" length="4"><![CDATA[game]]></wf>
+    <wf id="337" sent="1" para="1" offset="1551" length="3"><![CDATA[and]]></wf>
+    <wf id="338" sent="1" para="1" offset="1554" length="3"><![CDATA[the]]></wf>
+    <wf id="339" sent="1" para="1" offset="1557" length="4"><![CDATA[rout]]></wf>
+    <wf id="340" sent="1" para="1" offset="1561" length="3"><![CDATA[was]]></wf>
+    <wf id="341" sent="1" para="1" offset="1564" length="2"><![CDATA[on]]></wf>
+    <wf id="342" sent="1" para="1" offset="1566" length="1"><![CDATA[.]]></wf>
+    <wf id="343" sent="1" para="1" offset="1567" length="6"><![CDATA[Eagles]]></wf>
+    <wf id="344" sent="1" para="1" offset="1573" length="11"><![CDATA[quarterback]]></wf>
+    <wf id="345" sent="1" para="1" offset="1584" length="2"><![CDATA[Ty]]></wf>
+    <wf id="346" sent="1" para="1" offset="1586" length="6"><![CDATA[Detmer]]></wf>
+    <wf id="347" sent="1" para="1" offset="1592" length="3"><![CDATA[was]]></wf>
+    <wf id="348" sent="1" para="1" offset="1595" length="8"><![CDATA[17-of-34]]></wf>
+    <wf id="349" sent="1" para="1" offset="1603" length="3"><![CDATA[for]]></wf>
+    <wf id="350" sent="1" para="1" offset="1606" length="3"><![CDATA[182]]></wf>
+    <wf id="351" sent="1" para="1" offset="1609" length="5"><![CDATA[yards]]></wf>
+    <wf id="352" sent="1" para="1" offset="1614" length="6"><![CDATA[before]]></wf>
+    <wf id="353" sent="1" para="1" offset="1620" length="2"><![CDATA[he]]></wf>
+    <wf id="354" sent="1" para="1" offset="1622" length="3"><![CDATA[was]]></wf>
+    <wf id="355" sent="1" para="1" offset="1625" length="7"><![CDATA[benched]]></wf>
+    <wf id="356" sent="1" para="1" offset="1632" length="1"><![CDATA[.]]></wf>
+    <wf id="357" sent="1" para="1" offset="1633" length="5"><![CDATA[Ricky]]></wf>
+    <wf id="358" sent="1" para="1" offset="1638" length="7"><![CDATA[Watters]]></wf>
+    <wf id="359" sent="1" para="1" offset="1645" length="1"><![CDATA[,]]></wf>
+    <wf id="360" sent="1" para="1" offset="1646" length="3"><![CDATA[who]]></wf>
+    <wf id="361" sent="1" para="1" offset="1649" length="5"><![CDATA[leads]]></wf>
+    <wf id="362" sent="1" para="1" offset="1654" length="3"><![CDATA[the]]></wf>
+    <wf id="363" sent="1" para="1" offset="1657" length="3"><![CDATA[NFC]]></wf>
+    <wf id="364" sent="1" para="1" offset="1660" length="2"><![CDATA[in]]></wf>
+    <wf id="365" sent="1" para="1" offset="1662" length="7"><![CDATA[rushing]]></wf>
+    <wf id="366" sent="1" para="1" offset="1669" length="1"><![CDATA[,]]></wf>
+    <wf id="367" sent="1" para="1" offset="1670" length="4"><![CDATA[left]]></wf>
+    <wf id="368" sent="1" para="1" offset="1674" length="3"><![CDATA[the]]></wf>
+    <wf id="369" sent="1" para="1" offset="1677" length="4"><![CDATA[game]]></wf>
+    <wf id="370" sent="1" para="1" offset="1681" length="5"><![CDATA[after]]></wf>
+    <wf id="371" sent="1" para="1" offset="1686" length="7"><![CDATA[getting]]></wf>
+    <wf id="372" sent="1" para="1" offset="1693" length="5"><![CDATA[kneed]]></wf>
+    <wf id="373" sent="1" para="1" offset="1698" length="2"><![CDATA[to]]></wf>
+    <wf id="374" sent="1" para="1" offset="1700" length="3"><![CDATA[the]]></wf>
+    <wf id="375" sent="1" para="1" offset="1703" length="6"><![CDATA[helmet]]></wf>
+    <wf id="376" sent="1" para="1" offset="1709" length="5"><![CDATA[after]]></wf>
+    <wf id="377" sent="1" para="1" offset="1714" length="7"><![CDATA[gaining]]></wf>
+    <wf id="378" sent="1" para="1" offset="1721" length="2"><![CDATA[33]]></wf>
+    <wf id="379" sent="1" para="1" offset="1723" length="5"><![CDATA[yards]]></wf>
+    <wf id="380" sent="1" para="1" offset="1728" length="2"><![CDATA[on]]></wf>
+    <wf id="381" sent="1" para="1" offset="1730" length="5"><![CDATA[seven]]></wf>
+    <wf id="382" sent="1" para="1" offset="1735" length="7"><![CDATA[carries]]></wf>
+    <wf id="383" sent="1" para="1" offset="1742" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="NFL">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="AMERICAN">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="FOOTBALL-COLTS">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="CLOBBER">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="EAGLES">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="TO">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="STAY">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="IN">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="PLAYOFF">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="HUNT">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma=".">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="INDIANAPOLIS">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="1996-12-06">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="The">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="injury-plagued">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="Indianapolis">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="Colts">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="lost">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="another">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="quarterback">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="on">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="Thursday">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="but">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="last">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="year">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="'s">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="AFC">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="finalists">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="rallied">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="together">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="to">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="shoot">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="down">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="the">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="Philadelphia">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="Eagles">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="37-10">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="in">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="a">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="showdown">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="of">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="playoff">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="contenders">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma=".">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="Marshall">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="Faulk">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="rushed">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="for">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="101">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="yards">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="and">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="two">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="touchdowns">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="and">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="Jason">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="Belser">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="returned">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="an">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="interception">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="44">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="yards">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="for">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="a">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="score">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="as">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="the">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="Colts">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="improved">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="to">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="8-6">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma=",">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="the">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="same">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="mark">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="as">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="the">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="Eagles">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma=",">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="who">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="lost">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="for">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="the">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="fourth">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="time">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="in">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="five">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="games">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma=".">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="Paul">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="Justin">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma=",">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="starting">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="for">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="the">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="sidelined">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="Jim">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="Harbaugh">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma=",">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="was">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="14-of-23">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="for">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="144">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="yards">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="and">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="a">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="touchdown">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="for">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="the">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="the">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="Colts">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma=",">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="who">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="played">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="their">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="last">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="home">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="game">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="of">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="the">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="season">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma=".">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="Indianapolis">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="closes">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="with">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="games">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="at">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="Kansas">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="City">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="and">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="Cincinnati">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma=".">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="The">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="Eagles">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="were">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="held">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="without">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="a">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="touchdown">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="until">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="the">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="final">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="five">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="seconds">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma=".">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="Philadelphia">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma=",">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="which">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="fell">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="from">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="an">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="NFC">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="East">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma="tie">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="with">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="the">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="Dallas">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="Cowboys">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="and">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="Washington">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="Redskins">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma=",">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="go">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="on">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="the">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="road">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="against">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="the">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="New">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="York">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="Jets">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="and">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma="then">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="entertain">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="Arizona">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma=".">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="The">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma="loss">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="by">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="Philadelphia">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="allowed">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="the">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="idle">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="Green">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma="Bay">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="Packers">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma="(">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="10-3">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma=")">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="to">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma="clinch">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma="the">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="first">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma="NFC">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma="playoff">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma="berth">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma=".">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="The">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma="Colts">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma="won">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma="despite">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+    <term id="201" lemma="the">
+      <span>
+        <target id="201"/>
+      </span>
+    </term>
+    <term id="202" lemma="absence">
+      <span>
+        <target id="202"/>
+      </span>
+    </term>
+    <term id="203" lemma="of">
+      <span>
+        <target id="203"/>
+      </span>
+    </term>
+    <term id="204" lemma="injured">
+      <span>
+        <target id="204"/>
+      </span>
+    </term>
+    <term id="205" lemma="starting">
+      <span>
+        <target id="205"/>
+      </span>
+    </term>
+    <term id="206" lemma="defensive">
+      <span>
+        <target id="206"/>
+      </span>
+    </term>
+    <term id="207" lemma="tackle">
+      <span>
+        <target id="207"/>
+      </span>
+    </term>
+    <term id="208" lemma="Tony">
+      <span>
+        <target id="208"/>
+      </span>
+    </term>
+    <term id="209" lemma="Siragusa">
+      <span>
+        <target id="209"/>
+      </span>
+    </term>
+    <term id="210" lemma=",">
+      <span>
+        <target id="210"/>
+      </span>
+    </term>
+    <term id="211" lemma="cornerback">
+      <span>
+        <target id="211"/>
+      </span>
+    </term>
+    <term id="212" lemma="Ray">
+      <span>
+        <target id="212"/>
+      </span>
+    </term>
+    <term id="213" lemma="Buchanan">
+      <span>
+        <target id="213"/>
+      </span>
+    </term>
+    <term id="214" lemma="and">
+      <span>
+        <target id="214"/>
+      </span>
+    </term>
+    <term id="215" lemma="linebacker">
+      <span>
+        <target id="215"/>
+      </span>
+    </term>
+    <term id="216" lemma="Quentin">
+      <span>
+        <target id="216"/>
+      </span>
+    </term>
+    <term id="217" lemma="Coryatt">
+      <span>
+        <target id="217"/>
+      </span>
+    </term>
+    <term id="218" lemma=".">
+      <span>
+        <target id="218"/>
+      </span>
+    </term>
+    <term id="219" lemma="Faulk">
+      <span>
+        <target id="219"/>
+      </span>
+    </term>
+    <term id="220" lemma="carried">
+      <span>
+        <target id="220"/>
+      </span>
+    </term>
+    <term id="221" lemma="16">
+      <span>
+        <target id="221"/>
+      </span>
+    </term>
+    <term id="222" lemma="times">
+      <span>
+        <target id="222"/>
+      </span>
+    </term>
+    <term id="223" lemma=",">
+      <span>
+        <target id="223"/>
+      </span>
+    </term>
+    <term id="224" lemma="including">
+      <span>
+        <target id="224"/>
+      </span>
+    </term>
+    <term id="225" lemma="a">
+      <span>
+        <target id="225"/>
+      </span>
+    </term>
+    <term id="226" lemma="13-yard">
+      <span>
+        <target id="226"/>
+      </span>
+    </term>
+    <term id="227" lemma="TD">
+      <span>
+        <target id="227"/>
+      </span>
+    </term>
+    <term id="228" lemma="run">
+      <span>
+        <target id="228"/>
+      </span>
+    </term>
+    <term id="229" lemma="in">
+      <span>
+        <target id="229"/>
+      </span>
+    </term>
+    <term id="230" lemma="the">
+      <span>
+        <target id="230"/>
+      </span>
+    </term>
+    <term id="231" lemma="first">
+      <span>
+        <target id="231"/>
+      </span>
+    </term>
+    <term id="232" lemma="quarter">
+      <span>
+        <target id="232"/>
+      </span>
+    </term>
+    <term id="233" lemma="and">
+      <span>
+        <target id="233"/>
+      </span>
+    </term>
+    <term id="234" lemma="a">
+      <span>
+        <target id="234"/>
+      </span>
+    </term>
+    <term id="235" lemma="seven-yard">
+      <span>
+        <target id="235"/>
+      </span>
+    </term>
+    <term id="236" lemma="score">
+      <span>
+        <target id="236"/>
+      </span>
+    </term>
+    <term id="237" lemma="early">
+      <span>
+        <target id="237"/>
+      </span>
+    </term>
+    <term id="238" lemma="in">
+      <span>
+        <target id="238"/>
+      </span>
+    </term>
+    <term id="239" lemma="the">
+      <span>
+        <target id="239"/>
+      </span>
+    </term>
+    <term id="240" lemma="final">
+      <span>
+        <target id="240"/>
+      </span>
+    </term>
+    <term id="241" lemma="period">
+      <span>
+        <target id="241"/>
+      </span>
+    </term>
+    <term id="242" lemma=".">
+      <span>
+        <target id="242"/>
+      </span>
+    </term>
+    <term id="243" lemma="Justin">
+      <span>
+        <target id="243"/>
+      </span>
+    </term>
+    <term id="244" lemma="made">
+      <span>
+        <target id="244"/>
+      </span>
+    </term>
+    <term id="245" lemma="his">
+      <span>
+        <target id="245"/>
+      </span>
+    </term>
+    <term id="246" lemma="second">
+      <span>
+        <target id="246"/>
+      </span>
+    </term>
+    <term id="247" lemma="straight">
+      <span>
+        <target id="247"/>
+      </span>
+    </term>
+    <term id="248" lemma="start">
+      <span>
+        <target id="248"/>
+      </span>
+    </term>
+    <term id="249" lemma="for">
+      <span>
+        <target id="249"/>
+      </span>
+    </term>
+    <term id="250" lemma="Harbaugh">
+      <span>
+        <target id="250"/>
+      </span>
+    </term>
+    <term id="251" lemma=",">
+      <span>
+        <target id="251"/>
+      </span>
+    </term>
+    <term id="252" lemma="who">
+      <span>
+        <target id="252"/>
+      </span>
+    </term>
+    <term id="253" lemma="has">
+      <span>
+        <target id="253"/>
+      </span>
+    </term>
+    <term id="254" lemma="a">
+      <span>
+        <target id="254"/>
+      </span>
+    </term>
+    <term id="255" lemma="knee">
+      <span>
+        <target id="255"/>
+      </span>
+    </term>
+    <term id="256" lemma="injury">
+      <span>
+        <target id="256"/>
+      </span>
+    </term>
+    <term id="257" lemma=".">
+      <span>
+        <target id="257"/>
+      </span>
+    </term>
+    <term id="258" lemma="Justin">
+      <span>
+        <target id="258"/>
+      </span>
+    </term>
+    <term id="259" lemma="suffered">
+      <span>
+        <target id="259"/>
+      </span>
+    </term>
+    <term id="260" lemma="a">
+      <span>
+        <target id="260"/>
+      </span>
+    </term>
+    <term id="261" lemma="sprained">
+      <span>
+        <target id="261"/>
+      </span>
+    </term>
+    <term id="262" lemma="right">
+      <span>
+        <target id="262"/>
+      </span>
+    </term>
+    <term id="263" lemma="shoulder">
+      <span>
+        <target id="263"/>
+      </span>
+    </term>
+    <term id="264" lemma="in">
+      <span>
+        <target id="264"/>
+      </span>
+    </term>
+    <term id="265" lemma="the">
+      <span>
+        <target id="265"/>
+      </span>
+    </term>
+    <term id="266" lemma="third">
+      <span>
+        <target id="266"/>
+      </span>
+    </term>
+    <term id="267" lemma="quarter">
+      <span>
+        <target id="267"/>
+      </span>
+    </term>
+    <term id="268" lemma="and">
+      <span>
+        <target id="268"/>
+      </span>
+    </term>
+    <term id="269" lemma="did">
+      <span>
+        <target id="269"/>
+      </span>
+    </term>
+    <term id="270" lemma="not">
+      <span>
+        <target id="270"/>
+      </span>
+    </term>
+    <term id="271" lemma="return">
+      <span>
+        <target id="271"/>
+      </span>
+    </term>
+    <term id="272" lemma=".">
+      <span>
+        <target id="272"/>
+      </span>
+    </term>
+    <term id="273" lemma="Third-stringer">
+      <span>
+        <target id="273"/>
+      </span>
+    </term>
+    <term id="274" lemma="Kerwin">
+      <span>
+        <target id="274"/>
+      </span>
+    </term>
+    <term id="275" lemma="Bell">
+      <span>
+        <target id="275"/>
+      </span>
+    </term>
+    <term id="276" lemma=",">
+      <span>
+        <target id="276"/>
+      </span>
+    </term>
+    <term id="277" lemma="a">
+      <span>
+        <target id="277"/>
+      </span>
+    </term>
+    <term id="278" lemma="1988">
+      <span>
+        <target id="278"/>
+      </span>
+    </term>
+    <term id="279" lemma="draft">
+      <span>
+        <target id="279"/>
+      </span>
+    </term>
+    <term id="280" lemma="choice">
+      <span>
+        <target id="280"/>
+      </span>
+    </term>
+    <term id="281" lemma="of">
+      <span>
+        <target id="281"/>
+      </span>
+    </term>
+    <term id="282" lemma="the">
+      <span>
+        <target id="282"/>
+      </span>
+    </term>
+    <term id="283" lemma="Miami">
+      <span>
+        <target id="283"/>
+      </span>
+    </term>
+    <term id="284" lemma="Dolphins">
+      <span>
+        <target id="284"/>
+      </span>
+    </term>
+    <term id="285" lemma=",">
+      <span>
+        <target id="285"/>
+      </span>
+    </term>
+    <term id="286" lemma="made">
+      <span>
+        <target id="286"/>
+      </span>
+    </term>
+    <term id="287" lemma="his">
+      <span>
+        <target id="287"/>
+      </span>
+    </term>
+    <term id="288" lemma="NFL">
+      <span>
+        <target id="288"/>
+      </span>
+    </term>
+    <term id="289" lemma="debut">
+      <span>
+        <target id="289"/>
+      </span>
+    </term>
+    <term id="290" lemma="and">
+      <span>
+        <target id="290"/>
+      </span>
+    </term>
+    <term id="291" lemma="was">
+      <span>
+        <target id="291"/>
+      </span>
+    </term>
+    <term id="292" lemma="5-of-5">
+      <span>
+        <target id="292"/>
+      </span>
+    </term>
+    <term id="293" lemma="for">
+      <span>
+        <target id="293"/>
+      </span>
+    </term>
+    <term id="294" lemma="75">
+      <span>
+        <target id="294"/>
+      </span>
+    </term>
+    <term id="295" lemma="yards">
+      <span>
+        <target id="295"/>
+      </span>
+    </term>
+    <term id="296" lemma=",">
+      <span>
+        <target id="296"/>
+      </span>
+    </term>
+    <term id="297" lemma="including">
+      <span>
+        <target id="297"/>
+      </span>
+    </term>
+    <term id="298" lemma="a">
+      <span>
+        <target id="298"/>
+      </span>
+    </term>
+    <term id="299" lemma="20-yard">
+      <span>
+        <target id="299"/>
+      </span>
+    </term>
+    <term id="300" lemma="scoring">
+      <span>
+        <target id="300"/>
+      </span>
+    </term>
+    <term id="301" lemma="strike">
+      <span>
+        <target id="301"/>
+      </span>
+    </term>
+    <term id="302" lemma="to">
+      <span>
+        <target id="302"/>
+      </span>
+    </term>
+    <term id="303" lemma="Marvin">
+      <span>
+        <target id="303"/>
+      </span>
+    </term>
+    <term id="304" lemma="Harrison">
+      <span>
+        <target id="304"/>
+      </span>
+    </term>
+    <term id="305" lemma="in">
+      <span>
+        <target id="305"/>
+      </span>
+    </term>
+    <term id="306" lemma="the">
+      <span>
+        <target id="306"/>
+      </span>
+    </term>
+    <term id="307" lemma="third">
+      <span>
+        <target id="307"/>
+      </span>
+    </term>
+    <term id="308" lemma="period">
+      <span>
+        <target id="308"/>
+      </span>
+    </term>
+    <term id="309" lemma=".">
+      <span>
+        <target id="309"/>
+      </span>
+    </term>
+    <term id="310" lemma="A">
+      <span>
+        <target id="310"/>
+      </span>
+    </term>
+    <term id="311" lemma="39-yard">
+      <span>
+        <target id="311"/>
+      </span>
+    </term>
+    <term id="312" lemma="interference">
+      <span>
+        <target id="312"/>
+      </span>
+    </term>
+    <term id="313" lemma="penalty">
+      <span>
+        <target id="313"/>
+      </span>
+    </term>
+    <term id="314" lemma="against">
+      <span>
+        <target id="314"/>
+      </span>
+    </term>
+    <term id="315" lemma="Philadelphia">
+      <span>
+        <target id="315"/>
+      </span>
+    </term>
+    <term id="316" lemma="'s">
+      <span>
+        <target id="316"/>
+      </span>
+    </term>
+    <term id="317" lemma="Troy">
+      <span>
+        <target id="317"/>
+      </span>
+    </term>
+    <term id="318" lemma="Vincent">
+      <span>
+        <target id="318"/>
+      </span>
+    </term>
+    <term id="319" lemma="set">
+      <span>
+        <target id="319"/>
+      </span>
+    </term>
+    <term id="320" lemma="up">
+      <span>
+        <target id="320"/>
+      </span>
+    </term>
+    <term id="321" lemma="Faulk">
+      <span>
+        <target id="321"/>
+      </span>
+    </term>
+    <term id="322" lemma="'s">
+      <span>
+        <target id="322"/>
+      </span>
+    </term>
+    <term id="323" lemma="first">
+      <span>
+        <target id="323"/>
+      </span>
+    </term>
+    <term id="324" lemma="score">
+      <span>
+        <target id="324"/>
+      </span>
+    </term>
+    <term id="325" lemma="around">
+      <span>
+        <target id="325"/>
+      </span>
+    </term>
+    <term id="326" lemma="left">
+      <span>
+        <target id="326"/>
+      </span>
+    </term>
+    <term id="327" lemma="end">
+      <span>
+        <target id="327"/>
+      </span>
+    </term>
+    <term id="328" lemma="that">
+      <span>
+        <target id="328"/>
+      </span>
+    </term>
+    <term id="329" lemma="capped">
+      <span>
+        <target id="329"/>
+      </span>
+    </term>
+    <term id="330" lemma="an">
+      <span>
+        <target id="330"/>
+      </span>
+    </term>
+    <term id="331" lemma="80-yard">
+      <span>
+        <target id="331"/>
+      </span>
+    </term>
+    <term id="332" lemma="march">
+      <span>
+        <target id="332"/>
+      </span>
+    </term>
+    <term id="333" lemma="5:17">
+      <span>
+        <target id="333"/>
+      </span>
+    </term>
+    <term id="334" lemma="into">
+      <span>
+        <target id="334"/>
+      </span>
+    </term>
+    <term id="335" lemma="the">
+      <span>
+        <target id="335"/>
+      </span>
+    </term>
+    <term id="336" lemma="game">
+      <span>
+        <target id="336"/>
+      </span>
+    </term>
+    <term id="337" lemma="and">
+      <span>
+        <target id="337"/>
+      </span>
+    </term>
+    <term id="338" lemma="the">
+      <span>
+        <target id="338"/>
+      </span>
+    </term>
+    <term id="339" lemma="rout">
+      <span>
+        <target id="339"/>
+      </span>
+    </term>
+    <term id="340" lemma="was">
+      <span>
+        <target id="340"/>
+      </span>
+    </term>
+    <term id="341" lemma="on">
+      <span>
+        <target id="341"/>
+      </span>
+    </term>
+    <term id="342" lemma=".">
+      <span>
+        <target id="342"/>
+      </span>
+    </term>
+    <term id="343" lemma="Eagles">
+      <span>
+        <target id="343"/>
+      </span>
+    </term>
+    <term id="344" lemma="quarterback">
+      <span>
+        <target id="344"/>
+      </span>
+    </term>
+    <term id="345" lemma="Ty">
+      <span>
+        <target id="345"/>
+      </span>
+    </term>
+    <term id="346" lemma="Detmer">
+      <span>
+        <target id="346"/>
+      </span>
+    </term>
+    <term id="347" lemma="was">
+      <span>
+        <target id="347"/>
+      </span>
+    </term>
+    <term id="348" lemma="17-of-34">
+      <span>
+        <target id="348"/>
+      </span>
+    </term>
+    <term id="349" lemma="for">
+      <span>
+        <target id="349"/>
+      </span>
+    </term>
+    <term id="350" lemma="182">
+      <span>
+        <target id="350"/>
+      </span>
+    </term>
+    <term id="351" lemma="yards">
+      <span>
+        <target id="351"/>
+      </span>
+    </term>
+    <term id="352" lemma="before">
+      <span>
+        <target id="352"/>
+      </span>
+    </term>
+    <term id="353" lemma="he">
+      <span>
+        <target id="353"/>
+      </span>
+    </term>
+    <term id="354" lemma="was">
+      <span>
+        <target id="354"/>
+      </span>
+    </term>
+    <term id="355" lemma="benched">
+      <span>
+        <target id="355"/>
+      </span>
+    </term>
+    <term id="356" lemma=".">
+      <span>
+        <target id="356"/>
+      </span>
+    </term>
+    <term id="357" lemma="Ricky">
+      <span>
+        <target id="357"/>
+      </span>
+    </term>
+    <term id="358" lemma="Watters">
+      <span>
+        <target id="358"/>
+      </span>
+    </term>
+    <term id="359" lemma=",">
+      <span>
+        <target id="359"/>
+      </span>
+    </term>
+    <term id="360" lemma="who">
+      <span>
+        <target id="360"/>
+      </span>
+    </term>
+    <term id="361" lemma="leads">
+      <span>
+        <target id="361"/>
+      </span>
+    </term>
+    <term id="362" lemma="the">
+      <span>
+        <target id="362"/>
+      </span>
+    </term>
+    <term id="363" lemma="NFC">
+      <span>
+        <target id="363"/>
+      </span>
+    </term>
+    <term id="364" lemma="in">
+      <span>
+        <target id="364"/>
+      </span>
+    </term>
+    <term id="365" lemma="rushing">
+      <span>
+        <target id="365"/>
+      </span>
+    </term>
+    <term id="366" lemma=",">
+      <span>
+        <target id="366"/>
+      </span>
+    </term>
+    <term id="367" lemma="left">
+      <span>
+        <target id="367"/>
+      </span>
+    </term>
+    <term id="368" lemma="the">
+      <span>
+        <target id="368"/>
+      </span>
+    </term>
+    <term id="369" lemma="game">
+      <span>
+        <target id="369"/>
+      </span>
+    </term>
+    <term id="370" lemma="after">
+      <span>
+        <target id="370"/>
+      </span>
+    </term>
+    <term id="371" lemma="getting">
+      <span>
+        <target id="371"/>
+      </span>
+    </term>
+    <term id="372" lemma="kneed">
+      <span>
+        <target id="372"/>
+      </span>
+    </term>
+    <term id="373" lemma="to">
+      <span>
+        <target id="373"/>
+      </span>
+    </term>
+    <term id="374" lemma="the">
+      <span>
+        <target id="374"/>
+      </span>
+    </term>
+    <term id="375" lemma="helmet">
+      <span>
+        <target id="375"/>
+      </span>
+    </term>
+    <term id="376" lemma="after">
+      <span>
+        <target id="376"/>
+      </span>
+    </term>
+    <term id="377" lemma="gaining">
+      <span>
+        <target id="377"/>
+      </span>
+    </term>
+    <term id="378" lemma="33">
+      <span>
+        <target id="378"/>
+      </span>
+    </term>
+    <term id="379" lemma="yards">
+      <span>
+        <target id="379"/>
+      </span>
+    </term>
+    <term id="380" lemma="on">
+      <span>
+        <target id="380"/>
+      </span>
+    </term>
+    <term id="381" lemma="seven">
+      <span>
+        <target id="381"/>
+      </span>
+    </term>
+    <term id="382" lemma="carries">
+      <span>
+        <target id="382"/>
+      </span>
+    </term>
+    <term id="383" lemma=".">
+      <span>
+        <target id="383"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="873">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/National_Football_League" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="874">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Philadelphia_Eagles" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="5"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="875">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Indianapolis" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="876">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Indianapolis_Colts" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="16"/>
+          <target id="17"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="877">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Philadelphia_Eagles" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="35"/>
+          <target id="36"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="878">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Marshall_Faulk" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="45"/>
+          <target id="46"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="879">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Jason_Belser" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="55"/>
+          <target id="56"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="880">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Indianapolis_Colts" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="67"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="881">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Philadelphia_Eagles" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="77"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="882">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Paul_Justin" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="89"/>
+          <target id="90"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="883">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Jim_Harbaugh" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="96"/>
+          <target id="97"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="884">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Indianapolis_Colts" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="110"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="885">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Indianapolis_Colts" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="122"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="886">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Kansas_City,_Missouri" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="127"/>
+          <target id="128"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="887">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Cincinnati" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="130"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="888">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Philadelphia_Eagles" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="133"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="889">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Philadelphia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="145"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="890">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dallas_Cowboys" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="156"/>
+          <target id="157"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="891">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Washington_Redskins" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="159"/>
+          <target id="160"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="892">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_York_Jets" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="168"/>
+          <target id="169"/>
+          <target id="170"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="893">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Arizona" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="174"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="894">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Philadelphia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="179"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="895">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Green_Bay_Packers" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="183"/>
+          <target id="184"/>
+          <target id="185"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="896">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Indianapolis_Colts" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="198"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="897">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Tony_Siragusa" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="208"/>
+          <target id="209"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="898">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ray_Buchanan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="212"/>
+          <target id="213"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="899">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Quentin_Coryatt" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="216"/>
+          <target id="217"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="900">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Marshall_Faulk" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="219"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="901">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Paul_Justin" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="243"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="902">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Jim_Harbaugh" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="250"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="903">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Paul_Justin" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="258"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="904">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Kerwin_Bell" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="274"/>
+          <target id="275"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="905">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Miami_Dolphins" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="283"/>
+          <target id="284"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="906">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/National_Football_League" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="288"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="907">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Marvin_Harrison" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="303"/>
+          <target id="304"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="908">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Philadelphia_Eagles" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="315"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="909">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Troy_Vincent" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="317"/>
+          <target id="318"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="910">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Marshall_Faulk" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="321"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="911">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Philadelphia_Eagles" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="343"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="912">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ty_Detmer" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="345"/>
+          <target id="346"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="913">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ricky_Watters" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="357"/>
+          <target id="358"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

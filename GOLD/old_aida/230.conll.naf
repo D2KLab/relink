@@ -1,0 +1,1691 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[SOCCER - SPANISH FIRST DIVISION RESULT / STANDINGS . MADRID 1996-12-07 Result of Saturday 's only Spanish first division match : Real Madrid 2 Barcelona 0 Standings ( tabulate under games played , won , drawn , lost , goals for , against , points ) : Real Madrid 16 11 5 0 32 12 38 Barcelona 16 10 4 2 46 21 34 Deportivo Coruna 15 9 6 0 23 7 33 Real Betis 15 8 5 2 28 13 29 Atletico Madrid 15 8 3 4 26 17 27 Athletic Bilbao 15 7 4 4 28 22 25 Real Sociedad 15 7 3 5 20 18 24 Valladolid 15 7 3 5 19 18 24 Racing Santander 15 5 7 3 15 15 22 Rayo Vallecano 15 5 5 5 21 19 20 Valencia 15 6 2 7 23 22 20 Celta Vigo 15 5 5 5 17 17 20 Tenerife 15 5 4 6 23 17 19 Espanyol 15 4 4 7 17 20 16 Oviedo 15 4 4 7 17 21 16 Sporting Gijon 15 4 4 7 15 22 16 Logrones 15 4 3 8 11 33 15 Zaragoza 15 2 8 5 18 23 14 Sevilla 15 4 2 9 13 20 14 Compostela 15 3 4 8 13 28 13 Hercules 15 2 2 11 11 29 8 Extremadura 15 1 3 11 8 30 6 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1392testb" filename="1392testb"/>
+  </nafHeader>
+  <text>
+    <wf id="0" sent="1" para="1" offset="0" length="6"><![CDATA[SOCCER]]></wf>
+    <wf id="1" sent="1" para="1" offset="6" length="1"><![CDATA[-]]></wf>
+    <wf id="2" sent="1" para="1" offset="7" length="7"><![CDATA[SPANISH]]></wf>
+    <wf id="3" sent="1" para="1" offset="14" length="5"><![CDATA[FIRST]]></wf>
+    <wf id="4" sent="1" para="1" offset="19" length="8"><![CDATA[DIVISION]]></wf>
+    <wf id="5" sent="1" para="1" offset="27" length="6"><![CDATA[RESULT]]></wf>
+    <wf id="6" sent="1" para="1" offset="33" length="1"><![CDATA[/]]></wf>
+    <wf id="7" sent="1" para="1" offset="34" length="9"><![CDATA[STANDINGS]]></wf>
+    <wf id="8" sent="1" para="1" offset="43" length="1"><![CDATA[.]]></wf>
+    <wf id="9" sent="1" para="1" offset="44" length="6"><![CDATA[MADRID]]></wf>
+    <wf id="10" sent="1" para="1" offset="50" length="10"><![CDATA[1996-12-07]]></wf>
+    <wf id="11" sent="1" para="1" offset="60" length="6"><![CDATA[Result]]></wf>
+    <wf id="12" sent="1" para="1" offset="66" length="2"><![CDATA[of]]></wf>
+    <wf id="13" sent="1" para="1" offset="68" length="8"><![CDATA[Saturday]]></wf>
+    <wf id="14" sent="1" para="1" offset="76" length="2"><![CDATA['s]]></wf>
+    <wf id="15" sent="1" para="1" offset="78" length="4"><![CDATA[only]]></wf>
+    <wf id="16" sent="1" para="1" offset="82" length="7"><![CDATA[Spanish]]></wf>
+    <wf id="17" sent="1" para="1" offset="89" length="5"><![CDATA[first]]></wf>
+    <wf id="18" sent="1" para="1" offset="94" length="8"><![CDATA[division]]></wf>
+    <wf id="19" sent="1" para="1" offset="102" length="5"><![CDATA[match]]></wf>
+    <wf id="20" sent="1" para="1" offset="107" length="1"><![CDATA[:]]></wf>
+    <wf id="21" sent="1" para="1" offset="108" length="4"><![CDATA[Real]]></wf>
+    <wf id="22" sent="1" para="1" offset="112" length="6"><![CDATA[Madrid]]></wf>
+    <wf id="23" sent="1" para="1" offset="118" length="1"><![CDATA[2]]></wf>
+    <wf id="24" sent="1" para="1" offset="119" length="9"><![CDATA[Barcelona]]></wf>
+    <wf id="25" sent="1" para="1" offset="128" length="1"><![CDATA[0]]></wf>
+    <wf id="26" sent="1" para="1" offset="129" length="9"><![CDATA[Standings]]></wf>
+    <wf id="27" sent="1" para="1" offset="138" length="1"><![CDATA[(]]></wf>
+    <wf id="28" sent="1" para="1" offset="139" length="8"><![CDATA[tabulate]]></wf>
+    <wf id="29" sent="1" para="1" offset="147" length="5"><![CDATA[under]]></wf>
+    <wf id="30" sent="1" para="1" offset="152" length="5"><![CDATA[games]]></wf>
+    <wf id="31" sent="1" para="1" offset="157" length="6"><![CDATA[played]]></wf>
+    <wf id="32" sent="1" para="1" offset="163" length="1"><![CDATA[,]]></wf>
+    <wf id="33" sent="1" para="1" offset="164" length="3"><![CDATA[won]]></wf>
+    <wf id="34" sent="1" para="1" offset="167" length="1"><![CDATA[,]]></wf>
+    <wf id="35" sent="1" para="1" offset="168" length="5"><![CDATA[drawn]]></wf>
+    <wf id="36" sent="1" para="1" offset="173" length="1"><![CDATA[,]]></wf>
+    <wf id="37" sent="1" para="1" offset="174" length="4"><![CDATA[lost]]></wf>
+    <wf id="38" sent="1" para="1" offset="178" length="1"><![CDATA[,]]></wf>
+    <wf id="39" sent="1" para="1" offset="179" length="5"><![CDATA[goals]]></wf>
+    <wf id="40" sent="1" para="1" offset="184" length="3"><![CDATA[for]]></wf>
+    <wf id="41" sent="1" para="1" offset="187" length="1"><![CDATA[,]]></wf>
+    <wf id="42" sent="1" para="1" offset="188" length="7"><![CDATA[against]]></wf>
+    <wf id="43" sent="1" para="1" offset="195" length="1"><![CDATA[,]]></wf>
+    <wf id="44" sent="1" para="1" offset="196" length="6"><![CDATA[points]]></wf>
+    <wf id="45" sent="1" para="1" offset="202" length="1"><![CDATA[)]]></wf>
+    <wf id="46" sent="1" para="1" offset="203" length="1"><![CDATA[:]]></wf>
+    <wf id="47" sent="1" para="1" offset="204" length="4"><![CDATA[Real]]></wf>
+    <wf id="48" sent="1" para="1" offset="208" length="6"><![CDATA[Madrid]]></wf>
+    <wf id="49" sent="1" para="1" offset="214" length="2"><![CDATA[16]]></wf>
+    <wf id="50" sent="1" para="1" offset="216" length="2"><![CDATA[11]]></wf>
+    <wf id="51" sent="1" para="1" offset="218" length="1"><![CDATA[5]]></wf>
+    <wf id="52" sent="1" para="1" offset="219" length="1"><![CDATA[0]]></wf>
+    <wf id="53" sent="1" para="1" offset="220" length="2"><![CDATA[32]]></wf>
+    <wf id="54" sent="1" para="1" offset="222" length="2"><![CDATA[12]]></wf>
+    <wf id="55" sent="1" para="1" offset="224" length="2"><![CDATA[38]]></wf>
+    <wf id="56" sent="1" para="1" offset="226" length="9"><![CDATA[Barcelona]]></wf>
+    <wf id="57" sent="1" para="1" offset="235" length="2"><![CDATA[16]]></wf>
+    <wf id="58" sent="1" para="1" offset="237" length="2"><![CDATA[10]]></wf>
+    <wf id="59" sent="1" para="1" offset="239" length="1"><![CDATA[4]]></wf>
+    <wf id="60" sent="1" para="1" offset="240" length="1"><![CDATA[2]]></wf>
+    <wf id="61" sent="1" para="1" offset="241" length="2"><![CDATA[46]]></wf>
+    <wf id="62" sent="1" para="1" offset="243" length="2"><![CDATA[21]]></wf>
+    <wf id="63" sent="1" para="1" offset="245" length="2"><![CDATA[34]]></wf>
+    <wf id="64" sent="1" para="1" offset="247" length="9"><![CDATA[Deportivo]]></wf>
+    <wf id="65" sent="1" para="1" offset="256" length="6"><![CDATA[Coruna]]></wf>
+    <wf id="66" sent="1" para="1" offset="262" length="2"><![CDATA[15]]></wf>
+    <wf id="67" sent="1" para="1" offset="264" length="1"><![CDATA[9]]></wf>
+    <wf id="68" sent="1" para="1" offset="265" length="1"><![CDATA[6]]></wf>
+    <wf id="69" sent="1" para="1" offset="266" length="1"><![CDATA[0]]></wf>
+    <wf id="70" sent="1" para="1" offset="267" length="2"><![CDATA[23]]></wf>
+    <wf id="71" sent="1" para="1" offset="269" length="1"><![CDATA[7]]></wf>
+    <wf id="72" sent="1" para="1" offset="270" length="2"><![CDATA[33]]></wf>
+    <wf id="73" sent="1" para="1" offset="272" length="4"><![CDATA[Real]]></wf>
+    <wf id="74" sent="1" para="1" offset="276" length="5"><![CDATA[Betis]]></wf>
+    <wf id="75" sent="1" para="1" offset="281" length="2"><![CDATA[15]]></wf>
+    <wf id="76" sent="1" para="1" offset="283" length="1"><![CDATA[8]]></wf>
+    <wf id="77" sent="1" para="1" offset="284" length="1"><![CDATA[5]]></wf>
+    <wf id="78" sent="1" para="1" offset="285" length="1"><![CDATA[2]]></wf>
+    <wf id="79" sent="1" para="1" offset="286" length="2"><![CDATA[28]]></wf>
+    <wf id="80" sent="1" para="1" offset="288" length="2"><![CDATA[13]]></wf>
+    <wf id="81" sent="1" para="1" offset="290" length="2"><![CDATA[29]]></wf>
+    <wf id="82" sent="1" para="1" offset="292" length="8"><![CDATA[Atletico]]></wf>
+    <wf id="83" sent="1" para="1" offset="300" length="6"><![CDATA[Madrid]]></wf>
+    <wf id="84" sent="1" para="1" offset="306" length="2"><![CDATA[15]]></wf>
+    <wf id="85" sent="1" para="1" offset="308" length="1"><![CDATA[8]]></wf>
+    <wf id="86" sent="1" para="1" offset="309" length="1"><![CDATA[3]]></wf>
+    <wf id="87" sent="1" para="1" offset="310" length="1"><![CDATA[4]]></wf>
+    <wf id="88" sent="1" para="1" offset="311" length="2"><![CDATA[26]]></wf>
+    <wf id="89" sent="1" para="1" offset="313" length="2"><![CDATA[17]]></wf>
+    <wf id="90" sent="1" para="1" offset="315" length="2"><![CDATA[27]]></wf>
+    <wf id="91" sent="1" para="1" offset="317" length="8"><![CDATA[Athletic]]></wf>
+    <wf id="92" sent="1" para="1" offset="325" length="6"><![CDATA[Bilbao]]></wf>
+    <wf id="93" sent="1" para="1" offset="331" length="2"><![CDATA[15]]></wf>
+    <wf id="94" sent="1" para="1" offset="333" length="1"><![CDATA[7]]></wf>
+    <wf id="95" sent="1" para="1" offset="334" length="1"><![CDATA[4]]></wf>
+    <wf id="96" sent="1" para="1" offset="335" length="1"><![CDATA[4]]></wf>
+    <wf id="97" sent="1" para="1" offset="336" length="2"><![CDATA[28]]></wf>
+    <wf id="98" sent="1" para="1" offset="338" length="2"><![CDATA[22]]></wf>
+    <wf id="99" sent="1" para="1" offset="340" length="2"><![CDATA[25]]></wf>
+    <wf id="100" sent="1" para="1" offset="342" length="4"><![CDATA[Real]]></wf>
+    <wf id="101" sent="1" para="1" offset="346" length="8"><![CDATA[Sociedad]]></wf>
+    <wf id="102" sent="1" para="1" offset="354" length="2"><![CDATA[15]]></wf>
+    <wf id="103" sent="1" para="1" offset="356" length="1"><![CDATA[7]]></wf>
+    <wf id="104" sent="1" para="1" offset="357" length="1"><![CDATA[3]]></wf>
+    <wf id="105" sent="1" para="1" offset="358" length="1"><![CDATA[5]]></wf>
+    <wf id="106" sent="1" para="1" offset="359" length="2"><![CDATA[20]]></wf>
+    <wf id="107" sent="1" para="1" offset="361" length="2"><![CDATA[18]]></wf>
+    <wf id="108" sent="1" para="1" offset="363" length="2"><![CDATA[24]]></wf>
+    <wf id="109" sent="1" para="1" offset="365" length="10"><![CDATA[Valladolid]]></wf>
+    <wf id="110" sent="1" para="1" offset="375" length="2"><![CDATA[15]]></wf>
+    <wf id="111" sent="1" para="1" offset="377" length="1"><![CDATA[7]]></wf>
+    <wf id="112" sent="1" para="1" offset="378" length="1"><![CDATA[3]]></wf>
+    <wf id="113" sent="1" para="1" offset="379" length="1"><![CDATA[5]]></wf>
+    <wf id="114" sent="1" para="1" offset="380" length="2"><![CDATA[19]]></wf>
+    <wf id="115" sent="1" para="1" offset="382" length="2"><![CDATA[18]]></wf>
+    <wf id="116" sent="1" para="1" offset="384" length="2"><![CDATA[24]]></wf>
+    <wf id="117" sent="1" para="1" offset="386" length="6"><![CDATA[Racing]]></wf>
+    <wf id="118" sent="1" para="1" offset="392" length="9"><![CDATA[Santander]]></wf>
+    <wf id="119" sent="1" para="1" offset="401" length="2"><![CDATA[15]]></wf>
+    <wf id="120" sent="1" para="1" offset="403" length="1"><![CDATA[5]]></wf>
+    <wf id="121" sent="1" para="1" offset="404" length="1"><![CDATA[7]]></wf>
+    <wf id="122" sent="1" para="1" offset="405" length="1"><![CDATA[3]]></wf>
+    <wf id="123" sent="1" para="1" offset="406" length="2"><![CDATA[15]]></wf>
+    <wf id="124" sent="1" para="1" offset="408" length="2"><![CDATA[15]]></wf>
+    <wf id="125" sent="1" para="1" offset="410" length="2"><![CDATA[22]]></wf>
+    <wf id="126" sent="1" para="1" offset="412" length="4"><![CDATA[Rayo]]></wf>
+    <wf id="127" sent="1" para="1" offset="416" length="9"><![CDATA[Vallecano]]></wf>
+    <wf id="128" sent="1" para="1" offset="425" length="2"><![CDATA[15]]></wf>
+    <wf id="129" sent="1" para="1" offset="427" length="1"><![CDATA[5]]></wf>
+    <wf id="130" sent="1" para="1" offset="428" length="1"><![CDATA[5]]></wf>
+    <wf id="131" sent="1" para="1" offset="429" length="1"><![CDATA[5]]></wf>
+    <wf id="132" sent="1" para="1" offset="430" length="2"><![CDATA[21]]></wf>
+    <wf id="133" sent="1" para="1" offset="432" length="2"><![CDATA[19]]></wf>
+    <wf id="134" sent="1" para="1" offset="434" length="2"><![CDATA[20]]></wf>
+    <wf id="135" sent="1" para="1" offset="436" length="8"><![CDATA[Valencia]]></wf>
+    <wf id="136" sent="1" para="1" offset="444" length="2"><![CDATA[15]]></wf>
+    <wf id="137" sent="1" para="1" offset="446" length="1"><![CDATA[6]]></wf>
+    <wf id="138" sent="1" para="1" offset="447" length="1"><![CDATA[2]]></wf>
+    <wf id="139" sent="1" para="1" offset="448" length="1"><![CDATA[7]]></wf>
+    <wf id="140" sent="1" para="1" offset="449" length="2"><![CDATA[23]]></wf>
+    <wf id="141" sent="1" para="1" offset="451" length="2"><![CDATA[22]]></wf>
+    <wf id="142" sent="1" para="1" offset="453" length="2"><![CDATA[20]]></wf>
+    <wf id="143" sent="1" para="1" offset="455" length="5"><![CDATA[Celta]]></wf>
+    <wf id="144" sent="1" para="1" offset="460" length="4"><![CDATA[Vigo]]></wf>
+    <wf id="145" sent="1" para="1" offset="464" length="2"><![CDATA[15]]></wf>
+    <wf id="146" sent="1" para="1" offset="466" length="1"><![CDATA[5]]></wf>
+    <wf id="147" sent="1" para="1" offset="467" length="1"><![CDATA[5]]></wf>
+    <wf id="148" sent="1" para="1" offset="468" length="1"><![CDATA[5]]></wf>
+    <wf id="149" sent="1" para="1" offset="469" length="2"><![CDATA[17]]></wf>
+    <wf id="150" sent="1" para="1" offset="471" length="2"><![CDATA[17]]></wf>
+    <wf id="151" sent="1" para="1" offset="473" length="2"><![CDATA[20]]></wf>
+    <wf id="152" sent="1" para="1" offset="475" length="8"><![CDATA[Tenerife]]></wf>
+    <wf id="153" sent="1" para="1" offset="483" length="2"><![CDATA[15]]></wf>
+    <wf id="154" sent="1" para="1" offset="485" length="1"><![CDATA[5]]></wf>
+    <wf id="155" sent="1" para="1" offset="486" length="1"><![CDATA[4]]></wf>
+    <wf id="156" sent="1" para="1" offset="487" length="1"><![CDATA[6]]></wf>
+    <wf id="157" sent="1" para="1" offset="488" length="2"><![CDATA[23]]></wf>
+    <wf id="158" sent="1" para="1" offset="490" length="2"><![CDATA[17]]></wf>
+    <wf id="159" sent="1" para="1" offset="492" length="2"><![CDATA[19]]></wf>
+    <wf id="160" sent="1" para="1" offset="494" length="8"><![CDATA[Espanyol]]></wf>
+    <wf id="161" sent="1" para="1" offset="502" length="2"><![CDATA[15]]></wf>
+    <wf id="162" sent="1" para="1" offset="504" length="1"><![CDATA[4]]></wf>
+    <wf id="163" sent="1" para="1" offset="505" length="1"><![CDATA[4]]></wf>
+    <wf id="164" sent="1" para="1" offset="506" length="1"><![CDATA[7]]></wf>
+    <wf id="165" sent="1" para="1" offset="507" length="2"><![CDATA[17]]></wf>
+    <wf id="166" sent="1" para="1" offset="509" length="2"><![CDATA[20]]></wf>
+    <wf id="167" sent="1" para="1" offset="511" length="2"><![CDATA[16]]></wf>
+    <wf id="168" sent="1" para="1" offset="513" length="6"><![CDATA[Oviedo]]></wf>
+    <wf id="169" sent="1" para="1" offset="519" length="2"><![CDATA[15]]></wf>
+    <wf id="170" sent="1" para="1" offset="521" length="1"><![CDATA[4]]></wf>
+    <wf id="171" sent="1" para="1" offset="522" length="1"><![CDATA[4]]></wf>
+    <wf id="172" sent="1" para="1" offset="523" length="1"><![CDATA[7]]></wf>
+    <wf id="173" sent="1" para="1" offset="524" length="2"><![CDATA[17]]></wf>
+    <wf id="174" sent="1" para="1" offset="526" length="2"><![CDATA[21]]></wf>
+    <wf id="175" sent="1" para="1" offset="528" length="2"><![CDATA[16]]></wf>
+    <wf id="176" sent="1" para="1" offset="530" length="8"><![CDATA[Sporting]]></wf>
+    <wf id="177" sent="1" para="1" offset="538" length="5"><![CDATA[Gijon]]></wf>
+    <wf id="178" sent="1" para="1" offset="543" length="2"><![CDATA[15]]></wf>
+    <wf id="179" sent="1" para="1" offset="545" length="1"><![CDATA[4]]></wf>
+    <wf id="180" sent="1" para="1" offset="546" length="1"><![CDATA[4]]></wf>
+    <wf id="181" sent="1" para="1" offset="547" length="1"><![CDATA[7]]></wf>
+    <wf id="182" sent="1" para="1" offset="548" length="2"><![CDATA[15]]></wf>
+    <wf id="183" sent="1" para="1" offset="550" length="2"><![CDATA[22]]></wf>
+    <wf id="184" sent="1" para="1" offset="552" length="2"><![CDATA[16]]></wf>
+    <wf id="185" sent="1" para="1" offset="554" length="8"><![CDATA[Logrones]]></wf>
+    <wf id="186" sent="1" para="1" offset="562" length="2"><![CDATA[15]]></wf>
+    <wf id="187" sent="1" para="1" offset="564" length="1"><![CDATA[4]]></wf>
+    <wf id="188" sent="1" para="1" offset="565" length="1"><![CDATA[3]]></wf>
+    <wf id="189" sent="1" para="1" offset="566" length="1"><![CDATA[8]]></wf>
+    <wf id="190" sent="1" para="1" offset="567" length="2"><![CDATA[11]]></wf>
+    <wf id="191" sent="1" para="1" offset="569" length="2"><![CDATA[33]]></wf>
+    <wf id="192" sent="1" para="1" offset="571" length="2"><![CDATA[15]]></wf>
+    <wf id="193" sent="1" para="1" offset="573" length="8"><![CDATA[Zaragoza]]></wf>
+    <wf id="194" sent="1" para="1" offset="581" length="2"><![CDATA[15]]></wf>
+    <wf id="195" sent="1" para="1" offset="583" length="1"><![CDATA[2]]></wf>
+    <wf id="196" sent="1" para="1" offset="584" length="1"><![CDATA[8]]></wf>
+    <wf id="197" sent="1" para="1" offset="585" length="1"><![CDATA[5]]></wf>
+    <wf id="198" sent="1" para="1" offset="586" length="2"><![CDATA[18]]></wf>
+    <wf id="199" sent="1" para="1" offset="588" length="2"><![CDATA[23]]></wf>
+    <wf id="200" sent="1" para="1" offset="590" length="2"><![CDATA[14]]></wf>
+    <wf id="201" sent="1" para="1" offset="592" length="7"><![CDATA[Sevilla]]></wf>
+    <wf id="202" sent="1" para="1" offset="599" length="2"><![CDATA[15]]></wf>
+    <wf id="203" sent="1" para="1" offset="601" length="1"><![CDATA[4]]></wf>
+    <wf id="204" sent="1" para="1" offset="602" length="1"><![CDATA[2]]></wf>
+    <wf id="205" sent="1" para="1" offset="603" length="1"><![CDATA[9]]></wf>
+    <wf id="206" sent="1" para="1" offset="604" length="2"><![CDATA[13]]></wf>
+    <wf id="207" sent="1" para="1" offset="606" length="2"><![CDATA[20]]></wf>
+    <wf id="208" sent="1" para="1" offset="608" length="2"><![CDATA[14]]></wf>
+    <wf id="209" sent="1" para="1" offset="610" length="10"><![CDATA[Compostela]]></wf>
+    <wf id="210" sent="1" para="1" offset="620" length="2"><![CDATA[15]]></wf>
+    <wf id="211" sent="1" para="1" offset="622" length="1"><![CDATA[3]]></wf>
+    <wf id="212" sent="1" para="1" offset="623" length="1"><![CDATA[4]]></wf>
+    <wf id="213" sent="1" para="1" offset="624" length="1"><![CDATA[8]]></wf>
+    <wf id="214" sent="1" para="1" offset="625" length="2"><![CDATA[13]]></wf>
+    <wf id="215" sent="1" para="1" offset="627" length="2"><![CDATA[28]]></wf>
+    <wf id="216" sent="1" para="1" offset="629" length="2"><![CDATA[13]]></wf>
+    <wf id="217" sent="1" para="1" offset="631" length="8"><![CDATA[Hercules]]></wf>
+    <wf id="218" sent="1" para="1" offset="639" length="2"><![CDATA[15]]></wf>
+    <wf id="219" sent="1" para="1" offset="641" length="1"><![CDATA[2]]></wf>
+    <wf id="220" sent="1" para="1" offset="642" length="1"><![CDATA[2]]></wf>
+    <wf id="221" sent="1" para="1" offset="643" length="2"><![CDATA[11]]></wf>
+    <wf id="222" sent="1" para="1" offset="645" length="2"><![CDATA[11]]></wf>
+    <wf id="223" sent="1" para="1" offset="647" length="2"><![CDATA[29]]></wf>
+    <wf id="224" sent="1" para="1" offset="649" length="1"><![CDATA[8]]></wf>
+    <wf id="225" sent="1" para="1" offset="650" length="11"><![CDATA[Extremadura]]></wf>
+    <wf id="226" sent="1" para="1" offset="661" length="2"><![CDATA[15]]></wf>
+    <wf id="227" sent="1" para="1" offset="663" length="1"><![CDATA[1]]></wf>
+    <wf id="228" sent="1" para="1" offset="664" length="1"><![CDATA[3]]></wf>
+    <wf id="229" sent="1" para="1" offset="665" length="2"><![CDATA[11]]></wf>
+    <wf id="230" sent="1" para="1" offset="667" length="1"><![CDATA[8]]></wf>
+    <wf id="231" sent="1" para="1" offset="668" length="2"><![CDATA[30]]></wf>
+    <wf id="232" sent="1" para="1" offset="670" length="1"><![CDATA[6]]></wf>
+  </text>
+  <terms>
+    <term id="0" lemma="SOCCER">
+      <span>
+        <target id="0"/>
+      </span>
+    </term>
+    <term id="1" lemma="-">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="SPANISH">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="FIRST">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="DIVISION">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="RESULT">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="/">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="STANDINGS">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma=".">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="MADRID">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="1996-12-07">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="Result">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="of">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="Saturday">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="'s">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="only">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="Spanish">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="first">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="division">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="match">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma=":">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="Real">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="Madrid">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="2">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="Barcelona">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="0">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="Standings">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="(">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="tabulate">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="under">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="games">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="played">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma=",">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="won">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma=",">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="drawn">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma=",">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="lost">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma=",">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="goals">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="for">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma=",">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="against">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma=",">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="points">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma=")">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma=":">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="Real">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="Madrid">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="16">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="11">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="5">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="0">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="32">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="12">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="38">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="Barcelona">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="16">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="10">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="4">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="2">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="46">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="21">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="34">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="Deportivo">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="Coruna">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="15">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="9">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="6">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="0">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="23">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="7">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="33">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="Real">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="Betis">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="15">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="8">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="5">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="2">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="28">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="13">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="29">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="Atletico">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="Madrid">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="15">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="8">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="3">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="4">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="26">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="17">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="27">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="Athletic">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="Bilbao">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="15">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="7">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="4">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="4">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="28">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="22">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="25">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="Real">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="Sociedad">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="15">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="7">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="3">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="5">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="20">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="18">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="24">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="Valladolid">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="15">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="7">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="3">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="5">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="19">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="18">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="24">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="Racing">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="Santander">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="15">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="5">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="7">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="3">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="15">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="15">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="22">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="Rayo">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="Vallecano">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="15">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="5">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="5">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="5">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="21">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="19">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="20">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="Valencia">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="15">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="6">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="2">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="7">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="23">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="22">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="20">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="Celta">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="Vigo">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="15">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="5">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="5">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="5">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="17">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="17">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="20">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="Tenerife">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma="15">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="5">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="4">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="6">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="23">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="17">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="19">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="Espanyol">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="15">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="4">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="4">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="7">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="17">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="20">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="16">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="Oviedo">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="15">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="4">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="4">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma="7">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="17">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="21">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma="16">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="Sporting">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma="Gijon">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="15">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="4">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="4">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="7">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="15">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="22">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma="16">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="Logrones">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma="15">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="4">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma="3">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="8">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma="11">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma="33">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="15">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma="Zaragoza">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma="15">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma="2">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma="8">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="5">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma="18">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma="23">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma="14">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+    <term id="201" lemma="Sevilla">
+      <span>
+        <target id="201"/>
+      </span>
+    </term>
+    <term id="202" lemma="15">
+      <span>
+        <target id="202"/>
+      </span>
+    </term>
+    <term id="203" lemma="4">
+      <span>
+        <target id="203"/>
+      </span>
+    </term>
+    <term id="204" lemma="2">
+      <span>
+        <target id="204"/>
+      </span>
+    </term>
+    <term id="205" lemma="9">
+      <span>
+        <target id="205"/>
+      </span>
+    </term>
+    <term id="206" lemma="13">
+      <span>
+        <target id="206"/>
+      </span>
+    </term>
+    <term id="207" lemma="20">
+      <span>
+        <target id="207"/>
+      </span>
+    </term>
+    <term id="208" lemma="14">
+      <span>
+        <target id="208"/>
+      </span>
+    </term>
+    <term id="209" lemma="Compostela">
+      <span>
+        <target id="209"/>
+      </span>
+    </term>
+    <term id="210" lemma="15">
+      <span>
+        <target id="210"/>
+      </span>
+    </term>
+    <term id="211" lemma="3">
+      <span>
+        <target id="211"/>
+      </span>
+    </term>
+    <term id="212" lemma="4">
+      <span>
+        <target id="212"/>
+      </span>
+    </term>
+    <term id="213" lemma="8">
+      <span>
+        <target id="213"/>
+      </span>
+    </term>
+    <term id="214" lemma="13">
+      <span>
+        <target id="214"/>
+      </span>
+    </term>
+    <term id="215" lemma="28">
+      <span>
+        <target id="215"/>
+      </span>
+    </term>
+    <term id="216" lemma="13">
+      <span>
+        <target id="216"/>
+      </span>
+    </term>
+    <term id="217" lemma="Hercules">
+      <span>
+        <target id="217"/>
+      </span>
+    </term>
+    <term id="218" lemma="15">
+      <span>
+        <target id="218"/>
+      </span>
+    </term>
+    <term id="219" lemma="2">
+      <span>
+        <target id="219"/>
+      </span>
+    </term>
+    <term id="220" lemma="2">
+      <span>
+        <target id="220"/>
+      </span>
+    </term>
+    <term id="221" lemma="11">
+      <span>
+        <target id="221"/>
+      </span>
+    </term>
+    <term id="222" lemma="11">
+      <span>
+        <target id="222"/>
+      </span>
+    </term>
+    <term id="223" lemma="29">
+      <span>
+        <target id="223"/>
+      </span>
+    </term>
+    <term id="224" lemma="8">
+      <span>
+        <target id="224"/>
+      </span>
+    </term>
+    <term id="225" lemma="Extremadura">
+      <span>
+        <target id="225"/>
+      </span>
+    </term>
+    <term id="226" lemma="15">
+      <span>
+        <target id="226"/>
+      </span>
+    </term>
+    <term id="227" lemma="1">
+      <span>
+        <target id="227"/>
+      </span>
+    </term>
+    <term id="228" lemma="3">
+      <span>
+        <target id="228"/>
+      </span>
+    </term>
+    <term id="229" lemma="11">
+      <span>
+        <target id="229"/>
+      </span>
+    </term>
+    <term id="230" lemma="8">
+      <span>
+        <target id="230"/>
+      </span>
+    </term>
+    <term id="231" lemma="30">
+      <span>
+        <target id="231"/>
+      </span>
+    </term>
+    <term id="232" lemma="6">
+      <span>
+        <target id="232"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="5561">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Spain" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="2"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5562">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Madrid" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5563">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Spain" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="16"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5564">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Real_Madrid_C.F." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="21"/>
+          <target id="22"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5565">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/FC_Barcelona" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="24"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5566">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Real_Madrid_C.F." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="47"/>
+          <target id="48"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5567">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/FC_Barcelona" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="56"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5568">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="64"/>
+          <target id="65"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5569">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Real_Betis" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="73"/>
+          <target id="74"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5570">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="82"/>
+          <target id="83"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5571">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Athletic_Bilbao" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="91"/>
+          <target id="92"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5572">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Real_Sociedad" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="100"/>
+          <target id="101"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5573">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Real_Valladolid" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="109"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5574">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Racing_de_Santander" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="117"/>
+          <target id="118"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5575">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Rayo_Vallecano" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="126"/>
+          <target id="127"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5576">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Valencia_CF" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="135"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5577">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Celta_de_Vigo" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="143"/>
+          <target id="144"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5578">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/CD_Tenerife" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="152"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5579">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/RCD_Espanyol" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="160"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5580">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Real_Oviedo" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="168"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5581">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="176"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5582">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="185"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5583">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Real_Zaragoza" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="193"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5584">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Sevilla_FC" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="201"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5585">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/SD_Compostela" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="209"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5586">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="217"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5587">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/CF_Extremadura" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="225"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

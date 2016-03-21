@@ -1,0 +1,1227 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[U.S. barges lightly quoted on call session . ST. LOUIS 1996-12-06 U.S. barge rates were lightly quoted Friday on the St. Louis Merchants Exchange call session . No barges traded versus no trades Thursday . - Two barges next week Illinois bid at a steady 130 percent of tariff , offered at 135 percent . - One barge , week of December 15 , lower Ohio bid 2-1/2 points higher at 105 percent , no offer . Two barges , week of January 5 , Illinois , offered five points lower at 195 percent , bid at 150 percent . - Five barges , 30-day open , mid-Mississippi ( McGregor and south ) bid at 160 percent , offered at 170 percent , no comparisons . - 36 barges , two each week May-August , Illinois , offered at 130 percent of tariff , no bid or comparison . - 36 barges , two each week May-August , mid-Mississippi offered at a steady 135 percent , bid at 120 percent ( basis one each week ) . -- Chicago newsdesk 312-408 8720 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1281testb" filename="1281testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="2" sent="1" para="1" offset="4" length="6"><![CDATA[barges]]></wf>
+    <wf id="3" sent="1" para="1" offset="10" length="7"><![CDATA[lightly]]></wf>
+    <wf id="4" sent="1" para="1" offset="17" length="6"><![CDATA[quoted]]></wf>
+    <wf id="5" sent="1" para="1" offset="23" length="2"><![CDATA[on]]></wf>
+    <wf id="6" sent="1" para="1" offset="25" length="4"><![CDATA[call]]></wf>
+    <wf id="7" sent="1" para="1" offset="29" length="7"><![CDATA[session]]></wf>
+    <wf id="8" sent="1" para="1" offset="36" length="1"><![CDATA[.]]></wf>
+    <wf id="9" sent="1" para="1" offset="37" length="3"><![CDATA[ST.]]></wf>
+    <wf id="10" sent="1" para="1" offset="40" length="5"><![CDATA[LOUIS]]></wf>
+    <wf id="11" sent="1" para="1" offset="45" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="12" sent="1" para="1" offset="55" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="13" sent="1" para="1" offset="59" length="5"><![CDATA[barge]]></wf>
+    <wf id="14" sent="1" para="1" offset="64" length="5"><![CDATA[rates]]></wf>
+    <wf id="15" sent="1" para="1" offset="69" length="4"><![CDATA[were]]></wf>
+    <wf id="16" sent="1" para="1" offset="73" length="7"><![CDATA[lightly]]></wf>
+    <wf id="17" sent="1" para="1" offset="80" length="6"><![CDATA[quoted]]></wf>
+    <wf id="18" sent="1" para="1" offset="86" length="6"><![CDATA[Friday]]></wf>
+    <wf id="19" sent="1" para="1" offset="92" length="2"><![CDATA[on]]></wf>
+    <wf id="20" sent="1" para="1" offset="94" length="3"><![CDATA[the]]></wf>
+    <wf id="21" sent="1" para="1" offset="97" length="3"><![CDATA[St.]]></wf>
+    <wf id="22" sent="1" para="1" offset="100" length="5"><![CDATA[Louis]]></wf>
+    <wf id="23" sent="1" para="1" offset="105" length="9"><![CDATA[Merchants]]></wf>
+    <wf id="24" sent="1" para="1" offset="114" length="8"><![CDATA[Exchange]]></wf>
+    <wf id="25" sent="1" para="1" offset="122" length="4"><![CDATA[call]]></wf>
+    <wf id="26" sent="1" para="1" offset="126" length="7"><![CDATA[session]]></wf>
+    <wf id="27" sent="1" para="1" offset="133" length="1"><![CDATA[.]]></wf>
+    <wf id="28" sent="1" para="1" offset="134" length="2"><![CDATA[No]]></wf>
+    <wf id="29" sent="1" para="1" offset="136" length="6"><![CDATA[barges]]></wf>
+    <wf id="30" sent="1" para="1" offset="142" length="6"><![CDATA[traded]]></wf>
+    <wf id="31" sent="1" para="1" offset="148" length="6"><![CDATA[versus]]></wf>
+    <wf id="32" sent="1" para="1" offset="154" length="2"><![CDATA[no]]></wf>
+    <wf id="33" sent="1" para="1" offset="156" length="6"><![CDATA[trades]]></wf>
+    <wf id="34" sent="1" para="1" offset="162" length="8"><![CDATA[Thursday]]></wf>
+    <wf id="35" sent="1" para="1" offset="170" length="1"><![CDATA[.]]></wf>
+    <wf id="36" sent="1" para="1" offset="171" length="1"><![CDATA[-]]></wf>
+    <wf id="37" sent="1" para="1" offset="172" length="3"><![CDATA[Two]]></wf>
+    <wf id="38" sent="1" para="1" offset="175" length="6"><![CDATA[barges]]></wf>
+    <wf id="39" sent="1" para="1" offset="181" length="4"><![CDATA[next]]></wf>
+    <wf id="40" sent="1" para="1" offset="185" length="4"><![CDATA[week]]></wf>
+    <wf id="41" sent="1" para="1" offset="189" length="8"><![CDATA[Illinois]]></wf>
+    <wf id="42" sent="1" para="1" offset="197" length="3"><![CDATA[bid]]></wf>
+    <wf id="43" sent="1" para="1" offset="200" length="2"><![CDATA[at]]></wf>
+    <wf id="44" sent="1" para="1" offset="202" length="1"><![CDATA[a]]></wf>
+    <wf id="45" sent="1" para="1" offset="203" length="6"><![CDATA[steady]]></wf>
+    <wf id="46" sent="1" para="1" offset="209" length="3"><![CDATA[130]]></wf>
+    <wf id="47" sent="1" para="1" offset="212" length="7"><![CDATA[percent]]></wf>
+    <wf id="48" sent="1" para="1" offset="219" length="2"><![CDATA[of]]></wf>
+    <wf id="49" sent="1" para="1" offset="221" length="6"><![CDATA[tariff]]></wf>
+    <wf id="50" sent="1" para="1" offset="227" length="1"><![CDATA[,]]></wf>
+    <wf id="51" sent="1" para="1" offset="228" length="7"><![CDATA[offered]]></wf>
+    <wf id="52" sent="1" para="1" offset="235" length="2"><![CDATA[at]]></wf>
+    <wf id="53" sent="1" para="1" offset="237" length="3"><![CDATA[135]]></wf>
+    <wf id="54" sent="1" para="1" offset="240" length="7"><![CDATA[percent]]></wf>
+    <wf id="55" sent="1" para="1" offset="247" length="1"><![CDATA[.]]></wf>
+    <wf id="56" sent="1" para="1" offset="248" length="1"><![CDATA[-]]></wf>
+    <wf id="57" sent="1" para="1" offset="249" length="3"><![CDATA[One]]></wf>
+    <wf id="58" sent="1" para="1" offset="252" length="5"><![CDATA[barge]]></wf>
+    <wf id="59" sent="1" para="1" offset="257" length="1"><![CDATA[,]]></wf>
+    <wf id="60" sent="1" para="1" offset="258" length="4"><![CDATA[week]]></wf>
+    <wf id="61" sent="1" para="1" offset="262" length="2"><![CDATA[of]]></wf>
+    <wf id="62" sent="1" para="1" offset="264" length="8"><![CDATA[December]]></wf>
+    <wf id="63" sent="1" para="1" offset="272" length="2"><![CDATA[15]]></wf>
+    <wf id="64" sent="1" para="1" offset="274" length="1"><![CDATA[,]]></wf>
+    <wf id="65" sent="1" para="1" offset="275" length="5"><![CDATA[lower]]></wf>
+    <wf id="66" sent="1" para="1" offset="280" length="4"><![CDATA[Ohio]]></wf>
+    <wf id="67" sent="1" para="1" offset="284" length="3"><![CDATA[bid]]></wf>
+    <wf id="68" sent="1" para="1" offset="287" length="5"><![CDATA[2-1/2]]></wf>
+    <wf id="69" sent="1" para="1" offset="292" length="6"><![CDATA[points]]></wf>
+    <wf id="70" sent="1" para="1" offset="298" length="6"><![CDATA[higher]]></wf>
+    <wf id="71" sent="1" para="1" offset="304" length="2"><![CDATA[at]]></wf>
+    <wf id="72" sent="1" para="1" offset="306" length="3"><![CDATA[105]]></wf>
+    <wf id="73" sent="1" para="1" offset="309" length="7"><![CDATA[percent]]></wf>
+    <wf id="74" sent="1" para="1" offset="316" length="1"><![CDATA[,]]></wf>
+    <wf id="75" sent="1" para="1" offset="317" length="2"><![CDATA[no]]></wf>
+    <wf id="76" sent="1" para="1" offset="319" length="5"><![CDATA[offer]]></wf>
+    <wf id="77" sent="1" para="1" offset="324" length="1"><![CDATA[.]]></wf>
+    <wf id="78" sent="1" para="1" offset="325" length="3"><![CDATA[Two]]></wf>
+    <wf id="79" sent="1" para="1" offset="328" length="6"><![CDATA[barges]]></wf>
+    <wf id="80" sent="1" para="1" offset="334" length="1"><![CDATA[,]]></wf>
+    <wf id="81" sent="1" para="1" offset="335" length="4"><![CDATA[week]]></wf>
+    <wf id="82" sent="1" para="1" offset="339" length="2"><![CDATA[of]]></wf>
+    <wf id="83" sent="1" para="1" offset="341" length="7"><![CDATA[January]]></wf>
+    <wf id="84" sent="1" para="1" offset="348" length="1"><![CDATA[5]]></wf>
+    <wf id="85" sent="1" para="1" offset="349" length="1"><![CDATA[,]]></wf>
+    <wf id="86" sent="1" para="1" offset="350" length="8"><![CDATA[Illinois]]></wf>
+    <wf id="87" sent="1" para="1" offset="358" length="1"><![CDATA[,]]></wf>
+    <wf id="88" sent="1" para="1" offset="359" length="7"><![CDATA[offered]]></wf>
+    <wf id="89" sent="1" para="1" offset="366" length="4"><![CDATA[five]]></wf>
+    <wf id="90" sent="1" para="1" offset="370" length="6"><![CDATA[points]]></wf>
+    <wf id="91" sent="1" para="1" offset="376" length="5"><![CDATA[lower]]></wf>
+    <wf id="92" sent="1" para="1" offset="381" length="2"><![CDATA[at]]></wf>
+    <wf id="93" sent="1" para="1" offset="383" length="3"><![CDATA[195]]></wf>
+    <wf id="94" sent="1" para="1" offset="386" length="7"><![CDATA[percent]]></wf>
+    <wf id="95" sent="1" para="1" offset="393" length="1"><![CDATA[,]]></wf>
+    <wf id="96" sent="1" para="1" offset="394" length="3"><![CDATA[bid]]></wf>
+    <wf id="97" sent="1" para="1" offset="397" length="2"><![CDATA[at]]></wf>
+    <wf id="98" sent="1" para="1" offset="399" length="3"><![CDATA[150]]></wf>
+    <wf id="99" sent="1" para="1" offset="402" length="7"><![CDATA[percent]]></wf>
+    <wf id="100" sent="1" para="1" offset="409" length="1"><![CDATA[.]]></wf>
+    <wf id="101" sent="1" para="1" offset="410" length="1"><![CDATA[-]]></wf>
+    <wf id="102" sent="1" para="1" offset="411" length="4"><![CDATA[Five]]></wf>
+    <wf id="103" sent="1" para="1" offset="415" length="6"><![CDATA[barges]]></wf>
+    <wf id="104" sent="1" para="1" offset="421" length="1"><![CDATA[,]]></wf>
+    <wf id="105" sent="1" para="1" offset="422" length="6"><![CDATA[30-day]]></wf>
+    <wf id="106" sent="1" para="1" offset="428" length="4"><![CDATA[open]]></wf>
+    <wf id="107" sent="1" para="1" offset="432" length="1"><![CDATA[,]]></wf>
+    <wf id="108" sent="1" para="1" offset="433" length="15"><![CDATA[mid-Mississippi]]></wf>
+    <wf id="109" sent="1" para="1" offset="448" length="1"><![CDATA[(]]></wf>
+    <wf id="110" sent="1" para="1" offset="449" length="8"><![CDATA[McGregor]]></wf>
+    <wf id="111" sent="1" para="1" offset="457" length="3"><![CDATA[and]]></wf>
+    <wf id="112" sent="1" para="1" offset="460" length="5"><![CDATA[south]]></wf>
+    <wf id="113" sent="1" para="1" offset="465" length="1"><![CDATA[)]]></wf>
+    <wf id="114" sent="1" para="1" offset="466" length="3"><![CDATA[bid]]></wf>
+    <wf id="115" sent="1" para="1" offset="469" length="2"><![CDATA[at]]></wf>
+    <wf id="116" sent="1" para="1" offset="471" length="3"><![CDATA[160]]></wf>
+    <wf id="117" sent="1" para="1" offset="474" length="7"><![CDATA[percent]]></wf>
+    <wf id="118" sent="1" para="1" offset="481" length="1"><![CDATA[,]]></wf>
+    <wf id="119" sent="1" para="1" offset="482" length="7"><![CDATA[offered]]></wf>
+    <wf id="120" sent="1" para="1" offset="489" length="2"><![CDATA[at]]></wf>
+    <wf id="121" sent="1" para="1" offset="491" length="3"><![CDATA[170]]></wf>
+    <wf id="122" sent="1" para="1" offset="494" length="7"><![CDATA[percent]]></wf>
+    <wf id="123" sent="1" para="1" offset="501" length="1"><![CDATA[,]]></wf>
+    <wf id="124" sent="1" para="1" offset="502" length="2"><![CDATA[no]]></wf>
+    <wf id="125" sent="1" para="1" offset="504" length="11"><![CDATA[comparisons]]></wf>
+    <wf id="126" sent="1" para="1" offset="515" length="1"><![CDATA[.]]></wf>
+    <wf id="127" sent="1" para="1" offset="516" length="1"><![CDATA[-]]></wf>
+    <wf id="128" sent="1" para="1" offset="517" length="2"><![CDATA[36]]></wf>
+    <wf id="129" sent="1" para="1" offset="519" length="6"><![CDATA[barges]]></wf>
+    <wf id="130" sent="1" para="1" offset="525" length="1"><![CDATA[,]]></wf>
+    <wf id="131" sent="1" para="1" offset="526" length="3"><![CDATA[two]]></wf>
+    <wf id="132" sent="1" para="1" offset="529" length="4"><![CDATA[each]]></wf>
+    <wf id="133" sent="1" para="1" offset="533" length="4"><![CDATA[week]]></wf>
+    <wf id="134" sent="1" para="1" offset="537" length="10"><![CDATA[May-August]]></wf>
+    <wf id="135" sent="1" para="1" offset="547" length="1"><![CDATA[,]]></wf>
+    <wf id="136" sent="1" para="1" offset="548" length="8"><![CDATA[Illinois]]></wf>
+    <wf id="137" sent="1" para="1" offset="556" length="1"><![CDATA[,]]></wf>
+    <wf id="138" sent="1" para="1" offset="557" length="7"><![CDATA[offered]]></wf>
+    <wf id="139" sent="1" para="1" offset="564" length="2"><![CDATA[at]]></wf>
+    <wf id="140" sent="1" para="1" offset="566" length="3"><![CDATA[130]]></wf>
+    <wf id="141" sent="1" para="1" offset="569" length="7"><![CDATA[percent]]></wf>
+    <wf id="142" sent="1" para="1" offset="576" length="2"><![CDATA[of]]></wf>
+    <wf id="143" sent="1" para="1" offset="578" length="6"><![CDATA[tariff]]></wf>
+    <wf id="144" sent="1" para="1" offset="584" length="1"><![CDATA[,]]></wf>
+    <wf id="145" sent="1" para="1" offset="585" length="2"><![CDATA[no]]></wf>
+    <wf id="146" sent="1" para="1" offset="587" length="3"><![CDATA[bid]]></wf>
+    <wf id="147" sent="1" para="1" offset="590" length="2"><![CDATA[or]]></wf>
+    <wf id="148" sent="1" para="1" offset="592" length="10"><![CDATA[comparison]]></wf>
+    <wf id="149" sent="1" para="1" offset="602" length="1"><![CDATA[.]]></wf>
+    <wf id="150" sent="1" para="1" offset="603" length="1"><![CDATA[-]]></wf>
+    <wf id="151" sent="1" para="1" offset="604" length="2"><![CDATA[36]]></wf>
+    <wf id="152" sent="1" para="1" offset="606" length="6"><![CDATA[barges]]></wf>
+    <wf id="153" sent="1" para="1" offset="612" length="1"><![CDATA[,]]></wf>
+    <wf id="154" sent="1" para="1" offset="613" length="3"><![CDATA[two]]></wf>
+    <wf id="155" sent="1" para="1" offset="616" length="4"><![CDATA[each]]></wf>
+    <wf id="156" sent="1" para="1" offset="620" length="4"><![CDATA[week]]></wf>
+    <wf id="157" sent="1" para="1" offset="624" length="10"><![CDATA[May-August]]></wf>
+    <wf id="158" sent="1" para="1" offset="634" length="1"><![CDATA[,]]></wf>
+    <wf id="159" sent="1" para="1" offset="635" length="15"><![CDATA[mid-Mississippi]]></wf>
+    <wf id="160" sent="1" para="1" offset="650" length="7"><![CDATA[offered]]></wf>
+    <wf id="161" sent="1" para="1" offset="657" length="2"><![CDATA[at]]></wf>
+    <wf id="162" sent="1" para="1" offset="659" length="1"><![CDATA[a]]></wf>
+    <wf id="163" sent="1" para="1" offset="660" length="6"><![CDATA[steady]]></wf>
+    <wf id="164" sent="1" para="1" offset="666" length="3"><![CDATA[135]]></wf>
+    <wf id="165" sent="1" para="1" offset="669" length="7"><![CDATA[percent]]></wf>
+    <wf id="166" sent="1" para="1" offset="676" length="1"><![CDATA[,]]></wf>
+    <wf id="167" sent="1" para="1" offset="677" length="3"><![CDATA[bid]]></wf>
+    <wf id="168" sent="1" para="1" offset="680" length="2"><![CDATA[at]]></wf>
+    <wf id="169" sent="1" para="1" offset="682" length="3"><![CDATA[120]]></wf>
+    <wf id="170" sent="1" para="1" offset="685" length="7"><![CDATA[percent]]></wf>
+    <wf id="171" sent="1" para="1" offset="692" length="1"><![CDATA[(]]></wf>
+    <wf id="172" sent="1" para="1" offset="693" length="5"><![CDATA[basis]]></wf>
+    <wf id="173" sent="1" para="1" offset="698" length="3"><![CDATA[one]]></wf>
+    <wf id="174" sent="1" para="1" offset="701" length="4"><![CDATA[each]]></wf>
+    <wf id="175" sent="1" para="1" offset="705" length="4"><![CDATA[week]]></wf>
+    <wf id="176" sent="1" para="1" offset="709" length="1"><![CDATA[)]]></wf>
+    <wf id="177" sent="1" para="1" offset="710" length="1"><![CDATA[.]]></wf>
+    <wf id="178" sent="1" para="1" offset="711" length="2"><![CDATA[--]]></wf>
+    <wf id="179" sent="1" para="1" offset="713" length="7"><![CDATA[Chicago]]></wf>
+    <wf id="180" sent="1" para="1" offset="720" length="8"><![CDATA[newsdesk]]></wf>
+    <wf id="181" sent="1" para="1" offset="728" length="7"><![CDATA[312-408]]></wf>
+    <wf id="182" sent="1" para="1" offset="735" length="4"><![CDATA[8720]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="U.S.">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="barges">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="lightly">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="quoted">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="on">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="call">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="session">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma=".">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="ST.">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="LOUIS">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="1996-12-06">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="U.S.">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="barge">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="rates">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="were">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="lightly">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="quoted">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="Friday">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="on">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="the">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="St.">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="Louis">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="Merchants">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="Exchange">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="call">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="session">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma=".">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="No">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="barges">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="traded">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="versus">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="no">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="trades">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="Thursday">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma=".">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="-">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="Two">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="barges">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="next">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="week">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="Illinois">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="bid">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="at">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="a">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="steady">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="130">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="percent">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="of">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="tariff">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma=",">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="offered">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="at">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="135">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="percent">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma=".">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="-">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="One">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="barge">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma=",">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="week">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="of">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="December">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="15">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma=",">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="lower">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="Ohio">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="bid">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="2-1/2">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="points">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="higher">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="at">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="105">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="percent">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma=",">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="no">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="offer">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma=".">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="Two">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="barges">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma=",">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="week">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="of">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="January">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="5">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma=",">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="Illinois">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma=",">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="offered">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="five">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="points">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="lower">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="at">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="195">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="percent">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma=",">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="bid">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="at">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="150">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="percent">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma=".">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="-">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="Five">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="barges">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma=",">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="30-day">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="open">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma=",">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="mid-Mississippi">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="(">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="McGregor">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="and">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="south">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma=")">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="bid">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="at">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="160">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="percent">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma=",">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="offered">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="at">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="170">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="percent">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma=",">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="no">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="comparisons">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma=".">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="-">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="36">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="barges">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma=",">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="two">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="each">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="week">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="May-August">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma=",">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="Illinois">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma=",">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="offered">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="at">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="130">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="percent">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="of">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="tariff">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma=",">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="no">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="bid">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="or">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="comparison">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma=".">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="-">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="36">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="barges">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma=",">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="two">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="each">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="week">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="May-August">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma=",">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="mid-Mississippi">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="offered">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="at">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="a">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="steady">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="135">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="percent">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma=",">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="bid">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="at">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="120">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="percent">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="(">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma="basis">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="one">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="each">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma="week">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma=")">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma=".">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="--">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="Chicago">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="newsdesk">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="312-408">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="8720">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="2919">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2920">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/St._Louis,_Missouri" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+          <target id="10"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2921">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="12"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2922">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/St._Louis,_Missouri" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="21"/>
+          <target id="22"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2923">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Illinois" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="41"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2924">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ohio" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="66"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2925">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Illinois" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="86"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2926">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="108"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2927">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="110"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2928">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Illinois" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="136"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2929">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="159"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2930">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chicago" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="179"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

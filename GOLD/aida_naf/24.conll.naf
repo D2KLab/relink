@@ -1,0 +1,2241 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[NHL ICE HOCKEY - STANDINGS AFTER THURSDAY 'S GAMES . NEW YORK 1996-12-06 Standings of National Hockey League teams after games played on Thursday ( tabulate under won , lost , tied , goals for , goals against , points ) : EASTERN CONFERENCE NORTHEAST DIVISION W L T GF GA PTS HARTFORD 12 7 6 77 76 30 BUFFALO 13 12 1 77 76 27 BOSTON 10 11 4 74 84 24 MONTREAL 10 14 4 96 103 24 PITTSBURGH 9 13 3 81 91 21 OTTAWA 7 11 6 62 72 20 ATLANTIC DIVISION W L T GF GA PTS FLORIDA 17 4 6 83 53 40 PHILADELPHIA 14 12 2 75 75 30 NEW JERSEY 14 10 1 61 61 29 WASHINGTON 13 12 1 69 66 27 NY RANGERS 10 13 5 91 81 25 NY ISLANDERS 7 11 8 65 72 22 TAMPA BAY 8 15 2 69 81 18 WESTERN CONFERENCE CENTRAL DIVISION W L T GF GA PTS DETROIT 15 9 4 81 53 34 DALLAS 16 9 1 74 60 33 CHICAGO 12 12 3 71 67 27 ST LOUIS 13 14 0 78 81 26 TORONTO 11 15 0 76 89 22 PHOENIX 9 13 4 61 74 22 PACIFIC DIVISION W L T GF GA PTS COLORADO 17 6 4 97 56 38 VANCOUVER 14 11 1 84 83 29 EDMONTON 13 14 1 94 88 27 LOS ANGELES 11 13 3 72 83 25 SAN JOSE 10 13 4 69 87 24 CALGARY 10 16 2 65 77 22 ANAHEIM 9 14 4 73 86 22 FRIDAY , DECEMBER 6 ANAHEIM AT BUFFALO TORONTO AT NY RANGERS PITTSBURGH AT WASHINGTON MONTREAL AT CHICAGO PHILADELPHIA AT DALLAS ST LOUIS AT COLORADO OTTAWA AT EDMONTON ]]></raw>
+  <nafHeader>
+    <fileDesc title="1186testb" filename="1186testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="3"><![CDATA[NHL]]></wf>
+    <wf id="2" sent="1" para="1" offset="3" length="3"><![CDATA[ICE]]></wf>
+    <wf id="3" sent="1" para="1" offset="6" length="6"><![CDATA[HOCKEY]]></wf>
+    <wf id="4" sent="1" para="1" offset="12" length="1"><![CDATA[-]]></wf>
+    <wf id="5" sent="1" para="1" offset="13" length="9"><![CDATA[STANDINGS]]></wf>
+    <wf id="6" sent="1" para="1" offset="22" length="5"><![CDATA[AFTER]]></wf>
+    <wf id="7" sent="1" para="1" offset="27" length="8"><![CDATA[THURSDAY]]></wf>
+    <wf id="8" sent="1" para="1" offset="35" length="2"><![CDATA['S]]></wf>
+    <wf id="9" sent="1" para="1" offset="37" length="5"><![CDATA[GAMES]]></wf>
+    <wf id="10" sent="1" para="1" offset="42" length="1"><![CDATA[.]]></wf>
+    <wf id="11" sent="1" para="1" offset="43" length="3"><![CDATA[NEW]]></wf>
+    <wf id="12" sent="1" para="1" offset="46" length="4"><![CDATA[YORK]]></wf>
+    <wf id="13" sent="1" para="1" offset="50" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="14" sent="1" para="1" offset="60" length="9"><![CDATA[Standings]]></wf>
+    <wf id="15" sent="1" para="1" offset="69" length="2"><![CDATA[of]]></wf>
+    <wf id="16" sent="1" para="1" offset="71" length="8"><![CDATA[National]]></wf>
+    <wf id="17" sent="1" para="1" offset="79" length="6"><![CDATA[Hockey]]></wf>
+    <wf id="18" sent="1" para="1" offset="85" length="6"><![CDATA[League]]></wf>
+    <wf id="19" sent="1" para="1" offset="91" length="5"><![CDATA[teams]]></wf>
+    <wf id="20" sent="1" para="1" offset="96" length="5"><![CDATA[after]]></wf>
+    <wf id="21" sent="1" para="1" offset="101" length="5"><![CDATA[games]]></wf>
+    <wf id="22" sent="1" para="1" offset="106" length="6"><![CDATA[played]]></wf>
+    <wf id="23" sent="1" para="1" offset="112" length="2"><![CDATA[on]]></wf>
+    <wf id="24" sent="1" para="1" offset="114" length="8"><![CDATA[Thursday]]></wf>
+    <wf id="25" sent="1" para="1" offset="122" length="1"><![CDATA[(]]></wf>
+    <wf id="26" sent="1" para="1" offset="123" length="8"><![CDATA[tabulate]]></wf>
+    <wf id="27" sent="1" para="1" offset="131" length="5"><![CDATA[under]]></wf>
+    <wf id="28" sent="1" para="1" offset="136" length="3"><![CDATA[won]]></wf>
+    <wf id="29" sent="1" para="1" offset="139" length="1"><![CDATA[,]]></wf>
+    <wf id="30" sent="1" para="1" offset="140" length="4"><![CDATA[lost]]></wf>
+    <wf id="31" sent="1" para="1" offset="144" length="1"><![CDATA[,]]></wf>
+    <wf id="32" sent="1" para="1" offset="145" length="4"><![CDATA[tied]]></wf>
+    <wf id="33" sent="1" para="1" offset="149" length="1"><![CDATA[,]]></wf>
+    <wf id="34" sent="1" para="1" offset="150" length="5"><![CDATA[goals]]></wf>
+    <wf id="35" sent="1" para="1" offset="155" length="3"><![CDATA[for]]></wf>
+    <wf id="36" sent="1" para="1" offset="158" length="1"><![CDATA[,]]></wf>
+    <wf id="37" sent="1" para="1" offset="159" length="5"><![CDATA[goals]]></wf>
+    <wf id="38" sent="1" para="1" offset="164" length="7"><![CDATA[against]]></wf>
+    <wf id="39" sent="1" para="1" offset="171" length="1"><![CDATA[,]]></wf>
+    <wf id="40" sent="1" para="1" offset="172" length="6"><![CDATA[points]]></wf>
+    <wf id="41" sent="1" para="1" offset="178" length="1"><![CDATA[)]]></wf>
+    <wf id="42" sent="1" para="1" offset="179" length="1"><![CDATA[:]]></wf>
+    <wf id="43" sent="1" para="1" offset="180" length="7"><![CDATA[EASTERN]]></wf>
+    <wf id="44" sent="1" para="1" offset="187" length="10"><![CDATA[CONFERENCE]]></wf>
+    <wf id="45" sent="1" para="1" offset="197" length="9"><![CDATA[NORTHEAST]]></wf>
+    <wf id="46" sent="1" para="1" offset="206" length="8"><![CDATA[DIVISION]]></wf>
+    <wf id="47" sent="1" para="1" offset="214" length="1"><![CDATA[W]]></wf>
+    <wf id="48" sent="1" para="1" offset="215" length="1"><![CDATA[L]]></wf>
+    <wf id="49" sent="1" para="1" offset="216" length="1"><![CDATA[T]]></wf>
+    <wf id="50" sent="1" para="1" offset="217" length="2"><![CDATA[GF]]></wf>
+    <wf id="51" sent="1" para="1" offset="219" length="2"><![CDATA[GA]]></wf>
+    <wf id="52" sent="1" para="1" offset="221" length="3"><![CDATA[PTS]]></wf>
+    <wf id="53" sent="1" para="1" offset="224" length="8"><![CDATA[HARTFORD]]></wf>
+    <wf id="54" sent="1" para="1" offset="232" length="2"><![CDATA[12]]></wf>
+    <wf id="55" sent="1" para="1" offset="234" length="1"><![CDATA[7]]></wf>
+    <wf id="56" sent="1" para="1" offset="235" length="1"><![CDATA[6]]></wf>
+    <wf id="57" sent="1" para="1" offset="236" length="2"><![CDATA[77]]></wf>
+    <wf id="58" sent="1" para="1" offset="238" length="2"><![CDATA[76]]></wf>
+    <wf id="59" sent="1" para="1" offset="240" length="2"><![CDATA[30]]></wf>
+    <wf id="60" sent="1" para="1" offset="242" length="7"><![CDATA[BUFFALO]]></wf>
+    <wf id="61" sent="1" para="1" offset="249" length="2"><![CDATA[13]]></wf>
+    <wf id="62" sent="1" para="1" offset="251" length="2"><![CDATA[12]]></wf>
+    <wf id="63" sent="1" para="1" offset="253" length="1"><![CDATA[1]]></wf>
+    <wf id="64" sent="1" para="1" offset="254" length="2"><![CDATA[77]]></wf>
+    <wf id="65" sent="1" para="1" offset="256" length="2"><![CDATA[76]]></wf>
+    <wf id="66" sent="1" para="1" offset="258" length="2"><![CDATA[27]]></wf>
+    <wf id="67" sent="1" para="1" offset="260" length="6"><![CDATA[BOSTON]]></wf>
+    <wf id="68" sent="1" para="1" offset="266" length="2"><![CDATA[10]]></wf>
+    <wf id="69" sent="1" para="1" offset="268" length="2"><![CDATA[11]]></wf>
+    <wf id="70" sent="1" para="1" offset="270" length="1"><![CDATA[4]]></wf>
+    <wf id="71" sent="1" para="1" offset="271" length="2"><![CDATA[74]]></wf>
+    <wf id="72" sent="1" para="1" offset="273" length="2"><![CDATA[84]]></wf>
+    <wf id="73" sent="1" para="1" offset="275" length="2"><![CDATA[24]]></wf>
+    <wf id="74" sent="1" para="1" offset="277" length="8"><![CDATA[MONTREAL]]></wf>
+    <wf id="75" sent="1" para="1" offset="285" length="2"><![CDATA[10]]></wf>
+    <wf id="76" sent="1" para="1" offset="287" length="2"><![CDATA[14]]></wf>
+    <wf id="77" sent="1" para="1" offset="289" length="1"><![CDATA[4]]></wf>
+    <wf id="78" sent="1" para="1" offset="290" length="2"><![CDATA[96]]></wf>
+    <wf id="79" sent="1" para="1" offset="292" length="3"><![CDATA[103]]></wf>
+    <wf id="80" sent="1" para="1" offset="295" length="2"><![CDATA[24]]></wf>
+    <wf id="81" sent="1" para="1" offset="297" length="10"><![CDATA[PITTSBURGH]]></wf>
+    <wf id="82" sent="1" para="1" offset="307" length="1"><![CDATA[9]]></wf>
+    <wf id="83" sent="1" para="1" offset="308" length="2"><![CDATA[13]]></wf>
+    <wf id="84" sent="1" para="1" offset="310" length="1"><![CDATA[3]]></wf>
+    <wf id="85" sent="1" para="1" offset="311" length="2"><![CDATA[81]]></wf>
+    <wf id="86" sent="1" para="1" offset="313" length="2"><![CDATA[91]]></wf>
+    <wf id="87" sent="1" para="1" offset="315" length="2"><![CDATA[21]]></wf>
+    <wf id="88" sent="1" para="1" offset="317" length="6"><![CDATA[OTTAWA]]></wf>
+    <wf id="89" sent="1" para="1" offset="323" length="1"><![CDATA[7]]></wf>
+    <wf id="90" sent="1" para="1" offset="324" length="2"><![CDATA[11]]></wf>
+    <wf id="91" sent="1" para="1" offset="326" length="1"><![CDATA[6]]></wf>
+    <wf id="92" sent="1" para="1" offset="327" length="2"><![CDATA[62]]></wf>
+    <wf id="93" sent="1" para="1" offset="329" length="2"><![CDATA[72]]></wf>
+    <wf id="94" sent="1" para="1" offset="331" length="2"><![CDATA[20]]></wf>
+    <wf id="95" sent="1" para="1" offset="333" length="8"><![CDATA[ATLANTIC]]></wf>
+    <wf id="96" sent="1" para="1" offset="341" length="8"><![CDATA[DIVISION]]></wf>
+    <wf id="97" sent="1" para="1" offset="349" length="1"><![CDATA[W]]></wf>
+    <wf id="98" sent="1" para="1" offset="350" length="1"><![CDATA[L]]></wf>
+    <wf id="99" sent="1" para="1" offset="351" length="1"><![CDATA[T]]></wf>
+    <wf id="100" sent="1" para="1" offset="352" length="2"><![CDATA[GF]]></wf>
+    <wf id="101" sent="1" para="1" offset="354" length="2"><![CDATA[GA]]></wf>
+    <wf id="102" sent="1" para="1" offset="356" length="3"><![CDATA[PTS]]></wf>
+    <wf id="103" sent="1" para="1" offset="359" length="7"><![CDATA[FLORIDA]]></wf>
+    <wf id="104" sent="1" para="1" offset="366" length="2"><![CDATA[17]]></wf>
+    <wf id="105" sent="1" para="1" offset="368" length="1"><![CDATA[4]]></wf>
+    <wf id="106" sent="1" para="1" offset="369" length="1"><![CDATA[6]]></wf>
+    <wf id="107" sent="1" para="1" offset="370" length="2"><![CDATA[83]]></wf>
+    <wf id="108" sent="1" para="1" offset="372" length="2"><![CDATA[53]]></wf>
+    <wf id="109" sent="1" para="1" offset="374" length="2"><![CDATA[40]]></wf>
+    <wf id="110" sent="1" para="1" offset="376" length="12"><![CDATA[PHILADELPHIA]]></wf>
+    <wf id="111" sent="1" para="1" offset="388" length="2"><![CDATA[14]]></wf>
+    <wf id="112" sent="1" para="1" offset="390" length="2"><![CDATA[12]]></wf>
+    <wf id="113" sent="1" para="1" offset="392" length="1"><![CDATA[2]]></wf>
+    <wf id="114" sent="1" para="1" offset="393" length="2"><![CDATA[75]]></wf>
+    <wf id="115" sent="1" para="1" offset="395" length="2"><![CDATA[75]]></wf>
+    <wf id="116" sent="1" para="1" offset="397" length="2"><![CDATA[30]]></wf>
+    <wf id="117" sent="1" para="1" offset="399" length="3"><![CDATA[NEW]]></wf>
+    <wf id="118" sent="1" para="1" offset="402" length="6"><![CDATA[JERSEY]]></wf>
+    <wf id="119" sent="1" para="1" offset="408" length="2"><![CDATA[14]]></wf>
+    <wf id="120" sent="1" para="1" offset="410" length="2"><![CDATA[10]]></wf>
+    <wf id="121" sent="1" para="1" offset="412" length="1"><![CDATA[1]]></wf>
+    <wf id="122" sent="1" para="1" offset="413" length="2"><![CDATA[61]]></wf>
+    <wf id="123" sent="1" para="1" offset="415" length="2"><![CDATA[61]]></wf>
+    <wf id="124" sent="1" para="1" offset="417" length="2"><![CDATA[29]]></wf>
+    <wf id="125" sent="1" para="1" offset="419" length="10"><![CDATA[WASHINGTON]]></wf>
+    <wf id="126" sent="1" para="1" offset="429" length="2"><![CDATA[13]]></wf>
+    <wf id="127" sent="1" para="1" offset="431" length="2"><![CDATA[12]]></wf>
+    <wf id="128" sent="1" para="1" offset="433" length="1"><![CDATA[1]]></wf>
+    <wf id="129" sent="1" para="1" offset="434" length="2"><![CDATA[69]]></wf>
+    <wf id="130" sent="1" para="1" offset="436" length="2"><![CDATA[66]]></wf>
+    <wf id="131" sent="1" para="1" offset="438" length="2"><![CDATA[27]]></wf>
+    <wf id="132" sent="1" para="1" offset="440" length="2"><![CDATA[NY]]></wf>
+    <wf id="133" sent="1" para="1" offset="442" length="7"><![CDATA[RANGERS]]></wf>
+    <wf id="134" sent="1" para="1" offset="449" length="2"><![CDATA[10]]></wf>
+    <wf id="135" sent="1" para="1" offset="451" length="2"><![CDATA[13]]></wf>
+    <wf id="136" sent="1" para="1" offset="453" length="1"><![CDATA[5]]></wf>
+    <wf id="137" sent="1" para="1" offset="454" length="2"><![CDATA[91]]></wf>
+    <wf id="138" sent="1" para="1" offset="456" length="2"><![CDATA[81]]></wf>
+    <wf id="139" sent="1" para="1" offset="458" length="2"><![CDATA[25]]></wf>
+    <wf id="140" sent="1" para="1" offset="460" length="2"><![CDATA[NY]]></wf>
+    <wf id="141" sent="1" para="1" offset="462" length="9"><![CDATA[ISLANDERS]]></wf>
+    <wf id="142" sent="1" para="1" offset="471" length="1"><![CDATA[7]]></wf>
+    <wf id="143" sent="1" para="1" offset="472" length="2"><![CDATA[11]]></wf>
+    <wf id="144" sent="1" para="1" offset="474" length="1"><![CDATA[8]]></wf>
+    <wf id="145" sent="1" para="1" offset="475" length="2"><![CDATA[65]]></wf>
+    <wf id="146" sent="1" para="1" offset="477" length="2"><![CDATA[72]]></wf>
+    <wf id="147" sent="1" para="1" offset="479" length="2"><![CDATA[22]]></wf>
+    <wf id="148" sent="1" para="1" offset="481" length="5"><![CDATA[TAMPA]]></wf>
+    <wf id="149" sent="1" para="1" offset="486" length="3"><![CDATA[BAY]]></wf>
+    <wf id="150" sent="1" para="1" offset="489" length="1"><![CDATA[8]]></wf>
+    <wf id="151" sent="1" para="1" offset="490" length="2"><![CDATA[15]]></wf>
+    <wf id="152" sent="1" para="1" offset="492" length="1"><![CDATA[2]]></wf>
+    <wf id="153" sent="1" para="1" offset="493" length="2"><![CDATA[69]]></wf>
+    <wf id="154" sent="1" para="1" offset="495" length="2"><![CDATA[81]]></wf>
+    <wf id="155" sent="1" para="1" offset="497" length="2"><![CDATA[18]]></wf>
+    <wf id="156" sent="1" para="1" offset="499" length="7"><![CDATA[WESTERN]]></wf>
+    <wf id="157" sent="1" para="1" offset="506" length="10"><![CDATA[CONFERENCE]]></wf>
+    <wf id="158" sent="1" para="1" offset="516" length="7"><![CDATA[CENTRAL]]></wf>
+    <wf id="159" sent="1" para="1" offset="523" length="8"><![CDATA[DIVISION]]></wf>
+    <wf id="160" sent="1" para="1" offset="531" length="1"><![CDATA[W]]></wf>
+    <wf id="161" sent="1" para="1" offset="532" length="1"><![CDATA[L]]></wf>
+    <wf id="162" sent="1" para="1" offset="533" length="1"><![CDATA[T]]></wf>
+    <wf id="163" sent="1" para="1" offset="534" length="2"><![CDATA[GF]]></wf>
+    <wf id="164" sent="1" para="1" offset="536" length="2"><![CDATA[GA]]></wf>
+    <wf id="165" sent="1" para="1" offset="538" length="3"><![CDATA[PTS]]></wf>
+    <wf id="166" sent="1" para="1" offset="541" length="7"><![CDATA[DETROIT]]></wf>
+    <wf id="167" sent="1" para="1" offset="548" length="2"><![CDATA[15]]></wf>
+    <wf id="168" sent="1" para="1" offset="550" length="1"><![CDATA[9]]></wf>
+    <wf id="169" sent="1" para="1" offset="551" length="1"><![CDATA[4]]></wf>
+    <wf id="170" sent="1" para="1" offset="552" length="2"><![CDATA[81]]></wf>
+    <wf id="171" sent="1" para="1" offset="554" length="2"><![CDATA[53]]></wf>
+    <wf id="172" sent="1" para="1" offset="556" length="2"><![CDATA[34]]></wf>
+    <wf id="173" sent="1" para="1" offset="558" length="6"><![CDATA[DALLAS]]></wf>
+    <wf id="174" sent="1" para="1" offset="564" length="2"><![CDATA[16]]></wf>
+    <wf id="175" sent="1" para="1" offset="566" length="1"><![CDATA[9]]></wf>
+    <wf id="176" sent="1" para="1" offset="567" length="1"><![CDATA[1]]></wf>
+    <wf id="177" sent="1" para="1" offset="568" length="2"><![CDATA[74]]></wf>
+    <wf id="178" sent="1" para="1" offset="570" length="2"><![CDATA[60]]></wf>
+    <wf id="179" sent="1" para="1" offset="572" length="2"><![CDATA[33]]></wf>
+    <wf id="180" sent="1" para="1" offset="574" length="7"><![CDATA[CHICAGO]]></wf>
+    <wf id="181" sent="1" para="1" offset="581" length="2"><![CDATA[12]]></wf>
+    <wf id="182" sent="1" para="1" offset="583" length="2"><![CDATA[12]]></wf>
+    <wf id="183" sent="1" para="1" offset="585" length="1"><![CDATA[3]]></wf>
+    <wf id="184" sent="1" para="1" offset="586" length="2"><![CDATA[71]]></wf>
+    <wf id="185" sent="1" para="1" offset="588" length="2"><![CDATA[67]]></wf>
+    <wf id="186" sent="1" para="1" offset="590" length="2"><![CDATA[27]]></wf>
+    <wf id="187" sent="1" para="1" offset="592" length="2"><![CDATA[ST]]></wf>
+    <wf id="188" sent="1" para="1" offset="594" length="5"><![CDATA[LOUIS]]></wf>
+    <wf id="189" sent="1" para="1" offset="599" length="2"><![CDATA[13]]></wf>
+    <wf id="190" sent="1" para="1" offset="601" length="2"><![CDATA[14]]></wf>
+    <wf id="191" sent="1" para="1" offset="603" length="1"><![CDATA[0]]></wf>
+    <wf id="192" sent="1" para="1" offset="604" length="2"><![CDATA[78]]></wf>
+    <wf id="193" sent="1" para="1" offset="606" length="2"><![CDATA[81]]></wf>
+    <wf id="194" sent="1" para="1" offset="608" length="2"><![CDATA[26]]></wf>
+    <wf id="195" sent="1" para="1" offset="610" length="7"><![CDATA[TORONTO]]></wf>
+    <wf id="196" sent="1" para="1" offset="617" length="2"><![CDATA[11]]></wf>
+    <wf id="197" sent="1" para="1" offset="619" length="2"><![CDATA[15]]></wf>
+    <wf id="198" sent="1" para="1" offset="621" length="1"><![CDATA[0]]></wf>
+    <wf id="199" sent="1" para="1" offset="622" length="2"><![CDATA[76]]></wf>
+    <wf id="200" sent="1" para="1" offset="624" length="2"><![CDATA[89]]></wf>
+    <wf id="201" sent="1" para="1" offset="626" length="2"><![CDATA[22]]></wf>
+    <wf id="202" sent="1" para="1" offset="628" length="7"><![CDATA[PHOENIX]]></wf>
+    <wf id="203" sent="1" para="1" offset="635" length="1"><![CDATA[9]]></wf>
+    <wf id="204" sent="1" para="1" offset="636" length="2"><![CDATA[13]]></wf>
+    <wf id="205" sent="1" para="1" offset="638" length="1"><![CDATA[4]]></wf>
+    <wf id="206" sent="1" para="1" offset="639" length="2"><![CDATA[61]]></wf>
+    <wf id="207" sent="1" para="1" offset="641" length="2"><![CDATA[74]]></wf>
+    <wf id="208" sent="1" para="1" offset="643" length="2"><![CDATA[22]]></wf>
+    <wf id="209" sent="1" para="1" offset="645" length="7"><![CDATA[PACIFIC]]></wf>
+    <wf id="210" sent="1" para="1" offset="652" length="8"><![CDATA[DIVISION]]></wf>
+    <wf id="211" sent="1" para="1" offset="660" length="1"><![CDATA[W]]></wf>
+    <wf id="212" sent="1" para="1" offset="661" length="1"><![CDATA[L]]></wf>
+    <wf id="213" sent="1" para="1" offset="662" length="1"><![CDATA[T]]></wf>
+    <wf id="214" sent="1" para="1" offset="663" length="2"><![CDATA[GF]]></wf>
+    <wf id="215" sent="1" para="1" offset="665" length="2"><![CDATA[GA]]></wf>
+    <wf id="216" sent="1" para="1" offset="667" length="3"><![CDATA[PTS]]></wf>
+    <wf id="217" sent="1" para="1" offset="670" length="8"><![CDATA[COLORADO]]></wf>
+    <wf id="218" sent="1" para="1" offset="678" length="2"><![CDATA[17]]></wf>
+    <wf id="219" sent="1" para="1" offset="680" length="1"><![CDATA[6]]></wf>
+    <wf id="220" sent="1" para="1" offset="681" length="1"><![CDATA[4]]></wf>
+    <wf id="221" sent="1" para="1" offset="682" length="2"><![CDATA[97]]></wf>
+    <wf id="222" sent="1" para="1" offset="684" length="2"><![CDATA[56]]></wf>
+    <wf id="223" sent="1" para="1" offset="686" length="2"><![CDATA[38]]></wf>
+    <wf id="224" sent="1" para="1" offset="688" length="9"><![CDATA[VANCOUVER]]></wf>
+    <wf id="225" sent="1" para="1" offset="697" length="2"><![CDATA[14]]></wf>
+    <wf id="226" sent="1" para="1" offset="699" length="2"><![CDATA[11]]></wf>
+    <wf id="227" sent="1" para="1" offset="701" length="1"><![CDATA[1]]></wf>
+    <wf id="228" sent="1" para="1" offset="702" length="2"><![CDATA[84]]></wf>
+    <wf id="229" sent="1" para="1" offset="704" length="2"><![CDATA[83]]></wf>
+    <wf id="230" sent="1" para="1" offset="706" length="2"><![CDATA[29]]></wf>
+    <wf id="231" sent="1" para="1" offset="708" length="8"><![CDATA[EDMONTON]]></wf>
+    <wf id="232" sent="1" para="1" offset="716" length="2"><![CDATA[13]]></wf>
+    <wf id="233" sent="1" para="1" offset="718" length="2"><![CDATA[14]]></wf>
+    <wf id="234" sent="1" para="1" offset="720" length="1"><![CDATA[1]]></wf>
+    <wf id="235" sent="1" para="1" offset="721" length="2"><![CDATA[94]]></wf>
+    <wf id="236" sent="1" para="1" offset="723" length="2"><![CDATA[88]]></wf>
+    <wf id="237" sent="1" para="1" offset="725" length="2"><![CDATA[27]]></wf>
+    <wf id="238" sent="1" para="1" offset="727" length="3"><![CDATA[LOS]]></wf>
+    <wf id="239" sent="1" para="1" offset="730" length="7"><![CDATA[ANGELES]]></wf>
+    <wf id="240" sent="1" para="1" offset="737" length="2"><![CDATA[11]]></wf>
+    <wf id="241" sent="1" para="1" offset="739" length="2"><![CDATA[13]]></wf>
+    <wf id="242" sent="1" para="1" offset="741" length="1"><![CDATA[3]]></wf>
+    <wf id="243" sent="1" para="1" offset="742" length="2"><![CDATA[72]]></wf>
+    <wf id="244" sent="1" para="1" offset="744" length="2"><![CDATA[83]]></wf>
+    <wf id="245" sent="1" para="1" offset="746" length="2"><![CDATA[25]]></wf>
+    <wf id="246" sent="1" para="1" offset="748" length="3"><![CDATA[SAN]]></wf>
+    <wf id="247" sent="1" para="1" offset="751" length="4"><![CDATA[JOSE]]></wf>
+    <wf id="248" sent="1" para="1" offset="755" length="2"><![CDATA[10]]></wf>
+    <wf id="249" sent="1" para="1" offset="757" length="2"><![CDATA[13]]></wf>
+    <wf id="250" sent="1" para="1" offset="759" length="1"><![CDATA[4]]></wf>
+    <wf id="251" sent="1" para="1" offset="760" length="2"><![CDATA[69]]></wf>
+    <wf id="252" sent="1" para="1" offset="762" length="2"><![CDATA[87]]></wf>
+    <wf id="253" sent="1" para="1" offset="764" length="2"><![CDATA[24]]></wf>
+    <wf id="254" sent="1" para="1" offset="766" length="7"><![CDATA[CALGARY]]></wf>
+    <wf id="255" sent="1" para="1" offset="773" length="2"><![CDATA[10]]></wf>
+    <wf id="256" sent="1" para="1" offset="775" length="2"><![CDATA[16]]></wf>
+    <wf id="257" sent="1" para="1" offset="777" length="1"><![CDATA[2]]></wf>
+    <wf id="258" sent="1" para="1" offset="778" length="2"><![CDATA[65]]></wf>
+    <wf id="259" sent="1" para="1" offset="780" length="2"><![CDATA[77]]></wf>
+    <wf id="260" sent="1" para="1" offset="782" length="2"><![CDATA[22]]></wf>
+    <wf id="261" sent="1" para="1" offset="784" length="7"><![CDATA[ANAHEIM]]></wf>
+    <wf id="262" sent="1" para="1" offset="791" length="1"><![CDATA[9]]></wf>
+    <wf id="263" sent="1" para="1" offset="792" length="2"><![CDATA[14]]></wf>
+    <wf id="264" sent="1" para="1" offset="794" length="1"><![CDATA[4]]></wf>
+    <wf id="265" sent="1" para="1" offset="795" length="2"><![CDATA[73]]></wf>
+    <wf id="266" sent="1" para="1" offset="797" length="2"><![CDATA[86]]></wf>
+    <wf id="267" sent="1" para="1" offset="799" length="2"><![CDATA[22]]></wf>
+    <wf id="268" sent="1" para="1" offset="801" length="6"><![CDATA[FRIDAY]]></wf>
+    <wf id="269" sent="1" para="1" offset="807" length="1"><![CDATA[,]]></wf>
+    <wf id="270" sent="1" para="1" offset="808" length="8"><![CDATA[DECEMBER]]></wf>
+    <wf id="271" sent="1" para="1" offset="816" length="1"><![CDATA[6]]></wf>
+    <wf id="272" sent="1" para="1" offset="817" length="7"><![CDATA[ANAHEIM]]></wf>
+    <wf id="273" sent="1" para="1" offset="824" length="2"><![CDATA[AT]]></wf>
+    <wf id="274" sent="1" para="1" offset="826" length="7"><![CDATA[BUFFALO]]></wf>
+    <wf id="275" sent="1" para="1" offset="833" length="7"><![CDATA[TORONTO]]></wf>
+    <wf id="276" sent="1" para="1" offset="840" length="2"><![CDATA[AT]]></wf>
+    <wf id="277" sent="1" para="1" offset="842" length="2"><![CDATA[NY]]></wf>
+    <wf id="278" sent="1" para="1" offset="844" length="7"><![CDATA[RANGERS]]></wf>
+    <wf id="279" sent="1" para="1" offset="851" length="10"><![CDATA[PITTSBURGH]]></wf>
+    <wf id="280" sent="1" para="1" offset="861" length="2"><![CDATA[AT]]></wf>
+    <wf id="281" sent="1" para="1" offset="863" length="10"><![CDATA[WASHINGTON]]></wf>
+    <wf id="282" sent="1" para="1" offset="873" length="8"><![CDATA[MONTREAL]]></wf>
+    <wf id="283" sent="1" para="1" offset="881" length="2"><![CDATA[AT]]></wf>
+    <wf id="284" sent="1" para="1" offset="883" length="7"><![CDATA[CHICAGO]]></wf>
+    <wf id="285" sent="1" para="1" offset="890" length="12"><![CDATA[PHILADELPHIA]]></wf>
+    <wf id="286" sent="1" para="1" offset="902" length="2"><![CDATA[AT]]></wf>
+    <wf id="287" sent="1" para="1" offset="904" length="6"><![CDATA[DALLAS]]></wf>
+    <wf id="288" sent="1" para="1" offset="910" length="2"><![CDATA[ST]]></wf>
+    <wf id="289" sent="1" para="1" offset="912" length="5"><![CDATA[LOUIS]]></wf>
+    <wf id="290" sent="1" para="1" offset="917" length="2"><![CDATA[AT]]></wf>
+    <wf id="291" sent="1" para="1" offset="919" length="8"><![CDATA[COLORADO]]></wf>
+    <wf id="292" sent="1" para="1" offset="927" length="6"><![CDATA[OTTAWA]]></wf>
+    <wf id="293" sent="1" para="1" offset="933" length="2"><![CDATA[AT]]></wf>
+    <wf id="294" sent="1" para="1" offset="935" length="8"><![CDATA[EDMONTON]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="NHL">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="ICE">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="HOCKEY">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="-">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="STANDINGS">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="AFTER">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="THURSDAY">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="'S">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="GAMES">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma=".">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="NEW">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="YORK">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="1996-12-06">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="Standings">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="of">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="National">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="Hockey">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="League">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="teams">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="after">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="games">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="played">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="on">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="Thursday">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="(">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="tabulate">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="under">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="won">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma=",">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="lost">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma=",">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="tied">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma=",">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="goals">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="for">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma=",">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="goals">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="against">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma=",">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="points">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma=")">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma=":">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="EASTERN">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="CONFERENCE">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="NORTHEAST">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="DIVISION">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="W">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="L">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="T">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="GF">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="GA">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="PTS">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="HARTFORD">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="12">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="7">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="6">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="77">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="76">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="30">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="BUFFALO">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="13">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="12">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="1">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="77">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="76">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="27">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="BOSTON">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="10">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="11">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="4">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="74">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="84">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="24">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="MONTREAL">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="10">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="14">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="4">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="96">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="103">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="24">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="PITTSBURGH">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="9">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="13">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="3">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="81">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="91">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="21">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="OTTAWA">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="7">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="11">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="6">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="62">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="72">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="20">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="ATLANTIC">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="DIVISION">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="W">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="L">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="T">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="GF">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="GA">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="PTS">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="FLORIDA">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="17">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="4">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="6">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="83">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="53">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="40">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="PHILADELPHIA">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="14">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="12">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="2">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="75">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="75">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="30">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="NEW">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="JERSEY">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="14">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="10">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="1">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="61">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="61">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="29">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="WASHINGTON">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="13">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="12">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="1">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="69">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="66">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="27">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="NY">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="RANGERS">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="10">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="13">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="5">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="91">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="81">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="25">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="NY">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="ISLANDERS">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="7">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="11">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="8">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="65">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="72">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="22">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="TAMPA">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="BAY">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="8">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="15">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="2">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma="69">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="81">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="18">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="WESTERN">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="CONFERENCE">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="CENTRAL">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="DIVISION">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="W">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="L">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="T">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="GF">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="GA">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="PTS">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="DETROIT">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="15">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="9">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="4">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="81">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="53">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma="34">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="DALLAS">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="16">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma="9">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="1">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma="74">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="60">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="33">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="CHICAGO">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="12">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="12">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="3">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma="71">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="67">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma="27">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="ST">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma="LOUIS">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="13">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma="14">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma="0">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="78">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma="81">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma="26">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma="TORONTO">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma="11">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="15">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma="0">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma="76">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma="89">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+    <term id="201" lemma="22">
+      <span>
+        <target id="201"/>
+      </span>
+    </term>
+    <term id="202" lemma="PHOENIX">
+      <span>
+        <target id="202"/>
+      </span>
+    </term>
+    <term id="203" lemma="9">
+      <span>
+        <target id="203"/>
+      </span>
+    </term>
+    <term id="204" lemma="13">
+      <span>
+        <target id="204"/>
+      </span>
+    </term>
+    <term id="205" lemma="4">
+      <span>
+        <target id="205"/>
+      </span>
+    </term>
+    <term id="206" lemma="61">
+      <span>
+        <target id="206"/>
+      </span>
+    </term>
+    <term id="207" lemma="74">
+      <span>
+        <target id="207"/>
+      </span>
+    </term>
+    <term id="208" lemma="22">
+      <span>
+        <target id="208"/>
+      </span>
+    </term>
+    <term id="209" lemma="PACIFIC">
+      <span>
+        <target id="209"/>
+      </span>
+    </term>
+    <term id="210" lemma="DIVISION">
+      <span>
+        <target id="210"/>
+      </span>
+    </term>
+    <term id="211" lemma="W">
+      <span>
+        <target id="211"/>
+      </span>
+    </term>
+    <term id="212" lemma="L">
+      <span>
+        <target id="212"/>
+      </span>
+    </term>
+    <term id="213" lemma="T">
+      <span>
+        <target id="213"/>
+      </span>
+    </term>
+    <term id="214" lemma="GF">
+      <span>
+        <target id="214"/>
+      </span>
+    </term>
+    <term id="215" lemma="GA">
+      <span>
+        <target id="215"/>
+      </span>
+    </term>
+    <term id="216" lemma="PTS">
+      <span>
+        <target id="216"/>
+      </span>
+    </term>
+    <term id="217" lemma="COLORADO">
+      <span>
+        <target id="217"/>
+      </span>
+    </term>
+    <term id="218" lemma="17">
+      <span>
+        <target id="218"/>
+      </span>
+    </term>
+    <term id="219" lemma="6">
+      <span>
+        <target id="219"/>
+      </span>
+    </term>
+    <term id="220" lemma="4">
+      <span>
+        <target id="220"/>
+      </span>
+    </term>
+    <term id="221" lemma="97">
+      <span>
+        <target id="221"/>
+      </span>
+    </term>
+    <term id="222" lemma="56">
+      <span>
+        <target id="222"/>
+      </span>
+    </term>
+    <term id="223" lemma="38">
+      <span>
+        <target id="223"/>
+      </span>
+    </term>
+    <term id="224" lemma="VANCOUVER">
+      <span>
+        <target id="224"/>
+      </span>
+    </term>
+    <term id="225" lemma="14">
+      <span>
+        <target id="225"/>
+      </span>
+    </term>
+    <term id="226" lemma="11">
+      <span>
+        <target id="226"/>
+      </span>
+    </term>
+    <term id="227" lemma="1">
+      <span>
+        <target id="227"/>
+      </span>
+    </term>
+    <term id="228" lemma="84">
+      <span>
+        <target id="228"/>
+      </span>
+    </term>
+    <term id="229" lemma="83">
+      <span>
+        <target id="229"/>
+      </span>
+    </term>
+    <term id="230" lemma="29">
+      <span>
+        <target id="230"/>
+      </span>
+    </term>
+    <term id="231" lemma="EDMONTON">
+      <span>
+        <target id="231"/>
+      </span>
+    </term>
+    <term id="232" lemma="13">
+      <span>
+        <target id="232"/>
+      </span>
+    </term>
+    <term id="233" lemma="14">
+      <span>
+        <target id="233"/>
+      </span>
+    </term>
+    <term id="234" lemma="1">
+      <span>
+        <target id="234"/>
+      </span>
+    </term>
+    <term id="235" lemma="94">
+      <span>
+        <target id="235"/>
+      </span>
+    </term>
+    <term id="236" lemma="88">
+      <span>
+        <target id="236"/>
+      </span>
+    </term>
+    <term id="237" lemma="27">
+      <span>
+        <target id="237"/>
+      </span>
+    </term>
+    <term id="238" lemma="LOS">
+      <span>
+        <target id="238"/>
+      </span>
+    </term>
+    <term id="239" lemma="ANGELES">
+      <span>
+        <target id="239"/>
+      </span>
+    </term>
+    <term id="240" lemma="11">
+      <span>
+        <target id="240"/>
+      </span>
+    </term>
+    <term id="241" lemma="13">
+      <span>
+        <target id="241"/>
+      </span>
+    </term>
+    <term id="242" lemma="3">
+      <span>
+        <target id="242"/>
+      </span>
+    </term>
+    <term id="243" lemma="72">
+      <span>
+        <target id="243"/>
+      </span>
+    </term>
+    <term id="244" lemma="83">
+      <span>
+        <target id="244"/>
+      </span>
+    </term>
+    <term id="245" lemma="25">
+      <span>
+        <target id="245"/>
+      </span>
+    </term>
+    <term id="246" lemma="SAN">
+      <span>
+        <target id="246"/>
+      </span>
+    </term>
+    <term id="247" lemma="JOSE">
+      <span>
+        <target id="247"/>
+      </span>
+    </term>
+    <term id="248" lemma="10">
+      <span>
+        <target id="248"/>
+      </span>
+    </term>
+    <term id="249" lemma="13">
+      <span>
+        <target id="249"/>
+      </span>
+    </term>
+    <term id="250" lemma="4">
+      <span>
+        <target id="250"/>
+      </span>
+    </term>
+    <term id="251" lemma="69">
+      <span>
+        <target id="251"/>
+      </span>
+    </term>
+    <term id="252" lemma="87">
+      <span>
+        <target id="252"/>
+      </span>
+    </term>
+    <term id="253" lemma="24">
+      <span>
+        <target id="253"/>
+      </span>
+    </term>
+    <term id="254" lemma="CALGARY">
+      <span>
+        <target id="254"/>
+      </span>
+    </term>
+    <term id="255" lemma="10">
+      <span>
+        <target id="255"/>
+      </span>
+    </term>
+    <term id="256" lemma="16">
+      <span>
+        <target id="256"/>
+      </span>
+    </term>
+    <term id="257" lemma="2">
+      <span>
+        <target id="257"/>
+      </span>
+    </term>
+    <term id="258" lemma="65">
+      <span>
+        <target id="258"/>
+      </span>
+    </term>
+    <term id="259" lemma="77">
+      <span>
+        <target id="259"/>
+      </span>
+    </term>
+    <term id="260" lemma="22">
+      <span>
+        <target id="260"/>
+      </span>
+    </term>
+    <term id="261" lemma="ANAHEIM">
+      <span>
+        <target id="261"/>
+      </span>
+    </term>
+    <term id="262" lemma="9">
+      <span>
+        <target id="262"/>
+      </span>
+    </term>
+    <term id="263" lemma="14">
+      <span>
+        <target id="263"/>
+      </span>
+    </term>
+    <term id="264" lemma="4">
+      <span>
+        <target id="264"/>
+      </span>
+    </term>
+    <term id="265" lemma="73">
+      <span>
+        <target id="265"/>
+      </span>
+    </term>
+    <term id="266" lemma="86">
+      <span>
+        <target id="266"/>
+      </span>
+    </term>
+    <term id="267" lemma="22">
+      <span>
+        <target id="267"/>
+      </span>
+    </term>
+    <term id="268" lemma="FRIDAY">
+      <span>
+        <target id="268"/>
+      </span>
+    </term>
+    <term id="269" lemma=",">
+      <span>
+        <target id="269"/>
+      </span>
+    </term>
+    <term id="270" lemma="DECEMBER">
+      <span>
+        <target id="270"/>
+      </span>
+    </term>
+    <term id="271" lemma="6">
+      <span>
+        <target id="271"/>
+      </span>
+    </term>
+    <term id="272" lemma="ANAHEIM">
+      <span>
+        <target id="272"/>
+      </span>
+    </term>
+    <term id="273" lemma="AT">
+      <span>
+        <target id="273"/>
+      </span>
+    </term>
+    <term id="274" lemma="BUFFALO">
+      <span>
+        <target id="274"/>
+      </span>
+    </term>
+    <term id="275" lemma="TORONTO">
+      <span>
+        <target id="275"/>
+      </span>
+    </term>
+    <term id="276" lemma="AT">
+      <span>
+        <target id="276"/>
+      </span>
+    </term>
+    <term id="277" lemma="NY">
+      <span>
+        <target id="277"/>
+      </span>
+    </term>
+    <term id="278" lemma="RANGERS">
+      <span>
+        <target id="278"/>
+      </span>
+    </term>
+    <term id="279" lemma="PITTSBURGH">
+      <span>
+        <target id="279"/>
+      </span>
+    </term>
+    <term id="280" lemma="AT">
+      <span>
+        <target id="280"/>
+      </span>
+    </term>
+    <term id="281" lemma="WASHINGTON">
+      <span>
+        <target id="281"/>
+      </span>
+    </term>
+    <term id="282" lemma="MONTREAL">
+      <span>
+        <target id="282"/>
+      </span>
+    </term>
+    <term id="283" lemma="AT">
+      <span>
+        <target id="283"/>
+      </span>
+    </term>
+    <term id="284" lemma="CHICAGO">
+      <span>
+        <target id="284"/>
+      </span>
+    </term>
+    <term id="285" lemma="PHILADELPHIA">
+      <span>
+        <target id="285"/>
+      </span>
+    </term>
+    <term id="286" lemma="AT">
+      <span>
+        <target id="286"/>
+      </span>
+    </term>
+    <term id="287" lemma="DALLAS">
+      <span>
+        <target id="287"/>
+      </span>
+    </term>
+    <term id="288" lemma="ST">
+      <span>
+        <target id="288"/>
+      </span>
+    </term>
+    <term id="289" lemma="LOUIS">
+      <span>
+        <target id="289"/>
+      </span>
+    </term>
+    <term id="290" lemma="AT">
+      <span>
+        <target id="290"/>
+      </span>
+    </term>
+    <term id="291" lemma="COLORADO">
+      <span>
+        <target id="291"/>
+      </span>
+    </term>
+    <term id="292" lemma="OTTAWA">
+      <span>
+        <target id="292"/>
+      </span>
+    </term>
+    <term id="293" lemma="AT">
+      <span>
+        <target id="293"/>
+      </span>
+    </term>
+    <term id="294" lemma="EDMONTON">
+      <span>
+        <target id="294"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="810">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/National_Hockey_League" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="811">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_York" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+          <target id="12"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="812">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/National_Hockey_League" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="16"/>
+          <target id="17"/>
+          <target id="18"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="813">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Hartford_Whalers" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="53"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="814">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Buffalo_Sabres" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="60"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="815">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Boston_Bruins" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="67"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="816">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Montreal" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="74"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="817">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pittsburgh_Penguins" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="81"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="818">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ottawa_67's" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="88"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="819">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Atlantic_Division_(NHL)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="95"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="820">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Florida_Panthers" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="103"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="821">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Philadelphia_Flyers" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="110"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="822">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_Jersey_Devils" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="117"/>
+          <target id="118"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="823">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Washington_Capitals" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="125"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="824">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_York_Rangers" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="132"/>
+          <target id="133"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="825">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/New_York_Islanders" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="140"/>
+          <target id="141"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="826">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Tampa_Bay_Lightning" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="148"/>
+          <target id="149"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="827">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Central_Division_(NHL)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="158"/>
+          <target id="159"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="828">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Detroit_Red_Wings" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="166"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="829">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dallas_Stars" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="173"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="830">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chicago_Blackhawks" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="180"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="831">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/St._Louis_Blues_(ice_hockey)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="187"/>
+          <target id="188"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="832">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Toronto_Maple_Leafs" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="195"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="833">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Phoenix_Coyotes" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="202"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="834">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Pacific_Division_(NHL)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="209"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="835">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Colorado_Avalanche" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="217"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="836">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Vancouver" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="224"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="837">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Edmonton_Oilers" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="231"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="838">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Los_Angeles" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="238"/>
+          <target id="239"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="839">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/San_Jose_Sharks" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="246"/>
+          <target id="247"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="840">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Calgary_Flames" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="254"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="841">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Anaheim_Ducks" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="261"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="842">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Anaheim_Ducks" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="272"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="843">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Buffalo_Sabres" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="274"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="844">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Toronto" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="275"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="845">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="277"/>
+          <target id="278"/>
+          <target id="279"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="846">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Washington_Capitals" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="281"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="847">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Montreal_Canadiens" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="282"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="848">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Chicago_Blackhawks" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="284"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="849">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Philadelphia_Flyers" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="285"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="850">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dallas" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="287"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="851">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/St._Louis_Blues_(ice_hockey)" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="288"/>
+          <target id="289"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="852">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Colorado_Avalanche" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="291"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="853">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Ottawa_67's" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="292"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="854">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Edmonton_Oilers" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="294"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

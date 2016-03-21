@@ -1,0 +1,753 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[OPEC basket price $ 24.20 on Thursday . LONDON 1996-12-06 The price of the OPEC basket of seven crudes stood at $ 24.20 a barrel on Thursday , against $ 23.47 on Wednesday , the OPECNA news agency said , quoting the OPEC secretariat . The basket comprises Algeria 's Saharan Blend , Indonesia 's Minas , Nigeria 's Bonny Light , Saudi Arabia 's Arabian Light , Dubai of the UAE , Venezuela 's Tia Juana and Mexico 's Isthmus . -- London Newsroom +44 171 542 7630 ]]></raw>
+  <nafHeader>
+    <fileDesc title="1300testb" filename="1300testb"/>
+  </nafHeader>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="4"><![CDATA[OPEC]]></wf>
+    <wf id="2" sent="1" para="1" offset="4" length="6"><![CDATA[basket]]></wf>
+    <wf id="3" sent="1" para="1" offset="10" length="5"><![CDATA[price]]></wf>
+    <wf id="4" sent="1" para="1" offset="15" length="1"><![CDATA[$]]></wf>
+    <wf id="5" sent="1" para="1" offset="16" length="5"><![CDATA[24.20]]></wf>
+    <wf id="6" sent="1" para="1" offset="21" length="2"><![CDATA[on]]></wf>
+    <wf id="7" sent="1" para="1" offset="23" length="8"><![CDATA[Thursday]]></wf>
+    <wf id="8" sent="1" para="1" offset="31" length="1"><![CDATA[.]]></wf>
+    <wf id="9" sent="1" para="1" offset="32" length="6"><![CDATA[LONDON]]></wf>
+    <wf id="10" sent="1" para="1" offset="38" length="10"><![CDATA[1996-12-06]]></wf>
+    <wf id="11" sent="1" para="1" offset="48" length="3"><![CDATA[The]]></wf>
+    <wf id="12" sent="1" para="1" offset="51" length="5"><![CDATA[price]]></wf>
+    <wf id="13" sent="1" para="1" offset="56" length="2"><![CDATA[of]]></wf>
+    <wf id="14" sent="1" para="1" offset="58" length="3"><![CDATA[the]]></wf>
+    <wf id="15" sent="1" para="1" offset="61" length="4"><![CDATA[OPEC]]></wf>
+    <wf id="16" sent="1" para="1" offset="65" length="6"><![CDATA[basket]]></wf>
+    <wf id="17" sent="1" para="1" offset="71" length="2"><![CDATA[of]]></wf>
+    <wf id="18" sent="1" para="1" offset="73" length="5"><![CDATA[seven]]></wf>
+    <wf id="19" sent="1" para="1" offset="78" length="6"><![CDATA[crudes]]></wf>
+    <wf id="20" sent="1" para="1" offset="84" length="5"><![CDATA[stood]]></wf>
+    <wf id="21" sent="1" para="1" offset="89" length="2"><![CDATA[at]]></wf>
+    <wf id="22" sent="1" para="1" offset="91" length="1"><![CDATA[$]]></wf>
+    <wf id="23" sent="1" para="1" offset="92" length="5"><![CDATA[24.20]]></wf>
+    <wf id="24" sent="1" para="1" offset="97" length="1"><![CDATA[a]]></wf>
+    <wf id="25" sent="1" para="1" offset="98" length="6"><![CDATA[barrel]]></wf>
+    <wf id="26" sent="1" para="1" offset="104" length="2"><![CDATA[on]]></wf>
+    <wf id="27" sent="1" para="1" offset="106" length="8"><![CDATA[Thursday]]></wf>
+    <wf id="28" sent="1" para="1" offset="114" length="1"><![CDATA[,]]></wf>
+    <wf id="29" sent="1" para="1" offset="115" length="7"><![CDATA[against]]></wf>
+    <wf id="30" sent="1" para="1" offset="122" length="1"><![CDATA[$]]></wf>
+    <wf id="31" sent="1" para="1" offset="123" length="5"><![CDATA[23.47]]></wf>
+    <wf id="32" sent="1" para="1" offset="128" length="2"><![CDATA[on]]></wf>
+    <wf id="33" sent="1" para="1" offset="130" length="9"><![CDATA[Wednesday]]></wf>
+    <wf id="34" sent="1" para="1" offset="139" length="1"><![CDATA[,]]></wf>
+    <wf id="35" sent="1" para="1" offset="140" length="3"><![CDATA[the]]></wf>
+    <wf id="36" sent="1" para="1" offset="143" length="6"><![CDATA[OPECNA]]></wf>
+    <wf id="37" sent="1" para="1" offset="149" length="4"><![CDATA[news]]></wf>
+    <wf id="38" sent="1" para="1" offset="153" length="6"><![CDATA[agency]]></wf>
+    <wf id="39" sent="1" para="1" offset="159" length="4"><![CDATA[said]]></wf>
+    <wf id="40" sent="1" para="1" offset="163" length="1"><![CDATA[,]]></wf>
+    <wf id="41" sent="1" para="1" offset="164" length="7"><![CDATA[quoting]]></wf>
+    <wf id="42" sent="1" para="1" offset="171" length="3"><![CDATA[the]]></wf>
+    <wf id="43" sent="1" para="1" offset="174" length="4"><![CDATA[OPEC]]></wf>
+    <wf id="44" sent="1" para="1" offset="178" length="11"><![CDATA[secretariat]]></wf>
+    <wf id="45" sent="1" para="1" offset="189" length="1"><![CDATA[.]]></wf>
+    <wf id="46" sent="1" para="1" offset="190" length="3"><![CDATA[The]]></wf>
+    <wf id="47" sent="1" para="1" offset="193" length="6"><![CDATA[basket]]></wf>
+    <wf id="48" sent="1" para="1" offset="199" length="9"><![CDATA[comprises]]></wf>
+    <wf id="49" sent="1" para="1" offset="208" length="7"><![CDATA[Algeria]]></wf>
+    <wf id="50" sent="1" para="1" offset="215" length="2"><![CDATA['s]]></wf>
+    <wf id="51" sent="1" para="1" offset="217" length="7"><![CDATA[Saharan]]></wf>
+    <wf id="52" sent="1" para="1" offset="224" length="5"><![CDATA[Blend]]></wf>
+    <wf id="53" sent="1" para="1" offset="229" length="1"><![CDATA[,]]></wf>
+    <wf id="54" sent="1" para="1" offset="230" length="9"><![CDATA[Indonesia]]></wf>
+    <wf id="55" sent="1" para="1" offset="239" length="2"><![CDATA['s]]></wf>
+    <wf id="56" sent="1" para="1" offset="241" length="5"><![CDATA[Minas]]></wf>
+    <wf id="57" sent="1" para="1" offset="246" length="1"><![CDATA[,]]></wf>
+    <wf id="58" sent="1" para="1" offset="247" length="7"><![CDATA[Nigeria]]></wf>
+    <wf id="59" sent="1" para="1" offset="254" length="2"><![CDATA['s]]></wf>
+    <wf id="60" sent="1" para="1" offset="256" length="5"><![CDATA[Bonny]]></wf>
+    <wf id="61" sent="1" para="1" offset="261" length="5"><![CDATA[Light]]></wf>
+    <wf id="62" sent="1" para="1" offset="266" length="1"><![CDATA[,]]></wf>
+    <wf id="63" sent="1" para="1" offset="267" length="5"><![CDATA[Saudi]]></wf>
+    <wf id="64" sent="1" para="1" offset="272" length="6"><![CDATA[Arabia]]></wf>
+    <wf id="65" sent="1" para="1" offset="278" length="2"><![CDATA['s]]></wf>
+    <wf id="66" sent="1" para="1" offset="280" length="7"><![CDATA[Arabian]]></wf>
+    <wf id="67" sent="1" para="1" offset="287" length="5"><![CDATA[Light]]></wf>
+    <wf id="68" sent="1" para="1" offset="292" length="1"><![CDATA[,]]></wf>
+    <wf id="69" sent="1" para="1" offset="293" length="5"><![CDATA[Dubai]]></wf>
+    <wf id="70" sent="1" para="1" offset="298" length="2"><![CDATA[of]]></wf>
+    <wf id="71" sent="1" para="1" offset="300" length="3"><![CDATA[the]]></wf>
+    <wf id="72" sent="1" para="1" offset="303" length="3"><![CDATA[UAE]]></wf>
+    <wf id="73" sent="1" para="1" offset="306" length="1"><![CDATA[,]]></wf>
+    <wf id="74" sent="1" para="1" offset="307" length="9"><![CDATA[Venezuela]]></wf>
+    <wf id="75" sent="1" para="1" offset="316" length="2"><![CDATA['s]]></wf>
+    <wf id="76" sent="1" para="1" offset="318" length="3"><![CDATA[Tia]]></wf>
+    <wf id="77" sent="1" para="1" offset="321" length="5"><![CDATA[Juana]]></wf>
+    <wf id="78" sent="1" para="1" offset="326" length="3"><![CDATA[and]]></wf>
+    <wf id="79" sent="1" para="1" offset="329" length="6"><![CDATA[Mexico]]></wf>
+    <wf id="80" sent="1" para="1" offset="335" length="2"><![CDATA['s]]></wf>
+    <wf id="81" sent="1" para="1" offset="337" length="7"><![CDATA[Isthmus]]></wf>
+    <wf id="82" sent="1" para="1" offset="344" length="1"><![CDATA[.]]></wf>
+    <wf id="83" sent="1" para="1" offset="345" length="2"><![CDATA[--]]></wf>
+    <wf id="84" sent="1" para="1" offset="347" length="6"><![CDATA[London]]></wf>
+    <wf id="85" sent="1" para="1" offset="353" length="8"><![CDATA[Newsroom]]></wf>
+    <wf id="86" sent="1" para="1" offset="361" length="3"><![CDATA[+44]]></wf>
+    <wf id="87" sent="1" para="1" offset="364" length="3"><![CDATA[171]]></wf>
+    <wf id="88" sent="1" para="1" offset="367" length="3"><![CDATA[542]]></wf>
+    <wf id="89" sent="1" para="1" offset="370" length="4"><![CDATA[7630]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="OPEC">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="basket">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="price">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="$">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="24.20">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="on">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="Thursday">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma=".">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="LONDON">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="1996-12-06">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="The">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="price">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="of">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="the">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="OPEC">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="basket">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="of">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="seven">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="crudes">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="stood">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="at">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="$">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="24.20">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="a">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="barrel">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="on">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="Thursday">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma=",">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="against">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="$">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="23.47">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="on">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="Wednesday">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma=",">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="the">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="OPECNA">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="news">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="agency">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="said">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma=",">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="quoting">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="the">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="OPEC">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="secretariat">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma=".">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="The">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="basket">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="comprises">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="Algeria">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="'s">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="Saharan">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="Blend">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma=",">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="Indonesia">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="'s">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="Minas">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma=",">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="Nigeria">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="'s">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="Bonny">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="Light">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma=",">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="Saudi">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="Arabia">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="'s">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="Arabian">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="Light">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma=",">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="Dubai">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="of">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="the">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="UAE">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma=",">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="Venezuela">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="'s">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="Tia">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="Juana">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="and">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="Mexico">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="'s">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="Isthmus">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma=".">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="--">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="London">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="Newsroom">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="+44">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="171">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="542">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="7630">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="3180">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/OPEC" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3181">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/London" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3182">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/OPEC" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="15"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3183">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="36"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3184">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/OPEC" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="43"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3185">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Algeria" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="49"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3186">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="51"/>
+          <target id="52"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3187">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Indonesia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="54"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3188">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="56"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3189">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Nigeria" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="58"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3190">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="60"/>
+          <target id="61"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3191">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Saudi_Arabia" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="63"/>
+          <target id="64"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3192">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="66"/>
+          <target id="67"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3193">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Dubai" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="69"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3194">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/United_Arab_Emirates" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="72"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3195">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Venezuela" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="74"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3196">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="76"/>
+          <target id="77"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3197">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Mexico" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="79"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3198">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" reference="http://en.wikipedia.org/wiki/Isthmus_of_Tehuantepec" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="81"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3199">
+      <externalReferences>
+        <externalRef resource="GoldStandardAnnotation" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="84"/>
+          <target id="85"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+</NAF>

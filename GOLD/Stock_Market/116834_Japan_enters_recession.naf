@@ -1,0 +1,1716 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[ Japan enters recession November 18 , 2008 Japan , which accounts for 7 % of world output , has entered a recession after posting two consecutive quarters of negative growth . The Japanese economy contracted by 0.9 % between April and June and a further 0.1 % since September . Kaoru Yosano , the Japanese minister of fiscal policy , said `` The downtrend in the economy will continue for the time being as global growth slows down . We need to bear in mind that economic conditions could worsen further as the US and European financial crisis deepens , worries of economic downturn heighten and stock and foreign exchange markets make big swings . '' The Nikkei 225 stock index has fallen 40 % since the beginning of the year , and has lost a quarter of its value during this month . After the news was announced the index dipped , then rose to close up 0.7 % . Japanese companies lose large sums whenever the yen 's value surges . With the yen viewed as relatively stable during financial turmoil , the value against the US dollar has risen greatly . JPMorgan Chase economist Masamichi Adachi said , `` It 's only going to get worse . Japan may be entering its deepest recession in a decade as the global financial crisis cools demand . '' Japan has not been in recession since 2001 .]]></raw>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="5"><![CDATA[Japan]]></wf>
+    <wf id="2" sent="1" para="1" offset="5" length="6"><![CDATA[enters]]></wf>
+    <wf id="3" sent="1" para="1" offset="11" length="9"><![CDATA[recession]]></wf>
+    <wf id="4" sent="2" para="1" offset="20" length="8"><![CDATA[November]]></wf>
+    <wf id="5" sent="2" para="1" offset="28" length="2"><![CDATA[18]]></wf>
+    <wf id="6" sent="2" para="1" offset="30" length="1"><![CDATA[,]]></wf>
+    <wf id="7" sent="2" para="1" offset="31" length="4"><![CDATA[2008]]></wf>
+    <wf id="8" sent="3" para="1" offset="35" length="5"><![CDATA[Japan]]></wf>
+    <wf id="9" sent="3" para="1" offset="40" length="1"><![CDATA[,]]></wf>
+    <wf id="10" sent="3" para="1" offset="41" length="5"><![CDATA[which]]></wf>
+    <wf id="11" sent="3" para="1" offset="46" length="8"><![CDATA[accounts]]></wf>
+    <wf id="12" sent="3" para="1" offset="54" length="3"><![CDATA[for]]></wf>
+    <wf id="13" sent="3" para="1" offset="57" length="1"><![CDATA[7]]></wf>
+    <wf id="14" sent="3" para="1" offset="58" length="1"><![CDATA[%]]></wf>
+    <wf id="15" sent="3" para="1" offset="59" length="2"><![CDATA[of]]></wf>
+    <wf id="16" sent="3" para="1" offset="61" length="5"><![CDATA[world]]></wf>
+    <wf id="17" sent="3" para="1" offset="66" length="6"><![CDATA[output]]></wf>
+    <wf id="18" sent="3" para="1" offset="72" length="1"><![CDATA[,]]></wf>
+    <wf id="19" sent="3" para="1" offset="73" length="3"><![CDATA[has]]></wf>
+    <wf id="20" sent="3" para="1" offset="76" length="7"><![CDATA[entered]]></wf>
+    <wf id="21" sent="3" para="1" offset="83" length="1"><![CDATA[a]]></wf>
+    <wf id="22" sent="3" para="1" offset="84" length="9"><![CDATA[recession]]></wf>
+    <wf id="23" sent="3" para="1" offset="93" length="5"><![CDATA[after]]></wf>
+    <wf id="24" sent="3" para="1" offset="98" length="7"><![CDATA[posting]]></wf>
+    <wf id="25" sent="3" para="1" offset="105" length="3"><![CDATA[two]]></wf>
+    <wf id="26" sent="3" para="1" offset="108" length="11"><![CDATA[consecutive]]></wf>
+    <wf id="27" sent="3" para="1" offset="119" length="8"><![CDATA[quarters]]></wf>
+    <wf id="28" sent="3" para="1" offset="127" length="2"><![CDATA[of]]></wf>
+    <wf id="29" sent="3" para="1" offset="129" length="8"><![CDATA[negative]]></wf>
+    <wf id="30" sent="3" para="1" offset="137" length="6"><![CDATA[growth]]></wf>
+    <wf id="31" sent="3" para="1" offset="143" length="1"><![CDATA[.]]></wf>
+    <wf id="32" sent="4" para="1" offset="144" length="3"><![CDATA[The]]></wf>
+    <wf id="33" sent="4" para="1" offset="147" length="8"><![CDATA[Japanese]]></wf>
+    <wf id="34" sent="4" para="1" offset="155" length="7"><![CDATA[economy]]></wf>
+    <wf id="35" sent="4" para="1" offset="162" length="10"><![CDATA[contracted]]></wf>
+    <wf id="36" sent="4" para="1" offset="172" length="2"><![CDATA[by]]></wf>
+    <wf id="37" sent="4" para="1" offset="174" length="3"><![CDATA[0.9]]></wf>
+    <wf id="38" sent="4" para="1" offset="177" length="1"><![CDATA[%]]></wf>
+    <wf id="39" sent="4" para="1" offset="178" length="7"><![CDATA[between]]></wf>
+    <wf id="40" sent="4" para="1" offset="185" length="5"><![CDATA[April]]></wf>
+    <wf id="41" sent="4" para="1" offset="190" length="3"><![CDATA[and]]></wf>
+    <wf id="42" sent="4" para="1" offset="193" length="4"><![CDATA[June]]></wf>
+    <wf id="43" sent="4" para="1" offset="197" length="3"><![CDATA[and]]></wf>
+    <wf id="44" sent="4" para="1" offset="200" length="1"><![CDATA[a]]></wf>
+    <wf id="45" sent="4" para="1" offset="201" length="7"><![CDATA[further]]></wf>
+    <wf id="46" sent="4" para="1" offset="208" length="3"><![CDATA[0.1]]></wf>
+    <wf id="47" sent="4" para="1" offset="211" length="1"><![CDATA[%]]></wf>
+    <wf id="48" sent="4" para="1" offset="212" length="5"><![CDATA[since]]></wf>
+    <wf id="49" sent="4" para="1" offset="217" length="9"><![CDATA[September]]></wf>
+    <wf id="50" sent="4" para="1" offset="226" length="1"><![CDATA[.]]></wf>
+    <wf id="51" sent="5" para="1" offset="227" length="5"><![CDATA[Kaoru]]></wf>
+    <wf id="52" sent="5" para="1" offset="232" length="6"><![CDATA[Yosano]]></wf>
+    <wf id="53" sent="5" para="1" offset="238" length="1"><![CDATA[,]]></wf>
+    <wf id="54" sent="5" para="1" offset="239" length="3"><![CDATA[the]]></wf>
+    <wf id="55" sent="5" para="1" offset="242" length="8"><![CDATA[Japanese]]></wf>
+    <wf id="56" sent="5" para="1" offset="250" length="8"><![CDATA[minister]]></wf>
+    <wf id="57" sent="5" para="1" offset="258" length="2"><![CDATA[of]]></wf>
+    <wf id="58" sent="5" para="1" offset="260" length="6"><![CDATA[fiscal]]></wf>
+    <wf id="59" sent="5" para="1" offset="266" length="6"><![CDATA[policy]]></wf>
+    <wf id="60" sent="5" para="1" offset="272" length="1"><![CDATA[,]]></wf>
+    <wf id="61" sent="5" para="1" offset="273" length="4"><![CDATA[said]]></wf>
+    <wf id="62" sent="5" para="1" offset="277" length="2"><![CDATA[``]]></wf>
+    <wf id="63" sent="5" para="1" offset="279" length="3"><![CDATA[The]]></wf>
+    <wf id="64" sent="5" para="1" offset="282" length="9"><![CDATA[downtrend]]></wf>
+    <wf id="65" sent="5" para="1" offset="291" length="2"><![CDATA[in]]></wf>
+    <wf id="66" sent="5" para="1" offset="293" length="3"><![CDATA[the]]></wf>
+    <wf id="67" sent="5" para="1" offset="296" length="7"><![CDATA[economy]]></wf>
+    <wf id="68" sent="5" para="1" offset="303" length="4"><![CDATA[will]]></wf>
+    <wf id="69" sent="5" para="1" offset="307" length="8"><![CDATA[continue]]></wf>
+    <wf id="70" sent="5" para="1" offset="315" length="3"><![CDATA[for]]></wf>
+    <wf id="71" sent="5" para="1" offset="318" length="3"><![CDATA[the]]></wf>
+    <wf id="72" sent="5" para="1" offset="321" length="4"><![CDATA[time]]></wf>
+    <wf id="73" sent="5" para="1" offset="325" length="5"><![CDATA[being]]></wf>
+    <wf id="74" sent="5" para="1" offset="330" length="2"><![CDATA[as]]></wf>
+    <wf id="75" sent="5" para="1" offset="332" length="6"><![CDATA[global]]></wf>
+    <wf id="76" sent="5" para="1" offset="338" length="6"><![CDATA[growth]]></wf>
+    <wf id="77" sent="5" para="1" offset="344" length="5"><![CDATA[slows]]></wf>
+    <wf id="78" sent="5" para="1" offset="349" length="4"><![CDATA[down]]></wf>
+    <wf id="79" sent="5" para="1" offset="353" length="1"><![CDATA[.]]></wf>
+    <wf id="80" sent="6" para="1" offset="354" length="2"><![CDATA[We]]></wf>
+    <wf id="81" sent="6" para="1" offset="356" length="4"><![CDATA[need]]></wf>
+    <wf id="82" sent="6" para="1" offset="360" length="2"><![CDATA[to]]></wf>
+    <wf id="83" sent="6" para="1" offset="362" length="4"><![CDATA[bear]]></wf>
+    <wf id="84" sent="6" para="1" offset="366" length="2"><![CDATA[in]]></wf>
+    <wf id="85" sent="6" para="1" offset="368" length="4"><![CDATA[mind]]></wf>
+    <wf id="86" sent="6" para="1" offset="372" length="4"><![CDATA[that]]></wf>
+    <wf id="87" sent="6" para="1" offset="376" length="8"><![CDATA[economic]]></wf>
+    <wf id="88" sent="6" para="1" offset="384" length="10"><![CDATA[conditions]]></wf>
+    <wf id="89" sent="6" para="1" offset="394" length="5"><![CDATA[could]]></wf>
+    <wf id="90" sent="6" para="1" offset="399" length="6"><![CDATA[worsen]]></wf>
+    <wf id="91" sent="6" para="1" offset="405" length="7"><![CDATA[further]]></wf>
+    <wf id="92" sent="6" para="1" offset="412" length="2"><![CDATA[as]]></wf>
+    <wf id="93" sent="6" para="1" offset="414" length="3"><![CDATA[the]]></wf>
+    <wf id="94" sent="6" para="1" offset="417" length="2"><![CDATA[US]]></wf>
+    <wf id="95" sent="6" para="1" offset="419" length="3"><![CDATA[and]]></wf>
+    <wf id="96" sent="6" para="1" offset="422" length="8"><![CDATA[European]]></wf>
+    <wf id="97" sent="6" para="1" offset="430" length="9"><![CDATA[financial]]></wf>
+    <wf id="98" sent="6" para="1" offset="439" length="6"><![CDATA[crisis]]></wf>
+    <wf id="99" sent="6" para="1" offset="445" length="7"><![CDATA[deepens]]></wf>
+    <wf id="100" sent="6" para="1" offset="452" length="1"><![CDATA[,]]></wf>
+    <wf id="101" sent="6" para="1" offset="453" length="7"><![CDATA[worries]]></wf>
+    <wf id="102" sent="6" para="1" offset="460" length="2"><![CDATA[of]]></wf>
+    <wf id="103" sent="6" para="1" offset="462" length="8"><![CDATA[economic]]></wf>
+    <wf id="104" sent="6" para="1" offset="470" length="8"><![CDATA[downturn]]></wf>
+    <wf id="105" sent="6" para="1" offset="478" length="8"><![CDATA[heighten]]></wf>
+    <wf id="106" sent="6" para="1" offset="486" length="3"><![CDATA[and]]></wf>
+    <wf id="107" sent="6" para="1" offset="489" length="5"><![CDATA[stock]]></wf>
+    <wf id="108" sent="6" para="1" offset="494" length="3"><![CDATA[and]]></wf>
+    <wf id="109" sent="6" para="1" offset="497" length="7"><![CDATA[foreign]]></wf>
+    <wf id="110" sent="6" para="1" offset="504" length="8"><![CDATA[exchange]]></wf>
+    <wf id="111" sent="6" para="1" offset="512" length="7"><![CDATA[markets]]></wf>
+    <wf id="112" sent="6" para="1" offset="519" length="4"><![CDATA[make]]></wf>
+    <wf id="113" sent="6" para="1" offset="523" length="3"><![CDATA[big]]></wf>
+    <wf id="114" sent="6" para="1" offset="526" length="6"><![CDATA[swings]]></wf>
+    <wf id="115" sent="6" para="1" offset="532" length="1"><![CDATA[.]]></wf>
+    <wf id="116" sent="6" para="1" offset="533" length="2"><![CDATA['']]></wf>
+    <wf id="117" sent="7" para="1" offset="535" length="3"><![CDATA[The]]></wf>
+    <wf id="118" sent="7" para="1" offset="538" length="6"><![CDATA[Nikkei]]></wf>
+    <wf id="119" sent="7" para="1" offset="544" length="3"><![CDATA[225]]></wf>
+    <wf id="120" sent="7" para="1" offset="547" length="5"><![CDATA[stock]]></wf>
+    <wf id="121" sent="7" para="1" offset="552" length="5"><![CDATA[index]]></wf>
+    <wf id="122" sent="7" para="1" offset="557" length="3"><![CDATA[has]]></wf>
+    <wf id="123" sent="7" para="1" offset="560" length="6"><![CDATA[fallen]]></wf>
+    <wf id="124" sent="7" para="1" offset="566" length="2"><![CDATA[40]]></wf>
+    <wf id="125" sent="7" para="1" offset="568" length="1"><![CDATA[%]]></wf>
+    <wf id="126" sent="7" para="1" offset="569" length="5"><![CDATA[since]]></wf>
+    <wf id="127" sent="7" para="1" offset="574" length="3"><![CDATA[the]]></wf>
+    <wf id="128" sent="7" para="1" offset="577" length="9"><![CDATA[beginning]]></wf>
+    <wf id="129" sent="7" para="1" offset="586" length="2"><![CDATA[of]]></wf>
+    <wf id="130" sent="7" para="1" offset="588" length="3"><![CDATA[the]]></wf>
+    <wf id="131" sent="7" para="1" offset="591" length="4"><![CDATA[year]]></wf>
+    <wf id="132" sent="7" para="1" offset="595" length="1"><![CDATA[,]]></wf>
+    <wf id="133" sent="7" para="1" offset="596" length="3"><![CDATA[and]]></wf>
+    <wf id="134" sent="7" para="1" offset="599" length="3"><![CDATA[has]]></wf>
+    <wf id="135" sent="7" para="1" offset="602" length="4"><![CDATA[lost]]></wf>
+    <wf id="136" sent="7" para="1" offset="606" length="1"><![CDATA[a]]></wf>
+    <wf id="137" sent="7" para="1" offset="607" length="7"><![CDATA[quarter]]></wf>
+    <wf id="138" sent="7" para="1" offset="614" length="2"><![CDATA[of]]></wf>
+    <wf id="139" sent="7" para="1" offset="616" length="3"><![CDATA[its]]></wf>
+    <wf id="140" sent="7" para="1" offset="619" length="5"><![CDATA[value]]></wf>
+    <wf id="141" sent="7" para="1" offset="624" length="6"><![CDATA[during]]></wf>
+    <wf id="142" sent="7" para="1" offset="630" length="4"><![CDATA[this]]></wf>
+    <wf id="143" sent="7" para="1" offset="634" length="5"><![CDATA[month]]></wf>
+    <wf id="144" sent="7" para="1" offset="639" length="1"><![CDATA[.]]></wf>
+    <wf id="145" sent="8" para="1" offset="640" length="5"><![CDATA[After]]></wf>
+    <wf id="146" sent="8" para="1" offset="645" length="3"><![CDATA[the]]></wf>
+    <wf id="147" sent="8" para="1" offset="648" length="4"><![CDATA[news]]></wf>
+    <wf id="148" sent="8" para="1" offset="652" length="3"><![CDATA[was]]></wf>
+    <wf id="149" sent="8" para="1" offset="655" length="9"><![CDATA[announced]]></wf>
+    <wf id="150" sent="8" para="1" offset="664" length="3"><![CDATA[the]]></wf>
+    <wf id="151" sent="8" para="1" offset="667" length="5"><![CDATA[index]]></wf>
+    <wf id="152" sent="8" para="1" offset="672" length="6"><![CDATA[dipped]]></wf>
+    <wf id="153" sent="8" para="1" offset="678" length="1"><![CDATA[,]]></wf>
+    <wf id="154" sent="8" para="1" offset="679" length="4"><![CDATA[then]]></wf>
+    <wf id="155" sent="8" para="1" offset="683" length="4"><![CDATA[rose]]></wf>
+    <wf id="156" sent="8" para="1" offset="687" length="2"><![CDATA[to]]></wf>
+    <wf id="157" sent="8" para="1" offset="689" length="5"><![CDATA[close]]></wf>
+    <wf id="158" sent="8" para="1" offset="694" length="2"><![CDATA[up]]></wf>
+    <wf id="159" sent="8" para="1" offset="696" length="3"><![CDATA[0.7]]></wf>
+    <wf id="160" sent="8" para="1" offset="699" length="1"><![CDATA[%]]></wf>
+    <wf id="161" sent="8" para="1" offset="700" length="1"><![CDATA[.]]></wf>
+    <wf id="162" sent="9" para="1" offset="701" length="8"><![CDATA[Japanese]]></wf>
+    <wf id="163" sent="9" para="1" offset="709" length="9"><![CDATA[companies]]></wf>
+    <wf id="164" sent="9" para="1" offset="718" length="4"><![CDATA[lose]]></wf>
+    <wf id="165" sent="9" para="1" offset="722" length="5"><![CDATA[large]]></wf>
+    <wf id="166" sent="9" para="1" offset="727" length="4"><![CDATA[sums]]></wf>
+    <wf id="167" sent="9" para="1" offset="731" length="8"><![CDATA[whenever]]></wf>
+    <wf id="168" sent="9" para="1" offset="739" length="3"><![CDATA[the]]></wf>
+    <wf id="169" sent="9" para="1" offset="742" length="3"><![CDATA[yen]]></wf>
+    <wf id="170" sent="9" para="1" offset="745" length="2"><![CDATA['s]]></wf>
+    <wf id="171" sent="9" para="1" offset="747" length="5"><![CDATA[value]]></wf>
+    <wf id="172" sent="9" para="1" offset="752" length="6"><![CDATA[surges]]></wf>
+    <wf id="173" sent="9" para="1" offset="758" length="1"><![CDATA[.]]></wf>
+    <wf id="174" sent="10" para="1" offset="759" length="4"><![CDATA[With]]></wf>
+    <wf id="175" sent="10" para="1" offset="763" length="3"><![CDATA[the]]></wf>
+    <wf id="176" sent="10" para="1" offset="766" length="3"><![CDATA[yen]]></wf>
+    <wf id="177" sent="10" para="1" offset="769" length="6"><![CDATA[viewed]]></wf>
+    <wf id="178" sent="10" para="1" offset="775" length="2"><![CDATA[as]]></wf>
+    <wf id="179" sent="10" para="1" offset="777" length="10"><![CDATA[relatively]]></wf>
+    <wf id="180" sent="10" para="1" offset="787" length="6"><![CDATA[stable]]></wf>
+    <wf id="181" sent="10" para="1" offset="793" length="6"><![CDATA[during]]></wf>
+    <wf id="182" sent="10" para="1" offset="799" length="9"><![CDATA[financial]]></wf>
+    <wf id="183" sent="10" para="1" offset="808" length="7"><![CDATA[turmoil]]></wf>
+    <wf id="184" sent="10" para="1" offset="815" length="1"><![CDATA[,]]></wf>
+    <wf id="185" sent="10" para="1" offset="816" length="3"><![CDATA[the]]></wf>
+    <wf id="186" sent="10" para="1" offset="819" length="5"><![CDATA[value]]></wf>
+    <wf id="187" sent="10" para="1" offset="824" length="7"><![CDATA[against]]></wf>
+    <wf id="188" sent="10" para="1" offset="831" length="3"><![CDATA[the]]></wf>
+    <wf id="189" sent="10" para="1" offset="834" length="2"><![CDATA[US]]></wf>
+    <wf id="190" sent="10" para="1" offset="836" length="6"><![CDATA[dollar]]></wf>
+    <wf id="191" sent="10" para="1" offset="842" length="3"><![CDATA[has]]></wf>
+    <wf id="192" sent="10" para="1" offset="845" length="5"><![CDATA[risen]]></wf>
+    <wf id="193" sent="10" para="1" offset="850" length="7"><![CDATA[greatly]]></wf>
+    <wf id="194" sent="10" para="1" offset="857" length="1"><![CDATA[.]]></wf>
+    <wf id="195" sent="11" para="1" offset="858" length="8"><![CDATA[JPMorgan]]></wf>
+    <wf id="196" sent="11" para="1" offset="866" length="5"><![CDATA[Chase]]></wf>
+    <wf id="197" sent="11" para="1" offset="871" length="9"><![CDATA[economist]]></wf>
+    <wf id="198" sent="11" para="1" offset="880" length="9"><![CDATA[Masamichi]]></wf>
+    <wf id="199" sent="11" para="1" offset="889" length="6"><![CDATA[Adachi]]></wf>
+    <wf id="200" sent="11" para="1" offset="895" length="4"><![CDATA[said]]></wf>
+    <wf id="201" sent="11" para="1" offset="899" length="1"><![CDATA[,]]></wf>
+    <wf id="202" sent="11" para="1" offset="900" length="2"><![CDATA[``]]></wf>
+    <wf id="203" sent="11" para="1" offset="902" length="2"><![CDATA[It]]></wf>
+    <wf id="204" sent="11" para="1" offset="904" length="2"><![CDATA['s]]></wf>
+    <wf id="205" sent="11" para="1" offset="906" length="4"><![CDATA[only]]></wf>
+    <wf id="206" sent="11" para="1" offset="910" length="5"><![CDATA[going]]></wf>
+    <wf id="207" sent="11" para="1" offset="915" length="2"><![CDATA[to]]></wf>
+    <wf id="208" sent="11" para="1" offset="917" length="3"><![CDATA[get]]></wf>
+    <wf id="209" sent="11" para="1" offset="920" length="5"><![CDATA[worse]]></wf>
+    <wf id="210" sent="11" para="1" offset="925" length="1"><![CDATA[.]]></wf>
+    <wf id="211" sent="12" para="1" offset="926" length="5"><![CDATA[Japan]]></wf>
+    <wf id="212" sent="12" para="1" offset="931" length="3"><![CDATA[may]]></wf>
+    <wf id="213" sent="12" para="1" offset="934" length="2"><![CDATA[be]]></wf>
+    <wf id="214" sent="12" para="1" offset="936" length="8"><![CDATA[entering]]></wf>
+    <wf id="215" sent="12" para="1" offset="944" length="3"><![CDATA[its]]></wf>
+    <wf id="216" sent="12" para="1" offset="947" length="7"><![CDATA[deepest]]></wf>
+    <wf id="217" sent="12" para="1" offset="954" length="9"><![CDATA[recession]]></wf>
+    <wf id="218" sent="12" para="1" offset="963" length="2"><![CDATA[in]]></wf>
+    <wf id="219" sent="12" para="1" offset="965" length="1"><![CDATA[a]]></wf>
+    <wf id="220" sent="12" para="1" offset="966" length="6"><![CDATA[decade]]></wf>
+    <wf id="221" sent="12" para="1" offset="972" length="2"><![CDATA[as]]></wf>
+    <wf id="222" sent="12" para="1" offset="974" length="3"><![CDATA[the]]></wf>
+    <wf id="223" sent="12" para="1" offset="977" length="6"><![CDATA[global]]></wf>
+    <wf id="224" sent="12" para="1" offset="983" length="9"><![CDATA[financial]]></wf>
+    <wf id="225" sent="12" para="1" offset="992" length="6"><![CDATA[crisis]]></wf>
+    <wf id="226" sent="12" para="1" offset="998" length="5"><![CDATA[cools]]></wf>
+    <wf id="227" sent="12" para="1" offset="1003" length="6"><![CDATA[demand]]></wf>
+    <wf id="228" sent="12" para="1" offset="1009" length="1"><![CDATA[.]]></wf>
+    <wf id="229" sent="12" para="1" offset="1010" length="2"><![CDATA['']]></wf>
+    <wf id="230" sent="13" para="1" offset="1012" length="5"><![CDATA[Japan]]></wf>
+    <wf id="231" sent="13" para="1" offset="1017" length="3"><![CDATA[has]]></wf>
+    <wf id="232" sent="13" para="1" offset="1020" length="3"><![CDATA[not]]></wf>
+    <wf id="233" sent="13" para="1" offset="1023" length="4"><![CDATA[been]]></wf>
+    <wf id="234" sent="13" para="1" offset="1027" length="2"><![CDATA[in]]></wf>
+    <wf id="235" sent="13" para="1" offset="1029" length="9"><![CDATA[recession]]></wf>
+    <wf id="236" sent="13" para="1" offset="1038" length="5"><![CDATA[since]]></wf>
+    <wf id="237" sent="13" para="1" offset="1043" length="4"><![CDATA[2001]]></wf>
+    <wf id="238" sent="13" para="1" offset="1047" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="Japan">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="enters">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="recession">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="November">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="18">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma=",">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="2008">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="Japan">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma=",">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="which">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="accounts">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="for">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="7">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="%">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="of">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma="world">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="output">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma=",">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="has">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="entered">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="a">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="recession">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma="after">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="posting">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="two">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="consecutive">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="quarters">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="of">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="negative">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="growth">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma=".">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="The">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="Japanese">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="economy">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="contracted">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="by">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="0.9">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="%">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="between">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="April">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="and">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="June">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="and">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="a">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="further">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="0.1">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="%">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma="since">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="September">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma=".">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="Kaoru">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="Yosano">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma=",">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="the">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="Japanese">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="minister">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="of">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma="fiscal">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="policy">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma=",">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="said">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="``">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma="The">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="downtrend">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="in">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="the">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="economy">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="will">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="continue">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="for">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="the">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="time">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="being">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="as">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="global">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="growth">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="slows">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="down">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma=".">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="We">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="need">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="to">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="bear">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="in">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="mind">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="that">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="economic">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="conditions">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma="could">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="worsen">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="further">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="as">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="the">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="US">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="and">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="European">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="financial">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="crisis">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="deepens">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma=",">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="worries">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma="of">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="economic">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="downturn">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="heighten">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="and">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="stock">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="and">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma="foreign">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="exchange">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="markets">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="make">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="big">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="swings">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma=".">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="''">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="The">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="Nikkei">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="225">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="stock">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="index">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="has">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="fallen">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="40">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="%">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="since">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="the">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="beginning">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma="of">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="the">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="year">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma=",">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="and">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="has">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="lost">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="a">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="quarter">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="of">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma="its">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="value">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="during">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="this">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="month">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma=".">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="After">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="the">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="news">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="was">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="announced">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="the">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="index">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="dipped">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma=",">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="then">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="rose">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="to">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="close">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="up">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="0.7">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="%">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma=".">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="Japanese">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="companies">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="lose">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="large">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="sums">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma="whenever">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="the">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="yen">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="'s">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="value">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma="surges">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma=".">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="With">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma="the">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma="yen">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma="viewed">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="as">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="relatively">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="stable">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="during">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="financial">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="turmoil">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma=",">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="the">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma="value">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="against">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma="the">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="US">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma="dollar">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma="has">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="risen">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma="greatly">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma=".">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma="JPMorgan">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma="Chase">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="economist">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma="Masamichi">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma="Adachi">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma="said">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+    <term id="201" lemma=",">
+      <span>
+        <target id="201"/>
+      </span>
+    </term>
+    <term id="202" lemma="``">
+      <span>
+        <target id="202"/>
+      </span>
+    </term>
+    <term id="203" lemma="It">
+      <span>
+        <target id="203"/>
+      </span>
+    </term>
+    <term id="204" lemma="'s">
+      <span>
+        <target id="204"/>
+      </span>
+    </term>
+    <term id="205" lemma="only">
+      <span>
+        <target id="205"/>
+      </span>
+    </term>
+    <term id="206" lemma="going">
+      <span>
+        <target id="206"/>
+      </span>
+    </term>
+    <term id="207" lemma="to">
+      <span>
+        <target id="207"/>
+      </span>
+    </term>
+    <term id="208" lemma="get">
+      <span>
+        <target id="208"/>
+      </span>
+    </term>
+    <term id="209" lemma="worse">
+      <span>
+        <target id="209"/>
+      </span>
+    </term>
+    <term id="210" lemma=".">
+      <span>
+        <target id="210"/>
+      </span>
+    </term>
+    <term id="211" lemma="Japan">
+      <span>
+        <target id="211"/>
+      </span>
+    </term>
+    <term id="212" lemma="may">
+      <span>
+        <target id="212"/>
+      </span>
+    </term>
+    <term id="213" lemma="be">
+      <span>
+        <target id="213"/>
+      </span>
+    </term>
+    <term id="214" lemma="entering">
+      <span>
+        <target id="214"/>
+      </span>
+    </term>
+    <term id="215" lemma="its">
+      <span>
+        <target id="215"/>
+      </span>
+    </term>
+    <term id="216" lemma="deepest">
+      <span>
+        <target id="216"/>
+      </span>
+    </term>
+    <term id="217" lemma="recession">
+      <span>
+        <target id="217"/>
+      </span>
+    </term>
+    <term id="218" lemma="in">
+      <span>
+        <target id="218"/>
+      </span>
+    </term>
+    <term id="219" lemma="a">
+      <span>
+        <target id="219"/>
+      </span>
+    </term>
+    <term id="220" lemma="decade">
+      <span>
+        <target id="220"/>
+      </span>
+    </term>
+    <term id="221" lemma="as">
+      <span>
+        <target id="221"/>
+      </span>
+    </term>
+    <term id="222" lemma="the">
+      <span>
+        <target id="222"/>
+      </span>
+    </term>
+    <term id="223" lemma="global">
+      <span>
+        <target id="223"/>
+      </span>
+    </term>
+    <term id="224" lemma="financial">
+      <span>
+        <target id="224"/>
+      </span>
+    </term>
+    <term id="225" lemma="crisis">
+      <span>
+        <target id="225"/>
+      </span>
+    </term>
+    <term id="226" lemma="cools">
+      <span>
+        <target id="226"/>
+      </span>
+    </term>
+    <term id="227" lemma="demand">
+      <span>
+        <target id="227"/>
+      </span>
+    </term>
+    <term id="228" lemma=".">
+      <span>
+        <target id="228"/>
+      </span>
+    </term>
+    <term id="229" lemma="''">
+      <span>
+        <target id="229"/>
+      </span>
+    </term>
+    <term id="230" lemma="Japan">
+      <span>
+        <target id="230"/>
+      </span>
+    </term>
+    <term id="231" lemma="has">
+      <span>
+        <target id="231"/>
+      </span>
+    </term>
+    <term id="232" lemma="not">
+      <span>
+        <target id="232"/>
+      </span>
+    </term>
+    <term id="233" lemma="been">
+      <span>
+        <target id="233"/>
+      </span>
+    </term>
+    <term id="234" lemma="in">
+      <span>
+        <target id="234"/>
+      </span>
+    </term>
+    <term id="235" lemma="recession">
+      <span>
+        <target id="235"/>
+      </span>
+    </term>
+    <term id="236" lemma="since">
+      <span>
+        <target id="236"/>
+      </span>
+    </term>
+    <term id="237" lemma="2001">
+      <span>
+        <target id="237"/>
+      </span>
+    </term>
+    <term id="238" lemma=".">
+      <span>
+        <target id="238"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="101" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Kaoru_Yosano" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="51"/>
+          <target id="52"/>
+          <target id="53"/>
+          <target id="54"/>
+          <target id="55"/>
+          <target id="56"/>
+          <target id="57"/>
+          <target id="58"/>
+          <target id="59"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="106" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="107"/>
+          <target id="108"/>
+          <target id="109"/>
+          <target id="110"/>
+          <target id="111"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="110" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Nikkei_225" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="150"/>
+          <target id="151"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="108" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="8"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="105" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="10"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="99" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Earth" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="16"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="98" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Kaoru_Yosano" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="54"/>
+          <target id="55"/>
+          <target id="56"/>
+          <target id="57"/>
+          <target id="58"/>
+          <target id="59"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="88" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Economy_of_Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="66"/>
+          <target id="67"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="109" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/United_States_dollar" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="188"/>
+          <target id="189"/>
+          <target id="190"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="104" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="91" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Nikkei_225" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="117"/>
+          <target id="118"/>
+          <target id="119"/>
+          <target id="120"/>
+          <target id="121"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="90" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Europe" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="96"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="93" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Kaoru_Yosano" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="51"/>
+          <target id="52"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="92" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="94"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="95" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="55"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="107" type="PER">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="80"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="97" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="33"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="96" type="FIN">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Economy_of_Japan" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="32"/>
+          <target id="33"/>
+          <target id="34"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+  <timeExpressions>
+    <timex3 id="12" type="DURATION" value="P2Q">
+      <span>
+        <target id="25"/>
+        <target id="26"/>
+        <target id="27"/>
+      </span>
+    </timex3>
+    <timex3 id="22" type="DATE" value="2008-09">
+      <span>
+        <target id="49"/>
+      </span>
+    </timex3>
+    <timex3 id="19" type="DATE" value="2008-06">
+      <span>
+        <target id="42"/>
+      </span>
+    </timex3>
+    <timex3 id="18" type="DATE" value="2008-04">
+      <span>
+        <target id="40"/>
+      </span>
+    </timex3>
+    <timex3 id="31" type="DATE" value="PRESENT_REF">
+      <span>
+        <target id="71"/>
+        <target id="72"/>
+        <target id="73"/>
+      </span>
+    </timex3>
+    <timex3 id="4" type="DATE" value="2008-11-18">
+      <span>
+        <target id="4"/>
+        <target id="5"/>
+        <target id="6"/>
+        <target id="7"/>
+      </span>
+    </timex3>
+    <timex3 id="85" type="DURATION" value="P2M">
+      <span/>
+    </timex3>
+  </timeExpressions>
+  <srl>
+    <predicate id="pr47">
+      <span>
+        <target id="112"/>
+      </span>
+    </predicate>
+    <predicate id="pr27">
+      <span>
+        <target id="61"/>
+      </span>
+    </predicate>
+    <predicate id="pr35">
+      <span>
+        <target id="81"/>
+      </span>
+    </predicate>
+    <predicate id="pr7">
+      <span>
+        <target id="11"/>
+        <target id="12"/>
+      </span>
+    </predicate>
+    <predicate id="pr16">
+      <span>
+        <target id="35"/>
+      </span>
+    </predicate>
+  </srl>
+</NAF>

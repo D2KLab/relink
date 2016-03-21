@@ -1,0 +1,2132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<NAF xml:lang="en" version="v3">
+  <raw><![CDATA[ Apple 's iTunes replaces Wal - Mart as No. 1 U.S. music seller April 9 , 2008 Five years after its launch , Apple Computer 's iTunes downloadable music service in February passed Wal - Mart to become the No. 1 music seller in the United States , according to figures released April 3 by NPD Group , a market research firm . The firm said more than 4 billion songs had been downloaded from the iTunes store since its launch in 2003 and that as of February , the iTunes store accounts for 70 % of all digital music sales . NPD said according to those figures , Apple 's iTunes store passes U.S. electronics retailer Best Buy for the No. 2 U.S. music retailer in 2007 . According to an April 2nd report in Ars Technica , an internal memo at Apple showed the company passed Wal - Mart as the top U.S. music seller Wal - Mart at the beginning of the year . Their projections showed that as of January 2008 , Apple 's iTunes held 19 percent of the U.S. music market with Wal - Mart at 15 percent , followed by Best Buy at 13 percent . Rounding out the top five were Amazon.com and Target at 6 percent each .]]></raw>
+  <text>
+    <wf id="1" sent="1" para="1" offset="0" length="5"><![CDATA[Apple]]></wf>
+    <wf id="2" sent="1" para="1" offset="5" length="2"><![CDATA['s]]></wf>
+    <wf id="3" sent="1" para="1" offset="7" length="6"><![CDATA[iTunes]]></wf>
+    <wf id="4" sent="1" para="1" offset="13" length="8"><![CDATA[replaces]]></wf>
+    <wf id="5" sent="1" para="1" offset="21" length="3"><![CDATA[Wal]]></wf>
+    <wf id="6" sent="1" para="1" offset="24" length="1"><![CDATA[-]]></wf>
+    <wf id="7" sent="1" para="1" offset="25" length="4"><![CDATA[Mart]]></wf>
+    <wf id="8" sent="1" para="1" offset="29" length="2"><![CDATA[as]]></wf>
+    <wf id="9" sent="1" para="1" offset="31" length="3"><![CDATA[No.]]></wf>
+    <wf id="10" sent="1" para="1" offset="34" length="1"><![CDATA[1]]></wf>
+    <wf id="11" sent="1" para="1" offset="35" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="12" sent="1" para="1" offset="39" length="5"><![CDATA[music]]></wf>
+    <wf id="13" sent="1" para="1" offset="44" length="6"><![CDATA[seller]]></wf>
+    <wf id="14" sent="2" para="1" offset="50" length="5"><![CDATA[April]]></wf>
+    <wf id="15" sent="2" para="1" offset="55" length="1"><![CDATA[9]]></wf>
+    <wf id="16" sent="2" para="1" offset="56" length="1"><![CDATA[,]]></wf>
+    <wf id="17" sent="2" para="1" offset="57" length="4"><![CDATA[2008]]></wf>
+    <wf id="18" sent="3" para="1" offset="61" length="4"><![CDATA[Five]]></wf>
+    <wf id="19" sent="3" para="1" offset="65" length="5"><![CDATA[years]]></wf>
+    <wf id="20" sent="3" para="1" offset="70" length="5"><![CDATA[after]]></wf>
+    <wf id="21" sent="3" para="1" offset="75" length="3"><![CDATA[its]]></wf>
+    <wf id="22" sent="3" para="1" offset="78" length="6"><![CDATA[launch]]></wf>
+    <wf id="23" sent="3" para="1" offset="84" length="1"><![CDATA[,]]></wf>
+    <wf id="24" sent="3" para="1" offset="85" length="5"><![CDATA[Apple]]></wf>
+    <wf id="25" sent="3" para="1" offset="90" length="8"><![CDATA[Computer]]></wf>
+    <wf id="26" sent="3" para="1" offset="98" length="2"><![CDATA['s]]></wf>
+    <wf id="27" sent="3" para="1" offset="100" length="6"><![CDATA[iTunes]]></wf>
+    <wf id="28" sent="3" para="1" offset="106" length="12"><![CDATA[downloadable]]></wf>
+    <wf id="29" sent="3" para="1" offset="118" length="5"><![CDATA[music]]></wf>
+    <wf id="30" sent="3" para="1" offset="123" length="7"><![CDATA[service]]></wf>
+    <wf id="31" sent="3" para="1" offset="130" length="2"><![CDATA[in]]></wf>
+    <wf id="32" sent="3" para="1" offset="132" length="8"><![CDATA[February]]></wf>
+    <wf id="33" sent="3" para="1" offset="140" length="6"><![CDATA[passed]]></wf>
+    <wf id="34" sent="3" para="1" offset="146" length="3"><![CDATA[Wal]]></wf>
+    <wf id="35" sent="3" para="1" offset="149" length="1"><![CDATA[-]]></wf>
+    <wf id="36" sent="3" para="1" offset="150" length="4"><![CDATA[Mart]]></wf>
+    <wf id="37" sent="3" para="1" offset="154" length="2"><![CDATA[to]]></wf>
+    <wf id="38" sent="3" para="1" offset="156" length="6"><![CDATA[become]]></wf>
+    <wf id="39" sent="3" para="1" offset="162" length="3"><![CDATA[the]]></wf>
+    <wf id="40" sent="3" para="1" offset="165" length="3"><![CDATA[No.]]></wf>
+    <wf id="41" sent="3" para="1" offset="168" length="1"><![CDATA[1]]></wf>
+    <wf id="42" sent="3" para="1" offset="169" length="5"><![CDATA[music]]></wf>
+    <wf id="43" sent="3" para="1" offset="174" length="6"><![CDATA[seller]]></wf>
+    <wf id="44" sent="3" para="1" offset="180" length="2"><![CDATA[in]]></wf>
+    <wf id="45" sent="3" para="1" offset="182" length="3"><![CDATA[the]]></wf>
+    <wf id="46" sent="3" para="1" offset="185" length="6"><![CDATA[United]]></wf>
+    <wf id="47" sent="3" para="1" offset="191" length="6"><![CDATA[States]]></wf>
+    <wf id="48" sent="3" para="1" offset="197" length="1"><![CDATA[,]]></wf>
+    <wf id="49" sent="3" para="1" offset="198" length="9"><![CDATA[according]]></wf>
+    <wf id="50" sent="3" para="1" offset="207" length="2"><![CDATA[to]]></wf>
+    <wf id="51" sent="3" para="1" offset="209" length="7"><![CDATA[figures]]></wf>
+    <wf id="52" sent="3" para="1" offset="216" length="8"><![CDATA[released]]></wf>
+    <wf id="53" sent="3" para="1" offset="224" length="5"><![CDATA[April]]></wf>
+    <wf id="54" sent="3" para="1" offset="229" length="1"><![CDATA[3]]></wf>
+    <wf id="55" sent="3" para="1" offset="230" length="2"><![CDATA[by]]></wf>
+    <wf id="56" sent="3" para="1" offset="232" length="3"><![CDATA[NPD]]></wf>
+    <wf id="57" sent="3" para="1" offset="235" length="5"><![CDATA[Group]]></wf>
+    <wf id="58" sent="3" para="1" offset="240" length="1"><![CDATA[,]]></wf>
+    <wf id="59" sent="3" para="1" offset="241" length="1"><![CDATA[a]]></wf>
+    <wf id="60" sent="3" para="1" offset="242" length="6"><![CDATA[market]]></wf>
+    <wf id="61" sent="3" para="1" offset="248" length="8"><![CDATA[research]]></wf>
+    <wf id="62" sent="3" para="1" offset="256" length="4"><![CDATA[firm]]></wf>
+    <wf id="63" sent="3" para="1" offset="260" length="1"><![CDATA[.]]></wf>
+    <wf id="64" sent="4" para="1" offset="261" length="3"><![CDATA[The]]></wf>
+    <wf id="65" sent="4" para="1" offset="264" length="4"><![CDATA[firm]]></wf>
+    <wf id="66" sent="4" para="1" offset="268" length="4"><![CDATA[said]]></wf>
+    <wf id="67" sent="4" para="1" offset="272" length="4"><![CDATA[more]]></wf>
+    <wf id="68" sent="4" para="1" offset="276" length="4"><![CDATA[than]]></wf>
+    <wf id="69" sent="4" para="1" offset="280" length="1"><![CDATA[4]]></wf>
+    <wf id="70" sent="4" para="1" offset="281" length="7"><![CDATA[billion]]></wf>
+    <wf id="71" sent="4" para="1" offset="288" length="5"><![CDATA[songs]]></wf>
+    <wf id="72" sent="4" para="1" offset="293" length="3"><![CDATA[had]]></wf>
+    <wf id="73" sent="4" para="1" offset="296" length="4"><![CDATA[been]]></wf>
+    <wf id="74" sent="4" para="1" offset="300" length="10"><![CDATA[downloaded]]></wf>
+    <wf id="75" sent="4" para="1" offset="310" length="4"><![CDATA[from]]></wf>
+    <wf id="76" sent="4" para="1" offset="314" length="3"><![CDATA[the]]></wf>
+    <wf id="77" sent="4" para="1" offset="317" length="6"><![CDATA[iTunes]]></wf>
+    <wf id="78" sent="4" para="1" offset="323" length="5"><![CDATA[store]]></wf>
+    <wf id="79" sent="4" para="1" offset="328" length="5"><![CDATA[since]]></wf>
+    <wf id="80" sent="4" para="1" offset="333" length="3"><![CDATA[its]]></wf>
+    <wf id="81" sent="4" para="1" offset="336" length="6"><![CDATA[launch]]></wf>
+    <wf id="82" sent="4" para="1" offset="342" length="2"><![CDATA[in]]></wf>
+    <wf id="83" sent="4" para="1" offset="344" length="4"><![CDATA[2003]]></wf>
+    <wf id="84" sent="4" para="1" offset="348" length="3"><![CDATA[and]]></wf>
+    <wf id="85" sent="4" para="1" offset="351" length="4"><![CDATA[that]]></wf>
+    <wf id="86" sent="4" para="1" offset="355" length="2"><![CDATA[as]]></wf>
+    <wf id="87" sent="4" para="1" offset="357" length="2"><![CDATA[of]]></wf>
+    <wf id="88" sent="4" para="1" offset="359" length="8"><![CDATA[February]]></wf>
+    <wf id="89" sent="4" para="1" offset="367" length="1"><![CDATA[,]]></wf>
+    <wf id="90" sent="4" para="1" offset="368" length="3"><![CDATA[the]]></wf>
+    <wf id="91" sent="4" para="1" offset="371" length="6"><![CDATA[iTunes]]></wf>
+    <wf id="92" sent="4" para="1" offset="377" length="5"><![CDATA[store]]></wf>
+    <wf id="93" sent="4" para="1" offset="382" length="8"><![CDATA[accounts]]></wf>
+    <wf id="94" sent="4" para="1" offset="390" length="3"><![CDATA[for]]></wf>
+    <wf id="95" sent="4" para="1" offset="393" length="2"><![CDATA[70]]></wf>
+    <wf id="96" sent="4" para="1" offset="395" length="1"><![CDATA[%]]></wf>
+    <wf id="97" sent="4" para="1" offset="396" length="2"><![CDATA[of]]></wf>
+    <wf id="98" sent="4" para="1" offset="398" length="3"><![CDATA[all]]></wf>
+    <wf id="99" sent="4" para="1" offset="401" length="7"><![CDATA[digital]]></wf>
+    <wf id="100" sent="4" para="1" offset="408" length="5"><![CDATA[music]]></wf>
+    <wf id="101" sent="4" para="1" offset="413" length="5"><![CDATA[sales]]></wf>
+    <wf id="102" sent="4" para="1" offset="418" length="1"><![CDATA[.]]></wf>
+    <wf id="103" sent="5" para="1" offset="419" length="3"><![CDATA[NPD]]></wf>
+    <wf id="104" sent="5" para="1" offset="422" length="4"><![CDATA[said]]></wf>
+    <wf id="105" sent="5" para="1" offset="426" length="9"><![CDATA[according]]></wf>
+    <wf id="106" sent="5" para="1" offset="435" length="2"><![CDATA[to]]></wf>
+    <wf id="107" sent="5" para="1" offset="437" length="5"><![CDATA[those]]></wf>
+    <wf id="108" sent="5" para="1" offset="442" length="7"><![CDATA[figures]]></wf>
+    <wf id="109" sent="5" para="1" offset="449" length="1"><![CDATA[,]]></wf>
+    <wf id="110" sent="5" para="1" offset="450" length="5"><![CDATA[Apple]]></wf>
+    <wf id="111" sent="5" para="1" offset="455" length="2"><![CDATA['s]]></wf>
+    <wf id="112" sent="5" para="1" offset="457" length="6"><![CDATA[iTunes]]></wf>
+    <wf id="113" sent="5" para="1" offset="463" length="5"><![CDATA[store]]></wf>
+    <wf id="114" sent="5" para="1" offset="468" length="6"><![CDATA[passes]]></wf>
+    <wf id="115" sent="5" para="1" offset="474" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="116" sent="5" para="1" offset="478" length="11"><![CDATA[electronics]]></wf>
+    <wf id="117" sent="5" para="1" offset="489" length="8"><![CDATA[retailer]]></wf>
+    <wf id="118" sent="5" para="1" offset="497" length="4"><![CDATA[Best]]></wf>
+    <wf id="119" sent="5" para="1" offset="501" length="3"><![CDATA[Buy]]></wf>
+    <wf id="120" sent="5" para="1" offset="504" length="3"><![CDATA[for]]></wf>
+    <wf id="121" sent="5" para="1" offset="507" length="3"><![CDATA[the]]></wf>
+    <wf id="122" sent="5" para="1" offset="510" length="3"><![CDATA[No.]]></wf>
+    <wf id="123" sent="5" para="1" offset="513" length="1"><![CDATA[2]]></wf>
+    <wf id="124" sent="5" para="1" offset="514" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="125" sent="5" para="1" offset="518" length="5"><![CDATA[music]]></wf>
+    <wf id="126" sent="5" para="1" offset="523" length="8"><![CDATA[retailer]]></wf>
+    <wf id="127" sent="5" para="1" offset="531" length="2"><![CDATA[in]]></wf>
+    <wf id="128" sent="5" para="1" offset="533" length="4"><![CDATA[2007]]></wf>
+    <wf id="129" sent="5" para="1" offset="537" length="1"><![CDATA[.]]></wf>
+    <wf id="130" sent="6" para="1" offset="538" length="9"><![CDATA[According]]></wf>
+    <wf id="131" sent="6" para="1" offset="547" length="2"><![CDATA[to]]></wf>
+    <wf id="132" sent="6" para="1" offset="549" length="2"><![CDATA[an]]></wf>
+    <wf id="133" sent="6" para="1" offset="551" length="5"><![CDATA[April]]></wf>
+    <wf id="134" sent="6" para="1" offset="556" length="3"><![CDATA[2nd]]></wf>
+    <wf id="135" sent="6" para="1" offset="559" length="6"><![CDATA[report]]></wf>
+    <wf id="136" sent="6" para="1" offset="565" length="2"><![CDATA[in]]></wf>
+    <wf id="137" sent="6" para="1" offset="567" length="3"><![CDATA[Ars]]></wf>
+    <wf id="138" sent="6" para="1" offset="570" length="8"><![CDATA[Technica]]></wf>
+    <wf id="139" sent="6" para="1" offset="578" length="1"><![CDATA[,]]></wf>
+    <wf id="140" sent="6" para="1" offset="579" length="2"><![CDATA[an]]></wf>
+    <wf id="141" sent="6" para="1" offset="581" length="8"><![CDATA[internal]]></wf>
+    <wf id="142" sent="6" para="1" offset="589" length="4"><![CDATA[memo]]></wf>
+    <wf id="143" sent="6" para="1" offset="593" length="2"><![CDATA[at]]></wf>
+    <wf id="144" sent="6" para="1" offset="595" length="5"><![CDATA[Apple]]></wf>
+    <wf id="145" sent="6" para="1" offset="600" length="6"><![CDATA[showed]]></wf>
+    <wf id="146" sent="6" para="1" offset="606" length="3"><![CDATA[the]]></wf>
+    <wf id="147" sent="6" para="1" offset="609" length="7"><![CDATA[company]]></wf>
+    <wf id="148" sent="6" para="1" offset="616" length="6"><![CDATA[passed]]></wf>
+    <wf id="149" sent="6" para="1" offset="622" length="3"><![CDATA[Wal]]></wf>
+    <wf id="150" sent="6" para="1" offset="625" length="1"><![CDATA[-]]></wf>
+    <wf id="151" sent="6" para="1" offset="626" length="4"><![CDATA[Mart]]></wf>
+    <wf id="152" sent="6" para="1" offset="630" length="2"><![CDATA[as]]></wf>
+    <wf id="153" sent="6" para="1" offset="632" length="3"><![CDATA[the]]></wf>
+    <wf id="154" sent="6" para="1" offset="635" length="3"><![CDATA[top]]></wf>
+    <wf id="155" sent="6" para="1" offset="638" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="156" sent="6" para="1" offset="642" length="5"><![CDATA[music]]></wf>
+    <wf id="157" sent="6" para="1" offset="647" length="6"><![CDATA[seller]]></wf>
+    <wf id="158" sent="6" para="1" offset="653" length="3"><![CDATA[Wal]]></wf>
+    <wf id="159" sent="6" para="1" offset="656" length="1"><![CDATA[-]]></wf>
+    <wf id="160" sent="6" para="1" offset="657" length="4"><![CDATA[Mart]]></wf>
+    <wf id="161" sent="6" para="1" offset="661" length="2"><![CDATA[at]]></wf>
+    <wf id="162" sent="6" para="1" offset="663" length="3"><![CDATA[the]]></wf>
+    <wf id="163" sent="6" para="1" offset="666" length="9"><![CDATA[beginning]]></wf>
+    <wf id="164" sent="6" para="1" offset="675" length="2"><![CDATA[of]]></wf>
+    <wf id="165" sent="6" para="1" offset="677" length="3"><![CDATA[the]]></wf>
+    <wf id="166" sent="6" para="1" offset="680" length="4"><![CDATA[year]]></wf>
+    <wf id="167" sent="6" para="1" offset="684" length="1"><![CDATA[.]]></wf>
+    <wf id="168" sent="7" para="1" offset="685" length="5"><![CDATA[Their]]></wf>
+    <wf id="169" sent="7" para="1" offset="690" length="11"><![CDATA[projections]]></wf>
+    <wf id="170" sent="7" para="1" offset="701" length="6"><![CDATA[showed]]></wf>
+    <wf id="171" sent="7" para="1" offset="707" length="4"><![CDATA[that]]></wf>
+    <wf id="172" sent="7" para="1" offset="711" length="2"><![CDATA[as]]></wf>
+    <wf id="173" sent="7" para="1" offset="713" length="2"><![CDATA[of]]></wf>
+    <wf id="174" sent="7" para="1" offset="715" length="7"><![CDATA[January]]></wf>
+    <wf id="175" sent="7" para="1" offset="722" length="4"><![CDATA[2008]]></wf>
+    <wf id="176" sent="7" para="1" offset="726" length="1"><![CDATA[,]]></wf>
+    <wf id="177" sent="7" para="1" offset="727" length="5"><![CDATA[Apple]]></wf>
+    <wf id="178" sent="7" para="1" offset="732" length="2"><![CDATA['s]]></wf>
+    <wf id="179" sent="7" para="1" offset="734" length="6"><![CDATA[iTunes]]></wf>
+    <wf id="180" sent="7" para="1" offset="740" length="4"><![CDATA[held]]></wf>
+    <wf id="181" sent="7" para="1" offset="744" length="2"><![CDATA[19]]></wf>
+    <wf id="182" sent="7" para="1" offset="746" length="7"><![CDATA[percent]]></wf>
+    <wf id="183" sent="7" para="1" offset="753" length="2"><![CDATA[of]]></wf>
+    <wf id="184" sent="7" para="1" offset="755" length="3"><![CDATA[the]]></wf>
+    <wf id="185" sent="7" para="1" offset="758" length="4"><![CDATA[U.S.]]></wf>
+    <wf id="186" sent="7" para="1" offset="762" length="5"><![CDATA[music]]></wf>
+    <wf id="187" sent="7" para="1" offset="767" length="6"><![CDATA[market]]></wf>
+    <wf id="188" sent="7" para="1" offset="773" length="4"><![CDATA[with]]></wf>
+    <wf id="189" sent="7" para="1" offset="777" length="3"><![CDATA[Wal]]></wf>
+    <wf id="190" sent="7" para="1" offset="780" length="1"><![CDATA[-]]></wf>
+    <wf id="191" sent="7" para="1" offset="781" length="4"><![CDATA[Mart]]></wf>
+    <wf id="192" sent="7" para="1" offset="785" length="2"><![CDATA[at]]></wf>
+    <wf id="193" sent="7" para="1" offset="787" length="2"><![CDATA[15]]></wf>
+    <wf id="194" sent="7" para="1" offset="789" length="7"><![CDATA[percent]]></wf>
+    <wf id="195" sent="7" para="1" offset="796" length="1"><![CDATA[,]]></wf>
+    <wf id="196" sent="7" para="1" offset="797" length="8"><![CDATA[followed]]></wf>
+    <wf id="197" sent="7" para="1" offset="805" length="2"><![CDATA[by]]></wf>
+    <wf id="198" sent="7" para="1" offset="807" length="4"><![CDATA[Best]]></wf>
+    <wf id="199" sent="7" para="1" offset="811" length="3"><![CDATA[Buy]]></wf>
+    <wf id="200" sent="7" para="1" offset="814" length="2"><![CDATA[at]]></wf>
+    <wf id="201" sent="7" para="1" offset="816" length="2"><![CDATA[13]]></wf>
+    <wf id="202" sent="7" para="1" offset="818" length="7"><![CDATA[percent]]></wf>
+    <wf id="203" sent="7" para="1" offset="825" length="1"><![CDATA[.]]></wf>
+    <wf id="204" sent="8" para="1" offset="826" length="8"><![CDATA[Rounding]]></wf>
+    <wf id="205" sent="8" para="1" offset="834" length="3"><![CDATA[out]]></wf>
+    <wf id="206" sent="8" para="1" offset="837" length="3"><![CDATA[the]]></wf>
+    <wf id="207" sent="8" para="1" offset="840" length="3"><![CDATA[top]]></wf>
+    <wf id="208" sent="8" para="1" offset="843" length="4"><![CDATA[five]]></wf>
+    <wf id="209" sent="8" para="1" offset="847" length="4"><![CDATA[were]]></wf>
+    <wf id="210" sent="8" para="1" offset="851" length="10"><![CDATA[Amazon.com]]></wf>
+    <wf id="211" sent="8" para="1" offset="861" length="3"><![CDATA[and]]></wf>
+    <wf id="212" sent="8" para="1" offset="864" length="6"><![CDATA[Target]]></wf>
+    <wf id="213" sent="8" para="1" offset="870" length="2"><![CDATA[at]]></wf>
+    <wf id="214" sent="8" para="1" offset="872" length="1"><![CDATA[6]]></wf>
+    <wf id="215" sent="8" para="1" offset="873" length="7"><![CDATA[percent]]></wf>
+    <wf id="216" sent="8" para="1" offset="880" length="4"><![CDATA[each]]></wf>
+    <wf id="217" sent="8" para="1" offset="884" length="1"><![CDATA[.]]></wf>
+  </text>
+  <terms>
+    <term id="1" lemma="Apple">
+      <span>
+        <target id="1"/>
+      </span>
+    </term>
+    <term id="2" lemma="'s">
+      <span>
+        <target id="2"/>
+      </span>
+    </term>
+    <term id="3" lemma="iTunes">
+      <span>
+        <target id="3"/>
+      </span>
+    </term>
+    <term id="4" lemma="replaces">
+      <span>
+        <target id="4"/>
+      </span>
+    </term>
+    <term id="5" lemma="Wal">
+      <span>
+        <target id="5"/>
+      </span>
+    </term>
+    <term id="6" lemma="-">
+      <span>
+        <target id="6"/>
+      </span>
+    </term>
+    <term id="7" lemma="Mart">
+      <span>
+        <target id="7"/>
+      </span>
+    </term>
+    <term id="8" lemma="as">
+      <span>
+        <target id="8"/>
+      </span>
+    </term>
+    <term id="9" lemma="No.">
+      <span>
+        <target id="9"/>
+      </span>
+    </term>
+    <term id="10" lemma="1">
+      <span>
+        <target id="10"/>
+      </span>
+    </term>
+    <term id="11" lemma="U.S.">
+      <span>
+        <target id="11"/>
+      </span>
+    </term>
+    <term id="12" lemma="music">
+      <span>
+        <target id="12"/>
+      </span>
+    </term>
+    <term id="13" lemma="seller">
+      <span>
+        <target id="13"/>
+      </span>
+    </term>
+    <term id="14" lemma="April">
+      <span>
+        <target id="14"/>
+      </span>
+    </term>
+    <term id="15" lemma="9">
+      <span>
+        <target id="15"/>
+      </span>
+    </term>
+    <term id="16" lemma=",">
+      <span>
+        <target id="16"/>
+      </span>
+    </term>
+    <term id="17" lemma="2008">
+      <span>
+        <target id="17"/>
+      </span>
+    </term>
+    <term id="18" lemma="Five">
+      <span>
+        <target id="18"/>
+      </span>
+    </term>
+    <term id="19" lemma="years">
+      <span>
+        <target id="19"/>
+      </span>
+    </term>
+    <term id="20" lemma="after">
+      <span>
+        <target id="20"/>
+      </span>
+    </term>
+    <term id="21" lemma="its">
+      <span>
+        <target id="21"/>
+      </span>
+    </term>
+    <term id="22" lemma="launch">
+      <span>
+        <target id="22"/>
+      </span>
+    </term>
+    <term id="23" lemma=",">
+      <span>
+        <target id="23"/>
+      </span>
+    </term>
+    <term id="24" lemma="Apple">
+      <span>
+        <target id="24"/>
+      </span>
+    </term>
+    <term id="25" lemma="Computer">
+      <span>
+        <target id="25"/>
+      </span>
+    </term>
+    <term id="26" lemma="'s">
+      <span>
+        <target id="26"/>
+      </span>
+    </term>
+    <term id="27" lemma="iTunes">
+      <span>
+        <target id="27"/>
+      </span>
+    </term>
+    <term id="28" lemma="downloadable">
+      <span>
+        <target id="28"/>
+      </span>
+    </term>
+    <term id="29" lemma="music">
+      <span>
+        <target id="29"/>
+      </span>
+    </term>
+    <term id="30" lemma="service">
+      <span>
+        <target id="30"/>
+      </span>
+    </term>
+    <term id="31" lemma="in">
+      <span>
+        <target id="31"/>
+      </span>
+    </term>
+    <term id="32" lemma="February">
+      <span>
+        <target id="32"/>
+      </span>
+    </term>
+    <term id="33" lemma="passed">
+      <span>
+        <target id="33"/>
+      </span>
+    </term>
+    <term id="34" lemma="Wal">
+      <span>
+        <target id="34"/>
+      </span>
+    </term>
+    <term id="35" lemma="-">
+      <span>
+        <target id="35"/>
+      </span>
+    </term>
+    <term id="36" lemma="Mart">
+      <span>
+        <target id="36"/>
+      </span>
+    </term>
+    <term id="37" lemma="to">
+      <span>
+        <target id="37"/>
+      </span>
+    </term>
+    <term id="38" lemma="become">
+      <span>
+        <target id="38"/>
+      </span>
+    </term>
+    <term id="39" lemma="the">
+      <span>
+        <target id="39"/>
+      </span>
+    </term>
+    <term id="40" lemma="No.">
+      <span>
+        <target id="40"/>
+      </span>
+    </term>
+    <term id="41" lemma="1">
+      <span>
+        <target id="41"/>
+      </span>
+    </term>
+    <term id="42" lemma="music">
+      <span>
+        <target id="42"/>
+      </span>
+    </term>
+    <term id="43" lemma="seller">
+      <span>
+        <target id="43"/>
+      </span>
+    </term>
+    <term id="44" lemma="in">
+      <span>
+        <target id="44"/>
+      </span>
+    </term>
+    <term id="45" lemma="the">
+      <span>
+        <target id="45"/>
+      </span>
+    </term>
+    <term id="46" lemma="United">
+      <span>
+        <target id="46"/>
+      </span>
+    </term>
+    <term id="47" lemma="States">
+      <span>
+        <target id="47"/>
+      </span>
+    </term>
+    <term id="48" lemma=",">
+      <span>
+        <target id="48"/>
+      </span>
+    </term>
+    <term id="49" lemma="according">
+      <span>
+        <target id="49"/>
+      </span>
+    </term>
+    <term id="50" lemma="to">
+      <span>
+        <target id="50"/>
+      </span>
+    </term>
+    <term id="51" lemma="figures">
+      <span>
+        <target id="51"/>
+      </span>
+    </term>
+    <term id="52" lemma="released">
+      <span>
+        <target id="52"/>
+      </span>
+    </term>
+    <term id="53" lemma="April">
+      <span>
+        <target id="53"/>
+      </span>
+    </term>
+    <term id="54" lemma="3">
+      <span>
+        <target id="54"/>
+      </span>
+    </term>
+    <term id="55" lemma="by">
+      <span>
+        <target id="55"/>
+      </span>
+    </term>
+    <term id="56" lemma="NPD">
+      <span>
+        <target id="56"/>
+      </span>
+    </term>
+    <term id="57" lemma="Group">
+      <span>
+        <target id="57"/>
+      </span>
+    </term>
+    <term id="58" lemma=",">
+      <span>
+        <target id="58"/>
+      </span>
+    </term>
+    <term id="59" lemma="a">
+      <span>
+        <target id="59"/>
+      </span>
+    </term>
+    <term id="60" lemma="market">
+      <span>
+        <target id="60"/>
+      </span>
+    </term>
+    <term id="61" lemma="research">
+      <span>
+        <target id="61"/>
+      </span>
+    </term>
+    <term id="62" lemma="firm">
+      <span>
+        <target id="62"/>
+      </span>
+    </term>
+    <term id="63" lemma=".">
+      <span>
+        <target id="63"/>
+      </span>
+    </term>
+    <term id="64" lemma="The">
+      <span>
+        <target id="64"/>
+      </span>
+    </term>
+    <term id="65" lemma="firm">
+      <span>
+        <target id="65"/>
+      </span>
+    </term>
+    <term id="66" lemma="said">
+      <span>
+        <target id="66"/>
+      </span>
+    </term>
+    <term id="67" lemma="more">
+      <span>
+        <target id="67"/>
+      </span>
+    </term>
+    <term id="68" lemma="than">
+      <span>
+        <target id="68"/>
+      </span>
+    </term>
+    <term id="69" lemma="4">
+      <span>
+        <target id="69"/>
+      </span>
+    </term>
+    <term id="70" lemma="billion">
+      <span>
+        <target id="70"/>
+      </span>
+    </term>
+    <term id="71" lemma="songs">
+      <span>
+        <target id="71"/>
+      </span>
+    </term>
+    <term id="72" lemma="had">
+      <span>
+        <target id="72"/>
+      </span>
+    </term>
+    <term id="73" lemma="been">
+      <span>
+        <target id="73"/>
+      </span>
+    </term>
+    <term id="74" lemma="downloaded">
+      <span>
+        <target id="74"/>
+      </span>
+    </term>
+    <term id="75" lemma="from">
+      <span>
+        <target id="75"/>
+      </span>
+    </term>
+    <term id="76" lemma="the">
+      <span>
+        <target id="76"/>
+      </span>
+    </term>
+    <term id="77" lemma="iTunes">
+      <span>
+        <target id="77"/>
+      </span>
+    </term>
+    <term id="78" lemma="store">
+      <span>
+        <target id="78"/>
+      </span>
+    </term>
+    <term id="79" lemma="since">
+      <span>
+        <target id="79"/>
+      </span>
+    </term>
+    <term id="80" lemma="its">
+      <span>
+        <target id="80"/>
+      </span>
+    </term>
+    <term id="81" lemma="launch">
+      <span>
+        <target id="81"/>
+      </span>
+    </term>
+    <term id="82" lemma="in">
+      <span>
+        <target id="82"/>
+      </span>
+    </term>
+    <term id="83" lemma="2003">
+      <span>
+        <target id="83"/>
+      </span>
+    </term>
+    <term id="84" lemma="and">
+      <span>
+        <target id="84"/>
+      </span>
+    </term>
+    <term id="85" lemma="that">
+      <span>
+        <target id="85"/>
+      </span>
+    </term>
+    <term id="86" lemma="as">
+      <span>
+        <target id="86"/>
+      </span>
+    </term>
+    <term id="87" lemma="of">
+      <span>
+        <target id="87"/>
+      </span>
+    </term>
+    <term id="88" lemma="February">
+      <span>
+        <target id="88"/>
+      </span>
+    </term>
+    <term id="89" lemma=",">
+      <span>
+        <target id="89"/>
+      </span>
+    </term>
+    <term id="90" lemma="the">
+      <span>
+        <target id="90"/>
+      </span>
+    </term>
+    <term id="91" lemma="iTunes">
+      <span>
+        <target id="91"/>
+      </span>
+    </term>
+    <term id="92" lemma="store">
+      <span>
+        <target id="92"/>
+      </span>
+    </term>
+    <term id="93" lemma="accounts">
+      <span>
+        <target id="93"/>
+      </span>
+    </term>
+    <term id="94" lemma="for">
+      <span>
+        <target id="94"/>
+      </span>
+    </term>
+    <term id="95" lemma="70">
+      <span>
+        <target id="95"/>
+      </span>
+    </term>
+    <term id="96" lemma="%">
+      <span>
+        <target id="96"/>
+      </span>
+    </term>
+    <term id="97" lemma="of">
+      <span>
+        <target id="97"/>
+      </span>
+    </term>
+    <term id="98" lemma="all">
+      <span>
+        <target id="98"/>
+      </span>
+    </term>
+    <term id="99" lemma="digital">
+      <span>
+        <target id="99"/>
+      </span>
+    </term>
+    <term id="100" lemma="music">
+      <span>
+        <target id="100"/>
+      </span>
+    </term>
+    <term id="101" lemma="sales">
+      <span>
+        <target id="101"/>
+      </span>
+    </term>
+    <term id="102" lemma=".">
+      <span>
+        <target id="102"/>
+      </span>
+    </term>
+    <term id="103" lemma="NPD">
+      <span>
+        <target id="103"/>
+      </span>
+    </term>
+    <term id="104" lemma="said">
+      <span>
+        <target id="104"/>
+      </span>
+    </term>
+    <term id="105" lemma="according">
+      <span>
+        <target id="105"/>
+      </span>
+    </term>
+    <term id="106" lemma="to">
+      <span>
+        <target id="106"/>
+      </span>
+    </term>
+    <term id="107" lemma="those">
+      <span>
+        <target id="107"/>
+      </span>
+    </term>
+    <term id="108" lemma="figures">
+      <span>
+        <target id="108"/>
+      </span>
+    </term>
+    <term id="109" lemma=",">
+      <span>
+        <target id="109"/>
+      </span>
+    </term>
+    <term id="110" lemma="Apple">
+      <span>
+        <target id="110"/>
+      </span>
+    </term>
+    <term id="111" lemma="'s">
+      <span>
+        <target id="111"/>
+      </span>
+    </term>
+    <term id="112" lemma="iTunes">
+      <span>
+        <target id="112"/>
+      </span>
+    </term>
+    <term id="113" lemma="store">
+      <span>
+        <target id="113"/>
+      </span>
+    </term>
+    <term id="114" lemma="passes">
+      <span>
+        <target id="114"/>
+      </span>
+    </term>
+    <term id="115" lemma="U.S.">
+      <span>
+        <target id="115"/>
+      </span>
+    </term>
+    <term id="116" lemma="electronics">
+      <span>
+        <target id="116"/>
+      </span>
+    </term>
+    <term id="117" lemma="retailer">
+      <span>
+        <target id="117"/>
+      </span>
+    </term>
+    <term id="118" lemma="Best">
+      <span>
+        <target id="118"/>
+      </span>
+    </term>
+    <term id="119" lemma="Buy">
+      <span>
+        <target id="119"/>
+      </span>
+    </term>
+    <term id="120" lemma="for">
+      <span>
+        <target id="120"/>
+      </span>
+    </term>
+    <term id="121" lemma="the">
+      <span>
+        <target id="121"/>
+      </span>
+    </term>
+    <term id="122" lemma="No.">
+      <span>
+        <target id="122"/>
+      </span>
+    </term>
+    <term id="123" lemma="2">
+      <span>
+        <target id="123"/>
+      </span>
+    </term>
+    <term id="124" lemma="U.S.">
+      <span>
+        <target id="124"/>
+      </span>
+    </term>
+    <term id="125" lemma="music">
+      <span>
+        <target id="125"/>
+      </span>
+    </term>
+    <term id="126" lemma="retailer">
+      <span>
+        <target id="126"/>
+      </span>
+    </term>
+    <term id="127" lemma="in">
+      <span>
+        <target id="127"/>
+      </span>
+    </term>
+    <term id="128" lemma="2007">
+      <span>
+        <target id="128"/>
+      </span>
+    </term>
+    <term id="129" lemma=".">
+      <span>
+        <target id="129"/>
+      </span>
+    </term>
+    <term id="130" lemma="According">
+      <span>
+        <target id="130"/>
+      </span>
+    </term>
+    <term id="131" lemma="to">
+      <span>
+        <target id="131"/>
+      </span>
+    </term>
+    <term id="132" lemma="an">
+      <span>
+        <target id="132"/>
+      </span>
+    </term>
+    <term id="133" lemma="April">
+      <span>
+        <target id="133"/>
+      </span>
+    </term>
+    <term id="134" lemma="2nd">
+      <span>
+        <target id="134"/>
+      </span>
+    </term>
+    <term id="135" lemma="report">
+      <span>
+        <target id="135"/>
+      </span>
+    </term>
+    <term id="136" lemma="in">
+      <span>
+        <target id="136"/>
+      </span>
+    </term>
+    <term id="137" lemma="Ars">
+      <span>
+        <target id="137"/>
+      </span>
+    </term>
+    <term id="138" lemma="Technica">
+      <span>
+        <target id="138"/>
+      </span>
+    </term>
+    <term id="139" lemma=",">
+      <span>
+        <target id="139"/>
+      </span>
+    </term>
+    <term id="140" lemma="an">
+      <span>
+        <target id="140"/>
+      </span>
+    </term>
+    <term id="141" lemma="internal">
+      <span>
+        <target id="141"/>
+      </span>
+    </term>
+    <term id="142" lemma="memo">
+      <span>
+        <target id="142"/>
+      </span>
+    </term>
+    <term id="143" lemma="at">
+      <span>
+        <target id="143"/>
+      </span>
+    </term>
+    <term id="144" lemma="Apple">
+      <span>
+        <target id="144"/>
+      </span>
+    </term>
+    <term id="145" lemma="showed">
+      <span>
+        <target id="145"/>
+      </span>
+    </term>
+    <term id="146" lemma="the">
+      <span>
+        <target id="146"/>
+      </span>
+    </term>
+    <term id="147" lemma="company">
+      <span>
+        <target id="147"/>
+      </span>
+    </term>
+    <term id="148" lemma="passed">
+      <span>
+        <target id="148"/>
+      </span>
+    </term>
+    <term id="149" lemma="Wal">
+      <span>
+        <target id="149"/>
+      </span>
+    </term>
+    <term id="150" lemma="-">
+      <span>
+        <target id="150"/>
+      </span>
+    </term>
+    <term id="151" lemma="Mart">
+      <span>
+        <target id="151"/>
+      </span>
+    </term>
+    <term id="152" lemma="as">
+      <span>
+        <target id="152"/>
+      </span>
+    </term>
+    <term id="153" lemma="the">
+      <span>
+        <target id="153"/>
+      </span>
+    </term>
+    <term id="154" lemma="top">
+      <span>
+        <target id="154"/>
+      </span>
+    </term>
+    <term id="155" lemma="U.S.">
+      <span>
+        <target id="155"/>
+      </span>
+    </term>
+    <term id="156" lemma="music">
+      <span>
+        <target id="156"/>
+      </span>
+    </term>
+    <term id="157" lemma="seller">
+      <span>
+        <target id="157"/>
+      </span>
+    </term>
+    <term id="158" lemma="Wal">
+      <span>
+        <target id="158"/>
+      </span>
+    </term>
+    <term id="159" lemma="-">
+      <span>
+        <target id="159"/>
+      </span>
+    </term>
+    <term id="160" lemma="Mart">
+      <span>
+        <target id="160"/>
+      </span>
+    </term>
+    <term id="161" lemma="at">
+      <span>
+        <target id="161"/>
+      </span>
+    </term>
+    <term id="162" lemma="the">
+      <span>
+        <target id="162"/>
+      </span>
+    </term>
+    <term id="163" lemma="beginning">
+      <span>
+        <target id="163"/>
+      </span>
+    </term>
+    <term id="164" lemma="of">
+      <span>
+        <target id="164"/>
+      </span>
+    </term>
+    <term id="165" lemma="the">
+      <span>
+        <target id="165"/>
+      </span>
+    </term>
+    <term id="166" lemma="year">
+      <span>
+        <target id="166"/>
+      </span>
+    </term>
+    <term id="167" lemma=".">
+      <span>
+        <target id="167"/>
+      </span>
+    </term>
+    <term id="168" lemma="Their">
+      <span>
+        <target id="168"/>
+      </span>
+    </term>
+    <term id="169" lemma="projections">
+      <span>
+        <target id="169"/>
+      </span>
+    </term>
+    <term id="170" lemma="showed">
+      <span>
+        <target id="170"/>
+      </span>
+    </term>
+    <term id="171" lemma="that">
+      <span>
+        <target id="171"/>
+      </span>
+    </term>
+    <term id="172" lemma="as">
+      <span>
+        <target id="172"/>
+      </span>
+    </term>
+    <term id="173" lemma="of">
+      <span>
+        <target id="173"/>
+      </span>
+    </term>
+    <term id="174" lemma="January">
+      <span>
+        <target id="174"/>
+      </span>
+    </term>
+    <term id="175" lemma="2008">
+      <span>
+        <target id="175"/>
+      </span>
+    </term>
+    <term id="176" lemma=",">
+      <span>
+        <target id="176"/>
+      </span>
+    </term>
+    <term id="177" lemma="Apple">
+      <span>
+        <target id="177"/>
+      </span>
+    </term>
+    <term id="178" lemma="'s">
+      <span>
+        <target id="178"/>
+      </span>
+    </term>
+    <term id="179" lemma="iTunes">
+      <span>
+        <target id="179"/>
+      </span>
+    </term>
+    <term id="180" lemma="held">
+      <span>
+        <target id="180"/>
+      </span>
+    </term>
+    <term id="181" lemma="19">
+      <span>
+        <target id="181"/>
+      </span>
+    </term>
+    <term id="182" lemma="percent">
+      <span>
+        <target id="182"/>
+      </span>
+    </term>
+    <term id="183" lemma="of">
+      <span>
+        <target id="183"/>
+      </span>
+    </term>
+    <term id="184" lemma="the">
+      <span>
+        <target id="184"/>
+      </span>
+    </term>
+    <term id="185" lemma="U.S.">
+      <span>
+        <target id="185"/>
+      </span>
+    </term>
+    <term id="186" lemma="music">
+      <span>
+        <target id="186"/>
+      </span>
+    </term>
+    <term id="187" lemma="market">
+      <span>
+        <target id="187"/>
+      </span>
+    </term>
+    <term id="188" lemma="with">
+      <span>
+        <target id="188"/>
+      </span>
+    </term>
+    <term id="189" lemma="Wal">
+      <span>
+        <target id="189"/>
+      </span>
+    </term>
+    <term id="190" lemma="-">
+      <span>
+        <target id="190"/>
+      </span>
+    </term>
+    <term id="191" lemma="Mart">
+      <span>
+        <target id="191"/>
+      </span>
+    </term>
+    <term id="192" lemma="at">
+      <span>
+        <target id="192"/>
+      </span>
+    </term>
+    <term id="193" lemma="15">
+      <span>
+        <target id="193"/>
+      </span>
+    </term>
+    <term id="194" lemma="percent">
+      <span>
+        <target id="194"/>
+      </span>
+    </term>
+    <term id="195" lemma=",">
+      <span>
+        <target id="195"/>
+      </span>
+    </term>
+    <term id="196" lemma="followed">
+      <span>
+        <target id="196"/>
+      </span>
+    </term>
+    <term id="197" lemma="by">
+      <span>
+        <target id="197"/>
+      </span>
+    </term>
+    <term id="198" lemma="Best">
+      <span>
+        <target id="198"/>
+      </span>
+    </term>
+    <term id="199" lemma="Buy">
+      <span>
+        <target id="199"/>
+      </span>
+    </term>
+    <term id="200" lemma="at">
+      <span>
+        <target id="200"/>
+      </span>
+    </term>
+    <term id="201" lemma="13">
+      <span>
+        <target id="201"/>
+      </span>
+    </term>
+    <term id="202" lemma="percent">
+      <span>
+        <target id="202"/>
+      </span>
+    </term>
+    <term id="203" lemma=".">
+      <span>
+        <target id="203"/>
+      </span>
+    </term>
+    <term id="204" lemma="Rounding">
+      <span>
+        <target id="204"/>
+      </span>
+    </term>
+    <term id="205" lemma="out">
+      <span>
+        <target id="205"/>
+      </span>
+    </term>
+    <term id="206" lemma="the">
+      <span>
+        <target id="206"/>
+      </span>
+    </term>
+    <term id="207" lemma="top">
+      <span>
+        <target id="207"/>
+      </span>
+    </term>
+    <term id="208" lemma="five">
+      <span>
+        <target id="208"/>
+      </span>
+    </term>
+    <term id="209" lemma="were">
+      <span>
+        <target id="209"/>
+      </span>
+    </term>
+    <term id="210" lemma="Amazon.com">
+      <span>
+        <target id="210"/>
+      </span>
+    </term>
+    <term id="211" lemma="and">
+      <span>
+        <target id="211"/>
+      </span>
+    </term>
+    <term id="212" lemma="Target">
+      <span>
+        <target id="212"/>
+      </span>
+    </term>
+    <term id="213" lemma="at">
+      <span>
+        <target id="213"/>
+      </span>
+    </term>
+    <term id="214" lemma="6">
+      <span>
+        <target id="214"/>
+      </span>
+    </term>
+    <term id="215" lemma="percent">
+      <span>
+        <target id="215"/>
+      </span>
+    </term>
+    <term id="216" lemma="each">
+      <span>
+        <target id="216"/>
+      </span>
+    </term>
+    <term id="217" lemma=".">
+      <span>
+        <target id="217"/>
+      </span>
+    </term>
+  </terms>
+  <entities>
+    <entity id="158" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/ITunes_Store" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="177"/>
+          <target id="178"/>
+          <target id="179"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="24" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="158"/>
+          <target id="159"/>
+          <target id="160"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="25" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="5"/>
+          <target id="6"/>
+          <target id="7"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="26" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Apple_Inc." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="24"/>
+          <target id="25"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="27" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/ITunes_Store" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="9"/>
+          <target id="10"/>
+          <target id="11"/>
+          <target id="12"/>
+          <target id="13"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="20" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="153"/>
+          <target id="154"/>
+          <target id="155"/>
+          <target id="156"/>
+          <target id="157"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="21" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/ITunes_Store" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="24"/>
+          <target id="25"/>
+          <target id="26"/>
+          <target id="27"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="22" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/ITunes_Store" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="90"/>
+          <target id="91"/>
+          <target id="92"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="23" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="99"/>
+          <target id="100"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="28" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/NPD_Group" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="103"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="29" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/ITunes_Store" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+          <target id="2"/>
+          <target id="3"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="40" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/NPD_Group" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="56"/>
+          <target id="57"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="1" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/NPD_Group" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="56"/>
+          <target id="57"/>
+          <target id="58"/>
+          <target id="59"/>
+          <target id="60"/>
+          <target id="61"/>
+          <target id="62"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="3" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Best_Buy" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="115"/>
+          <target id="116"/>
+          <target id="117"/>
+          <target id="118"/>
+          <target id="119"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="2" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Best_Buy" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="118"/>
+          <target id="119"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="5" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/ITunes_Store" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="21"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="4" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/NPD_Group" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="59"/>
+          <target id="60"/>
+          <target id="61"/>
+          <target id="62"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="7" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="121"/>
+          <target id="122"/>
+          <target id="123"/>
+          <target id="124"/>
+          <target id="125"/>
+          <target id="126"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="6" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="115"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="9" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="39"/>
+          <target id="40"/>
+          <target id="41"/>
+          <target id="42"/>
+          <target id="43"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="8" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="124"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="13" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Apple_Inc." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="144"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="12" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/NPD_Group" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="64"/>
+          <target id="65"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="11" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="140"/>
+          <target id="141"/>
+          <target id="142"/>
+          <target id="143"/>
+          <target id="144"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="10" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Ars_Technica" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="137"/>
+          <target id="138"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="39" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="153"/>
+          <target id="154"/>
+          <target id="155"/>
+          <target id="156"/>
+          <target id="157"/>
+          <target id="158"/>
+          <target id="159"/>
+          <target id="160"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="38" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Best_Buy" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="115"/>
+          <target id="116"/>
+          <target id="117"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="15" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Apple_Inc." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="146"/>
+          <target id="147"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="14" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="67"/>
+          <target id="68"/>
+          <target id="69"/>
+          <target id="70"/>
+          <target id="71"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="17" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="149"/>
+          <target id="150"/>
+          <target id="151"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="16" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/ITunes_Store" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="76"/>
+          <target id="77"/>
+          <target id="78"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="33" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Apple_Inc." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="110"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="32" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/ITunes_Store" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="24"/>
+          <target id="25"/>
+          <target id="26"/>
+          <target id="27"/>
+          <target id="28"/>
+          <target id="29"/>
+          <target id="30"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="31" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/Apple_Inc." confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="1"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="30" type="ORG">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="34"/>
+          <target id="35"/>
+          <target id="36"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="37" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="None" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="132"/>
+          <target id="133"/>
+          <target id="134"/>
+          <target id="135"/>
+          <target id="136"/>
+          <target id="137"/>
+          <target id="138"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="36" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="45"/>
+          <target id="46"/>
+          <target id="47"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="35" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/ITunes_Store" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="110"/>
+          <target id="111"/>
+          <target id="112"/>
+          <target id="113"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="34" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="11"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="19" type="LOC">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/United_States" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="155"/>
+        </span>
+      </references>
+    </entity>
+    <entity id="18" type="PRO">
+      <externalReferences>
+        <externalRef resource="byCROMER" reference="http://dbpedia.org/resource/ITunes_Store" confidence="1.0"/>
+      </externalReferences>
+      <references>
+        <span>
+          <target id="80"/>
+        </span>
+      </references>
+    </entity>
+  </entities>
+  <timeExpressions>
+    <timex3 id="71" type="DATE" value="2008-04-03">
+      <span>
+        <target id="53"/>
+        <target id="54"/>
+      </span>
+    </timex3>
+    <timex3 id="70" type="DATE" value="2008-02">
+      <span>
+        <target id="32"/>
+      </span>
+    </timex3>
+    <timex3 id="63" type="DATE" value="2007">
+      <span>
+        <target id="128"/>
+      </span>
+    </timex3>
+    <timex3 id="64" type="DATE" value="2003">
+      <span>
+        <target id="83"/>
+      </span>
+    </timex3>
+    <timex3 id="65" type="DATE" value="2008-04-02">
+      <span>
+        <target id="133"/>
+        <target id="134"/>
+      </span>
+    </timex3>
+    <timex3 id="66" type="DATE" value="2008-02">
+      <span>
+        <target id="88"/>
+      </span>
+    </timex3>
+    <timex3 id="67" type="DATE" value="2008-04-09">
+      <span>
+        <target id="14"/>
+        <target id="15"/>
+        <target id="16"/>
+        <target id="17"/>
+      </span>
+    </timex3>
+    <timex3 id="68" type="DATE" value="2008">
+      <span>
+        <target id="162"/>
+        <target id="163"/>
+        <target id="164"/>
+        <target id="165"/>
+        <target id="166"/>
+      </span>
+    </timex3>
+    <timex3 id="69" type="DURATION" value="P5Y">
+      <span>
+        <target id="18"/>
+        <target id="19"/>
+      </span>
+    </timex3>
+    <timex3 id="74" type="DATE" value="2003">
+      <span/>
+    </timex3>
+  </timeExpressions>
+  <srl>
+    <predicate id="pr48">
+      <span>
+        <target id="4"/>
+      </span>
+      <role id="361741" semRole="Arg1">
+        <span>
+          <target id="1"/>
+          <target id="2"/>
+          <target id="3"/>
+        </span>
+      </role>
+      <role id="361742" semRole="Arg2">
+        <span>
+          <target id="5"/>
+          <target id="6"/>
+          <target id="7"/>
+        </span>
+      </role>
+      <role id="361743" semRole="Argm-OTHER">
+        <span>
+          <target id="9"/>
+          <target id="10"/>
+          <target id="11"/>
+          <target id="12"/>
+          <target id="13"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr49">
+      <span>
+        <target id="148"/>
+      </span>
+      <role id="361692" semRole="Arg0">
+        <span>
+          <target id="146"/>
+          <target id="147"/>
+        </span>
+      </role>
+      <role id="361693" semRole="Arg1">
+        <span>
+          <target id="149"/>
+          <target id="150"/>
+          <target id="151"/>
+        </span>
+      </role>
+      <role id="361694" semRole="Argm-OTHER">
+        <span>
+          <target id="153"/>
+          <target id="154"/>
+          <target id="155"/>
+          <target id="156"/>
+          <target id="157"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr55">
+      <span>
+        <target id="104"/>
+      </span>
+      <role id="361687" semRole="Arg0">
+        <span>
+          <target id="103"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr54">
+      <span>
+        <target id="33"/>
+      </span>
+      <role id="361675" semRole="Arg0">
+        <span>
+          <target id="24"/>
+          <target id="25"/>
+          <target id="26"/>
+          <target id="27"/>
+          <target id="28"/>
+          <target id="29"/>
+          <target id="30"/>
+        </span>
+      </role>
+      <role id="361676" semRole="Arg1">
+        <span>
+          <target id="34"/>
+          <target id="35"/>
+          <target id="36"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr44">
+      <span>
+        <target id="66"/>
+      </span>
+      <role id="361681" semRole="Arg0">
+        <span>
+          <target id="64"/>
+          <target id="65"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr45">
+      <span>
+        <target id="81"/>
+      </span>
+      <role id="361684" semRole="Arg1">
+        <span>
+          <target id="80"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr42">
+      <span>
+        <target id="114"/>
+      </span>
+      <role id="361688" semRole="Arg0">
+        <span>
+          <target id="110"/>
+          <target id="111"/>
+          <target id="112"/>
+          <target id="113"/>
+        </span>
+      </role>
+      <role id="361689" semRole="Arg1">
+        <span>
+          <target id="115"/>
+          <target id="116"/>
+          <target id="117"/>
+          <target id="118"/>
+          <target id="119"/>
+        </span>
+      </role>
+      <role id="361690" semRole="Argm-OTHER">
+        <span>
+          <target id="121"/>
+          <target id="122"/>
+          <target id="123"/>
+          <target id="124"/>
+          <target id="125"/>
+          <target id="126"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr43">
+      <span>
+        <target id="52"/>
+      </span>
+      <role id="361680" semRole="Arg0">
+        <span>
+          <target id="56"/>
+          <target id="57"/>
+          <target id="58"/>
+          <target id="59"/>
+          <target id="60"/>
+          <target id="61"/>
+          <target id="62"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr53">
+      <span>
+        <target id="22"/>
+      </span>
+      <role id="361674" semRole="Arg1">
+        <span>
+          <target id="21"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr52">
+      <span>
+        <target id="74"/>
+      </span>
+      <role id="361682" semRole="Arg1">
+        <span>
+          <target id="67"/>
+          <target id="68"/>
+          <target id="69"/>
+          <target id="70"/>
+          <target id="71"/>
+        </span>
+      </role>
+      <role id="361683" semRole="Argm-OTHER">
+        <span>
+          <target id="76"/>
+          <target id="77"/>
+          <target id="78"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr46">
+      <span>
+        <target id="145"/>
+      </span>
+      <role id="361691" semRole="Arg0">
+        <span>
+          <target id="140"/>
+          <target id="141"/>
+          <target id="142"/>
+          <target id="143"/>
+          <target id="144"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr47">
+      <span>
+        <target id="101"/>
+      </span>
+      <role id="361686" semRole="Arg1">
+        <span>
+          <target id="99"/>
+          <target id="100"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr41">
+      <span>
+        <target id="38"/>
+      </span>
+      <role id="361677" semRole="Arg1">
+        <span>
+          <target id="24"/>
+          <target id="25"/>
+          <target id="26"/>
+          <target id="27"/>
+          <target id="28"/>
+          <target id="29"/>
+          <target id="30"/>
+        </span>
+      </role>
+      <role id="361678" semRole="Arg2">
+        <span>
+          <target id="39"/>
+          <target id="40"/>
+          <target id="41"/>
+          <target id="42"/>
+          <target id="43"/>
+        </span>
+      </role>
+      <role id="361679" semRole="Argm-LOC">
+        <span>
+          <target id="45"/>
+          <target id="46"/>
+          <target id="47"/>
+        </span>
+      </role>
+    </predicate>
+    <predicate id="pr50">
+      <span>
+        <target id="93"/>
+        <target id="94"/>
+      </span>
+      <role id="361685" semRole="Arg0">
+        <span>
+          <target id="90"/>
+          <target id="91"/>
+          <target id="92"/>
+        </span>
+      </role>
+    </predicate>
+  </srl>
+</NAF>
