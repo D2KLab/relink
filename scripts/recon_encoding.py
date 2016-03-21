@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-Domain model for NED, NewsReader project.
+Domain model for NED. Works with Python v3.x.
 
 @author: U{Filip Ilievski<filipilievski.wordpress.com>}
 @author: U{Antske Fokkens<http://wordpress.let.vupr.nl/antske/>}
