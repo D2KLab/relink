@@ -35,9 +35,11 @@ Note: Along these steps, ensure you supply the correct parameters to the scripts
 - MEANTIME corpus: http://www.newsreader-project.eu/results/data/wikinews/
 - AIDA-YAGO2 dataset: https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/aida/downloads/
 
-The sequence of four instructions to run ReLink noted above can be found on github, with default settings set to evaluate ReLink on the datasets AIDA-YAGO2 and MEANTIME. For convenience of potential replicators, we provide the .naf versions of the gold standard versions of these datasets in the GOLD/ folder. 
+For convenience of potential replicators, we provide the .naf versions of the gold standard versions of these datasets in the GOLD/ folder. 
 
 If desired, our replicators are also welcome to download the TSV version of AIDA-YAGO2 and convert it to NAF themselves using scripts/aida2naf_encoding.py.
+
+The files found on github which implement the sequence of four instructions to run ReLink noted above, contain the default settings to evaluate ReLink on the datasets AIDA-YAGO2 and MEANTIME. 
 
 #### Scoring
 
