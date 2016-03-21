@@ -1,4 +1,3 @@
-# coding: utf-8 
 #!/usr/bin/env python
 
 # This script reads a CoNLL ADEl output file and converts it to NAF XML 
@@ -45,7 +44,7 @@ for line in lines:
     # This is where we store the offset index with the token id 
     offset = offset + len(terms[0]) + 1
     wf.set_length(str(len(terms[0])))
-    terms[0] = terms[0].decode('utf8')
+    terms[0] = terms[0]
     wf.set_text(terms[0])
     my_parser.add_wf(wf)
   #  term = Cterm()
@@ -98,6 +97,7 @@ for line in lines:
                 new_ext_reference.set_confidence(parts[len(parts)-1])
                 entity.add_external_reference(new_ext_reference)
             except:
+                print(parts)
                 pass
         reference = Creferences()
         span_range = []

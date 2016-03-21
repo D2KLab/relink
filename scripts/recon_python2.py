@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 """
 Domain model for NED, NewsReader project.
@@ -20,7 +20,7 @@ import os
 import sys
 import json
 import time
-sys.path.append('./')
+sys.path.append('../')
 from dbpediaEnquirerPy import *
 
 ##########################################################################################
@@ -153,16 +153,18 @@ def get_most_specific_type(entity):
 	return my_dbpedia.get_deepest_ontology_class_for_dblink(dominant_link)
 
 def type_fits(ent_type, dblink):
-	return True
 	if ent_type and ent_type!="MISC" and ent_type.strip()!="":
-	    if ent_type=="ORGANIZATION":
+	    if ent_type=="Organization":
 		ent_type="http://dbpedia.org/ontology/Organisation"
-	    elif ent_type=="PERSON":
+	    elif ent_type=="Person":
 		ent_type="http://dbpedia.org/ontology/Person"
-	    elif ent_type=="LOCATION":
+	    elif ent_type=="Location":
 		ent_type="http://dbpedia.org/ontology/Place"
 	    link_types=my_dbpedia.get_dbpedia_ontology_labels_for_dblink(dblink)
-	    return (ent_type in link_types)
+            if "http://dbpedia.org/ontology/Organisation" not in link_types and "http://dbpedia.org/ontology/Person" not in link_types and "http://dbpedia.org/ontology/Place" not in link_types:
+		return True
+            else:
+	        return (ent_type in link_types)
 	elif ent_type=="MISC":
 	    link_types=my_dbpedia.get_dbpedia_ontology_labels_for_dblink(dblink)
 	    return ("http://dbpedia.org/ontology/Organisation" not in link_types) and ("http://dbpedia.org/ontology/Place" not in link_types) and ("http://dbpedia.org/ontology/Person" not in link_types)
@@ -213,14 +215,14 @@ def solve_initials_and_abbreviations(entity, entity_string, all_entities): #3
 					extref=other_ref
 	return extref
 
-def do_disambiguation(entity, entity_string, all_entities):
+def do_disambiguation(entity, entity_string, all_entities, type_check):
 			
 	extref=get_previous_occurrence(entity, all_entities, entity_string.lower()); #D1  Get previous occurrence
 
-	if not extref or not type_fits(entity["type"], extref):
+	if not extref or (type_check and (not type_fits(entity["type"], extref))):
 		if len(entity_string.split())==1 and entity_string.replace(".","").isupper(): # If one term, all-upper, then it may be an abbreviation
 			extref = solve_initials_and_abbreviations(entity, entity_string.replace(".", ""), all_entities)
-	if type_fits(entity["type"], extref):
+	if (not type_check) or (type_fits(entity["type"], extref)):
 		return extref
 	else:
 		return None
@@ -230,7 +232,7 @@ def occurred_in_article(extname, all_entities):
 		if extname==ent["original"]["mention"]:
 			return ent["original"]["nwr_extref"]
 		
-def get_from_es(pattern, type):
+def get_from_es(pattern, type, type_check):
 	max_occurrences=0
 	best_candidate=None
 	total=0
@@ -241,7 +243,7 @@ def get_from_es(pattern, type):
 				max_occurrences=lemma_to_entity[pattern][candidate]
 				best_candidate=candidate
 			total+=num_occurrences
-		if max_occurrences>10 and max_occurrences/float(total)>=0.5 and type_fits(type, best_candidate):			
+		if max_occurrences>10 and max_occurrences/float(total)>=0.5 and ((not type_check) or type_fits(type, best_candidate)):			
 			return best_candidate
 		else:
 			return None
@@ -273,42 +275,33 @@ for line in f:
         lemma_to_entity=json.loads(line)
 
 if __name__=="__main__":
-
-	if len(sys.argv)<2:
-		print "Please specify input file"
+	if len(sys.argv)<4:
+		print "Please specify corpora name"
 		sys.exit(1)
-    #changed: using stdin now
-    #file=sys.stdin
-#	file=open("/Users/filipilievski/Processed/corpus_airbus/3835_Chinese_airlines_agree_purchase_of_Boeing_787_Dreamliners.naf", "r")
-	#get begin time
+	print sys.argv[1], sys.argv[2], sys.argv[3]
 	begintime = time.strftime('%Y-%m-%dT%H:%M:%S%Z')
 
-	#if len(sys.argv)>1: # Local instance is specified
-	#	my_dbpedia = Cdbpedia_enquirer(sys.argv[1])		
-	#else: # default remote dbpedia
 	my_dbpedia = Cdbpedia_enquirer()
-	#path="NWR_EvalSet/"
-	#path="eval_corpus/"
-	#out_path="POCUS_EvalSet/"
-	path="ADEL/" + sys.argv[1] + "/"
+	path="../ADEL/" + sys.argv[1] + "/"
+	#path="../test/"
+	#path="../../NWRDomainModel/ADEL/airbus/"
 	count_all = 0
 	count_dis=0
 	reranks=0
-	
+	which=sys.argv[2]
 	s=0
+	type_check=(sys.argv[3]=='True')
+	main_folder="ReCon" + sys.argv[2] + "{type}/".format(type="4" if type_check else "")
+	print main_folder
     	for file in os.listdir(path):
-		print file
 		if not file.endswith(".naf"):
 			continue
 		parser=KafNafParser(path + file)
-	    	#putting the actual process in a try, except
-	    	#if this module breaks it should return the original naf file (and print a warning)
 		prestore_terms_and_tokens(parser)
 	
 		#we're using stdin now
-		out_file="RECON/" + sys.argv[1] + "/" + file
-
-		
+		#out_file="../corpora/RECON/" + sys.argv[1] + "/" + file
+		out_file="../" + main_folder + sys.argv[1] + "/" + file
 
 		all_entities=[]
 		max_id=0
@@ -316,7 +309,7 @@ if __name__=="__main__":
 			if int(entity.get_id())>max_id:
 				max_id=int(entity.get_id())
 			entity_string, terms = get_entity_mention(parser, entity)
-			if int(term_sentences[terms[0]])>6:
+			if int(term_sentences[terms[0]])>6000:
 				continue
 			# Normalization step
 			if len(terms)==1 and entity_string.endswith("-based"):
@@ -331,24 +324,18 @@ if __name__=="__main__":
 			all_entities.append(entity_entry)
 		s+=len(all_entities)
 		for consider_title_entities in [False, True]:
-			#for e in all_entities:
-			#	if e["title"] is consider_title_entities: # 1) Extended mention - This line ensures title entities get processed in a second iteration
-				#	if "extended" in e: # 1) extension
-						#e["extended"]["extref"]=occurred_in_article(e["extended"]["mention"], all_entities) or get_from_es(e["extended"]["mention"]) or get_from_dbpedia(e["extended"]["mention"]) # TODO: Try without ES
-				#		e["extended"]["extref"]=occurred_in_article(e["extended"]["mention"], all_entities) or get_from_es(e["extended"]["mention"]) or get_from_dbpedia(e["extended"]["mention"]) # TODO: Try without ES
-		
 			for e in all_entities:
 				if e["title"] is consider_title_entities: # 2) original mention	 - This line ensures title entities get processed in a second iteration	
-#					e["original"]["extref"]=do_disambiguation(e, e["original"]["mention"], all_entities) # or get_from_es(e["original"]["mention"], e["type"]) # TODO: Try without ES
-                                        e["original"]["extref"]=get_from_es(e["original"]["mention"], e["type"]) # TODO: Try without ES
-
+                                        if which=="12": # Heuristics 1 and 2
+						e["original"]["extref"]=do_disambiguation(e, e["original"]["mention"], all_entities, type_check)
+					elif which=="123": # Heuristics 1,2 and 3
+						e["original"]["extref"]=do_disambiguation(e, e["original"]["mention"], all_entities, type_check) or get_from_es(e["original"]["mention"], e["type"], type_check)
+					else: # Heuristics 1 and 3
+	                                        e["original"]["extref"]=get_from_es(e["original"]["mention"], e["type"], type_check)
 			for e in all_entities:
 				if e["title"] is consider_title_entities: # 3) original mention, last resort - This line ensures title entities get processed in a second iteration
 
-					if e["original"]["extref"] is None: # TODO: Maybe Enable this block later!
-						#if consider_title_entities:
-						#	e["original"]["extref"]="--NME--"
-						#else:
+					if e["original"]["extref"] is None: 
 						e["original"]["extref"]=e["original"]["nwr_extref"]
 					else:
 						reranks+=1
@@ -368,8 +355,5 @@ if __name__=="__main__":
 				ext_ref.set_confidence("1.0")
 			
 				parser.add_external_reference_to_entity(e["eid"], ext_ref)
-
-	
-			
 		parser.dump(out_file)
 	print reranks
