@@ -1,4 +1,4 @@
-# relink
+# ReLink
 
 #### ReLink in a nutshell
 ReLink consists of two consecutive modules:
